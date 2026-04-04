@@ -1,0 +1,11 @@
+{
+  "name": "iptv-status-checker",
+  "version": "1.0.0",
+  "description": "Automated IPTV Playlist Fetcher and Status Checker",
+  "main": "checker.js",
+  "type": "module",
+  "scripts": {
+    "start": "node checker.js"
+  },
+  "dependencies": {}
+}
