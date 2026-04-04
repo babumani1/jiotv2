@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: iptv-checker
+  group: iptv-status-checker-main
   cancel-in-progress: true
 
 jobs:
@@ -34,9 +34,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add channels.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Auto-update: channels.json [skip ci]"
-          git push --force
+
+          # Retry rebase+push to handle race windows safely.
+          for i in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            git push origin HEAD:main && break
+            [ "$i" -eq 3 ] && exit 1
+            sleep 3
+          done
