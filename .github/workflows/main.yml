@@ -5,6 +5,10 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: iptv-checker
+  cancel-in-progress: true
+
 jobs:
   check-channels:
     runs-on: ubuntu-latest
@@ -16,7 +20,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,13 +29,14 @@ jobs:
       - name: Run Checker Script
         run: npm start
 
-      - name: Commit and Push changes
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add channels.json
-          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git commit -m "Auto-update: channels.json [skip ci]"
-          git fetch origin main
-          git rebase origin/main || git rebase --abort
-          git push origin main --force-with-lease
+          git push --force
