@@ -8,6 +8,8 @@ on:
 jobs:
   check-channels:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -22,9 +24,7 @@ jobs:
         run: npm start
 
       - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add channels.json
-          git commit -m "Auto-update: channels.json [skip ci]" || exit 0
-          git pull --rebase && git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: channels.json [skip ci]"
+          file_pattern: 'channels.json'
