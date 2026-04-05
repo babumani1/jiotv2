@@ -101,14 +101,16 @@ async function run() {
     fetchAndParseM3U(sources.backup)
   ]);
 
-  const allowedBackupGroups = [
-    'hotstar', 'jio plus+', 'jio star', 'jio tv', 'jio++', 'jio++2', 'jio++3', 'jiotv+(ind ip)', 'sun nxt', 'sony ww', 'sony in', 'zee 5 in'
-  ];
+  const normalizeGroup = (v = '') => v.toLowerCase().replace(/[^a-z0-9]+/g, '');
+  const allowedBackupGroupsNormalized = new Set([
+    'hotstar', 'jioplus', 'jiostar', 'jiotv', 'jio', 'jio2', 'jio3', 'jiotvindip',
+    'sunnxt', 'sonyww', 'sonyin', 'zee5in', 'zee5lite', 'zeesun'
+  ]);
 
   const backupChannelsMap = new Map();
   (rawBackupChannels || []).forEach((c) => {
-    const group = (c.group || '').toLowerCase().trim();
-    if (allowedBackupGroups.includes(group)) {
+    const group = normalizeGroup(c.group || '');
+    if (allowedBackupGroupsNormalized.has(group)) {
       let name = (c.name || '').toLowerCase().trim();
       if (name) {
         name = name.replace(/\s*-\s*rs.*$/i, '').replace(/\s*\(.*?\)/g, '').trim();
