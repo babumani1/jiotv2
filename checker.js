@@ -20,6 +20,18 @@ async function fetchAndParseM3U(url) {
         currentCh.logo = logoMatch ? logoMatch[1] : '';
         currentCh.group = groupMatch ? groupMatch[1] : '';
         currentCh.name = nameSplit.length > 1 ? nameSplit[1].trim() : '';
+      } else if (tLine.startsWith('#KODIPROP:inputstream.adaptive.license_key=')) {
+        const keyData = tLine.substring(tLine.indexOf('=') + 1);
+        if (keyData) {
+          const [keyId, key] = keyData.split(':');
+          currentCh.keyId = keyId;
+          currentCh.key = key;
+        }
+      } else if (tLine.startsWith('#EXTHTTP:')) {
+        try {
+          const headers = JSON.parse(tLine.replace('#EXTHTTP:', ''));
+          if (headers.cookie) currentCh.cookie = headers.cookie;
+        } catch (e) {}
       } else if (!tLine.startsWith('#')) {
         if (currentCh.name) {
           const isM3U8 = /\.m3u8(\?|$)/i.test(tLine);
@@ -95,10 +107,11 @@ async function run() {
   } catch(e) { console.error("Primary fetch failed"); }
 
   console.log("Fetching M3U playlists...");
-  const [jtvChannels, jstarChannels, rawBackupChannels] = await Promise.all([
+  const [jtvChannels, jstarChannels, rawBackupChannels, rawPowerChannels] = await Promise.all([
     fetchAndParseM3U(sources.jtv),
     fetchAndParseM3U(sources.jstar),
-    fetchAndParseM3U(sources.backup)
+    fetchAndParseM3U(sources.backup),
+    fetchAndParseM3U(sources.power)
   ]);
 
   const normalizeGroup = (v = '') => v.toLowerCase().replace(/[^a-z0-9]+/g, '');
@@ -120,10 +133,24 @@ async function run() {
     }
   });
 
+  const powerChannelsMap = new Map();
+  (rawPowerChannels || []).forEach((c) => {
+    const group = (c.group || '').toLowerCase();
+    if (group.includes('zee5') || group.includes('sunnxt') || group.includes('sun nxt') || group.includes('zee') || group.includes('sun')) {
+      let name = (c.name || '').toLowerCase().trim();
+      if (name) {
+        name = name.replace(/\s*-\s*rs.*$/i, '').replace(/\s*\(.*?\)/g, '').trim();
+        if (!powerChannelsMap.has(name)) powerChannelsMap.set(name, []);
+        powerChannelsMap.get(name).push({ url: c.link, rawUrl: c.originalLink });
+      }
+    }
+  });
+
   const allChannelNames = new Set([
     ...primaryChannels.map(c => (c.name || '').toLowerCase()),
     ...jtvChannels.map(c => (c.name || '').toLowerCase()),
-    ...jstarChannels.map(c => (c.name || '').toLowerCase())
+    ...jstarChannels.map(c => (c.name || '').toLowerCase()),
+    ...rawPowerChannels.map(c => (c.name || '').toLowerCase())
   ]);
 
   const mergedChannels = [];
@@ -134,8 +161,9 @@ async function run() {
     const primary = primaryChannels.find(c => (c.name || '').toLowerCase() === lowerName);
     const jtv = jtvChannels.find(c => (c.name || '').toLowerCase() === lowerName);
     const jstar = jstarChannels.find(c => (c.name || '').toLowerCase() === lowerName);
+    const power = rawPowerChannels.find(c => (c.name || '').toLowerCase() === lowerName);
 
-    const baseCh = primary || jtv || jstar;
+    const baseCh = primary || jtv || jstar || power;
     if (!baseCh) continue;
 
     const servers = [];
@@ -143,8 +171,16 @@ async function run() {
     if (primary?.link) servers.push({ name: 'Server 1', url: primary.link, pingUrl: primary.link });
     if (jtv?.link) servers.push({ name: 'Server 2', url: jtv.link, pingUrl: jtv.originalLink || jtv.link });
     if (jstar?.link) servers.push({ name: 'Server 3', url: jstar.link, pingUrl: jstar.originalLink || jstar.link });
+    if (power?.link) servers.push({ name: 'Server 4', url: power.link, pingUrl: power.originalLink || power.link });
 
     const cleanLowerName = lowerName.replace(/\s*-\s*rs.*$/i, '').replace(/\s*\(.*?\)/g, '').trim();
+    const powerLinks = powerChannelsMap.get(cleanLowerName);
+    if (powerLinks) {
+      powerLinks.forEach((pk, idx) => {
+        servers.push({ name: idx === 0 ? 'Server 4' : `Server 4-${idx + 1}`, url: pk.url, pingUrl: pk.rawUrl || pk.url });
+      });
+    }
+
     const backupLinks = backupChannelsMap.get(cleanLowerName);
     if (backupLinks) {
       backupLinks.forEach((bk, idx) => {
