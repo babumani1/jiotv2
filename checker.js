@@ -149,8 +149,7 @@ async function run() {
   const allChannelNames = new Set([
     ...primaryChannels.map(c => (c.name || '').toLowerCase()),
     ...jtvChannels.map(c => (c.name || '').toLowerCase()),
-    ...jstarChannels.map(c => (c.name || '').toLowerCase()),
-    ...rawPowerChannels.map(c => (c.name || '').toLowerCase())
+    ...jstarChannels.map(c => (c.name || '').toLowerCase())
   ]);
 
   const mergedChannels = [];
