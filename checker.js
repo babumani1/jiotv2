@@ -22,8 +22,25 @@ async function fetchAndParseM3U(url) {
         currentCh.name = nameSplit.length > 1 ? nameSplit[1].trim() : '';
       } else if (!tLine.startsWith('#')) {
         if (currentCh.name) {
-          const baseMpDUrl = tLine.split('?')[0]; 
-          let playerLink = `https://dash.vodep39240327.workers.dev/?url=${baseMpDUrl}?name=${currentCh.name.replace(/\s+/g, '_')}`;
+          const isM3U8 = /\.m3u8(\?|$)/i.test(tLine);
+          let playerLink = '';
+
+          if (isM3U8 && !(currentCh.keyId && currentCh.key)) {
+            playerLink = `https://proxy.lrl45.workers.dev/?url=${encodeURIComponent(tLine)}`;
+          } else {
+            const baseMpDUrl = tLine.split('?')[0];
+            playerLink = `https://dash.vodep39240327.workers.dev/?url=${baseMpDUrl}?name=${currentCh.name.replace(/\s+/g, '_')}`;
+
+            if (currentCh.keyId && currentCh.key) {
+              playerLink += `&keyId=${currentCh.keyId}&key=${currentCh.key}`;
+            }
+            if (currentCh.cookie) {
+              playerLink += `&cookie=${currentCh.cookie}`;
+            } else if (tLine.includes('__hdnea__=')) {
+              const match = tLine.match(/__hdnea__=[^&]+/);
+              if (match) playerLink += `&cookie=${match[0]}`;
+            }
+          }
           
           parsed.push({
             name: currentCh.name,
@@ -152,11 +169,19 @@ async function run() {
     const batch = mergedChannels.slice(i, i + BATCH_SIZE);
     
     await Promise.all(batch.map(async (ch) => {
-      // Check the first server (Primary)
+      // Check multiple servers and mark online if any one server is reachable.
       if (ch.servers && ch.servers.length > 0) {
-         ch.status = await checkLinkHealth(ch.servers[0].pingUrl);
+        let online = false;
+        for (const s of ch.servers.slice(0, 8)) {
+          const status = await checkLinkHealth(s.pingUrl || s.url);
+          if (status === 'online') {
+            online = true;
+            break;
+          }
+        }
+        ch.status = online ? 'online' : 'offline';
       } else {
-         ch.status = await checkLinkHealth(ch.link);
+        ch.status = await checkLinkHealth(ch.link);
       }
 
       // Cleanup pingUrl so it doesn't inflate JSON size
