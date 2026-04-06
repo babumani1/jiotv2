@@ -27,17 +27,19 @@ jobs:
           node-version: '20'
 
       - name: Run Checker Script
-        run: npm start
+        run: node index.mjs  # or npm start if defined in package.json
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add channels.json
+          
+          # Change: add ALL generated json files
+          git add primary.json jtv.json jstar.json backup.json power.json
+          
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Auto-update: channels.json [skip ci]"
+          git commit -m "Auto-update: Separate Source Files [skip ci]"
 
-          # Retry rebase+push to handle race windows safely.
           for i in 1 2 3; do
             git fetch origin main
             git rebase origin/main || git rebase --abort
