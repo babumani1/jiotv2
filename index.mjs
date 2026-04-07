@@ -81,7 +81,9 @@ async function run() {
     { id: 'backup', url: sources.backup, isJson: false },
     { id: 'power', url: sources.power, isJson: false },
     { id: 'perelive', url: sources.perelive, isJson: false },
-     { id: 'ExtenderMax', url: sources.ExtenderMax, isJson: false }
+     { id: 'ExtenderMax', url: sources.ExtenderMax, isJson: false },
+    { id: 'pocket', url: sources.pocket, isJson: false },
+  { id: 'streamstar18', url: sources.streamstar18, isJson: false }
   ];
 
   for (const task of tasks) {
