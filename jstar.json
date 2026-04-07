@@ -2250,7 +2250,7 @@
     "name": "JK 24x7 News",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/JK_24x7_News.png",
     "group": "News",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/JK_24x7_News_BTS/output/index.mpd?__hdnea__=st=1775530248~exp=1775551848~acl=/*~hmac=8b8a24211ce2af3902d475053616ccfbc6ebc2136f0d3197959c0de4c5857abb&xxx=%7Ccookie=__hdnea__=st=1775530248~exp=1775551848~acl=/*~hmac=8b8a24211ce2af3902d475053616ccfbc6ebc2136f0d3197959c0de4c5857abb",
+    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/JK_24x7_News_BTS/output/index.mpd?#__hdnea__=st=1775537834~exp=1775559434~acl=/*~hmac=63f8528b3c76182ce2022558992cbeef55daf3c7a9725bdd7c39b34bbb8dea6d&xxx=%7Ccookie=__hdnea__=st=1775537834~exp=1775559434~acl=/*~hmac=63f8528b3c76182ce2022558992cbeef55daf3c7a9725bdd7c39b34bbb8dea6d",
     "status": "offline"
   },
   {
@@ -2705,7 +2705,7 @@
     "name": "Dighvijay TV",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dighvijay_TV.png",
     "group": "News",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_Kannada_BTS/output/index.mpd?__hdnea__=st=1775530248~exp=1775551848~acl=/*~hmac=8b8a24211ce2af3902d475053616ccfbc6ebc2136f0d3197959c0de4c5857abb&xxx=%7Ccookie=__hdnea__=st=1775530248~exp=1775551848~acl=/*~hmac=8b8a24211ce2af3902d475053616ccfbc6ebc2136f0d3197959c0de4c5857abb",
+    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_Kannada_BTS/output/index.mpd?#__hdnea__=st=1775537834~exp=1775559434~acl=/*~hmac=63f8528b3c76182ce2022558992cbeef55daf3c7a9725bdd7c39b34bbb8dea6d&xxx=%7Ccookie=__hdnea__=st=1775537834~exp=1775559434~acl=/*~hmac=63f8528b3c76182ce2022558992cbeef55daf3c7a9725bdd7c39b34bbb8dea6d",
     "status": "offline"
   },
   {
@@ -3616,7 +3616,7 @@
     "logo": "https://t.me/ygxworld",
     "group": "Movies",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://t.me/ygxworld?name=by_@ygxworld&keyId=dae6c19d7db756cc96f107fda55b0bef&key=3f161c5a3bbab46bcc1b876384a1210e",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manjari TV",
