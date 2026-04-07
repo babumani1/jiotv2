@@ -34,11 +34,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Change: add ALL generated json files
-          git add primary.json jtv.json jstar.json backup.json power.json
+          # This is the important part:
+          git add primary.json jtv.json jstar.json backup.json power.json perelive.json ExtenderMax.json
           
+          # Alternative: git add *.json (if you want to add every json file)
+
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Auto-update: Separate Source Files [skip ci]"
+          git commit -m "Auto-update: All sources [skip ci]"
 
           for i in 1 2 3; do
             git fetch origin main
