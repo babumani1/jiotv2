@@ -5,5 +5,7 @@
   "backup": "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8",
   "power": "https://server.vodep39240327.workers.dev/channel/raw?=m3u",
   "perelive": "https://perelive.pages.dev/jiotv.m3u",
-  "ExtenderMax": "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8"
+  "ExtenderMax": "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8",
+  "pocket": "https://pocket-tv-tamil-5afe35.gitlab.io/jiostar.m3u",
+  "streamstar18": "https://netx.streamstar18.workers.dev/zio1"
 }
