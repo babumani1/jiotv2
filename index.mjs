@@ -79,7 +79,9 @@ async function run() {
     { id: 'jtv', url: sources.jtv, isJson: false },
     { id: 'jstar', url: sources.jstar, isJson: false },
     { id: 'backup', url: sources.backup, isJson: false },
-    { id: 'power', url: sources.power, isJson: false }
+    { id: 'power', url: sources.power, isJson: false },
+    { id: 'perelive', url: sources.perelive, isJson: false },
+     { id: 'ExtenderMax', url: sources.ExtenderMax, isJson: false }
   ];
 
   for (const task of tasks) {
