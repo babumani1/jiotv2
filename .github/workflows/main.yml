@@ -35,7 +35,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # This is the important part:
-          git add primary.json jtv.json jstar.json backup.json power.json perelive.json ExtenderMax.json
+          git add primary.json jtv.json jstar.json backup.json power.json perelive.json ExtenderMax.json pocket.json streamstar18.json
           
           # Alternative: git add *.json (if you want to add every json file)
 
