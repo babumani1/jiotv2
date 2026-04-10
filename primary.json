@@ -45,7 +45,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
     "group": "Sports",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?name=Ten_HD&keyId=523acf1f55485476817958a62a3f2ed9&key=52b3cea435ed25d445f9eae4883c7001&cookie=__hdnea__=st=1775803948~exp=1775825548~acl=/*~hmac=e9c10e916b17515a732778065e59760e575e27d14be67fc97c03729d3ad525cf",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Travelxp HD",
@@ -109,7 +109,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png",
     "group": "Entertainment",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsGujarati_BTS/output/index.mpd?name=ColorsGujarati&keyId=6e27c4a5f43e504fa5f9d39e880687d1&key=0baa1de589cf31b80cac8391466d7ad6&cookie=__hdnea__=st=1775803948~exp=1775825548~acl=/*~hmac=e9c10e916b17515a732778065e59760e575e27d14be67fc97c03729d3ad525cf",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "DD National",
@@ -429,7 +429,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png",
     "group": "News",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://jiotvpllive.cdn.jio.com/bpk-tv/Goa365_BTS/output/index.mpd?name=Goa365&keyId=null&key=null&cookie=__hdnea__=st=1775803948~exp=1775825548~acl=/*~hmac=e9c10e916b17515a732778065e59760e575e27d14be67fc97c03729d3ad525cf",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "In Goa 24x7",
