@@ -1246,10 +1246,17 @@
     "status": "online"
   },
   {
-    "name": "Real Kashmir FC vs Gokulam Kerala FC - 12 Apr 2026 [ENG]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg",
+    "name": "Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg",
     "group": "VT OTT | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FI_league1204%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1776033094~acl%3D%2F*~id%3D75962845062424776347984338416262~hmac%3D77d4af0ce38a4ad5c162bba51213581dafba501db0ccebe2405c830959d42e23",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2022316%2FI_league1204%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1776041579~acl%3D%2F*~id%3D67440992368096712786985755430331~hmac%3Df85c173295baf1bf8b381dd22f5a87160c18b3b3c3d125a156a5ceb9beacd156",
+    "status": "offline"
+  },
+  {
+    "name": "FC Koln vs Werder Bremen - MD 29 - 12 Apr 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593170855658_BLIGA_26_MD29_Koln-vs-Werder_landscape_thumb.jpg",
+    "group": "VT OTT | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2005445%2FBundesli1204%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1776041579~acl%3D%2F*~id%3D67440992368096712786985755430331~hmac%3Df85c173295baf1bf8b381dd22f5a87160c18b3b3c3d125a156a5ceb9beacd156",
     "status": "offline"
   },
   {
@@ -1260,31 +1267,24 @@
     "status": "online"
   },
   {
-    "name": "ENGLISH - Melbourne Pirates Vs Everest Falcons",
-    "logo": "https://images.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
+    "name": "ENGLISH - Birmingham City F C Vs Wrexham A F C",
+    "logo": "https://images.fancode.com/skillup-uploads/cms-media/141440_5489_BIR_WRX_fc-web.jpg",
     "group": "VT OTT | FanCode",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F141753_english.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F141440_english.m3u8",
     "status": "online"
   },
   {
-    "name": "ENGLISH - Perth Glory Vs Macarthur",
-    "logo": "https://images.fancode.com/skillup-uploads/cms-media/140934_5802_PG_MAC_fc-web.jpg",
+    "name": "ENGLISH - Inter Kashi Vs Mohammedan Sc",
+    "logo": "https://images.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
     "group": "VT OTT | FanCode",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F140934_english.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F140484_english.m3u8",
     "status": "online"
   },
   {
-    "name": "ENGLISH - Dpr Korea U20 Vs Australia U20",
-    "logo": "https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+    "name": "BENGALI - Inter Kashi Vs Mohammedan Sc",
+    "logo": "https://images.fancode.com/skillup-uploads/cms-media/141810_5973_KSHI_MSC_fc-web.jpg",
     "group": "VT OTT | FanCode",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F141631_english.m3u8",
-    "status": "online"
-  },
-  {
-    "name": "ENGLISH - Final Vs Monaco",
-    "logo": "https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-    "group": "VT OTT | FanCode",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F141923_english.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffanco.vodep39240327.workers.dev%2F141810_bengali.m3u8",
     "status": "online"
   },
   {
@@ -11365,7 +11365,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjQyNjViZmItMDIxMC00YjgwLTk1ZjUtNzRiYzI0YmU3YjZjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADSB5781.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vaa Vaathiyaar (𝗜𝗠𝗗𝗕 5.7 2026 ‧ Tamil\\Action\\Comedy\\Fantasy ‧ 2h 9m Director Nalan Kumarasamy | Writers Nalan Kumarasamy | Stars Karthi ‧ Krithi Shetty ‧ Sathyaraj)",
@@ -11379,14 +11379,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjY1ODAwZDMtZDI0Yy00NDE3LWI5ZWUtNjAyMmMyMjFlMjkyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADhR5754.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mark (𝗜𝗠𝗗𝗕 5.6 2025 ‧ Action\\Thriller\\Kannada ‧ 2h 24m Director Vijay Karthikeyan | Writers Vijay Karthikeyan | Stars Sudeep ‧ Naveen Chandra ‧ Deepshika)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMTY3ZWM2NTgtN2ZiNC00OTQwLThhMjYtMzZiNWQ3MWQ4MGI2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADUB5752.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tere Ishk Mein (𝗜𝗠𝗗𝗕 7.0 2025 ‧ Action\\Drama\\Musical\\Romance\\Hindi ‧ 2h 47m Director Aanand L. Rai | Writers Himanshu Sharma ‧ Neeraj Yadav | Stars Kriti Sanon ‧ Vaidika Senjaliya ‧ Dhanush)",
@@ -11428,21 +11428,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZjE5YWIzZjQtNDI2OC00MWE3LThmMDctMTUwODAyYWRlMzk5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADlR5731.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Fakt Mahilao Maate (𝗜𝗠𝗗𝗕 7.6 2022 ‧ Comedy ‧ 2h 17m Director Jay Bodas ‧ Parth Trivedi | Writers Karan Bhanushali ‧ Jay Bodas ‧ Humayun Makrani | Stars Amitabh Bachchan ‧ Yash Soni ‧ Deeksha Joshi)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNDRiZWUzZDUtNTJlNy00Y2MyLTgxMTctYTRjMDExYzllMWQ5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgAD8R5744.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rippan Swamy (𝗜𝗠𝗗𝗕 6.4 2025 ‧ Action ‧ 2h 30m Director Kishor Moodbidri | Writers Kishor Moodbidri | Stars Vijay Raghavendra ‧ Ashwini Chandrashekar ‧ Prakash Thuminad)",
     "logo": "https://m.media-amazon.com/images/M/MV5BODg5NWVmMTMtMDRmYS00YWM5LTg5N2QtM2JjNDM1ODk0NzEyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADDR5742.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kalamkaval (𝗜𝗠𝗗𝗕 7.6 2025 ‧ Crime\\Drama\\Malayalam ‧ 2h 19m Director Jithin K. Jose | Writers Jithin K. Jose ‧ Jishnu Sreekumar | Stars Mammootty ‧ Vinayakan ‧ Rajisha Vijayan)",
@@ -11512,7 +11512,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjNkMmYxNTAtZmM5Ny00ZjcyLWJjNGMtMDY5OWIxNzE0Njk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADHy5688.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Salliyargal (𝗜𝗠𝗗𝗯 10.0 2024 ‧ Drama ‧ 1h 46m Director Kittu| Writer Kittu| Stars Janaki ‧ Karunas ‧ Chandrasekar Koneru)",
@@ -11533,7 +11533,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZTU3YjQ0NjAtNTY1MS00MGZkLThmMDctNDI2YTBlNGFmZjZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADoR5682.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kumki 2 (𝗜𝗠𝗗𝗯 6.4 2025 ‧ Drama ‧ 2h 2m Director Prabu Solomon| Writer Prabu Solomon| Stars Andrews ‧ Arjun Das ‧ Suzane George)",
@@ -11589,7 +11589,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzVkNmM1MTktZWRhMy00ZGY2LWFlMjEtNGNkZjQ5MmJjMTFkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADhS5595.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Santhana Prapthirasthu (𝗜𝗠𝗗𝗯 7.5 2025 ‧ Comedy\\Drama ‧ 2h 19m Director Sanjeev Reddy| Writers Sheik Dawood G. ‧ Kalyan Raghav Pasapula ‧ Sanjeev Reddy| Stars Vijay Narayana ‧ Abhay Bethiganti ‧ Bindu Chandramouli)",
@@ -11638,7 +11638,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZTQ2ZWJlYzQtZDg4My00ZmNmLTg3ZjYtMGEzOGU3YzU5MmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADAR5581.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kinaru (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Drama ‧ 1h 48mDirector Harikumaran| Writer Harikumaran| Stars Senathipathi Dharma ‧ Sri Hariharan ‧ Manojkannan)",
@@ -11680,7 +11680,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTcwNWJmMmItYjViOC00OWRiLWJjMTgtYWY0MjQ2NDJkOWZhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADcB5508.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Paanch Minar (𝗜𝗠𝗗𝗯 9.1 2025 ‧ Comedy\\Thriller ‧ 2h 14m Director Ramesh Kadumula| Writers Ramesh Kadumula ‧ Gorijala Sudhakar| Stars Nithin Prasanna ‧ Raj Tarun ‧ Rashi Singh)",
@@ -11820,7 +11820,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/avihitham-et00465653-1759737224.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD3R5537.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Dude (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Action\\Drama\\Comedy\\Romance ‧ 2h 20m Director Keerthiswaran| Writers Krishna Chepuri ‧ Keerthiswaran| Stars Pradeep Ranganathan ‧ Mamitha Baiju ‧ R. Sarathkumar)",
@@ -11834,7 +11834,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZGY2YTIyNTAtMDU5MC00YzM2LThmYTUtODIwNjgyOTAxMzcwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADyA5379.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kuttram Pudhithu (𝗜𝗠𝗗𝗯 8.8 2025 ‧ Crime\\Thriller ‧ 1h 57m Director Noah Armstrong| Writer Noah Armstrong| Stars SeshvithaKanimozhi ‧ Nizhalgal Ravi ‧ Madhusudhan Rao)",
@@ -12016,7 +12016,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMDgzNjExZWYtOTYzMy00MzNlLTg5YTgtNGZmMzgyOGIzZTdjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD0h5302.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Yolo (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama ‧ 2h 4m Director Sam S Writers Rams Murugan ‧ Sam S ‧ Panbu Selvan| Stars Devika Satheesh ‧ Giri Dwarakish ‧ Badava Gopi)",
@@ -12856,7 +12856,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmEyYzY4NGYtMDU0Ny00YTExLWE4MGMtMmM4OGRhMDc5NjNjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXR4758.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bayamariya Brammai (𝗜𝗠𝗗𝗯 7.6 2024 ‧ Crime\\Drama ‧ 1h 28m Director Rahul Kabali| Writer Rahul Kabali| Stars AK ‧ Divya Ganesh ‧ Harish)",
@@ -16916,7 +16916,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZGY2YTIyNTAtMDU5MC00YzM2LThmYTUtODIwNjgyOTAxMzcwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADyA5379.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kuttram Pudhithu (𝗜𝗠𝗗𝗯 8.8 2025 ‧ Crime\\Thriller ‧ 1h 57m Director Noah Armstrong| Writer Noah Armstrong| Stars SeshvithaKanimozhi ‧ Nizhalgal Ravi ‧ Madhusudhan Rao)",
@@ -21480,7 +21480,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADMx4933.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP04 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -21515,7 +21515,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMWJmYTcxZWUtMGRmNi00YmEyLWJlZGUtZDU4ODdkMGMzOGM5XkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Good Wife",
     "link": "https://bq32.short.gy/AgADFh4953.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP02 • Good Wife (𝗜𝗠𝗗𝗯 5.7  2025 ‧ Drama\\Crime ‧ Stars Mekha Rajan ‧ Amrutha Srinivasan ‧ Priyamani)",
@@ -21550,7 +21550,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMWJmYTcxZWUtMGRmNi00YmEyLWJlZGUtZDU4ODdkMGMzOGM5XkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Good Wife",
     "link": "https://bq32.short.gy/AgADER4949.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S02 EP01 • Kerala Crime Files (𝗜𝗠𝗗𝗯 7.2  2025 ‧ Drama\\Thriller\\Crime ‧ Stars Rooth P John ‧ Devaki Rajendran ‧ Sreejith Mahadevan)",
@@ -21718,14 +21718,14 @@
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v",
     "group": "Web series 🍿 | Om Kali Jai Kali",
     "link": "https://bq32.short.gy/series/AgADvx4468.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "q_90",
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/254/1743100260254-v",
     "group": "Web series 🍿 | Om Kali Jai Kali",
     "link": "https://bq32.short.gy/series/AgADwx4470.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Suzhal - The Vortex2 • S02 EP01 (𝗜𝗠𝗗𝗯 8.1  2025 ‧ Crime\\Drama\\Thriller ‧ 8h 48m Creators Gayatri ‧ Pushkar| Stars Kathir ‧ Aishwarya Rajesh ‧ Lal)",
@@ -31497,7 +31497,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-12_04_57-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fduraitv%2Fclassic%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "KM Music",
@@ -31560,7 +31560,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-5-2026-07_45_21-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Fbms%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aha TV",
@@ -31721,7 +31721,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-2-2025-08_47_46-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.ashokadigital.net%2Fcititv%2Fcititvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tiger TV",
@@ -31826,7 +31826,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-12-2026-07_55_40-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fjrptv%2Fbala%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Heartbeat TV",
@@ -32092,7 +32092,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_26_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fbschd%2Flive%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Yatra TV",
@@ -32400,7 +32400,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_46_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fjrptv%2Fjrphd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Malar TV",
@@ -33219,7 +33219,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-11-2025-09_26_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fmaruthitv%2Fmaruthitvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aadhavan TV",
@@ -33345,7 +33345,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Dec-8-2025-08_11_40-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.ashokadigital.net%2Fashokaslm%2Fashokahd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sai TV",
@@ -33359,21 +33359,21 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_14_44-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fanbutv%2Fanbutvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nellai TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_06_25-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fnellaitv%2Fnellaitv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Params TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-08_55_35-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.ashokadigital.net%2Fashokaslm%2Fparamstv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Rock TV",
@@ -33415,7 +33415,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-11-2025-09_18_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fakilamtv%2Fakilamtvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rio TV",
@@ -33842,7 +33842,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_09_59-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTG5%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vee9 News Telugu",
@@ -34045,7 +34045,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_13_48-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCN%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Public TV News",
@@ -34108,7 +34108,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_19_08-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvenus.streambridge.link%3A8047%2Ftelugu%2Ftgn%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "B Channel",
@@ -34325,7 +34325,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_29_59-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zoy TV",
@@ -34493,7 +34493,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_24_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fsrkent%2Fsrkent%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SLN News",
@@ -34605,7 +34605,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-07_23_04-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRKBhakthiTV%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "4Sides TV",
@@ -34885,7 +34885,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_43_12-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fgowrivision%2Fgowrivision%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Newstar",
@@ -35053,7 +35053,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_42_28-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fpowranmedia%2Flivestream%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Teak Vision Nilambur",
@@ -35390,1951 +35390,5 @@
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivetv.timeiptv.in%2FShekinahNewsIndia%2F955ad3298db330b5ee880c2c9e6f23a0.sdp%2Fchunks.m3u8",
     "status": "online"
-  },
-  {
-    "name": "STAR Plus HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/8.mpd?name=STAR_Plus_HD&keyId=https&key=//tplay.cr7x.workers.dev/8/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Star Bharat HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/244.mpd?name=Star_Bharat_HD&keyId=https&key=//tplay.cr7x.workers.dev/244/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "SET HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/15.mpd?name=SET_HD&keyId=https&key=//tplay.cr7x.workers.dev/15/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "SONY SAB HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/48.mpd?name=SONY_SAB_HD&keyId=https&key=//tplay.cr7x.workers.dev/48/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "&tv HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/&tv",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/40.mpd?name=&tv_HD&keyId=https&key=//tplay.cr7x.workers.dev/40/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/52.mpd?name=Colors_HD&keyId=https&key=//tplay.cr7x.workers.dev/52/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee TV HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/63.mpd?name=Zee_TV_HD&keyId=https&key=//tplay.cr7x.workers.dev/63/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Dangal",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/51.mpd?name=Dangal&keyId=https&key=//tplay.cr7x.workers.dev/51/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "The Q",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-150-j5frd0jc-v3/imageContent-150-j5frd0jc-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/54.mpd?name=The_Q&keyId=https&key=//tplay.cr7x.workers.dev/54/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Rishtey",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/438.mpd?name=Colors_Rishtey&keyId=https&key=//tplay.cr7x.workers.dev/438/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Comedy Central HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/307.mpd?name=Comedy_Central_HD&keyId=https&key=//tplay.cr7x.workers.dev/307/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Comedy Central",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11293-j9j5u4o0-v3/imageContent-11293-j9j5u4o0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/306.mpd?name=Comedy_Central&keyId=https&key=//tplay.cr7x.workers.dev/306/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "&Xplor HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1183.mpd?name=&Xplor_HD&keyId=https&key=//tplay.cr7x.workers.dev/1183/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sana TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sana-TV-Logo_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1285.mpd?name=Sana_TV&keyId=https&key=//tplay.cr7x.workers.dev/1285/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sana Plus TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANA-PLUS-LOGO_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1284.mpd?name=Sana_Plus_TV&keyId=https&key=//tplay.cr7x.workers.dev/1284/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Samachar 24 News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Samachar-24-Logo_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1281.mpd?name=Samachar_24_News&keyId=https&key=//tplay.cr7x.workers.dev/1281/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Prime TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Prime-TV-Logo_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1278.mpd?name=Prime_TV&keyId=https&key=//tplay.cr7x.workers.dev/1278/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Nav Tej TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/navtej-tv_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1277.mpd?name=Nav_Tej_TV&keyId=https&key=//tplay.cr7x.workers.dev/1277/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Investigation Discovery HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1276.mpd?name=Investigation_Discovery_HD&keyId=https&key=//tplay.cr7x.workers.dev/1276/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Swadesh News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Swadesh-news-LOGO_without-BG--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1274.mpd?name=Swadesh_News&keyId=https&key=//tplay.cr7x.workers.dev/1274/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Chumbak TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHUMBKTV_Thumbnail-v2/CHUMBKTV_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1269.mpd?name=Chumbak_TV&keyId=https&key=//tplay.cr7x.workers.dev/1269/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NE NEWS",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NENEWS_Thumbnail-v1/NENEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1268.mpd?name=NE_NEWS&keyId=https&key=//tplay.cr7x.workers.dev/1268/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "HNN News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HNNNEWS_Thumbnail-v1/HNNNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1267.mpd?name=HNN_News&keyId=https&key=//tplay.cr7x.workers.dev/1267/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Tamil Classics",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1260.mpd?name=Tata_Play_Tamil_Classics&keyId=https&key=//tplay.cr7x.workers.dev/1260/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Classic Cinema 2",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCLC2_Thumbnail-v2/TPCLC2_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1258.mpd?name=Tata_Play_Classic_Cinema_2&keyId=https&key=//tplay.cr7x.workers.dev/1258/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sangam TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangam_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1257.mpd?name=Sangam_TV&keyId=https&key=//tplay.cr7x.workers.dev/1257/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Oye Music",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/oye-music_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1256.mpd?name=Oye_Music&keyId=https&key=//tplay.cr7x.workers.dev/1256/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Update India",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/update-india_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1255.mpd?name=Update_India&keyId=https&key=//tplay.cr7x.workers.dev/1255/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "National News Live",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/National-News_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1254.mpd?name=National_News_Live&keyId=https&key=//tplay.cr7x.workers.dev/1254/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jeewan Bhakti",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/jeewan-bhakti_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1253.mpd?name=Jeewan_Bhakti&keyId=https&key=//tplay.cr7x.workers.dev/1253/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Haryana Buzz",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Haryana-Buzz_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1252.mpd?name=Haryana_Buzz&keyId=https&key=//tplay.cr7x.workers.dev/1252/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "35 MM",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/35-MM_without-bg--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1247.mpd?name=35_MM&keyId=https&key=//tplay.cr7x.workers.dev/1247/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Vande Bharat News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vande-bharat_without-bg--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1246.mpd?name=Vande_Bharat_News&keyId=https&key=//tplay.cr7x.workers.dev/1246/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "National Today 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/National-Today_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1245.mpd?name=National_Today_24x7&keyId=https&key=//tplay.cr7x.workers.dev/1245/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "N Bharat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nbharat_without-bg--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1244.mpd?name=N_Bharat&keyId=https&key=//tplay.cr7x.workers.dev/1244/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Marudharhind TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Marudhar-Hind-News_without-bg--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1243.mpd?name=Marudharhind_TV&keyId=https&key=//tplay.cr7x.workers.dev/1243/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "In24 News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/IN-24_without-bg--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1242.mpd?name=In24_News&keyId=https&key=//tplay.cr7x.workers.dev/1242/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra snews",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/14.EKAMRA-S-NEWS(news)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1209.mpd?name=Ekamra_snews&keyId=https&key=//tplay.cr7x.workers.dev/1209/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News 8 odia",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News-8-Odia-LOGO_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1208.mpd?name=News_8_odia&keyId=https&key=//tplay.cr7x.workers.dev/1208/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Manoranjan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/12.EKAMRA-MANORANJAN-(ENTERTAINMENT)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1207.mpd?name=Ekamra_Manoranjan&keyId=https&key=//tplay.cr7x.workers.dev/1207/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Baiscope",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/11.EKAMRA-BIOSCOPE-(MOVIE)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1206.mpd?name=Ekamra_Baiscope&keyId=https&key=//tplay.cr7x.workers.dev/1206/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Omm",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/10.-OMM-VASUDAIVYA(-DEVOTIONAL-HINDI)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1205.mpd?name=Omm&keyId=https&key=//tplay.cr7x.workers.dev/1205/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "City Music",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/09.CITY-MUSIC(-MUSIC)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1204.mpd?name=City_Music&keyId=https&key=//tplay.cr7x.workers.dev/1204/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "India 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/08.INDIA-24x7(NEWS-HINDI)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1203.mpd?name=India_24x7&keyId=https&key=//tplay.cr7x.workers.dev/1203/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra One paschima",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/EKAMRA",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1202.mpd?name=Ekamra_One_paschima&keyId=https&key=//tplay.cr7x.workers.dev/1202/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Paramatma",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/06.PRAMATMA(DEVOTIONAL)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1201.mpd?name=Ekamra_Paramatma&keyId=https&key=//tplay.cr7x.workers.dev/1201/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Jatra",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/05.EKAMRA-JATRA(JATRA-ENTERTAINMENT)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1200.mpd?name=Ekamra_Jatra&keyId=https&key=//tplay.cr7x.workers.dev/1200/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra  Music",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/04.EKAMRA-MUSIQ(-MUSIC)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1199.mpd?name=Ekamra_Music&keyId=https&key=//tplay.cr7x.workers.dev/1199/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Cynema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/03.EKAMRA-CINEMA-(MOVIE)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1198.mpd?name=Ekamra_Cynema&keyId=https&key=//tplay.cr7x.workers.dev/1198/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Nilachakra",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/02.NILACHAKRA-(ENTERTAINMENT)--2000-x-1125--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1197.mpd?name=Ekamra_Nilachakra&keyId=https&key=//tplay.cr7x.workers.dev/1197/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ekamra Bharat Odia",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/01.EKAMRA-BHARAT-ODIA-(INFOTAINMENT)--Transpernt.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1196.mpd?name=Ekamra_Bharat_Odia&keyId=https&key=//tplay.cr7x.workers.dev/1196/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "BRK News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BRKNEWS_Thumbnail-v1/BRKNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1194.mpd?name=BRK_News&keyId=https&key=//tplay.cr7x.workers.dev/1194/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Thirai HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-THIRAI-WHITE-LOGO_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1182.mpd?name=Zee_Thirai_HD&keyId=https&key=//tplay.cr7x.workers.dev/1182/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Picchar HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-Picchar-HD---Kannada-Logo_2000_X_1125_Transpharent.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1181.mpd?name=Zee_Picchar_HD&keyId=https&key=//tplay.cr7x.workers.dev/1181/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shree Ichchhapuran Balaji Mandir",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIBM_Thumbnail-v4/SIBM_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1171.mpd?name=Shree_Ichchhapuran_Balaji_Mandir&keyId=https&key=//tplay.cr7x.workers.dev/1171/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sidharth GOLD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIDGL_Thumbnail-v1/SIDGL_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1170.mpd?name=Sidharth_GOLD&keyId=https&key=//tplay.cr7x.workers.dev/1170/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jay Jagannath",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JJAG_Thumbnail-v1/JJAG_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1169.mpd?name=Jay_Jagannath&keyId=https&key=//tplay.cr7x.workers.dev/1169/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Hollywood Local Telugu",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLTE_Thumbnail-v5/TPHLTE_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1168.mpd?name=Tata_Play_Hollywood_Local_Telugu&keyId=https&key=//tplay.cr7x.workers.dev/1168/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Hollywood Local Tamil",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLT_Thumbnail-v4/TPHLT_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1167.mpd?name=Tata_Play_Hollywood_Local_Tamil&keyId=https&key=//tplay.cr7x.workers.dev/1167/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Raapchik",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPCHK_Thumbnail-v2/RPCHK_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bhojpuri",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1165.mpd?name=Raapchik&keyId=https&key=//tplay.cr7x.workers.dev/1165/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Desh News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DSNEW_Thumbnail-v5/DSNEW_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1161.mpd?name=Desh_News&keyId=https&key=//tplay.cr7x.workers.dev/1161/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NDTV MPCG",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVMP_Thumbnail-v2/NDTVMP_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1159.mpd?name=NDTV_MPCG&keyId=https&key=//tplay.cr7x.workers.dev/1159/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NDTV Rajasthan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVRA_Thumbnail-v3/NDTVRA_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1152.mpd?name=NDTV_Rajasthan&keyId=https&key=//tplay.cr7x.workers.dev/1152/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "MAHAA NEWS",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MHNEWS_Thumbnail-v1/MHNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1151.mpd?name=MAHAA_NEWS&keyId=https&key=//tplay.cr7x.workers.dev/1151/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "R Plus",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPLUS_Thumbnail-v1/RPLUS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1133.mpd?name=R_Plus&keyId=https&key=//tplay.cr7x.workers.dev/1133/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Rongeen TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RONGEEN_Thumbnail-v1/RONGEEN_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1132.mpd?name=Rongeen_TV&keyId=https&key=//tplay.cr7x.workers.dev/1132/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Bollywood Masala",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BMSLA_Thumbnail-v2/BMSLA_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1130.mpd?name=Tata_Play_Bollywood_Masala&keyId=https&key=//tplay.cr7x.workers.dev/1130/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Reporter TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RETV_Thumbnail-v2/RETV_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1124.mpd?name=Reporter_TV&keyId=https&key=//tplay.cr7x.workers.dev/1124/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sanskriti 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SA24x7_Thumbnail-v2/SA24x7_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1119.mpd?name=Sanskriti_24x7&keyId=https&key=//tplay.cr7x.workers.dev/1119/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News 360",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News360_Thumbnail-v3/News360_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1118.mpd?name=News_360&keyId=https&key=//tplay.cr7x.workers.dev/1118/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ABZY Movies",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ABZYMovies_Thumbnail-v1/ABZYMovies_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1117.mpd?name=ABZY_Movies&keyId=https&key=//tplay.cr7x.workers.dev/1117/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Prajaa TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRJAATV_Thumbnail-v2/PRJAATV_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1116.mpd?name=Prajaa_TV&keyId=https&key=//tplay.cr7x.workers.dev/1116/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Pratham Khabar 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PTKB_Thumbnail-v1/PTKB_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1115.mpd?name=Pratham_Khabar_24x7&keyId=https&key=//tplay.cr7x.workers.dev/1115/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NKTV BANGLA",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVBAN_Thumbnail-v3/NKTVBAN_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1103.mpd?name=NKTV_BANGLA&keyId=https&key=//tplay.cr7x.workers.dev/1103/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Pudhari News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PDNEWS_Thumbnail-v2/PDNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1102.mpd?name=Pudhari_News&keyId=https&key=//tplay.cr7x.workers.dev/1102/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Woman",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/WOMFRE_Thumbnail-v1/WOMFRE_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1101.mpd?name=Woman&keyId=https&key=//tplay.cr7x.workers.dev/1101/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "BIG TV Telugu",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BGTVTEL_Thumbnail-v2/BGTVTEL_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1100.mpd?name=BIG_TV_Telugu&keyId=https&key=//tplay.cr7x.workers.dev/1100/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Prime 9 News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PR9NEWS_Thumbnail-v2/PR9NEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1099.mpd?name=Prime_9_News&keyId=https&key=//tplay.cr7x.workers.dev/1099/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Aastha Gujarati",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASTHAGUJ_Thumbnail-v2/ASTHAGUJ_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1097.mpd?name=Aastha_Gujarati&keyId=https&key=//tplay.cr7x.workers.dev/1097/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "PRAVEG",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1087.mpd?name=PRAVEG&keyId=https&key=//tplay.cr7x.workers.dev/1087/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "WPN World Punjabi TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/WTVPunjabi_Thumbnail-v1/WTVPunjabi_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1085.mpd?name=WPN_World_Punjabi_TV&keyId=https&key=//tplay.cr7x.workers.dev/1085/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "India Daily Live",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INDLive_Thumbnail-v1/INDLive_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1084.mpd?name=India_Daily_Live&keyId=https&key=//tplay.cr7x.workers.dev/1084/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TABBAR HITS",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TABHIT_Thumbnail-v2/TABHIT_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1083.mpd?name=TABBAR_HITS&keyId=https&key=//tplay.cr7x.workers.dev/1083/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Asomiya Monoronjan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMON_Thumbnail-v1/ASMON_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Assamese",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1082.mpd?name=Tata_Play_Asomiya_Monoronjan&keyId=https&key=//tplay.cr7x.workers.dev/1082/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "U Bangla TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Bangla-TV-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1080?name=U_Bangla_TV&keyId=https&key=//tplay.cr7x.workers.dev/1080/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TTN 24",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TTN24_Thumbnail-v2/TTN24_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1079.mpd?name=TTN_24&keyId=https&key=//tplay.cr7x.workers.dev/1079/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Daily Post Punjab Haryana Himachal",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_Thumbnail-v3/DAILYP_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1078.mpd?name=Daily_Post_Punjab_Haryana_Himachal&keyId=https&key=//tplay.cr7x.workers.dev/1078/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Vistara News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISNEWS_Thumbnail-v2/VISNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1077.mpd?name=Vistara_News&keyId=https&key=//tplay.cr7x.workers.dev/1077/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NB News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NBNEWS_Thumbnail-v2/NBNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Assamese",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1076.mpd?name=NB_News&keyId=https&key=//tplay.cr7x.workers.dev/1076/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sach Bedhadak",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SACHB_Thumbnail-v2/SACHB_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1075.mpd?name=Sach_Bedhadak&keyId=https&key=//tplay.cr7x.workers.dev/1075/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TV 24",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TV24N_Thumbnail-v2/TV24N_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1074.mpd?name=TV_24&keyId=https&key=//tplay.cr7x.workers.dev/1074/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Telugu Classics",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTECL_Thumbnail-v1/TPTECL_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1073.mpd?name=Tata_Play_Telugu_Classics&keyId=https&key=//tplay.cr7x.workers.dev/1073/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "MEDIA 9",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MEDI9_Thumbnail-v1/MEDI9_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1070.mpd?name=MEDIA_9&keyId=https&key=//tplay.cr7x.workers.dev/1070/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Live Punjabi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Live-Punjabi-logo-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1060?name=Live_Punjabi&keyId=https&key=//tplay.cr7x.workers.dev/1060/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Indian News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Indian-News-logo-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1059?name=Indian_News&keyId=https&key=//tplay.cr7x.workers.dev/1059/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Aaj Ki Khabar",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj-Ki-Khabar-logo-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1058?name=Aaj_Ki_Khabar&keyId=https&key=//tplay.cr7x.workers.dev/1058/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Har Ghar Startup",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1056.mpd?name=Tata_Play_Har_Ghar_Startup&keyId=https&key=//tplay.cr7x.workers.dev/1056/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Bharat Express",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BHEXP_Thumbnail-v2/BHEXP_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1051.mpd?name=Bharat_Express&keyId=https&key=//tplay.cr7x.workers.dev/1051/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shemaroo UMANG",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEUM_Thumbnail-v2/SHEUM_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1045.mpd?name=Shemaroo_UMANG&keyId=https&key=//tplay.cr7x.workers.dev/1045/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Global India",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Global-India-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1044?name=Global_India&keyId=https&key=//tplay.cr7x.workers.dev/1044/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Nakshatra Digital",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nakshatra-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1043?name=Nakshatra_Digital&keyId=https&key=//tplay.cr7x.workers.dev/1043/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Bless TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Bless-Tv-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1042?name=Bless_TV&keyId=https&key=//tplay.cr7x.workers.dev/1042/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TV Punjab",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV-PUNJAB-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1041?name=TV_Punjab&keyId=https&key=//tplay.cr7x.workers.dev/1041/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jansetu",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jan-Setu-News-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1040?name=Jansetu&keyId=https&key=//tplay.cr7x.workers.dev/1040/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Dhamaka Movies B4U",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHAMB4U_Thumbnail-v2/DHAMB4U_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1037.mpd?name=Dhamaka_Movies_B4U&keyId=https&key=//tplay.cr7x.workers.dev/1037/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sports 18 - 1 HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Sports",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1033.mpd?name=Sports_18_-_1_HD&keyId=https&key=//tplay.cr7x.workers.dev/1033/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Surya Samachar",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72980-l8fn3f28-v2/imageContent-72980-l8fn3f28-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1031.mpd?name=Surya_Samachar&keyId=https&key=//tplay.cr7x.workers.dev/1031/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Swatantra TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73187-l8ou8wo8-v1/imageContent-73187-l8ou8wo8-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1027.mpd?name=Swatantra_TV&keyId=https&key=//tplay.cr7x.workers.dev/1027/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Daiji World TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73014-l8gzok74-v2/imageContent-73014-l8gzok74-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1023.mpd?name=Daiji_World_TV&keyId=https&key=//tplay.cr7x.workers.dev/1023/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "7x Music",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73019-l8gzpnjs-v1/imageContent-73019-l8gzpnjs-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1019.mpd?name=7x_Music&keyId=https&key=//tplay.cr7x.workers.dev/1019/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Real News Kerala",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/REAL-NEWS_-logo-Transperent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1018?name=Real_News_Kerala&keyId=https&key=//tplay.cr7x.workers.dev/1018/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Bharat 24",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1010.mpd?name=Bharat_24&keyId=https&key=//tplay.cr7x.workers.dev/1010/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TV27 News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72340-l6nkcw74-v1/imageContent-72340-l6nkcw74-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1009.mpd?name=TV27_News&keyId=https&key=//tplay.cr7x.workers.dev/1009/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shri ISKCON Girgaon",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72306-l6hr8log-v1/imageContent-72306-l6hr8log-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1008.mpd?name=Shri_ISKCON_Girgaon&keyId=https&key=//tplay.cr7x.workers.dev/1008/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shri Ashtavinayak Mahaganpati",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72309-l6hro3js-v1/imageContent-72309-l6hro3js-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1007.mpd?name=Shri_Ashtavinayak_Mahaganpati&keyId=https&key=//tplay.cr7x.workers.dev/1007/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shri Mahalaxmi Temple",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72312-l6hsvue8-v1/imageContent-72312-l6hsvue8-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1006.mpd?name=Shri_Mahalaxmi_Temple&keyId=https&key=//tplay.cr7x.workers.dev/1006/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shri Babulnaath Temple",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72315-l6htmt2o-v1/imageContent-72315-l6htmt2o-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1005.mpd?name=Shri_Babulnaath_Temple&keyId=https&key=//tplay.cr7x.workers.dev/1005/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shri Ganga Aarti",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72303-l6hqin9k-v1/imageContent-72303-l6hqin9k-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1004.mpd?name=Shri_Ganga_Aarti&keyId=https&key=//tplay.cr7x.workers.dev/1004/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play South Talkies",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72254-l6dn8nco-v3/imageContent-72254-l6dn8nco-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1003.mpd?name=Tata_Play_South_Talkies&keyId=https&key=//tplay.cr7x.workers.dev/1003/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Saileela TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SAILEELATV-Transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1002?name=Saileela_TV&keyId=https&key=//tplay.cr7x.workers.dev/1002/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Cineplex Bollywood",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/1000.mpd?name=Colors_Cineplex_Bollywood&keyId=https&key=//tplay.cr7x.workers.dev/1000/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/999.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/999/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSPUN_Thumbnail-v4/TONSPUN_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/998.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/998/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/997.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/997/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/996.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/996/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/995.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/995/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Toons+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/994.mpd?name=Tata_Play_Toons+&keyId=https&key=//tplay.cr7x.workers.dev/994/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News Hour",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71503-l4su2elk-v2/imageContent-71503-l4su2elk-m7.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/993.mpd?name=News_Hour&keyId=https&key=//tplay.cr7x.workers.dev/993/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "DD Meghalaya",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71497-l4stx05k-v3/imageContent-71497-l4stx05k-m5.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/991.mpd?name=DD_Meghalaya&keyId=https&key=//tplay.cr7x.workers.dev/991/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "STV Haryana News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/989.mpd?name=STV_Haryana_News&keyId=https&key=//tplay.cr7x.workers.dev/989/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Har Khabar",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/988.mpd?name=Har_Khabar&keyId=https&key=//tplay.cr7x.workers.dev/988/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Zindagi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70821-l3edt8uw-v1/imageContent-70821-l3edt8uw-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/986.mpd?name=Tata_Play_Zindagi&keyId=https&key=//tplay.cr7x.workers.dev/986/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sports 18 - 1",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Sports",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/980.mpd?name=Sports_18_-_1&keyId=https&key=//tplay.cr7x.workers.dev/980/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sidharth TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69926-l1ooghuw-v3/imageContent-69926-l1ooghuw-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/978.mpd?name=Sidharth_TV&keyId=https&key=//tplay.cr7x.workers.dev/978/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ND24-Newsdaily.in",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Others",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/977.mpd?name=ND24-Newsdaily.in&keyId=https&key=//tplay.cr7x.workers.dev/977/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NHK World Japan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/976.mpd?name=NHK_World_Japan&keyId=https&key=//tplay.cr7x.workers.dev/976/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "1st Gujarat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/974.mpd?name=1st_Gujarat&keyId=https&key=//tplay.cr7x.workers.dev/974/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sahara Samay UP-UKD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/973.mpd?name=Sahara_Samay_UP-UKD&keyId=https&key=//tplay.cr7x.workers.dev/973/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Khabar Fast",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69238-kzt9ig3k-v1/imageContent-69238-kzt9ig3k-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/972.mpd?name=Khabar_Fast&keyId=https&key=//tplay.cr7x.workers.dev/972/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "SVBC 3",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69020-kzo676so-v1/imageContent-69020-kzo676so-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/971.mpd?name=SVBC_3&keyId=https&key=//tplay.cr7x.workers.dev/971/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "MH One Dil Se",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/970.mpd?name=MH_One_Dil_Se&keyId=https&key=//tplay.cr7x.workers.dev/970/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Aadinath TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/969.mpd?name=Aadinath_TV&keyId=https&key=//tplay.cr7x.workers.dev/969/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News Tamil 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/968.mpd?name=News_Tamil_24x7&keyId=https&key=//tplay.cr7x.workers.dev/968/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Times Now Navbharat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67796-kx7lokw8-v2/imageContent-67796-kx7lokw8-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/966.mpd?name=Times_Now_Navbharat&keyId=https&key=//tplay.cr7x.workers.dev/966/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Manoranjan Grand",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/965.mpd?name=Manoranjan_Grand&keyId=https&key=//tplay.cr7x.workers.dev/965/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Classic TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPCTV_Thumbnail-v4/TPCTV_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/964.mpd?name=Tata_Play_Classic_TV&keyId=https&key=//tplay.cr7x.workers.dev/964/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ANN News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ANN-LOGO-PNG_2021-transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/962?name=ANN_News&keyId=https&key=//tplay.cr7x.workers.dev/962/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Lakshya TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67703-kwog27o0-v1/imageContent-67703-kwog27o0-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/961.mpd?name=Lakshya_TV&keyId=https&key=//tplay.cr7x.workers.dev/961/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Atmadarshan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Atmadarshan-Logo-2021-transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/960?name=Atmadarshan&keyId=https&key=//tplay.cr7x.workers.dev/960/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Romance",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/959.mpd?name=Tata_Play_Romance&keyId=https&key=//tplay.cr7x.workers.dev/959/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ET Now Swadesh",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/950.mpd?name=ET_Now_Swadesh&keyId=https&key=//tplay.cr7x.workers.dev/950/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Live Sri Naga Sai Mandir Coimbatore",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65985-ku6gly6w-v3/imageContent-65985-ku6gly6w-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/949.mpd?name=Live_Sri_Naga_Sai_Mandir_Coimbatore&keyId=https&key=//tplay.cr7x.workers.dev/949/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Live Patna Sahib Patna",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/947.mpd?name=Live_Patna_Sahib_Patna&keyId=https&key=//tplay.cr7x.workers.dev/947/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Videshi Kahaniyan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65443-kty2tkwo-v2/imageContent-65443-kty2tkwo-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/943.mpd?name=Tata_Play_Videshi_Kahaniyan&keyId=https&key=//tplay.cr7x.workers.dev/943/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "SIRIKANNADA Alltime",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65190-ktai1xtk-v1/imageContent-65190-ktai1xtk-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/940.mpd?name=SIRIKANNADA_Alltime&keyId=https&key=//tplay.cr7x.workers.dev/940/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Anaadi TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65108-ksr7d028-v1/imageContent-65108-ksr7d028-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/937.mpd?name=Anaadi_TV&keyId=https&key=//tplay.cr7x.workers.dev/937/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Punjabi Hits",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PUNHTS_Thumbnail-v1/PUNHTS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/936.mpd?name=Punjabi_Hits&keyId=https&key=//tplay.cr7x.workers.dev/936/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Awakening",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65100-kspm2814-v1/imageContent-65100-kspm2814-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/935.mpd?name=Awakening&keyId=https&key=//tplay.cr7x.workers.dev/935/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Times Now Navbharat HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/932.mpd?name=Times_Now_Navbharat_HD&keyId=https&key=//tplay.cr7x.workers.dev/932/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Green Chillies TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/GCE-Logo-transparent.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/931?name=Green_Chillies_TV&keyId=https&key=//tplay.cr7x.workers.dev/931/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play JEE Prep",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/929.mpd?name=Tata_Play_JEE_Prep&keyId=https&key=//tplay.cr7x.workers.dev/929/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play NEET Prep",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/928.mpd?name=Tata_Play_NEET_Prep&keyId=https&key=//tplay.cr7x.workers.dev/928/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TravelXP 4K HDR",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Lifestyle",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/923?name=TravelXP_4K_HDR&keyId=https&key=//tplay.cr7x.workers.dev/923/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "PTC Music",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63498-kqq89g5k-v2/imageContent-63498-kqq89g5k-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/922.mpd?name=PTC_Music&keyId=https&key=//tplay.cr7x.workers.dev/922/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News 1st Kannada",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NWS1ST_Thumbnail-v3/NWS1ST_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/913.mpd?name=News_1st_Kannada&keyId=https&key=//tplay.cr7x.workers.dev/913/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Haryana Beats",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/912.mpd?name=Haryana_Beats&keyId=https&key=//tplay.cr7x.workers.dev/912/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Santwani",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62610-koxujv2g-v2/imageContent-62610-koxujv2g-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/911.mpd?name=Santwani&keyId=https&key=//tplay.cr7x.workers.dev/911/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "C News Bharat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/C-News_transparent.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/910?name=C_News_Bharat&keyId=https&key=//tplay.cr7x.workers.dev/910/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Nimbark TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62599-koxtswe0-v1/imageContent-62599-koxtswe0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/908.mpd?name=Nimbark_TV&keyId=https&key=//tplay.cr7x.workers.dev/908/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Argus News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/907.mpd?name=Argus_News&keyId=https&key=//tplay.cr7x.workers.dev/907/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ETV Bal Bharat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/905.mpd?name=ETV_Bal_Bharat&keyId=https&key=//tplay.cr7x.workers.dev/905/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News 24 Madhyapradesh Chattisgarh",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62181-knrp5974-v1/imageContent-62181-knrp5974-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/902.mpd?name=News_24_Madhyapradesh_Chattisgarh&keyId=https&key=//tplay.cr7x.workers.dev/902/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Pasand",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/899.mpd?name=Pasand&keyId=https&key=//tplay.cr7x.workers.dev/899/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Hornbill TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HORNBLTV_Thumbnail-v2/HORNBLTV_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Others",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/898.mpd?name=Hornbill_TV&keyId=https&key=//tplay.cr7x.workers.dev/898/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Bangla Cinema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v2/CLRBANG_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/896.mpd?name=Colors_Bangla_Cinema&keyId=https&key=//tplay.cr7x.workers.dev/896/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "NKTV PLUS",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Others",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/894.mpd?name=NKTV_PLUS&keyId=https&key=//tplay.cr7x.workers.dev/894/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Valam TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61633-kmlgwaww-v1/imageContent-61633-kmlgwaww-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/893.mpd?name=Valam_TV&keyId=https&key=//tplay.cr7x.workers.dev/893/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Samara News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/892.mpd?name=Samara_News&keyId=https&key=//tplay.cr7x.workers.dev/892/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ishara",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/888.mpd?name=Ishara&keyId=https&key=//tplay.cr7x.workers.dev/888/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Garv Gurbani",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60927-kljn2znc-v1/imageContent-60927-kljn2znc-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/887.mpd?name=Garv_Gurbani&keyId=https&key=//tplay.cr7x.workers.dev/887/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Swar Shree",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60933-kljn4c9c-v1/imageContent-60933-kljn4c9c-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/883.mpd?name=Swar_Shree&keyId=https&key=//tplay.cr7x.workers.dev/883/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TV9 Bangla",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/873.mpd?name=TV9_Bangla&keyId=https&key=//tplay.cr7x.workers.dev/873/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Astro Duniya",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58613-kj283ly8-v2/imageContent-58613-kj283ly8-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/872.mpd?name=Tata_Play_Astro_Duniya&keyId=https&key=//tplay.cr7x.workers.dev/872/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jan TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58492-kixkb2ug-v1/imageContent-58492-kixkb2ug-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/870.mpd?name=Jan_TV&keyId=https&key=//tplay.cr7x.workers.dev/870/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Gubbare",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/867.mpd?name=Gubbare&keyId=https&key=//tplay.cr7x.workers.dev/867/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tara News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57969-khu0zsnc-v1/imageContent-57969-khu0zsnc-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/866.mpd?name=Tara_News&keyId=https&key=//tplay.cr7x.workers.dev/866/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Bangla Bhakti",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBHAKTI_Thumbnail-v3/BBHAKTI_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/865.mpd?name=Bangla_Bhakti&keyId=https&key=//tplay.cr7x.workers.dev/865/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Network 10",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56488-kfgbqzso-v3/imageContent-56488-kfgbqzso-m5.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/848.mpd?name=Network_10&keyId=https&key=//tplay.cr7x.workers.dev/848/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Krishna Vani",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56402-kfesiz4g-v1/imageContent-56402-kfesiz4g-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/847?name=Krishna_Vani&keyId=https&key=//tplay.cr7x.workers.dev/847/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Haryanvi Hits",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56399-kfesi49c-v1/imageContent-56399-kfesi49c-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/846?name=Haryanvi_Hits&keyId=https&key=//tplay.cr7x.workers.dev/846/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Wah Punjabi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56404-kfet9quw-v1/imageContent-56404-kfet9quw-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/845?name=Wah_Punjabi&keyId=https&key=//tplay.cr7x.workers.dev/845/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Somnath Temple",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/842.mpd?name=Somnath_Temple&keyId=https&key=//tplay.cr7x.workers.dev/842/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Mahakaleshwar Temple",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/841.mpd?name=Mahakaleshwar_Temple&keyId=https&key=//tplay.cr7x.workers.dev/841/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shirdi Sai Baba",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/840.mpd?name=Shirdi_Sai_Baba&keyId=https&key=//tplay.cr7x.workers.dev/840/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Kashish News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/838.mpd?name=Kashish_News&keyId=https&key=//tplay.cr7x.workers.dev/838/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Hare Krsna",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Hare-Krsna-Logo--without-Bg_2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/837?name=Hare_Krsna&keyId=https&key=//tplay.cr7x.workers.dev/837/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News India 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55547-kdzeosow-v3/imageContent-55547-kdzeosow-m6.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/831.mpd?name=News_India_24x7&keyId=https&key=//tplay.cr7x.workers.dev/831/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Filamchi Bhojpuri",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55553-kdzetu0o-v3/imageContent-55553-kdzetu0o-m8.png",
-    "group": "TATA PLAY ▶ |  Regional Bhojpuri",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/830.mpd?name=Filamchi_Bhojpuri&keyId=https&key=//tplay.cr7x.workers.dev/830/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sadhna News MP CG",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55112-kd88u9so-v1/imageContent-55112-kd88u9so-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/829.mpd?name=Sadhna_News_MP_CG&keyId=https&key=//tplay.cr7x.workers.dev/829/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sadhna Plus News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55124-kd89b0f4-v1/imageContent-55124-kd89b0f4-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/827.mpd?name=Sadhna_Plus_News&keyId=https&key=//tplay.cr7x.workers.dev/827/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Power TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/824.mpd?name=Power_TV&keyId=https&key=//tplay.cr7x.workers.dev/824/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Goldmines",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/823.mpd?name=Goldmines&keyId=https&key=//tplay.cr7x.workers.dev/823/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "RDX Goa",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/RDX",
-    "group": "TATA PLAY ▶ |  Regional Others",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/819?name=RDX_Goa&keyId=https&key=//tplay.cr7x.workers.dev/819/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shemaroo TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/818.mpd?name=Shemaroo_TV&keyId=https&key=//tplay.cr7x.workers.dev/818/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "CBeeBies",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/816.mpd?name=CBeeBies&keyId=https&key=//tplay.cr7x.workers.dev/816/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Biskope",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Bhojpuri",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/814.mpd?name=Zee_Biskope&keyId=https&key=//tplay.cr7x.workers.dev/814/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Eurosport HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Sports",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/812.mpd?name=Eurosport_HD&keyId=https&key=//tplay.cr7x.workers.dev/812/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Adbhut Kahaniyan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52369-k7e829a0-v5/imageContent-52369-k7e829a0-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/811.mpd?name=Tata_Play_Adbhut_Kahaniyan&keyId=https&key=//tplay.cr7x.workers.dev/811/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Picchar",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/810.mpd?name=Zee_Picchar&keyId=https&key=//tplay.cr7x.workers.dev/810/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Hits",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49809-k7454ppk-v3/imageContent-49809-k7454ppk-m6.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/808.mpd?name=Tata_Play_Hits&keyId=https&key=//tplay.cr7x.workers.dev/808/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "In Goa 24x7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49633-k6lny7mw-v1/imageContent-49633-k6lny7mw-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Marathi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/807.mpd?name=In_Goa_24x7&keyId=https&key=//tplay.cr7x.workers.dev/807/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Boogle Bollywood",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49636-k6lo3yfc-v1/imageContent-49636-k6lo3yfc-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/806?name=Boogle_Bollywood&keyId=https&key=//tplay.cr7x.workers.dev/806/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Nandighosha TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49597-k6k8ts8g-v2/imageContent-49597-k6k8ts8g-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Odia",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/805.mpd?name=Nandighosha_TV&keyId=https&key=//tplay.cr7x.workers.dev/805/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Studio One +",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STU1PLS_Thumbnail-v2/STU1PLS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/802.mpd?name=Studio_One_+&keyId=https&key=//tplay.cr7x.workers.dev/802/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Shemaroo MarathiBana",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Marathi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/800.mpd?name=Shemaroo_MarathiBana&keyId=https&key=//tplay.cr7x.workers.dev/800/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Twenty Four",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Malayalam",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/799.mpd?name=Twenty_Four&keyId=https&key=//tplay.cr7x.workers.dev/799/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Thirai",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/797.mpd?name=Zee_Thirai&keyId=https&key=//tplay.cr7x.workers.dev/797/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Punjabi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/796.mpd?name=Zee_Punjabi&keyId=https&key=//tplay.cr7x.workers.dev/796/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "PTC Punjabi Gold",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48860-k4nlxy14-v2/imageContent-48860-k4nlxy14-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/794.mpd?name=PTC_Punjabi_Gold&keyId=https&key=//tplay.cr7x.workers.dev/794/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Living India News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57445-kg7p5yk8-v2/imageContent-57445-kg7p5yk8-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/793.mpd?name=Living_India_News&keyId=https&key=//tplay.cr7x.workers.dev/793/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Fateh TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/791.mpd?name=Fateh_TV&keyId=https&key=//tplay.cr7x.workers.dev/791/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ek Onkar",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48807-k4m7ud0o-v2/imageContent-48807-k4m7ud0o-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/790.mpd?name=Ek_Onkar&keyId=https&key=//tplay.cr7x.workers.dev/790/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Hollywood Local",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/789.mpd?name=Tata_Play_Hollywood_Local&keyId=https&key=//tplay.cr7x.workers.dev/789/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Enterr10 Bangla",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/788.mpd?name=Enterr10_Bangla&keyId=https&key=//tplay.cr7x.workers.dev/788/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "ANB NEWS",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48498-k3zd4bsg-v1/imageContent-48498-k3zd4bsg-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/787.mpd?name=ANB_NEWS&keyId=https&key=//tplay.cr7x.workers.dev/787/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "FM News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FNEWS_Thumbnail-v2/FNEWS_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/784.mpd?name=FM_News&keyId=https&key=//tplay.cr7x.workers.dev/784/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Seniors",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/783.mpd?name=Tata_Play_Seniors&keyId=https&key=//tplay.cr7x.workers.dev/783/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Namma TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47615-k2jwaqug-v1/imageContent-47615-k2jwaqug-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/782.mpd?name=Namma_TV&keyId=https&key=//tplay.cr7x.workers.dev/782/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Prudent",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Prudent.png",
-    "group": "TATA PLAY ▶ |  Regional Konkani",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/781?name=Prudent&keyId=https&key=//tplay.cr7x.workers.dev/781/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "DIVYA",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11408-j9jqmlvs-v6/imageContent-11408-j9jqmlvs-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/775.mpd?name=DIVYA&keyId=https&key=//tplay.cr7x.workers.dev/775/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "4tv News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/774.mpd?name=4tv_News&keyId=https&key=//tplay.cr7x.workers.dev/774/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "PTC Simran",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47242-k1vmve74-v1/imageContent-47242-k1vmve74-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Punjabi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/773.mpd?name=PTC_Simran&keyId=https&key=//tplay.cr7x.workers.dev/773/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Gujarati Cinema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/772.mpd?name=Tata_Play_Gujarati_Cinema&keyId=https&key=//tplay.cr7x.workers.dev/772/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Classic Cinema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/741.mpd?name=Tata_Play_Classic_Cinema&keyId=https&key=//tplay.cr7x.workers.dev/741/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Ibaadat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44321-jz2zb8pk-v3/imageContent-44321-jz2zb8pk-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/735.mpd?name=Tata_Play_Ibaadat&keyId=https&key=//tplay.cr7x.workers.dev/735/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Showbox",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Music",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/733.mpd?name=Showbox&keyId=https&key=//tplay.cr7x.workers.dev/733/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Manoranjan TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/731.mpd?name=Manoranjan_TV&keyId=https&key=//tplay.cr7x.workers.dev/731/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "B4U Kadak",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/730.mpd?name=B4U_Kadak&keyId=https&key=//tplay.cr7x.workers.dev/730/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "B4U Bhojpuri",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Bhojpuri",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/729.mpd?name=B4U_Bhojpuri&keyId=https&key=//tplay.cr7x.workers.dev/729/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Subharti TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43103-jxzlrb0o-v2/imageContent-43103-jxzlrb0o-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Devotional",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/728.mpd?name=Subharti_TV&keyId=https&key=//tplay.cr7x.workers.dev/728/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Classic",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/727.mpd?name=Zee_Classic&keyId=https&key=//tplay.cr7x.workers.dev/727/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tamil Naaptol",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-41267-jwjjvrt4-v5/imageContent-41267-jwjjvrt4-m7.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/723.mpd?name=Tamil_Naaptol&keyId=https&key=//tplay.cr7x.workers.dev/723/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jaya TV HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/708.mpd?name=Jaya_TV_HD&keyId=https&key=//tplay.cr7x.workers.dev/708/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "TV9 Bharatvarsh",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/706.mpd?name=TV9_Bharatvarsh&keyId=https&key=//tplay.cr7x.workers.dev/706/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News J",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/702.mpd?name=News_J&keyId=https&key=//tplay.cr7x.workers.dev/702/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Jantantra TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37210-jswmlty0-v2/imageContent-37210-jswmlty0-m2.PNG",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/701.mpd?name=Jantantra_TV&keyId=https&key=//tplay.cr7x.workers.dev/701/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "INH 24X7",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35622-jrr5mvig-v1/imageContent-35622-jrr5mvig-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/698.mpd?name=INH_24X7&keyId=https&key=//tplay.cr7x.workers.dev/698/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Keralam HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Malayalam",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/694.mpd?name=Zee_Keralam_HD&keyId=https&key=//tplay.cr7x.workers.dev/694/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Eurosport",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Sports",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/693.mpd?name=Eurosport&keyId=https&key=//tplay.cr7x.workers.dev/693/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Gujarati Cinema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/692.mpd?name=Colors_Gujarati_Cinema&keyId=https&key=//tplay.cr7x.workers.dev/692/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "DD News HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/691.mpd?name=DD_News_HD&keyId=https&key=//tplay.cr7x.workers.dev/691/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Aaj Tak HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/689.mpd?name=Aaj_Tak_HD&keyId=https&key=//tplay.cr7x.workers.dev/689/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "India Voice",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/685.mpd?name=India_Voice&keyId=https&key=//tplay.cr7x.workers.dev/685/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Keralam",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Malayalam",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/684.mpd?name=Zee_Keralam&keyId=https&key=//tplay.cr7x.workers.dev/684/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Cartoon Network HD+",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Kids",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/681.mpd?name=Cartoon_Network_HD+&keyId=https&key=//tplay.cr7x.workers.dev/681/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play ShortsTV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34170-jok0hf00-v7/imageContent-34170-jok0hf00-m8.PNG",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/677.mpd?name=Tata_Play_ShortsTV&keyId=https&key=//tplay.cr7x.workers.dev/677/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Kannada HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/675.mpd?name=Zee_Kannada_HD&keyId=https&key=//tplay.cr7x.workers.dev/675/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Tamil HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/674.mpd?name=Colors_Tamil_HD&keyId=https&key=//tplay.cr7x.workers.dev/674/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "India Ahead",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India-Ahead-LOGO_without-BG--2000_X_1125.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/669.mpd?name=India_Ahead&keyId=https&key=//tplay.cr7x.workers.dev/669/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Colors Kannada Cinema",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/667.mpd?name=Colors_Kannada_Cinema&keyId=https&key=//tplay.cr7x.workers.dev/667/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Theatre HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Movies",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/666.mpd?name=Tata_Play_Theatre_HD&keyId=https&key=//tplay.cr7x.workers.dev/666/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Public Movies",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31188-jldk0joo-v2/imageContent-31188-jldk0joo-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/661.mpd?name=Public_Movies&keyId=https&key=//tplay.cr7x.workers.dev/661/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Ayush TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11257-j9iy8oj4-v2/imageContent-11257-j9iy8oj4-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Kannada",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/660.mpd?name=Ayush_TV&keyId=https&key=//tplay.cr7x.workers.dev/660/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Vendhar TV",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/659.mpd?name=Vendhar_TV&keyId=https&key=//tplay.cr7x.workers.dev/659/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Marathi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",
-    "group": "TATA PLAY ▶ |  Regional Marathi",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/658.mpd?name=Sony_Marathi&keyId=https&key=//tplay.cr7x.workers.dev/658/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "India News Gujarat",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-26589-jj9w5h54-v1/imageContent-26589-jj9w5h54-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Gujarati",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/654.mpd?name=India_News_Gujarat&keyId=https&key=//tplay.cr7x.workers.dev/654/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Bansal News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25494-ji1a6ym0-v2/imageContent-25494-ji1a6ym0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/652.mpd?name=Bansal_News&keyId=https&key=//tplay.cr7x.workers.dev/652/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "First India Rajasthan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/650.mpd?name=First_India_Rajasthan&keyId=https&key=//tplay.cr7x.workers.dev/650/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Calcutta News",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Bengali",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/648.mpd?name=Calcutta_News&keyId=https&key=//tplay.cr7x.workers.dev/648/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Isaiaruvi",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png",
-    "group": "TATA PLAY ▶ |  Regional Tamil",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/647.mpd?name=Isaiaruvi&keyId=https&key=//tplay.cr7x.workers.dev/647/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "DD Gyan Darshan",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/646.mpd?name=DD_Gyan_Darshan&keyId=https&key=//tplay.cr7x.workers.dev/646/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play English in Telugu",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23721-jg0fhacg-v2/imageContent-23721-jg0fhacg-m2.PNG",
-    "group": "TATA PLAY ▶ |  Regional Knowledge",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/645.mpd?name=Tata_Play_English_in_Telugu&keyId=https&key=//tplay.cr7x.workers.dev/645/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "News State MP CG",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31191-jldnwhhs-v1/imageContent-31191-jldnwhhs-m1.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/643.mpd?name=News_State_MP_CG&keyId=https&key=//tplay.cr7x.workers.dev/643/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Tata Play Cooking",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
-    "group": "TATA PLAY ▶ |  Regional Lifestyle",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/641.mpd?name=Tata_Play_Cooking&keyId=https&key=//tplay.cr7x.workers.dev/641/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Uttar Pradesh Uttarakhand",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21315-je85i72w-v1/imageContent-21315-je85i72w-m5.png",
-    "group": "TATA PLAY ▶ |  Regional News",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/637.mpd?name=Zee_Uttar_Pradesh_Uttarakhand&keyId=https&key=//tplay.cr7x.workers.dev/637/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Cinemalu HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/636.mpd?name=Zee_Cinemalu_HD&keyId=https&key=//tplay.cr7x.workers.dev/636/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Telugu HD",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee",
-    "group": "TATA PLAY ▶ |  Regional Telugu",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/635.mpd?name=Zee_Telugu_HD&keyId=https&key=//tplay.cr7x.workers.dev/635/key.json",
-    "status": "offline"
-  },
-  {
-    "name": "Investigation Discovery",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png",
-    "group": "TATA PLAY ▶ |  Regional Entertainment",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://tplay.cr7x.workers.dev/live/633.mpd?name=Investigation_Discovery&keyId=https&key=//tplay.cr7x.workers.dev/633/key.json",
-    "status": "offline"
   }
 ]
