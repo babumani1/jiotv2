@@ -61,7 +61,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "group": "Movies",
     "link": "https://ci.jaj-aya-m-o-t-o.workers.dev/156",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sony Ten 1 HD",
@@ -117,7 +117,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",
     "group": "Devotional",
     "link": "https://ci.jaj-aya-m-o-t-o.workers.dev/175",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ABP News India",
@@ -125,7 +125,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
     "group": "News",
     "link": "https://ci.jaj-aya-m-o-t-o.workers.dev/177",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Asianet News",
