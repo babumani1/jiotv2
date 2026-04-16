@@ -81,7 +81,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/b4u_movies.png",
     "group": "Movies",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F182.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "B4U Music",
@@ -382,7 +382,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/9XJalwa.png",
     "group": "Music",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F440.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9x Jhakaas",
@@ -2370,7 +2370,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Gemini_TV_HD.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F897.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Music HD",
@@ -3343,7 +3343,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Aastha_Telugu.png",
     "group": "Devotional",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F1254.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aastha Gujarati",
@@ -7270,7 +7270,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/p_supjio.png",
     "group": "Movies",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F3345.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Yahoo Finance",
@@ -7620,7 +7620,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/ekhonkolkata.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F3439.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TOI Global",

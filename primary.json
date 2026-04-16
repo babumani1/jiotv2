@@ -29,7 +29,7 @@
     "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",
     "group": "Sports",
     "link": "https://joplay.lrl45.workers.dev/147",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Sports 1 Hindi",
@@ -45,7 +45,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/153",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony Ten 5 HD",
@@ -829,7 +829,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/496",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "India news",
@@ -845,7 +845,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/499",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "News 24",
@@ -861,7 +861,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/502",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "IBC24",
@@ -917,7 +917,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/510",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mh One News",
@@ -933,7 +933,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/512",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "India News Rajasthan",
@@ -6397,7 +6397,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/1728",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Luv Punjab TV",
