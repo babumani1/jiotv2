@@ -81,14 +81,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/b4u_movies.png",
     "group": "Movies",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F182.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "B4U Music",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/B4U_Music.png",
     "group": "Music",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F183.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CNBC Awaaz",
@@ -7144,7 +7144,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/zbmusic.png",
     "group": "Music",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F3319.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ZB Bhakti",
