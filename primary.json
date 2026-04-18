@@ -3208,7 +3208,7 @@
     "status": "online"
   },
   {
-    "name": "Gemini Movies HD",
+    "name": "Sun Gemini Movies HD",
     "id": "899",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",
     "group": "Movies",
@@ -9016,11 +9016,27 @@
     "status": "online"
   },
   {
+    "name": "Vijay Super HD",
+    "id": "3266",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png",
+    "group": "Entertainment",
+    "link": "https://joplay.lrl45.workers.dev/3266",
+    "status": "online"
+  },
+  {
     "name": "Star Kiran",
     "id": "3267",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/3267",
+    "status": "online"
+  },
+  {
+    "name": "Vijay Takkar",
+    "id": "3269",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
+    "group": "Entertainment",
+    "link": "https://joplay.lrl45.workers.dev/3269",
     "status": "online"
   },
   {
@@ -9125,14 +9141,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/41439",
-    "status": "online"
-  },
-  {
-    "name": "Vijay Takkar",
-    "id": "41507",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
-    "group": "Entertainment",
-    "link": "https://joplay.lrl45.workers.dev/41507",
     "status": "online"
   },
   {
