@@ -24,22 +24,6 @@
     "status": "offline"
   },
   {
-    "name": "Star Sports 3",
-    "id": "147",
-    "logo": "https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/147",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Hindi",
-    "id": "148",
-    "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/148",
-    "status": "offline"
-  },
-  {
     "name": "Zee Talkies",
     "id": "153",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",
@@ -48,27 +32,11 @@
     "status": "offline"
   },
   {
-    "name": "Sony Ten 5 HD",
-    "id": "155",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/155",
-    "status": "offline"
-  },
-  {
     "name": "Star Gold HD",
     "id": "156",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/156",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 1 HD",
-    "id": "162",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/162",
     "status": "offline"
   },
   {
@@ -101,14 +69,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/173",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Hindi HD",
-    "id": "174",
-    "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/174",
     "status": "offline"
   },
   {
@@ -208,14 +168,6 @@
     "status": "offline"
   },
   {
-    "name": "DD Sports",
-    "id": "204",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/204",
-    "status": "offline"
-  },
-  {
     "name": "ET Now",
     "id": "212",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
@@ -269,7 +221,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",
     "group": "Music",
     "link": "https://joplay.lrl45.workers.dev/250",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Cinema",
@@ -301,7 +253,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",
     "group": "Business News",
     "link": "https://joplay.lrl45.workers.dev/259",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rishtey",
@@ -349,22 +301,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/291",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports Select 1 HD",
-    "id": "300",
-    "logo": "https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/300",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports Select 2 HD",
-    "id": "301",
-    "logo": "https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/301",
     "status": "offline"
   },
   {
@@ -741,7 +677,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/485",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bhojpuri Cinema",
@@ -944,14 +880,6 @@
     "status": "offline"
   },
   {
-    "name": "Sony Ten 1",
-    "id": "514",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/514",
-    "status": "offline"
-  },
-  {
     "name": "India News MP",
     "id": "515",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png",
@@ -1005,30 +933,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/522",
-    "status": "offline"
-  },
-  {
-    "name": "Ten 2",
-    "id": "523",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/523",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 3 Hindi",
-    "id": "524",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/524",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 5",
-    "id": "525",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/525",
     "status": "offline"
   },
   {
@@ -2213,7 +2117,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/709",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kairali TV",
@@ -2797,7 +2701,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/799",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Divya TV",
@@ -2941,7 +2845,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/832",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Euro News",
@@ -3080,14 +2984,6 @@
     "status": "offline"
   },
   {
-    "name": "Eurosport HD",
-    "id": "875",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/875",
-    "status": "offline"
-  },
-  {
     "name": "Times Now World",
     "id": "876",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png",
@@ -3149,22 +3045,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png",
     "group": "Devotional",
     "link": "https://joplay.lrl45.workers.dev/887",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 2 HD",
-    "id": "891",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/891",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 3 HD Hindi",
-    "id": "892",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/892",
     "status": "offline"
   },
   {
@@ -3832,14 +3712,6 @@
     "status": "offline"
   },
   {
-    "name": "TEST5 HD",
-    "id": "1061",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1061",
-    "status": "offline"
-  },
-  {
     "name": "The Q",
     "id": "1066",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",
@@ -4088,14 +3960,6 @@
     "status": "offline"
   },
   {
-    "name": "Star Sports Select 2",
-    "id": "1114",
-    "logo": "https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1114",
-    "status": "offline"
-  },
-  {
     "name": "Star Movies",
     "id": "1115",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png",
@@ -4149,22 +4013,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies_HD.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/1122",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports Select 1",
-    "id": "1123",
-    "logo": "https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1123",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Tamil",
-    "id": "1124",
-    "logo": "https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1124",
     "status": "offline"
   },
   {
@@ -4237,22 +4085,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/1140",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2",
-    "id": "1141",
-    "logo": "https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1141",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1",
-    "id": "1142",
-    "logo": "https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1142",
     "status": "offline"
   },
   {
@@ -4357,14 +4189,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png",
     "group": "Infotainment",
     "link": "https://joplay.lrl45.workers.dev/1162",
-    "status": "offline"
-  },
-  {
-    "name": "JioGames HD",
-    "id": "1163",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1163",
     "status": "offline"
   },
   {
@@ -4917,14 +4741,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/1293",
-    "status": "offline"
-  },
-  {
-    "name": "Eurosport",
-    "id": "1294",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1294",
     "status": "offline"
   },
   {
@@ -5677,7 +5493,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TEST12_HD.png",
     "group": "Kids",
     "link": "https://joplay.lrl45.workers.dev/1476",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Colors Cineplex HD",
@@ -5781,14 +5597,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/1528",
-    "status": "offline"
-  },
-  {
-    "name": "MI TV",
-    "id": "1529",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1529",
     "status": "offline"
   },
   {
@@ -6173,22 +5981,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/1647",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Kannada",
-    "id": "1650",
-    "logo": "https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1650",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Telugu",
-    "id": "1651",
-    "logo": "https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1651",
     "status": "offline"
   },
   {
@@ -6597,38 +6389,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Express_News.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/1771",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 4 HD Tamil",
-    "id": "1772",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1772",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 4 HD Telugu",
-    "id": "1773",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1773",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 4 Tamil",
-    "id": "1774",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1774",
-    "status": "offline"
-  },
-  {
-    "name": "Sony Ten 4 Telugu",
-    "id": "1775",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1775",
     "status": "offline"
   },
   {
@@ -7157,22 +6917,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/1977",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Hindi HD",
-    "id": "1984",
-    "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1984",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Hindi",
-    "id": "1985",
-    "logo": "https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/1985",
     "status": "offline"
   },
   {
@@ -7717,7 +7461,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/2253",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Media9",
@@ -8080,14 +7824,6 @@
     "status": "offline"
   },
   {
-    "name": "BRAVE TV",
-    "id": "2766",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/2766",
-    "status": "offline"
-  },
-  {
     "name": "Sacchi Report",
     "id": "2767",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sacchi_Report.png",
@@ -8168,14 +7904,6 @@
     "status": "offline"
   },
   {
-    "name": "Red Bull TV",
-    "id": "2779",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/2779",
-    "status": "offline"
-  },
-  {
     "name": "R Bangla",
     "id": "2780",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/R_Bangla.png",
@@ -8237,22 +7965,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/IN24_Live.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/2851",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Telugu",
-    "id": "2852",
-    "logo": "https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/2852",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Tamil",
-    "id": "2853",
-    "logo": "https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/2853",
     "status": "offline"
   },
   {
@@ -8541,14 +8253,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Now.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/3009",
-    "status": "offline"
-  },
-  {
-    "name": "Lancs TV HD",
-    "id": "3011",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/3011",
     "status": "offline"
   },
   {
@@ -9056,67 +8760,11 @@
     "status": "offline"
   },
   {
-    "name": "Star Sports 2 HD",
-    "id": "4456",
-    "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4456",
-    "status": "offline"
-  },
-  {
     "name": "Maa Music",
     "id": "4457",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
     "group": "Music",
     "link": "https://joplay.lrl45.workers.dev/4457",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Tamil HD",
-    "id": "4468",
-    "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4468",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 HD",
-    "id": "4470",
-    "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4470",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 1 Telugu HD",
-    "id": "4471",
-    "logo": "https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4471",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Kannada",
-    "id": "4472",
-    "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4472",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Tamil HD",
-    "id": "4473",
-    "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4473",
-    "status": "offline"
-  },
-  {
-    "name": "Star Sports 2 Telugu HD",
-    "id": "4474",
-    "logo": "https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",
-    "group": "Sports",
-    "link": "https://joplay.lrl45.workers.dev/4474",
     "status": "offline"
   },
   {
