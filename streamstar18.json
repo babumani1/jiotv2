@@ -11,14 +11,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/CNBCTV18Prime.png",
     "group": "Business",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F143.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Colors HD",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/ColorsHD.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F144.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "History TV18 HD",
@@ -39,14 +39,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Travel_XP_HD.png",
     "group": "Lifestyle",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F164.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Cartoon Network Telugu",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/CNTelugu.png",
     "group": "Kids",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F166.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aaj Tak",
@@ -67,14 +67,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/ABP_News_India.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F177.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Asianet News",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Asianet_News.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F180.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "B4U Movies",
@@ -109,14 +109,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/ColorsGujarati.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F196.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD National",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/DD_National.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F202.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD News",
@@ -2426,7 +2426,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/GoodNews_Channel.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F907.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Newslive Bangla",
@@ -4337,7 +4337,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/24hourstv.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F1725.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Anaadi TV",
