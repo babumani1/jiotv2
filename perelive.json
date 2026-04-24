@@ -991,7 +991,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F787.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CVR Health",
@@ -1026,7 +1026,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F977.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Captain",
@@ -2888,7 +2888,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F493.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "India Voice",
@@ -3434,7 +3434,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F951.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Live TV Kerala",
@@ -6787,7 +6787,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1061.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TEST8 HD",
@@ -7634,28 +7634,28 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3320.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZB Cartoon",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3321.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZB Cinema",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3322.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZB Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3319.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZOOM",
@@ -7774,7 +7774,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3317.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Dw",
