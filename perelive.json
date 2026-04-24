@@ -4806,7 +4806,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F794.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Penta TV",
@@ -6472,7 +6472,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3394.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Comedy",
@@ -6787,7 +6787,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1061.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TEST8 HD",
