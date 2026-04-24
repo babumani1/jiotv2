@@ -304,6 +304,14 @@
     "status": "online"
   },
   {
+    "name": "Star Jalsha HD",
+    "id": "317",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
+    "group": "Entertainment",
+    "link": "https://joplay.lrl45.workers.dev/317",
+    "status": "online"
+  },
+  {
     "name": "Star Pravah HD",
     "id": "336",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",
@@ -549,6 +557,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/445",
+    "status": "online"
+  },
+  {
+    "name": "Star Jalsha Movies HD",
+    "id": "457",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies_HD.png",
+    "group": "Movies",
+    "link": "https://joplay.lrl45.workers.dev/457",
     "status": "online"
   },
   {
@@ -4005,14 +4021,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
     "group": "Entertainment",
     "link": "https://joplay.lrl45.workers.dev/1121",
-    "status": "online"
-  },
-  {
-    "name": "Star Jalsha Movies HD",
-    "id": "1122",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies_HD.png",
-    "group": "Movies",
-    "link": "https://joplay.lrl45.workers.dev/1122",
     "status": "online"
   },
   {
@@ -8752,6 +8760,14 @@
     "status": "online"
   },
   {
+    "name": "Zee Bangla Sonar",
+    "id": "3476",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png",
+    "group": "Entertainment",
+    "link": "https://joplay.lrl45.workers.dev/3476",
+    "status": "online"
+  },
+  {
     "name": "Star Movies Select",
     "id": "4302",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png",
@@ -8797,14 +8813,6 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild.png",
     "group": "Knowledge",
     "link": "https://joplay.lrl45.workers.dev/41659",
-    "status": "online"
-  },
-  {
-    "name": "Star Jalsha HD",
-    "id": "301972",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
-    "group": "Entertainment",
-    "link": "https://joplay.lrl45.workers.dev/301972",
     "status": "online"
   }
 ]
