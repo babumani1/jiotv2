@@ -991,7 +991,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F787.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CVR Health",
@@ -1026,7 +1026,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F977.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Captain",
@@ -2713,7 +2713,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2005.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "IN24 Live",
@@ -2888,7 +2888,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F493.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "India Voice",
@@ -6724,7 +6724,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/tsatvidya.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3304.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TEST1 HD",
