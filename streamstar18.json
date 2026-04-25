@@ -95,7 +95,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/CNBCAwaaz.png",
     "group": "Business",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F190.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CNN",
@@ -4015,14 +4015,14 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/abstarnews.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F1553.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sanatan TV",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/sanatan.png",
     "group": "Devotional",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F1554.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News First",
@@ -4904,7 +4904,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Aadinath_TV.png",
     "group": "Devotional",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F2002.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "3.0 TV",
