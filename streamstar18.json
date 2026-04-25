@@ -95,28 +95,28 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/CNBCAwaaz.png",
     "group": "Business",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F190.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CNN",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/CNN.png",
     "group": "News",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F193.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Colors Gujarati",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/ColorsGujarati.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F196.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD National",
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/DD_National.png",
     "group": "Entertainment",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F202.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD News",
@@ -4904,7 +4904,7 @@
     "logo": "https://jiotv.freelivtv.xyz/jtvimage/Aadinath_TV.png",
     "group": "Devotional",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjiotv.freelivtv.xyz%2Flive%2F2002.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "3.0 TV",

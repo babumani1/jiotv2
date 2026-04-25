@@ -6010,7 +6010,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2754.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Siri Kannada",
@@ -6465,14 +6465,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3345.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Suriya TV",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3394.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Comedy",
@@ -6542,7 +6542,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3459.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Swatantra News",
