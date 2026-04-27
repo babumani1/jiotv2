@@ -497,6 +497,13 @@
     "status": "online"
   },
   {
+    "name": "Manchester United vs Brentford 20:00 (SKY SPORTS PL)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://dice-live-oc.akamaized.net/hdntl=exp=1777380085~acl=%2f*~id=75a23de8-e3f0-4658-8530-f4cb62d1a16a~data=hdntl,aXA9MTgwLjE5MS4xMjcuMiZleHA9MTc3NzI5MzcxNSZlaWQ9OTQ0MTg0Jm9pZD0xMDImdHlwZT1WT0QmdWlkPUV6NEFlN3w0ODVmMzZkZi01YzY2LTRiYWQtOGU1OS01Yjg2MzNmMzY0NzkmY2lkPWRjZS5hZGphcmEmcHQ9bnVsbA~hmac=c643e2c6d46c3ffed5413d707714c1e5f088125674727e21471eebe8dca253b3/dash/live/2093753/219035-314047/manifest-d.mpd?name=Manchester_United_vs_Brentford_20:00_(SKY_SPORTS_PL)&keyId=7a2758575dc04d63acc3573ab594d441&key=47071dd80de746a38cdc6a4dcde21abc",
+    "status": "online"
+  },
+  {
     "name": "Manchester United vs Brentford 20:00 (NOW SPORTS PL)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
@@ -509,6 +516,27 @@
     "group": "EMAX++ EVENTS",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?name=Manchester_United_vs_Brentford_20:00_(NBC_UNIVERSO)&keyId=96b67fa09140329a89b7a1ead134eda3&key=c618d32c56cdc6cad8330eb98507ca3f",
     "status": "online"
+  },
+  {
+    "name": "Manchester United vs Brentford 20:00 (USA TV - AQ)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbalkisusuleimanfema.s3.us-west-2.amazonaws.com%2Fbtsport.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "Manchester United vs Brentford 20:00 (SKY MAIN EVENT)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdatakameha.route64.de%2Ffs%2Fp%2Fskysportsmainevent%2Findex.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Manchester United vs Brentford 20:00 (USA NETWORK)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdatakameha.route64.de%2Ffs%2Fp%2FUSANETEAST%2Findex.m3u8",
+    "status": "offline"
   },
   {
     "name": "Manchester United vs Brentford 20:00 (HUB PREMIER HD)",
@@ -530,13 +558,6 @@
     "group": "EMAX++ EVENTS",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd?name=Espanyol_vs_Levante_UD_20:00_(PREMIER_SPORTS)&keyId=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f",
     "status": "online"
-  },
-  {
-    "name": "Espanyol vs Levante UD 20:00 (ESPN DEPORTES)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsmarthard.click%2Fhls%2Fsabrouchespndeportes%2Findex.m3u8",
-    "status": "offline"
   },
   {
     "name": "Cagliari vs Atalanta 17:30 (beIN ENGLISH)",
@@ -567,6 +588,13 @@
     "status": "online"
   },
   {
+    "name": "Lazio vs Udinese 19:45 (SKY SPORTS IT)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FEU%2FHDTV12%2Ftracks-v1a1%2Fmono.m3u8",
+    "status": "offline"
+  },
+  {
     "name": "Alanyaspor vs Samsunspor 15:00 (beIN SPORTS SD)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
@@ -586,6 +614,13 @@
     "group": "EMAX++ EVENTS",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2Fbil1%2Fligtv2%2Ftracks-v1a1%2Fmono.m3u8",
     "status": "offline"
+  },
+  {
+    "name": "Cádiz vs Las Palmas 19:30 (Laliga Hypermotion ES)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd?name=Cádiz_vs_Las_Palmas_19:30_(Laliga_Hypermotion_ES)&keyId=d69894c7b729c5d1e85893e5e6cfcb0f&key=db0d53f871f5d2ef91d3a112c7ec9f30",
+    "status": "online"
   },
   {
     "name": "Windward Islands Volcanoes Vs Guyana Harpy Eagles | West Indies Championship 2026 (ENGLISH)",
@@ -609,6 +644,13 @@
     "status": "online"
   },
   {
+    "name": "Cádiz Vs Las Palmas | LALIGA Hypermotion 2025-26 (ENGLISH)",
+    "logo": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
+    "group": "FC BD",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffancode-bd-srhady.vercel.app%2Fc_diz_vs_las_palmas_142041_english.m3u8",
+    "status": "offline"
+  },
+  {
     "name": "-ATP-1000-old--(1).png\" group-title=\"FC BD\"",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
     "group": "FC BD",
@@ -620,13 +662,6 @@
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
     "group": "FC BD",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffancode-bd-srhady.vercel.app%2Fday_6___arantxa_sanchez_stadium_141863_english.m3u8",
-    "status": "online"
-  },
-  {
-    "name": "-ATP-1000-old-_1776846287648.png\" group-title=\"FC BD\"",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-    "group": "FC BD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffancode-bd-srhady.vercel.app%2Fday_6___stadium_3_142284_english.m3u8",
     "status": "online"
   },
   {
@@ -651,6 +686,20 @@
     "status": "offline"
   },
   {
+    "name": "[DRM] ENG | Rcd Espanyol Vs Levante",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/131143_5427_ESL_LE_FC-Web.png",
+    "group": "FC IN",
+    "link": "https://in-mc-flive.fancode.com/mumbai/131143_english_dash_30101_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/&drmScheme=clearkey&drmLicense={\"keys\":[{\"kty\":\"oct\",\"kid\":\"rgu6yN2RTsyjkwZUXD7_2w\",\"k\":\"mMtqr1aQMp3LkROYOp_79w\"}],\"type\":\"temporary\"}",
+    "status": "offline"
+  },
+  {
+    "name": "ENG | Cádiz Vs Las Palmas",
+    "logo": "https://images.fancode.com/aig/match/v1776063278977/142041_CASACARDS_APP.png",
+    "group": "FC IN",
+    "link": "https://dai-fancode.pages.dev/mumbai/142041_english_hls_d3da588fcf42348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "status": "offline"
+  },
+  {
     "name": "-ATP-1000-old--(1).png\" tvg-language=\"English\" group-title=\"FC IN\"",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
     "group": "FC IN",
@@ -662,13 +711,6 @@
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png",
     "group": "FC IN",
     "link": "https://dai-fancode.pages.dev/mumbai/141863_english_hls_af94cf330e7094_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "status": "offline"
-  },
-  {
-    "name": "-ATP-1000-old-_1776846287648.png\" tvg-language=\"English\" group-title=\"FC IN\"",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-    "group": "FC IN",
-    "link": "https://dai-fancode.pages.dev/mumbai/142284_english_hls_5e06d0e84745235_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
     "status": "offline"
   },
   {
@@ -1257,7 +1299,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/red-bull-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdms.redbull.tv%2Fv5%2Fdestination%2Frbtv%2Flinear-borb%2Fpersonal_computer%2Fhttp%2Fbd%2Fen%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Eurosport HD",
@@ -1446,7 +1488,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/deshi-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fdeshitv.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Deshe Bideshe HD",
@@ -2327,322 +2369,322 @@
     "name": "Star Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3Dcv_A-d4wnNRyt9KkLU7XuA%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3DTGUtHqYKeg9qqcEJ2CP53Q%26expires%3D1777321154",
     "status": "offline"
   },
   {
     "name": "Star Sports 1 Hindi",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DBdJfVzEvG4jo0ru3kIcb8g%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DOxhqRIHVI7PG8MhAhk-_DQ%26expires%3D1777321155",
     "status": "offline"
   },
   {
     "name": "PTV Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3DBnLJMqUcIvT5nHynb3eihg%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3DiOo9iqgeZN-eTOL0EsYY7A%26expires%3D1777321155",
     "status": "offline"
   },
   {
     "name": "Willow HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3D1mJzgjmRSpUSTYbbx_-2CQ%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3Dp-qEj8Vsl-_eXVI9mB2Cyw%26expires%3D1777321155",
     "status": "offline"
   },
   {
     "name": "Willow HD 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3D2B7sE0bQ-VZLZ-AotBjL8Q%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3Dy9uiElXjS_ryU76bJTfFvA%26expires%3D1777321155",
     "status": "offline"
   },
   {
     "name": "Ten Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DuF5m22qLS54PYvz2RMf_ew%26expires%3D1777316685",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DjbgXx7pVtnIawmTDVQo9xA%26expires%3D1777321155",
     "status": "offline"
   },
   {
     "name": "A Sports HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3DQOADeXXSrJfkL4-eDoK8sA%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3D4ywK5aDQ8DyPrwTEC9NlxQ%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "Sky Sports Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3DerpANz7xCfMPfgxJ9yqpPg%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3Di4lt4MLCRjV6Kt_2NteJJQ%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "Sky Sports Main Event",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DycXgNTHaGEtVFGL1gKfFTQ%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DcEDCuqbHHc1QiGw4GJ9QxQ%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "TNT 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3DnjAklIZvCz8-a_l5T0oXRg%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3Dx2bodeQtQkQ2E4wiEGoU9Q%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "TNT 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3Dv_sHWoGYyTs7ZuXGBV7uzA%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3D4yzB1GvWk-H5sO6813kASw%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "TNT 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3D_Md3KxWZnvYxJzodg48Ysw%26expires%3D1777316686",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3DO6DRP1n8Qczxxd7udy6XBg%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "TNT 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DjnfEqVPgmG_k-9OZiBnwSw%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DtUyCu19BXHJwgbOSyXs8WQ%26expires%3D1777321156",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3DMqm1UHxJJom3vaPXzd0Qow%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3DvI3kpB_LlujpDkjbITo5dQ%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DbxUmwBynj7o875OEggTaQg%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DuVFzvnW8-0dskgxnJXZo8A%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3DblcC9e2NRSjhFskgWhXQ5g%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3DFXxdUjJKvMyqUV2gCbUb9g%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3DBmowr5_n6CQiZfyXgEQuhQ%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3DZzH_gklFowKqViBezBONDA%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 5",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3Dmn9B33-tvBHAcISdxIUo9w%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3D5SUMVzumzYur4s5ptdvC6A%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport 6 Nz",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3D2f-RElDP0lf6xxZa0uj1MQ%26expires%3D1777316687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3DDKbAS5eKeZRIiLrHBEeqTw%26expires%3D1777321157",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 7",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DtVsI0Re0-UUIPGFJFgH1Tw%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DbaLgA-Epe4AnxTzfOZJqSg%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 8",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3DG5JDEwdvDgd_0RYhAePWKA%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3DfUY2KW0RRG4-hUP9kkUJgQ%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 9",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3DNMhCXBnbxsOQ4DXFPh6ueg%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3DOsEwvn44fv3aMKHNthE7gQ%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Cinema",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DaUqAJcD-Y92odWcuOqMKMA%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DYSNTDRxHbWZaY3108q2g0A%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Sports Action",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DpZxtjP-SdgfPTtdmBK5pbQ%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DXMVkiMnM7afLzjNyH85x-A%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Sports Golf",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3DE1uPwMe9jvSgJoZ_XL4RRw%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3DuPDeK0VYjL-yZucmbrrrRQ%26expires%3D1777321158",
     "status": "offline"
   },
   {
     "name": "Sky Sports Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3DSyrndbGVt1KesFJfvFEFDQ%26expires%3D1777316688",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3DqICMVYVR2XICdSINj9VpWg%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Sky Sports Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3Dt33NaGS3ibw9zekKCoNnAw%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3Dos64B13ZfspJscu2ZbtOEg%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Sky Sports Plus",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DPSXRWG5cXJA9CBru9colPA%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DRc7IuXJivQndJEYAdst00g%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Sky Sports F1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3DbfjbI5hp8_EjxtuKZsMVdQ%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3DEVSoSa5zifdMycIiAuXQbg%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "LaLiGA",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3DW3o9_-YXEhXqulYxQkGXpw%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3DXgcVUAcpkleiR3rnOUbG9g%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Premier Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3D8RiOI50KnyRbNRJd2Mdwwg%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3D79g45thKUtrCcohdE1MWAg%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Premier Sports 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3DpaAMwO1pxULjbc1f8Pbx1A%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3DVrErZeSVEjFbCQJ5P9vMKA%26expires%3D1777321159",
     "status": "offline"
   },
   {
     "name": "Super Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DTgXAvZFi8k3EEYtIdNtORw%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DAnKLPMq9rHHOH6Tvynlpww%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "Super Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3Db-jSiEyCYYCJBhkRcApyOw%26expires%3D1777316689",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3DPxIPJWadd53cHRw910gWvg%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "Astro Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3D3J4sp9rnFH_DNkwmtFKj0A%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DWVTuQcDtJhgE-poJlVTOJw%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "ESPN 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DsioZqdDiB_BVQn2ocuF_tw%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DzXPlOtQPY-b9BAUuy5wtrA%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "ESPN 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DQpccUkzSFg8hZbAZLIHenw%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DgbcGOE5tBjnjNxZRHX5JVA%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "Sky Sports Arena",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DmUCrrt1AHXJGZ0UOm85-OA%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DyPgGdXDmQu6719Pt8q0c4w%26expires%3D1777321160",
     "status": "offline"
   },
   {
     "name": "Sky Sports Mix",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3D3ILD139wsUY5JwFyqb93Eg%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3DopfniklRE-XBr8lN1Mx9kA%26expires%3D1777321161",
     "status": "offline"
   },
   {
     "name": "Sky Sports Tennis",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3D3wRKbQftyf0Sm5k8GXpQeA%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3Dn5BaSjkaPYy1g__527kXsg%26expires%3D1777321161",
     "status": "offline"
   },
   {
     "name": "Fox Cricket 501 HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3D3J4sp9rnFH_DNkwmtFKj0A%26expires%3D1777316690",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DLlDEYYnyMqpf3UgZB0JM4g%26expires%3D1777321161",
     "status": "offline"
   },
   {
     "name": "Sony Sports3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3DufWiyG9vCjfjGZRE5acQfw%26expires%3D1777316691",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3Dphug-Ut5M5QahoApCSye2A%26expires%3D1777321161",
     "status": "offline"
   },
   {
     "name": "BTV World",
     "logo": "https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtv_world%2Findex.m3u8%3Fe%3D1777316837%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D442918f8e7b7ea8a53d748cec6d5993d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtv_world%2Findex.m3u8%3Fe%3D1777327769%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D767602b5017223b2a27fb4c3e591555a",
     "status": "online"
   },
   {
     "name": "BTV CTG",
     "logo": "https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtvctg%2Findex.m3u8%3Fe%3D1777316838%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D032234adc902b16527af54ffb3ab08e7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtvctg%2Findex.m3u8%3Fe%3D1777327770%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd8cdb33fb2f8cec672848f569dfa1e3f",
     "status": "online"
   },
   {
     "name": "Peace TV Bangla HD",
     "logo": "https://s3.aynaott.com/storage/e33b23f7dc3d39008d672952c33069d4",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FPeaceTvBanglaHD%2Findex.m3u8%3Fe%3D1777316839%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd2f329c887a8c6b963e2238a83f17ac3",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FPeaceTvBanglaHD%2Findex.m3u8%3Fe%3D1777327770%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6f97829992f6a9515db68a68053ad3a6",
     "status": "offline"
   },
   {
     "name": "TIME TV USA",
     "logo": "https://s3.aynaott.com/storage/111bfd01fb43770e925ca9cf16663f56",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftimetv%2Findex.m3u8%3Fe%3D1777316839%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D80fc00aaadfd5ebd564dcc7a0babaf54",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftimetv%2Findex.m3u8%3Fe%3D1777327771%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da92bf8a4924e239bea3261a2956716a9",
     "status": "offline"
   },
   {
@@ -2650,168 +2692,168 @@
     "logo": "https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen3.b-cdn.net%2FqUud8Nxs%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "NTV",
     "logo": "https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fntvbd%2Findex.m3u8%3Fe%3D1777316842%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dce5ea143f1822d59eb81ef92aae2d399",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fntvbd%2Findex.m3u8%3Fe%3D1777327773%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6cdc8ce34d62819933dfe3f7b7703a44",
     "status": "offline"
   },
   {
     "name": "Bangla Vision",
     "logo": "https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fbanglavision%2Findex.m3u8%3Fe%3D1777316842%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4d318d7df03194cb0d1ddedc441a7a76",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fbanglavision%2Findex.m3u8%3Fe%3D1777327774%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D74d789966d47deeb2e0efd69e107dce6",
+    "status": "offline"
   },
   {
     "name": "RTV",
     "logo": "https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FRtvHD%2Findex.m3u8%3Fe%3D1777316843%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D69b9b516a0b076b502f4107eef851418",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FRtvHD%2Findex.m3u8%3Fe%3D1777327775%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3eb1080fdacc82cd3f72f1d1ccf3bfad",
+    "status": "offline"
   },
   {
     "name": "ATN Bangla",
     "logo": "https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fatnbangla%2Findex.m3u8%3Fe%3D1777316843%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D57227c2d7f12a89874d20637010c97e6",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fatnbangla%2Findex.m3u8%3Fe%3D1777327775%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7b154a4fbd18b5a9f195a8a6d1d1c813",
+    "status": "offline"
   },
   {
     "name": "ETV",
     "logo": "https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fetv%2Findex.m3u8%3Fe%3D1777316844%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D55d0e8db9990ba48ff948e2aa15d358e",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fetv%2Findex.m3u8%3Fe%3D1777327776%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Deadd70e56d69730196f4466cc5d84640",
+    "status": "offline"
   },
   {
     "name": "Maasranga TV",
     "logo": "https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fmaasrangatv%2Findex.m3u8%3Fe%3D1777316845%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc7fed1e1fdcf8dd0d335d8e89ba73d18",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fmaasrangatv%2Findex.m3u8%3Fe%3D1777327777%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D366b97d28fbca29af644a75834e02348",
+    "status": "offline"
   },
   {
     "name": "Deepto TV",
     "logo": "https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FDeeptoTVHD%2Findex.m3u8%3Fe%3D1777316845%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7178f809170a45631dde2dffb6674af8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FDeeptoTVHD%2Findex.m3u8%3Fe%3D1777327778%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df82faf2af1954a5b731a9a3eedb70af8",
+    "status": "offline"
   },
   {
     "name": "Gazi TV",
     "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FRavc7gPCZpxk%2Findex.m3u8%3Fe%3D1777316846%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D306466b3bea0fec4abfb6b73ab18d547",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FRavc7gPCZpxk%2Findex.m3u8%3Fe%3D1777327778%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4191a9126da332a26029198cb7b6d336",
+    "status": "offline"
   },
   {
     "name": "Desh TV",
     "logo": "https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdeshtv%2Findex.m3u8%3Fe%3D1777316847%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3999e10f1e6abfa8e43fdbed22a7ed1f",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdeshtv%2Findex.m3u8%3Fe%3D1777327779%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D756a7ada004b6168e88fdb89e1d328e5",
+    "status": "offline"
   },
   {
     "name": "Boishakhi TV",
     "logo": "https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fboishakhitv%2Findex.m3u8%3Fe%3D1777316848%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D33b36116de2a7ccb109bfb546c660935",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fboishakhitv%2Findex.m3u8%3Fe%3D1777327780%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dffc6c8e28fae606a34df5748c069be38",
+    "status": "offline"
   },
   {
     "name": "Channel 9",
     "logo": "https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fchannel9%2Findex.m3u8%3Fe%3D1777316848%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D796ff98d7c2545fdab7e5f18ca103525",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fchannel9%2Findex.m3u8%3Fe%3D1777327780%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2966177b5c393c24badec9300f7478c0",
+    "status": "offline"
   },
   {
     "name": "Asian TV",
     "logo": "https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fasiantv%2Findex.m3u8%3Fe%3D1777316849%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D03ec9e61603d99a121119987e51d9f70",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fasiantv%2Findex.m3u8%3Fe%3D1777327781%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De4077d9a937262ee421af16de07990f9",
+    "status": "offline"
   },
   {
     "name": "SA TV",
     "logo": "https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fsatv%2Findex.m3u8%3Fe%3D1777316850%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df8a1cbb09c17e1f82adfbb8544919cfd",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fsatv%2Findex.m3u8%3Fe%3D1777327782%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db314ce636f2939825617ae394b61ee89",
+    "status": "offline"
   },
   {
     "name": "Duronto TV",
     "logo": "https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdurontotv-live%2Findex.m3u8%3Fe%3D1777316850%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df0cf6684e8bfed10d08f4f09fbbbbe9a",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdurontotv-live%2Findex.m3u8%3Fe%3D1777327782%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4c7734b8b9717a71718522e022769e9f",
+    "status": "offline"
   },
   {
     "name": "Bangla TV",
     "logo": "https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbanglatv%2Findex.m3u8%3Fe%3D1777316851%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D19614267e2a4cd05a5e3569f428f378a",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbanglatv%2Findex.m3u8%3Fe%3D1777327783%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4dfe871cb2915625dcec9d0f53608a17",
+    "status": "offline"
   },
   {
     "name": "BTV NATIONAL HD",
     "logo": "https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtvhd%2Findex.m3u8%3Fe%3D1777316851%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D9891d46745d1aeeae8d9a1735172c739",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbtvhd%2Findex.m3u8%3Fe%3D1777327784%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D88ebee0fdd121597ecc3c54af0f30579",
     "status": "online"
   },
   {
     "name": "Ananda TV",
     "logo": "https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fanandatv%2Findex.m3u8%3Fe%3D1777316852%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc108257dfc2cc4ac4a2e90b23ce0d687",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fanandatv%2Findex.m3u8%3Fe%3D1777327784%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D64af89dc2fcd1cbbb6d5016cc4a5ef6d",
     "status": "online"
   },
   {
     "name": "My TV",
     "logo": "https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmytv%2Findex.m3u8%3Fe%3D1777316853%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df8172be124301f7cd093e55c6b56980e",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmytv%2Findex.m3u8%3Fe%3D1777327785%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcef24fa095db183d23681eb8d462f549",
+    "status": "offline"
   },
   {
     "name": "Global TV",
     "logo": "https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fglobaltvhd%2Findex.m3u8%3Fe%3D1777316853%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De894a75f9610002bcdab912d54398717",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fglobaltvhd%2Findex.m3u8%3Fe%3D1777327786%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfe8f54d48f878b2ea1858661a099b7d3",
+    "status": "offline"
   },
   {
     "name": "Bijoy TV",
     "logo": "https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbijoytv%2Findex.m3u8%3Fe%3D1777316854%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D82bb775b1e4a9a887e2090a5add2f9bf",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbijoytv%2Findex.m3u8%3Fe%3D1777327787%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D30701c73fb5ec65f4f3292642ca7f322",
+    "status": "offline"
   },
   {
     "name": "NEXUS TV",
     "logo": "https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnexustv%2Findex.m3u8%3Fe%3D1777316855%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd7bae0d4ddc4fb4f1c1c5002a5ecd7db",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnexustv%2Findex.m3u8%3Fe%3D1777327787%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8fcfe9b77ed8c04440c5a5b946a56745",
+    "status": "offline"
   },
   {
     "name": "Mohona TV",
     "logo": "https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmohonatv%2Findex.m3u8%3Fe%3D1777316855%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8642c4dc13ebd313534d18a4a147cc77",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmohonatv%2Findex.m3u8%3Fe%3D1777327788%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D56ef415ca9dcee5a2d3950caae75df07",
+    "status": "offline"
   },
   {
     "name": "Drama 24",
     "logo": "https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvods2.aynascope.net%2FgseriesDrama%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABC 7 Bay",
@@ -2824,84 +2866,84 @@
     "name": "ABC News",
     "logo": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FAbcNews%2Findex.m3u8%3Fe%3D1777316857%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddf9f7a9818b8f677b53f8f00b0f2f282",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FAbcNews%2Findex.m3u8%3Fe%3D1777327790%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8b6434041435916f40ce0763871fdc39",
+    "status": "offline"
   },
   {
     "name": "BEK TV News",
     "logo": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.wowza.com%2F5%2FZWQ1K2NYTmpFbGsr%2FBEK-WOWZA-1%2Fsmil%3ABEKPRIMEeast.smil%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Somoy News TV",
     "logo": "https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fsomoytv%2Findex.m3u8%3Fe%3D1777316860%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D055fbaafdfeefad7c4c0ce07c0e44d22",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fsomoytv%2Findex.m3u8%3Fe%3D1777327794%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D456565a656a76adb8b202165cd23fe5d",
+    "status": "offline"
   },
   {
     "name": "Channel 24",
     "logo": "https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fchannel24%2Findex.m3u8%3Fe%3D1777316861%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da3f0605c4c4bcdb5155763a6a4eb1c16",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fchannel24%2Findex.m3u8%3Fe%3D1777327794%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D11a662d5f1dca4ac823233b07d987792",
+    "status": "offline"
   },
   {
     "name": "ATN News",
     "logo": "https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fatnnews%2Findex.m3u8%3Fe%3D1777316861%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5c56ee6278bdeaf4e6470018c45d0769",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fatnnews%2Findex.m3u8%3Fe%3D1777327795%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3388ae5eff05190dc3a09ac43485acd3",
+    "status": "offline"
   },
   {
     "name": "Independent TV",
     "logo": "https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Findependenttv%2Findex.m3u8%3Fe%3D1777316862%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D65092ff6705e87a72262f819c3015545",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Findependenttv%2Findex.m3u8%3Fe%3D1777327796%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D1cddd8eb7872c29d3c2b5e11b0a3d35a",
+    "status": "offline"
   },
   {
     "name": "DBC News",
     "logo": "https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdbcnews%2Findex.m3u8%3Fe%3D1777316862%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dffb621a4bb8cde4c6b862dd1345eb05c",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdbcnews%2Findex.m3u8%3Fe%3D1777327796%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4ff6955e717747ba879e6101dcbef57d",
+    "status": "offline"
   },
   {
     "name": "Ekhon TV",
     "logo": "https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fekhontv%2Findex.m3u8%3Fe%3D1777316863%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D916aa370260a76cae0c2d5c53afc2fdb",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fekhontv%2Findex.m3u8%3Fe%3D1777327797%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da45c441fc14a28af4b6b46e2b7d2199b",
+    "status": "offline"
   },
   {
     "name": "News 24 BD",
     "logo": "https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnews24%2Findex.m3u8%3Fe%3D1777316864%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D771297e9824348738994cd645bb030cc",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnews24%2Findex.m3u8%3Fe%3D1777327798%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcfd61d15c664184c77dcbb632ab553ec",
+    "status": "offline"
   },
   {
     "name": "Ekattor TV",
     "logo": "https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fekattorbdtv%2Findex.m3u8%3Fe%3D1777316864%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Daddbac00722fd1870bdc1461521058ab",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fekattorbdtv%2Findex.m3u8%3Fe%3D1777327799%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfe763c8b5058c5bbe3808bc4d44571d4",
+    "status": "offline"
   },
   {
     "name": "Jamuna TV",
     "logo": "https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fjamunatv%2Findex.m3u8%3Fe%3D1777316865%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D81c4984fdf1c553129d456feacf2ee19",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fjamunatv%2Findex.m3u8%3Fe%3D1777327799%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D39feb63f633821ff36989262345195eb",
+    "status": "offline"
   },
   {
     "name": "CNN",
     "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcnn%2Findex.m3u8%3Fe%3D1777316865%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd390dff203a45ff91af5ba11e852f15b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcnn%2Findex.m3u8%3Fe%3D1777327800%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0966359d10f57647bdb3ce22d5d88319",
     "status": "online"
   },
   {
@@ -2922,7 +2964,7 @@
     "name": "NHK World",
     "logo": "https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnhkworld%2Findex.m3u8%3Fe%3D1777316867%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D1af90ed703d4b96ffd0839b5cf2a8c76",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnhkworld%2Findex.m3u8%3Fe%3D1777327802%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D411f02943521fd5dc06d2674938bfaa7",
     "status": "online"
   },
   {
@@ -2936,22 +2978,22 @@
     "name": "ANB News",
     "logo": "https://s3.aynaott.com/storage/4ec06dcab54cbbf5b204f797555e6b31",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FANB_News%2Findex.m3u8%3Fe%3D1777316869%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D62062f8341e77b895be8cce40d4d339c",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FANB_News%2Findex.m3u8%3Fe%3D1777327805%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd6459352f77b02cf888b547601ba5f4d",
+    "status": "offline"
   },
   {
     "name": "News 1 India",
     "logo": "https://s3.aynaott.com/storage/c643b3f7d7f79ad3913b5d2037f13a88",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNews1India%2Findex.m3u8%3Fe%3D1777316870%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4d531b8b7f1540ac853c1b67ced4ebb9",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNews1India%2Findex.m3u8%3Fe%3D1777327805%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D63000c03d05369d8977a794d7db3c273",
+    "status": "offline"
   },
   {
     "name": "Sadhna Prime News",
     "logo": "https://s3.aynaott.com/storage/80e4113d034ad20bcbea341dcb4ae27e",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FSadhnaPrimeNews%2Findex.m3u8%3Fe%3D1777316871%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D85007027bf63400842ef47f0e101e8a4",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FSadhnaPrimeNews%2Findex.m3u8%3Fe%3D1777327806%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddb7318ed10575323f307ac960bd7628c",
+    "status": "offline"
   },
   {
     "name": "TV9 Bangla",
@@ -2971,21 +3013,21 @@
     "name": "TV9 Bharatvarsh",
     "logo": "https://s3.aynaott.com/storage/b5ac48b419add1992d235f7adc884889",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FTV9Bharatvarsh%2Findex.m3u8%3Fe%3D1777316872%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D73510e9c648b16b1f7a7ba576817c796",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FTV9Bharatvarsh%2Findex.m3u8%3Fe%3D1777327808%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D66aec996f48a14bcafdbc825fb8a5d6f",
     "status": "offline"
   },
   {
     "name": "Sky News",
     "logo": "https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fskynews%2Findex.m3u8%3Fe%3D1777316874%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De3334fdc74e43d57215a2a15c1ad18c0",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fskynews%2Findex.m3u8%3Fe%3D1777327810%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc652d15d7c8294a2395c5a967960bbda",
+    "status": "offline"
   },
   {
     "name": "Hindi Khabar",
     "logo": "https://s3.aynaott.com/storage/d3943796d7fe5962ca5385b656682b1a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FHindiKhabar%2Findex.m3u8%3Fe%3D1777316874%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd1dc925834422df8e8686ee871e7d3fa",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FHindiKhabar%2Findex.m3u8%3Fe%3D1777327810%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D56323cd59acfe1b11b23c7ad5401bf55",
     "status": "online"
   },
   {
@@ -2999,15 +3041,15 @@
     "name": "Bharat Samachar",
     "logo": "https://s3.aynaott.com/storage/d04287478c2aa26265b600174318992d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FBharatSamachar%2Findex.m3u8%3Fe%3D1777316875%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df6867ec0a5bd64b0f3d65be6e2c2973e",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FBharatSamachar%2Findex.m3u8%3Fe%3D1777327812%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4961807adf6bc1858d466785950358a1",
+    "status": "offline"
   },
   {
     "name": "Fox News",
     "logo": "https://s3.aynaott.com/storage/18fb4fcb519d5df8323e48c1d58f5ae7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoxnews%2Findex.m3u8%3Fe%3D1777316877%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da00adcbdd1a8dff26ec63a9b1cd373ed",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoxnews%2Findex.m3u8%3Fe%3D1777327813%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc97777bd2652ba7765a8f95bb4b69115",
+    "status": "offline"
   },
   {
     "name": "India Today",
@@ -3028,34 +3070,34 @@
     "logo": "https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.presstv.ir%2Fhls%2Fpresstv_5_482%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "T Sports HD",
     "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsports-hd%2Findex.m3u8%3Fe%3D1777316879%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2457df942a1d6e19441001d434ab3609",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsports-hd%2Findex.m3u8%3Fe%3D1777327816%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc19133260c5f2316bd80963bb6a81fb3",
+    "status": "offline"
   },
   {
     "name": "PTV Sports",
     "logo": "https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FPtvSports%2Findex.m3u8%3Fe%3D1777316880%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D350e018365d047c4a79b7c93fbeeb813",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FPtvSports%2Findex.m3u8%3Fe%3D1777327816%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D876a040075bb996285b21e43ab110052",
     "status": "online"
   },
   {
     "name": "A sports",
     "logo": "https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fasports%2Findex.m3u8%3Fe%3D1777316881%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dff87b029362eb6b642c17099e2d4398d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fasports%2Findex.m3u8%3Fe%3D1777327818%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7093249f5cf8a11e768a01f7284f4987",
     "status": "online"
   },
   {
     "name": "Cricket Gold",
     "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FCricketGold%2Findex.m3u8%3Fe%3D1777316881%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0e6e6d92fc55e47c80ed30ca14e44ebc",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FCricketGold%2Findex.m3u8%3Fe%3D1777327819%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3a2fb47eb7396c0406118f1f651c816b",
     "status": "online"
   },
   {
@@ -3090,8 +3132,8 @@
     "name": "Golf Channel",
     "logo": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fgolfchannel%2Findex.m3u8%3Fe%3D1777316884%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D267d36a1dec48f68c077b1942a9f6be8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fgolfchannel%2Findex.m3u8%3Fe%3D1777327822%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D864372d951063723362de3113ad7e678",
+    "status": "offline"
   },
   {
     "name": "Bleav Football",
@@ -3104,14 +3146,14 @@
     "name": "Fox Sports 2",
     "logo": "https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffoxsports2%2Findex.m3u8%3Fe%3D1777316886%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddf314ffeca964d5344a071690145bdd5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffoxsports2%2Findex.m3u8%3Fe%3D1777327824%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D59a2afe5640629bd1ddad5275ccd70f2",
     "status": "online"
   },
   {
     "name": "Star Sports 1 HD",
     "logo": "https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fc9EpzZ6fQBJ3%2Findex.m3u8%3Fe%3D1777316886%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df4e7fb8f9127dfa9567ece6af0d7c52b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fc9EpzZ6fQBJ3%2Findex.m3u8%3Fe%3D1777327825%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3ae5d6f62dfb9b13ba3dc3852f79d00b",
     "status": "online"
   },
   {
@@ -3125,21 +3167,21 @@
     "name": "BT Sports 2",
     "logo": "https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FbtSport2%2Findex.m3u8%3Fe%3D1777316888%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df88ca7e866149462084c333b2708a395",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FbtSport2%2Findex.m3u8%3Fe%3D1777327827%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddd3beb25ee00117d801f22159bd665cd",
     "status": "offline"
   },
   {
     "name": "Espn",
     "logo": "https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fespn%2Findex.m3u8%3Fe%3D1777316889%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da5235cfd6bac24a0dc4d15fa4a439b98",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fespn%2Findex.m3u8%3Fe%3D1777327827%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D820c6c16d3cad1eb466dcf85333d60c0",
     "status": "online"
   },
   {
     "name": "TSN 2",
     "logo": "https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn2%2Findex.m3u8%3Fe%3D1777316889%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D878a2fe832e1082d472f50678b74979c",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn2%2Findex.m3u8%3Fe%3D1777327828%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcfcf53cea885f80f67f479af29269351",
     "status": "online"
   },
   {
@@ -3153,8 +3195,8 @@
     "name": "Talk Sport",
     "logo": "https://s3.aynaott.com/storage/5128cd32518d5a9ba7a37e21947fd8fd",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FtalkSPORT%2Findex.m3u8%3Fe%3D1777316891%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D77f32ba4e284ffd43208fc823bdc3fd5",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FtalkSPORT%2Findex.m3u8%3Fe%3D1777327829%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D95a581d666761ec0a792d3e28adb257c",
+    "status": "offline"
   },
   {
     "name": "KTV Sport Plus",
@@ -3174,21 +3216,21 @@
     "name": "Marquee Sports Network",
     "logo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FMarqueeSportsNetwork%2Findex.m3u8%3Fe%3D1777316892%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2f99dbe1772a611541094335e1406719",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FMarqueeSportsNetwork%2Findex.m3u8%3Fe%3D1777327832%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcb0ecbb5ce7efb7ae4d743c2024c7b02",
+    "status": "offline"
   },
   {
     "name": "Star Sport Select 1",
     "logo": "https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fspsel1%2Findex.m3u8%3Fe%3D1777316894%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D53f92301f4bf73d8daba80c713551009",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fspsel1%2Findex.m3u8%3Fe%3D1777327833%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D46032c3900da1a569f1d88a3802817d3",
     "status": "offline"
   },
   {
     "name": "Sports Grid",
     "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FSportsGrid%2Findex.m3u8%3Fe%3D1777316894%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df93a343d992edff36b5e8843ddd9499a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FSportsGrid%2Findex.m3u8%3Fe%3D1777327834%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db9e5ff1bf9c2b8f6a570b142950f5969",
     "status": "online"
   },
   {
@@ -3202,7 +3244,7 @@
     "name": "Bloomberg TV",
     "logo": "https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbloombergtv%2Findex.m3u8%3Fe%3D1777316896%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D46acaa849a4d576c76b586e5f2114c6a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fbloombergtv%2Findex.m3u8%3Fe%3D1777327836%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db12b3f0d214a140b53897e8506b02ad3",
     "status": "online"
   },
   {
@@ -3237,42 +3279,42 @@
     "name": "Willow HD TV",
     "logo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fwillowhd%2Findex.m3u8%3Fe%3D1777316900%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8c6317407c1514461f7273f2697ae1f8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fwillowhd%2Findex.m3u8%3Fe%3D1777327840%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df5f1dfbc70973829031d3cbc1b443825",
     "status": "online"
   },
   {
     "name": "NFL Network",
     "logo": "https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnfl%2Findex.m3u8%3Fe%3D1777316900%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc9ae0130c9cae0a6d10a2ce230264457",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnfl%2Findex.m3u8%3Fe%3D1777327840%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D76a787167ed10069a3122e30ec9d41b7",
     "status": "online"
   },
   {
     "name": "BT Sport 1",
     "logo": "https://s3.aynaott.com/storage/d7e38c0cbe2627352888645f68cc857b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FbtSport1%2Findex.m3u8%3Fe%3D1777316901%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D088da49204cafa45119165dece33d4ee",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FbtSport1%2Findex.m3u8%3Fe%3D1777327841%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db61c0e53d9748625906981a8064a2dd9",
     "status": "offline"
   },
   {
     "name": "Fox Sports 1",
     "logo": "https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffoxsports1%2Findex.m3u8%3Fe%3D1777316901%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D87dcd971c05d59d748b8e4f40d68b4de",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffoxsports1%2Findex.m3u8%3Fe%3D1777327842%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dbaab598bc062a000d581a2852f16f0ec",
     "status": "online"
   },
   {
     "name": "TSN 1",
     "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn1%2Findex.m3u8%3Fe%3D1777316902%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da824ce3eaff4cf3655502686f5c1d2e7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn1%2Findex.m3u8%3Fe%3D1777327843%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcd074c45b88cd17d85834e89464d19f2",
     "status": "online"
   },
   {
     "name": "TSN 3",
     "logo": "https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn3%2Findex.m3u8%3Fe%3D1777316903%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De6ed56311d3ee1a3bbc96c22c0aa25ad",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftsn3%2Findex.m3u8%3Fe%3D1777327843%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D285d4edd88f7db5af9f82e2416d49f8f",
     "status": "online"
   },
   {
@@ -3286,8 +3328,8 @@
     "name": "Bahrain Sports 2",
     "logo": "https://s3.aynaott.com/storage/4429e88eac56b0c7c7274ce36db967d8",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FBahrainSports2%2Findex.m3u8%3Fe%3D1777316907%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8ab1728f19479e583e588fddebd3534f",
-    "status": "offline"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FBahrainSports2%2Findex.m3u8%3Fe%3D1777327848%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8a2dd60af3e41e23cae1c3e6a8d59cb8",
+    "status": "online"
   },
   {
     "name": "Dubai Sports 3",
@@ -3314,7 +3356,7 @@
     "name": "STAR SPORTS 2 HD",
     "logo": "https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FcXPB2LKkErN9%2Findex.m3u8%3Fe%3D1777316910%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dca3cd89819e73934a595ad61d2126e8e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FcXPB2LKkErN9%2Findex.m3u8%3Fe%3D1777327851%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D59d0fc70546821e6897a93c133a7b7f2",
     "status": "online"
   },
   {
@@ -3377,7 +3419,7 @@
     "name": "Aakaash Bangla TV",
     "logo": "https://s3.aynaott.com/storage/04a8e0917184b617f74b85f98a8cf983",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FWm9Lv2RjZGT6%2Findex.m3u8%3Fe%3D1777316931%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D072b6a071aac3afdcddb0893740e8074",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FWm9Lv2RjZGT6%2Findex.m3u8%3Fe%3D1777327875%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddfd7551a83309b48df796df34abf7d1d",
     "status": "online"
   },
   {
@@ -3391,7 +3433,7 @@
     "name": "R Plus Gold",
     "logo": "https://s3.aynaott.com/storage/5a7f80e9417b452051a0e75db768e796",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRplusGold%2Findex.m3u8%3Fe%3D1777316932%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D916a64fc7a7ae2feb4a0aa04fa98ba8a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRplusGold%2Findex.m3u8%3Fe%3D1777327876%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5a4f3fba333acad9cd84bf7c65b76652",
     "status": "offline"
   },
   {
@@ -3405,56 +3447,56 @@
     "name": "News Time Bangla",
     "logo": "https://s3.aynaott.com/storage/b051fa53014fff26dabf744955969810",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNewsTime%2Findex.m3u8%3Fe%3D1777316934%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D64d795bf01b9c59180e780e36ccca50d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNewsTime%2Findex.m3u8%3Fe%3D1777327878%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc5dc43266fa5649cd1958770a897098c",
     "status": "offline"
   },
   {
     "name": "Republic Bangla",
     "logo": "https://s3.aynaott.com/storage/18cb20e8e53eb27249c62d3aedf51241",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FR_Bangla%2Findex.m3u8%3Fe%3D1777316934%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da6904fa73e9a24ea6d45da21d5419e26",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FR_Bangla%2Findex.m3u8%3Fe%3D1777327879%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D69575e3211e16ab871655c3603393e28",
     "status": "online"
   },
   {
     "name": "Zee 24 Ghanta",
     "logo": "https://s3.aynaott.com/storage/fea79ac5193dd9fb80aa1996f2adc1e2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fzee24%2Findex.m3u8%3Fe%3D1777316935%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfdc86ee9c629fd859ea0311a105c26dd",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fzee24%2Findex.m3u8%3Fe%3D1777327881%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3fa26b58945cf3dbb6c7099e489a9e1a",
     "status": "online"
   },
   {
     "name": "News India 24x7",
     "logo": "https://s3.aynaott.com/storage/b6d9c515205186e7f23afb0b1ccba232",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FNewsIndia24x7%2Findex.m3u8%3Fe%3D1777316936%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2aae9400c3fbbd82d626562f89b0b4c9",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FNewsIndia24x7%2Findex.m3u8%3Fe%3D1777327881%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd72ca2873dd9e7fae75fdbf6ec313ade",
     "status": "offline"
   },
   {
     "name": "kolkata TV",
     "logo": "https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fkolkatatv%2Findex.m3u8%3Fe%3D1777316937%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dbc2d422922189c2059a1e4f2c913dc73",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fkolkatatv%2Findex.m3u8%3Fe%3D1777327882%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D606f3ea45ac7ae7dc6093237d7f8971c",
     "status": "online"
   },
   {
     "name": "Millennium TV",
     "logo": "https://s3.aynaott.com/storage/b6cd78082093f534a90c9e3ba38149f2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fmillenniumtv%2Findex.m3u8%3Fe%3D1777316938%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2c3048d3aaeeecb103387c0d4e9a65b3",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fmillenniumtv%2Findex.m3u8%3Fe%3D1777327883%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D005529b4e761269099ebd97331fd7ee7",
     "status": "offline"
   },
   {
     "name": "Movie Bangla",
     "logo": "https://s3.aynaott.com/storage/a535fd3aae1f5dc79e9afa561cf28983",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fmoviebangla%2Findex.m3u8%3Fe%3D1777316938%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df7190c864be04d25a557d42d5b8556fd",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fmoviebangla%2Findex.m3u8%3Fe%3D1777327884%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D29cb3ee862818951c47100346b3d415c",
     "status": "online"
   },
   {
     "name": "Peace TV",
     "logo": "https://s3.aynaott.com/storage/cccbc9a19bb14504beacff550f47d014",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fpeacetv%2Findex.m3u8%3Fe%3D1777316940%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5ffc26092a765c67d20e6bb2ac887c6f",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fpeacetv%2Findex.m3u8%3Fe%3D1777327885%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2dc62f2a5817f51cf4dc041c9f8d7d4c",
     "status": "offline"
   },
   {
@@ -3468,35 +3510,35 @@
     "name": "Discovery Science",
     "logo": "https://s3.aynaott.com/storage/530b47c088522c355a93788fd80fbb1b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_science%2Findex.m3u8%3Fe%3D1777316941%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4739ff255bf9b302614ea9e2b545535e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_science%2Findex.m3u8%3Fe%3D1777327887%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df3ddd5299c9e8e4e5c5c40f7f87da4e3",
     "status": "online"
   },
   {
     "name": "ASPARK TV",
     "logo": "https://s3.aynaott.com/storage/f59de29ce5a130a96023442694a2c58c",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Faspark%2Findex.m3u8%3Fe%3D1777316942%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D628c647cf7f6f6178c899fb893d5a27e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Faspark%2Findex.m3u8%3Fe%3D1777327888%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5654eb58c5f578c9c518da1dd3df24ff",
     "status": "online"
   },
   {
     "name": "pix 11",
     "logo": "https://s3.aynaott.com/storage/294b72dc2ca7b74ab3312059728cab22",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fpix11%2Findex.m3u8%3Fe%3D1777316942%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D575367a8073375be6a5b3cc6d86b61c1",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fpix11%2Findex.m3u8%3Fe%3D1777327888%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcf2ac8d6b7a6bd15812c2ccd240c6dc0",
     "status": "online"
   },
   {
     "name": "AMC TV",
     "logo": "https://s3.aynaott.com/storage/5522b7ef736d7f4e7f80ac6325dce821",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Famc%2Findex.m3u8%3Fe%3D1777316943%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd1b5face5d5477cb3c603c598f7cdfd7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Famc%2Findex.m3u8%3Fe%3D1777327889%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db7ba5477ebc7ee8d6c3f5d2a57aba1f6",
     "status": "online"
   },
   {
     "name": "AXS",
     "logo": "https://s3.aynaott.com/storage/56d2c21362152b678998094f1c670dd5",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Faxs%2Findex.m3u8%3Fe%3D1777316943%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D826570ba6ec670273328210577431b0a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Faxs%2Findex.m3u8%3Fe%3D1777327890%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De9225ccbd63209c738259db274437b17",
     "status": "online"
   },
   {
@@ -3504,20 +3546,20 @@
     "logo": "https://s3.aynaott.com/storage/45a768728c7514ba59d1a0ccf806e222",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdntv.tbs.seoul.kr%2Ftbs%2Ftbs_tv_web.smil%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Revolt",
     "logo": "https://s3.aynaott.com/storage/78bc841232179b088a10eb32564c6c49",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Frevolt%2Findex.m3u8%3Fe%3D1777316947%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D130f4b759abab47088effb3c8a9ea41f",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Frevolt%2Findex.m3u8%3Fe%3D1777327893%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd5efb083717087f34be093d86bd793a0",
     "status": "online"
   },
   {
     "name": "Discovery HD",
     "logo": "https://s3.aynaott.com/storage/99526d9269f86250d6bb6cb625cd8275",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_hd%2Findex.m3u8%3Fe%3D1777316948%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da33b3ebf2d3a888e3174b24a3879e3d7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_hd%2Findex.m3u8%3Fe%3D1777327894%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5723a77b7ab45623ac1c0f91d70b106a",
     "status": "online"
   },
   {
@@ -3532,7 +3574,7 @@
     "logo": "https://s3.aynaott.com/storage/24f86d03093467c8b9fa0e17f72c4e06",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2Forigin5.mediacdn.ru%2Flive%2Fkidstv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "InTravel",
@@ -3615,14 +3657,14 @@
     "name": "Islam TV",
     "logo": "https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fislam%2Findex.m3u8%3Fe%3D1777316964%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5ab0739fcfa89a8e90cb9128a192d54a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fislam%2Findex.m3u8%3Fe%3D1777327912%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5c56d04fc1c078d0d6c37436caca5696",
     "status": "offline"
   },
   {
     "name": "RDS Social TV",
     "logo": "https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRDSSocialTV%2Findex.m3u8%3Fe%3D1777316965%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcda2ce5f34d86356a35ba70e256e91af",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRDSSocialTV%2Findex.m3u8%3Fe%3D1777327913%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D75578e959c39cf27af11e8badf34b8a5",
     "status": "online"
   },
   {
@@ -3636,49 +3678,49 @@
     "name": "HBO",
     "logo": "https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fhbo%2Findex.m3u8%3Fe%3D1777316966%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfed53c2492e25e0c26545e8c436163f2",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fhbo%2Findex.m3u8%3Fe%3D1777327915%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Daea07afd163319dcade02b89b1365365",
     "status": "online"
   },
   {
     "name": "History",
     "logo": "https://s3.aynaott.com/storage/72ea808c9221d980cb79623ce3c5e820",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fhistoryen%2Findex.m3u8%3Fe%3D1777316967%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc26c387db5a10dfde6ce98f59979725b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fhistoryen%2Findex.m3u8%3Fe%3D1777327915%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4e7bb14087ffb2559078cd13fc5f0425",
     "status": "online"
   },
   {
     "name": "CGTN Docu",
     "logo": "https://s3.aynaott.com/storage/319020b844885cbabcd34e3f2f84d283",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FcgtnDocumentary%2Findex.m3u8%3Fe%3D1777316967%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da105c4d694c2754eeca107e1c83fcdbe",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FcgtnDocumentary%2Findex.m3u8%3Fe%3D1777327916%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfa98094543034f40b092bf884e7a2360",
     "status": "online"
   },
   {
     "name": "Discovery Turbo",
     "logo": "https://s3.aynaott.com/storage/d3f1746d033e2c46deca83fd5e54b08b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_turbo%2Findex.m3u8%3Fe%3D1777316968%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D515a24eb777a4eb98d0d19bdfe8d3255",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fdiscovery_turbo%2Findex.m3u8%3Fe%3D1777327917%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3f38734131c778abb60fc3c772730e0e",
     "status": "online"
   },
   {
     "name": "Fox business",
     "logo": "https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoxbusiness%2Findex.m3u8%3Fe%3D1777316969%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db4ca5d53dc9b9c04fb214bfd3a23ab54",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoxbusiness%2Findex.m3u8%3Fe%3D1777327918%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db08bdd7307a8d28eec3eefd50b50423f",
     "status": "online"
   },
   {
     "name": "Fox 5",
     "logo": "https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffox5%2Findex.m3u8%3Fe%3D1777316969%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd4c6d0cdd1dc43c44d2d8ce1d2fce17a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffox5%2Findex.m3u8%3Fe%3D1777327918%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dba12fb3b5401ae9862ccf257b6557765",
     "status": "online"
   },
   {
     "name": "Discovery Family",
     "logo": "https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fdiscoveryfamily%2Findex.m3u8%3Fe%3D1777316970%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3fd58f3563168662e3e3166a17f6e7be",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fdiscoveryfamily%2Findex.m3u8%3Fe%3D1777327919%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc19e370894ba881174b62218fd8f95da",
     "status": "online"
   },
   {
@@ -3692,161 +3734,161 @@
     "name": "BRAVO",
     "logo": "https://s3.aynaott.com/storage/7604a2c87620363fce86b73731b8035d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fbravo%2Findex.m3u8%3Fe%3D1777316971%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D49e5190b0e77a64f86be83cdb7cb6a88",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fbravo%2Findex.m3u8%3Fe%3D1777327920%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D881344ff0b3b46630a47523c194720af",
     "status": "online"
   },
   {
     "name": "COMEDY CENTRAL",
     "logo": "https://s3.aynaott.com/storage/211d55de947bdf03f5c18b7e30e0d98b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcomedycentral%2Findex.m3u8%3Fe%3D1777316972%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D01c8fac9cd251a86b1ce5c5fbabd5ea8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcomedycentral%2Findex.m3u8%3Fe%3D1777327921%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D62e124e123ea92ec9bf1cc5bece55587",
     "status": "online"
   },
   {
     "name": "COOKING TV",
     "logo": "https://s3.aynaott.com/storage/bf9792dc04cace6a25407b6304a35046",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcooking%2Findex.m3u8%3Fe%3D1777316972%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db14a841a5fef4af5c264c16b0301da82",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcooking%2Findex.m3u8%3Fe%3D1777327922%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcae9485df99b851501599606d93cd0d1",
     "status": "online"
   },
   {
     "name": "EPIX TV",
     "logo": "https://s3.aynaott.com/storage/c0b0c986890a8c88c3566d93e18cada6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fepix%2Findex.m3u8%3Fe%3D1777316973%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df507e95f42c3ced5de24c4bae6c6db3e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fepix%2Findex.m3u8%3Fe%3D1777327922%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df6ad071f2a7cf060991008b845dc8f87",
     "status": "online"
   },
   {
     "name": "FX TV",
     "logo": "https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffx%2Findex.m3u8%3Fe%3D1777316973%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8912d0307459992afa372b276cea741a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ffx%2Findex.m3u8%3Fe%3D1777327923%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De8db04b74e67e2aec21835baf4922142",
     "status": "online"
   },
   {
     "name": "Food Network",
     "logo": "https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoodnetwork%2Findex.m3u8%3Fe%3D1777316974%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfe8b6b18c496ffddd1d4da80e960947d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ffoodnetwork%2Findex.m3u8%3Fe%3D1777327924%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7d24328507b5aaa5ca308bc3b34a50e7",
     "status": "online"
   },
   {
     "name": "HBO 2",
     "logo": "https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fhbo2%2Findex.m3u8%3Fe%3D1777316975%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D009115e05b00be5cff85456a53080150",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fhbo2%2Findex.m3u8%3Fe%3D1777327924%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3568d07f81ed9221b184cc64e6a52520",
     "status": "online"
   },
   {
     "name": "HGTV",
     "logo": "https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fhgtv%2Findex.m3u8%3Fe%3D1777316975%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df556b8af975b02ef63514269d07fe7d6",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fhgtv%2Findex.m3u8%3Fe%3D1777327925%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D46a061c754fa7df8b900aa4e2b948b80",
     "status": "online"
   },
   {
     "name": "LAFF TV",
     "logo": "https://s3.aynaott.com/storage/ac4e2fb2e4eccd7417e5cc5b5a733369",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Flaff%2Findex.m3u8%3Fe%3D1777316976%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D14fc899ae2710084f0afffb58d866c95",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Flaff%2Findex.m3u8%3Fe%3D1777327926%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6ba3a377d60df4d051b0ddb4f94121bc",
     "status": "online"
   },
   {
     "name": "LIFE TIME",
     "logo": "https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Flifetime%2Findex.m3u8%3Fe%3D1777316976%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D1ebca1beb69c91957d53a747cce99f45",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Flifetime%2Findex.m3u8%3Fe%3D1777327927%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D661657e6022b72087304c07039cacce6",
     "status": "online"
   },
   {
     "name": "Nat Geo TV",
     "logo": "https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnatgeo%2Findex.m3u8%3Fe%3D1777316977%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D274e9ed0a505f1eef6612801ba1e3777",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fnatgeo%2Findex.m3u8%3Fe%3D1777327927%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7b4e575f4e220dfa0aad15c762f63d44",
     "status": "online"
   },
   {
     "name": "SKY CINEMA ANIMATION",
     "logo": "https://s3.aynaott.com/storage/a6d7d9729aafd5055bfd5356b6fa8eef",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fskycinemanimation%2Findex.m3u8%3Fe%3D1777316978%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df699196021859ab4e5956c4f984afed2",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fskycinemanimation%2Findex.m3u8%3Fe%3D1777327928%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddaf9279937d54da1d7aa00ae12d52132",
     "status": "online"
   },
   {
     "name": "SYFY TV",
     "logo": "https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fsyfy%2Findex.m3u8%3Fe%3D1777316978%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D23017dda3e32bd776f025633f46589a6",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fsyfy%2Findex.m3u8%3Fe%3D1777327929%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D98adc2510054631ef6361a72a3ca5b8e",
     "status": "online"
   },
   {
     "name": "TLC HD",
     "logo": "https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ftlc_hd%2Findex.m3u8%3Fe%3D1777316979%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5a9165e22f597961c9eddf95db048cca",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ftlc_hd%2Findex.m3u8%3Fe%3D1777327929%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df5389e62bcd4df539e1ad4d93743aec0",
     "status": "online"
   },
   {
     "name": "Travel Channel",
     "logo": "https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ftravelxp%2Findex.m3u8%3Fe%3D1777316980%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0a3cd005bd5c3dbbac3349dfb72b20a7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Ftravelxp%2Findex.m3u8%3Fe%3D1777327931%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Deaa84f07bc8a2af167fe0bd9a5e6f0a2",
     "status": "online"
   },
   {
     "name": "IBTV USA",
     "logo": "https://s3.aynaott.com/storage/1678abdbf203bb77af4bbf2905a3de59",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fibtvusa%2Findex.m3u8%3Fe%3D1777316981%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Daabb4d35388f692ce040aba6d58e2be1",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fibtvusa%2Findex.m3u8%3Fe%3D1777327931%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5663d07b3bf3f4527f660a9e25bc4057",
     "status": "online"
   },
   {
     "name": "WEATHER CHANNEL",
     "logo": "https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTheWeatherChannel%2Findex.m3u8%3Fe%3D1777316981%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D89af093d0fa833957407add1e51300c9",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTheWeatherChannel%2Findex.m3u8%3Fe%3D1777327932%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dac4ab1ade767c1f2c82af5d138730f95",
     "status": "online"
   },
   {
     "name": "CNBC TV",
     "logo": "https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcnbc%2Findex.m3u8%3Fe%3D1777316982%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De6710f7e5a0248407fd29c08ac9e14db",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcnbc%2Findex.m3u8%3Fe%3D1777327933%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dac5a9f45eb4e6223b43b216a6d195a88",
     "status": "online"
   },
   {
     "name": "CBS TV",
     "logo": "https://s3.aynaott.com/storage/41536a676b99c1996efbccd8f65df42b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcbs%2Findex.m3u8%3Fe%3D1777316982%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2015024a1f514dec0e2d1d90e17c19fe",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fcbs%2Findex.m3u8%3Fe%3D1777327933%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6075491f040770b0a07af4e4e1bb5452",
     "status": "online"
   },
   {
     "name": "CP 24",
     "logo": "https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcp24%2Findex.m3u8%3Fe%3D1777316983%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcd967bea60210b3758b347291f255d50",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fcp24%2Findex.m3u8%3Fe%3D1777327934%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D16e4be6c4d719ae0eaa273b0fcbaf06d",
     "status": "online"
   },
   {
     "name": "MTV",
     "logo": "https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmtv%2Findex.m3u8%3Fe%3D1777316984%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df36b7a148be814250d3f05d2785ae81a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmtv%2Findex.m3u8%3Fe%3D1777327935%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd56c3d626b52e17fd293f554f310e1bd",
     "status": "online"
   },
   {
     "name": "USA TV",
     "logo": "https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fusa%2Findex.m3u8%3Fe%3D1777316984%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D93797cbbc3f01c6615eb3c66a493697e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fusa%2Findex.m3u8%3Fe%3D1777327936%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df79e13d20bdee861a9e5924d3dfaae89",
     "status": "online"
   },
   {
     "name": "MSNBC News",
     "logo": "https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmsnbc%2Findex.m3u8%3Fe%3D1777316985%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dcb08b6c42ccd590113ee8f5371d35b0e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmsnbc%2Findex.m3u8%3Fe%3D1777327936%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D51bcf5b9e45c80fe131142038f227dd5",
     "status": "online"
   },
   {
@@ -3881,7 +3923,7 @@
     "name": "B4U Hitz",
     "logo": "https://s3.aynaott.com/storage/cf6bf88febd62a03ae727788b3d52566",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FB4UHitz%2Findex.m3u8%3Fe%3D1777316990%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfea8d81feea49317a91a1956cb59faf6",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FB4UHitz%2Findex.m3u8%3Fe%3D1777327942%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D43503b5b054897e367dc1056d2db5d48",
     "status": "offline"
   },
   {
@@ -3895,7 +3937,7 @@
     "name": "Goldmines",
     "logo": "https://s3.aynaott.com/storage/9d0cda929d2a459842a85cce47442776",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FGoldmines%2Findex.m3u8%3Fe%3D1777316991%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D1eea7a5f0f6b8a1dd2dc43145cc9c008",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FGoldmines%2Findex.m3u8%3Fe%3D1777327943%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dbdd31210f42fac4ec6713633f70772bd",
     "status": "online"
   },
   {
@@ -3909,7 +3951,7 @@
     "name": "Goldmines Movies",
     "logo": "https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FGoldminesMovies%2Findex.m3u8%3Fe%3D1777316992%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D44462b0b14b42c7057b1307001ddb067",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FGoldminesMovies%2Findex.m3u8%3Fe%3D1777327945%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Ddce0376ed0412ff087994f7384cea154",
     "status": "online"
   },
   {
@@ -3923,35 +3965,35 @@
     "name": "Assam Talks",
     "logo": "https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FAssamTalks%2Findex.m3u8%3Fe%3D1777316993%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D66de69c7eb73615324a05419014ee0c0",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FAssamTalks%2Findex.m3u8%3Fe%3D1777327946%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D9299860928eb9083c5073862a4442484",
     "status": "online"
   },
   {
     "name": "Taaza TV",
     "logo": "https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FTaazaTV%2Findex.m3u8%3Fe%3D1777316994%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db5cdf230e8173d323c4b58bc12243d35",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FTaazaTV%2Findex.m3u8%3Fe%3D1777327947%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De37d0e7a9fda2d0a14d2261311a855d1",
     "status": "online"
   },
   {
     "name": "Dangal 2",
     "logo": "https://s3.aynaott.com/storage/67b12df982bbb07b6a5af35d691dbb54",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDangal2%2Findex.m3u8%3Fe%3D1777316994%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D52b6e4b6f4a304783efce1c24a58ae31",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDangal2%2Findex.m3u8%3Fe%3D1777327947%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd4effff967d89ae13759730c93f44d2a",
     "status": "online"
   },
   {
     "name": "Dangal",
     "logo": "https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDangal%2Findex.m3u8%3Fe%3D1777316995%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df8b18016828461d1cbbc5325230da857",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDangal%2Findex.m3u8%3Fe%3D1777327948%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc1881835fd8dbfdacf57342d66dc4454",
     "status": "online"
   },
   {
     "name": "TheQ",
     "logo": "https://s3.aynaott.com/storage/5e07d993dda4763f4c35125fb9734e72",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTheQ%2Findex.m3u8%3Fe%3D1777316996%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5280d26242a491dd434749cb1e7a102d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTheQ%2Findex.m3u8%3Fe%3D1777327949%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfbc649ee7934eb407e4de6b192c98aaa",
     "status": "online"
   },
   {
@@ -3965,42 +4007,42 @@
     "name": "Dhamaal",
     "logo": "https://s3.aynaott.com/storage/fbc83a10908188b587aead1bde39a8b3",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDhamaal%2Findex.m3u8%3Fe%3D1777316997%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc44172314647d02c68888ba4de5a06e1",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDhamaal%2Findex.m3u8%3Fe%3D1777327950%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd99401c3367af4214808870f2cfdb904",
     "status": "offline"
   },
   {
     "name": "Dabangg",
     "logo": "https://s3.aynaott.com/storage/acfb4adc18020853437df064788dcbca",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDabangg%2Findex.m3u8%3Fe%3D1777316998%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dfd287371ccab54c6bc0cb7b6e442bf20",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDabangg%2Findex.m3u8%3Fe%3D1777327951%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5b8d349db90bf11857ea0d20dd0ab7f7",
     "status": "offline"
   },
   {
     "name": "Hi Dost",
     "logo": "https://s3.aynaott.com/storage/99cc4db2b1e5b2a259427660646f9684",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FHiDost%2Findex.m3u8%3Fe%3D1777316998%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7ee217b5d94ed3f678952f3828058831",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FHiDost%2Findex.m3u8%3Fe%3D1777327952%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5b8c80dcc82bcdb51397ece94f49a65f",
     "status": "offline"
   },
   {
     "name": "9XM",
     "logo": "https://s3.aynaott.com/storage/8fb5a75cdb00b465703c4952f4eaaac6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9xm%2Findex.m3u8%3Fe%3D1777316999%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da559fcbd59fb5b5195215334a731b8c7",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9xm%2Findex.m3u8%3Fe%3D1777327953%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D21a978d69a5574e49c309a3fb4b2a324",
     "status": "offline"
   },
   {
     "name": "Manoranjan Movies",
     "logo": "https://s3.aynaott.com/storage/62a667c60e95b0d8e0a0c4d70275a7fc",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FManoranjanMovies%2Findex.m3u8%3Fe%3D1777317000%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2d20945f7f0171e9c9acd3b483f00d45",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FManoranjanMovies%2Findex.m3u8%3Fe%3D1777327954%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0ec1a14cc20009eaeb1f9433ad84e92b",
     "status": "offline"
   },
   {
     "name": "Mastiii Music",
     "logo": "https://s3.aynaott.com/storage/ec0191729a03669fda8ba55c7ba1d4f2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmastimusic%2Findex.m3u8%3Fe%3D1777317001%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6f6fca696003475ef78d741394451cc4",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fmastimusic%2Findex.m3u8%3Fe%3D1777327954%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db69a4254043c0af20051e4b175322989",
     "status": "offline"
   },
   {
@@ -4014,21 +4056,21 @@
     "name": "9x Jalwa",
     "logo": "https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9xjalwa%2Findex.m3u8%3Fe%3D1777317002%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dff3cde763ed4b4574ed7a4180945338c",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9xjalwa%2Findex.m3u8%3Fe%3D1777327956%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6d3cbfdf44aff7c173152e61e7f205f0",
     "status": "online"
   },
   {
     "name": "9X Tashan",
     "logo": "https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9X_Tashan%2Findex.m3u8%3Fe%3D1777317002%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db38e9ea330175448bde56ff15bcab307",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F9X_Tashan%2Findex.m3u8%3Fe%3D1777327956%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D28abc3592ed045630df358f1d3ab0e08",
     "status": "online"
   },
   {
     "name": "Dhinchaak",
     "logo": "https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDhinchaak%2Findex.m3u8%3Fe%3D1777317003%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dabc4b3a6dff308141bfa80256c30e6ec",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDhinchaak%2Findex.m3u8%3Fe%3D1777327957%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D88dab18634a6eeddcc06c6f797395248",
     "status": "online"
   },
   {
@@ -4042,35 +4084,35 @@
     "name": "Manoranjan TV",
     "logo": "https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FManoranjanTV%2Findex.m3u8%3Fe%3D1777317004%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4e72d19868949a0109f3cebc4671d4a9",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FManoranjanTV%2Findex.m3u8%3Fe%3D1777327958%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D430173e2f6e8ab4eeefdfc5bf10ab391",
     "status": "online"
   },
   {
     "name": "Network 10",
     "logo": "https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNetwork10%2Findex.m3u8%3Fe%3D1777317005%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3364065f13157a347553188998b043f1",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FNetwork10%2Findex.m3u8%3Fe%3D1777327959%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D406ec69f4d923536356c6dcf3e0dd2eb",
     "status": "online"
   },
   {
     "name": "Republic TV Bharat",
     "logo": "https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRepublicTVBharat%2Findex.m3u8%3Fe%3D1777317006%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D73701493d974bc1a2a76df41db566373",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FRepublicTVBharat%2Findex.m3u8%3Fe%3D1777327960%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2dd095df2110f9adf0fe005fe97a91d3",
     "status": "online"
   },
   {
     "name": "Dhamaka Movies",
     "logo": "https://s3.aynaott.com/storage/d63eff8864579b144c097c549ec0470a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FDhamakaMovies%2Findex.m3u8%3Fe%3D1777317007%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6c2eeb673b6152746d7ae9f3ebf9d92b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FDhamakaMovies%2Findex.m3u8%3Fe%3D1777327962%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db8f96f91086b43518c6a380b9a7e4c16",
     "status": "offline"
   },
   {
     "name": "Sony TV HD",
     "logo": "https://s3.aynaott.com/storage/2d12bf4f5dad8918427df0162d0e1184",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FWfn4bVp3dLgA%2Findex.m3u8%3Fe%3D1777317008%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D44a877903d086f9945099fbf0831041d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FWfn4bVp3dLgA%2Findex.m3u8%3Fe%3D1777327963%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd833169b358e2c03f2a144bcb021e877",
     "status": "online"
   },
   {
@@ -4084,7 +4126,7 @@
     "name": "& Pictures",
     "logo": "https://s3.aynaott.com/storage/c79b782d70458866537715e5ac842123",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fandpictureshd%2Findex.m3u8%3Fe%3D1777317018%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd1b28ad8142df169f1143c57891ad87a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fandpictureshd%2Findex.m3u8%3Fe%3D1777327973%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D6939326bd66457bc231461af9ba755a8",
     "status": "online"
   },
   {
@@ -4112,7 +4154,7 @@
     "name": "Zee Bangla International",
     "logo": "https://s3.aynaott.com/storage/0cb865748deefd42e69fd9a221cf38ee",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FPNEb3v2q6GBk%2Findex.m3u8%3Fe%3D1777317022%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D2449b03230843d78146337a77d90956b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2FPNEb3v2q6GBk%2Findex.m3u8%3Fe%3D1777327978%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D84eb86cb43fa55ac94bb5ecfb15f333e",
     "status": "online"
   },
   {
@@ -4133,35 +4175,35 @@
     "name": "Cartoon Network",
     "logo": "https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fcartoonnetwork%2Findex.m3u8%3Fe%3D1777317025%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3d450d982cbe5a86d72ce9548c09cf0b",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fcartoonnetwork%2Findex.m3u8%3Fe%3D1777327981%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De3170729e4aa89b31b4f7a08d36918ec",
     "status": "online"
   },
   {
     "name": "Disney JR",
     "logo": "https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdisneyjr%2Findex.m3u8%3Fe%3D1777317026%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc02e0e411802cbed7e4648223269350d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdisneyjr%2Findex.m3u8%3Fe%3D1777327983%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dff525cadca5097ef9dd3f958ae51167b",
     "status": "online"
   },
   {
     "name": "Nicktoons",
     "logo": "https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fnicktoons%2Findex.m3u8%3Fe%3D1777317027%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4bbd5b1eebd3e9137a5ee46a0dd0e199",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fnicktoons%2Findex.m3u8%3Fe%3D1777327983%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D9d91f793b2d6aa829ca9d2ef76513d36",
     "status": "online"
   },
   {
     "name": "Nickjr",
     "logo": "https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fnickjr%2Findex.m3u8%3Fe%3D1777317028%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De255e35c8a8f59a1f086d9fe09292617",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fnickjr%2Findex.m3u8%3Fe%3D1777327984%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df06fd1358c5d504074fbecd67cc94dd9",
     "status": "online"
   },
   {
     "name": "3ABN Kids",
     "logo": "https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F3abnkids%2Findex.m3u8%3Fe%3D1777317028%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da8f59ea155d4296172914bdb8e08f086",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2F3abnkids%2Findex.m3u8%3Fe%3D1777327985%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3c3c5561de67bbaf01fa6f76b0ed665e",
     "status": "online"
   },
   {
@@ -4175,7 +4217,7 @@
     "name": "Forever Kids",
     "logo": "https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FForeverKids%2Findex.m3u8%3Fe%3D1777317029%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D7c0335c290b951e78618859b3e354859",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FForeverKids%2Findex.m3u8%3Fe%3D1777327986%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd6b5ae7a5da530c67335bfcb57f4d255",
     "status": "offline"
   },
   {
@@ -4189,56 +4231,56 @@
     "name": "Moonbug Kids",
     "logo": "https://s3.aynaott.com/storage/d9b8deaf735ee0954260c7b3b61f508d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FMoonbugKids%2Findex.m3u8%3Fe%3D1777317032%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D20c1aeb13b30fa58f196175445379be6",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FMoonbugKids%2Findex.m3u8%3Fe%3D1777327989%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0c32961bb94b175c9db8d155a2354ae3",
     "status": "online"
   },
   {
     "name": "TVC Arabic Kids",
     "logo": "https://s3.aynaott.com/storage/91efc1ae410c11ccc4ab07f7221f0dad",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTVCArabicKids%2Findex.m3u8%3Fe%3D1777317033%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dd57cccaff926357065cb8876d19eb95e",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FTVCArabicKids%2Findex.m3u8%3Fe%3D1777327990%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc2bb2cd956f2a6695b2309d5f687e174",
     "status": "online"
   },
   {
     "name": "Disney Channel",
     "logo": "https://s3.aynaott.com/storage/a0c74b576321da5aa33a69806401caf1",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdisney%2Findex.m3u8%3Fe%3D1777317034%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D13052793de9dfefd27c4f14b1674f38d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdisney%2Findex.m3u8%3Fe%3D1777327991%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Daaf9be12eb03ef0950fd22830cc5cec2",
     "status": "online"
   },
   {
     "name": "Disney XD",
     "logo": "https://s3.aynaott.com/storage/f9b945284524683f1de8beb07ded8989",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fdisneyxd%2Findex.m3u8%3Fe%3D1777317034%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D15130f60e13c791a54bec1f9af314180",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fdisneyxd%2Findex.m3u8%3Fe%3D1777327992%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D752b5b5a9b7d45b493a6155a8224279a",
     "status": "online"
   },
   {
     "name": "Family JR",
     "logo": "https://s3.aynaott.com/storage/ca9edd253c97a2c67fcd856f43a31702",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Ffamilyjr%2Findex.m3u8%3Fe%3D1777317035%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Df447b24b2d770aab1d0a8eee810b86dd",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Ffamilyjr%2Findex.m3u8%3Fe%3D1777327992%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db8b60bfc0b1b4f9f7f25f1faced915f6",
     "status": "offline"
   },
   {
     "name": "Nickelodeon",
     "logo": "https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fnicklodean%2Findex.m3u8%3Fe%3D1777317035%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Db92bc85b3d708c196694003d6ef3f784",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fnicklodean%2Findex.m3u8%3Fe%3D1777327993%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D725e708b233a83413855fa3b2cf83f34",
     "status": "online"
   },
   {
     "name": "Teen Nick",
     "logo": "https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fteennick%2Findex.m3u8%3Fe%3D1777317036%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D9dda8811ef30cbfe2ab6dd6c67270f09",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fteennick%2Findex.m3u8%3Fe%3D1777327994%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D369e91ae54118d3cf9534bb447fb1ac2",
     "status": "online"
   },
   {
     "name": "YTV",
     "logo": "https://s3.aynaott.com/storage/d79d89851faee0823a1f2bed1a96e84d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fytv%2Findex.m3u8%3Fe%3D1777317037%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D8e67e309f93522154de39ae2bd4c8fd9",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Fytv%2Findex.m3u8%3Fe%3D1777327995%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4e1af7480e922e1ab83315a7883a5a50",
     "status": "online"
   },
   {
@@ -4280,28 +4322,28 @@
     "name": "Al-Zahar TV Turkic",
     "logo": "https://s3.aynaott.com/storage/30a09b00515134c1fb1af96892a878a2",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FAlZaharTVTurkic%2Findex.m3u8%3Fe%3D1777317041%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D51801eb1a51e9c67d2ab8c1b3d6d7d91",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FAlZaharTVTurkic%2Findex.m3u8%3Fe%3D1777328000%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D14bb8993dd504ed4858b96badd115b66",
     "status": "offline"
   },
   {
     "name": "Iqra Bangla",
     "logo": "https://s3.aynaott.com/storage/eb1964ab22fe95d4012c46198ffcf4c3",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fiqrabangla%2Findex.m3u8%3Fe%3D1777317042%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dca991ef6adcb16f9b30d7b9e92d425e6",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Fiqrabangla%2Findex.m3u8%3Fe%3D1777328001%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0b92897512f7b05ca0b70014dc7594bf",
     "status": "online"
   },
   {
     "name": "TV ONE",
     "logo": "https://s3.aynaott.com/storage/9c1532f532f291a6b5d6d9b5faf041ce",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Ftvone%2Findex.m3u8%3Fe%3D1777317042%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D5ed3ce84a901d82faf0d32fca75bd1f4",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen5.aynascope.net%2Ftvone%2Findex.m3u8%3Fe%3D1777328001%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D80b552a92bea2afabedb104b0813e1a0",
     "status": "offline"
   },
   {
     "name": "Peace TV Urdu HD",
     "logo": "https://s3.aynaott.com/storage/5442b2655aca6398b26ba539f396565a",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FPeaceTVUrduHD%2Findex.m3u8%3Fe%3D1777317043%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D3848411f9edcd9252a72691fa952c3f3",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FPeaceTVUrduHD%2Findex.m3u8%3Fe%3D1777328002%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D72c7c1f8e837c138be9ba08707099131",
     "status": "offline"
   },
   {
@@ -4315,28 +4357,28 @@
     "name": "Deen TV",
     "logo": "https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdeen%2Findex.m3u8%3Fe%3D1777317044%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0ce85f4c2bc02546c6454e2638177969",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fdeen%2Findex.m3u8%3Fe%3D1777328003%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D78577ba50391239b192d11e9788bd998",
     "status": "online"
   },
   {
     "name": "Eman Channel",
     "logo": "https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Feman%2Findex.m3u8%3Fe%3D1777317045%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Da78a7a226226b67bdc3500013c72c104",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2Feman%2Findex.m3u8%3Fe%3D1777328004%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D1160577bd25bf6b8d5e1a67fa3985ae3",
     "status": "online"
   },
   {
     "name": "TAQBEER",
     "logo": "https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftakbeer%2Findex.m3u8%3Fe%3D1777317047%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D73a7093c913c9f0427ba69f51195c8d0",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Ftakbeer%2Findex.m3u8%3Fe%3D1777328006%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D61cab7b6270045d13ada758e10e89a8b",
     "status": "offline"
   },
   {
     "name": "MADANI TV",
     "logo": "https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FMadaniTV%2Findex.m3u8%3Fe%3D1777317048%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3De6d3faef10b17dc65ba43c20c07c07a4",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2FMadaniTV%2Findex.m3u8%3Fe%3D1777328007%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D4aa9714d9de8800834d70584ea615cac",
     "status": "online"
   },
   {
@@ -4351,7 +4393,7 @@
     "logo": "https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-ue1-prod.tsv2.amagi.tv%2Flinear%2Famg00684-accuweather-accuweather-plex%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Fox Weather",
@@ -4392,7 +4434,7 @@
     "name": "Dream Turk",
     "logo": "https://s3.aynaott.com/storage/1767a29ab2a18975e84cc9aee178681d",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDreamTurk%2Findex.m3u8%3Fe%3D1777317054%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D99f66d4f6865e6bd22f697fb7a22bfda",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen6.aynascope.net%2FDreamTurk%2Findex.m3u8%3Fe%3D1777328014%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3Dc16f74f7fde338e2a7b37dc261a50534",
     "status": "offline"
   },
   {
@@ -4400,7 +4442,7 @@
     "logo": "https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivetv.powerapp.com.tr%2FpowerturkTV%2Fpowerturkhd.smil%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "World Muzzik",
@@ -4414,7 +4456,7 @@
     "logo": "https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fautentic-adventure-earth-1-eu.rakuten.wurl.tv%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Jalsha HD",
@@ -4427,29 +4469,29 @@
     "name": "Star Plus HD",
     "logo": "https://s3.aynaott.com/storage/cb91d6750648d5fd4a51c7cb6ff9eeed",
     "group": "BYNA FREE",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fsphdbd%2Findex.m3u8%3Fe%3D1777317060%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D0e842d316acf8675bf99c58ecfe645a9",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen7.aynascope.net%2Fsphdbd%2Findex.m3u8%3Fe%3D1777328021%26u%3D78be6644-0a65-48ec-81a4-089ac65a2619%26token%3D14e9c802dd3b82953890d50b3595d1aa",
+    "status": "offline"
   },
   {
     "name": "Sun TV",
     "logo": "https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd?name=Sun_TV&keyId=6752015acf084572a08dfe21796f8b45&key=ff823ddbe5625c35d3e93f0ed4520115",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun TV HD",
     "logo": "https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?name=Sun_TV_HD&keyId=3891557f1cb14dedb7545bf52499d748&key=fb662f742e5f5e0c61a7c1c66d2b019a",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun Marathi",
     "logo": "https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd?name=Sun_Marathi&keyId=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31&key=30899fda5ca4dfb5a4535ce10c4d7341",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun Music HD",
@@ -4463,7 +4505,7 @@
     "logo": "https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd?name=Sun_Music&keyId=21ddc14c4da94c079d4f4c343ecdcd80&key=5701bee4ee9b625d0c8ed7de032a7478",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun Life",
@@ -4484,182 +4526,182 @@
     "logo": "https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd?name=Sun_News&keyId=4df8f920386e4346ba6b7d7ae935d668&key=c5fcaa8df5663365d938a50987f71b84",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KTV",
     "logo": "https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd?name=KTV&keyId=426117d115b04497b0b0d425e8095184&key=aa751ae8a41ac6f87141734163ffe3b2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KTV HD",
     "logo": "https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd?name=KTV_HD&keyId=351e547391bb45cbac66d2cb9ec0c294&key=3bd646753f4903eee3b404646c7819d3",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya HD",
     "logo": "https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd?name=Surya_HD&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya",
     "logo": "https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd?name=Surya&keyId=56e1f5b5b72e4e45a98b6f287c265ab9&key=6dee8663e63cc8f8dda8478b8b2f3b71",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Movies",
     "logo": "https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd?name=Surya_Movies&keyId=6b67bccef7024f2da29b42e10dc13f89&key=2e8460c47d3f01693e193dba5963a5e1",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Music",
     "logo": "https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd?name=Surya_Music&keyId=25a1d2a4c3f848b1aed911ad691fe232&key=3c8b2cf8611c343e6a231b6a9c7c8b58",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Comedy",
     "logo": "https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd?name=Surya_Comedy&keyId=11563b00a46b43f2a0f80ecf42a4fb77&key=9bad28ad6f23dbb917c63ee680f66a1f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya HD",
     "logo": "https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd?name=Udaya_HD&keyId=91b5f2d0205c4527b7aa3e41f35e1e7f&key=66ddb1a017753f966e20442ab2f91f18",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya",
     "logo": "https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd?name=Udaya&keyId=3084683c80234b6bbf69abfd5bb258a0&key=4ae6b547e5c8f51329a12d7953ee4c72",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya Movies",
     "logo": "https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd?name=Udaya_Movies&keyId=b4dbffb517824732a955ca02dd6aacd9&key=83c2aa2946432f1ded7c049efe79feef",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya Music",
     "logo": "https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd?name=Udaya_Music&keyId=9ac3472b0040459cab52035ead6fe1ae&key=ba9fe9dd1b8e5421e2f8c9d23bd86922",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya Comedy",
     "logo": "https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd?name=Udaya_Comedy&keyId=71329783aeb74e6e9e1014fb9e4c30f4&key=1e025a9ed7e50fa35b8de2c96cccdd6b",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini TV",
     "logo": "https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd?name=Gemini_TV&keyId=2ec6fa5b77ff4223a376c2b98032fbf8&key=afe96f602fd6abedcd9c2c8cdf799afd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini HD",
     "logo": "https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd?name=Gemini_HD&keyId=880dc94460af4197bbbf43a176fb3a95&key=0beb7012ffd133360889d5d56e20de4d",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Movies HD",
     "logo": "https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd?name=Gemini_Movies_HD&keyId=0c37231880034787bce9fd3607aa09ea&key=e063bb30351dac572bac24ed43d304b2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Movies",
     "logo": "https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd?name=Gemini_Movies&keyId=0c37231880034787bce9fd3607aa09ea&key=e063bb30351dac572bac24ed43d304b2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Music HD",
     "logo": "https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd?name=Gemini_Music_HD&keyId=76230567f3c04513a7e5d1249ab65983&key=4ee6dc9a99d894dc41b0878d6ea22790",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Music",
     "logo": "https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd?name=Gemini_Music&keyId=0faa2e9469fc45fdaf1728333351ec71&key=ffcf9dee6ede62bd8740dacfaa0c1e59",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Comedy",
     "logo": "https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd?name=Gemini_Comedy&keyId=93e686ceac134f30b0a7bc3ce5a76b26&key=2c37e97fa0646751e1f2b85bc4b9ff8a",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Life",
     "logo": "https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd?name=Gemini_Life&keyId=96d5157791ea4817a66a419e285a137f&key=d6d0ad2a9a6cc56e18d7557c7c693a37",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Adithya TV",
     "logo": "https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd?name=Adithya_TV&keyId=d674a1a7f43641a29bd8867d87c7259a&key=812f55dcde68619fc6ad95951b241d2c",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kushi TV",
     "logo": "https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd?name=Kushi_TV&keyId=e16421cf7c374c57a8f7e91049f58cd9&key=b7e01aba2c307b1f05057e91a9d150d2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chutti TV",
     "logo": "https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd?name=Chutti_TV&keyId=05da38a46fb7403088f41434e44de980&key=488046139a1e1d65323cfe4bb1b30b7b",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kochu",
     "logo": "https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd?name=Kochu&keyId=7354fb333b0c4159bc6c433c4db13d0f&key=fbf8b4a11febf7d2eed2283006979176",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chintu TV",
     "logo": "https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd?name=Chintu_TV&keyId=19d8a5cc002f411b89b33925acdc33e0&key=2a9aa7a3f69834c4f348430cc3f658bb",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Al Jazeera",
@@ -4673,21 +4715,21 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20240920/mycolive-thumb1jpg-1726843358649.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fglobal.cgtn.cicc.media.caton.cloud%2Fmaster%2Fcgtn_myco.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CGTN Arabic",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20240920/mycolive-thumb2jpg-1726843385402.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fglobal.cgtn.cicc.media.caton.cloud%2Fmaster%2Fcgtn-arabic.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mix TV - Hollywood",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20251105/mycolive-mix_1jpg-1762353499626.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixTV%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "HBO 3",
@@ -4729,7 +4771,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250816/mycolive-18jpg-1755368123203.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-dvc-myco.io%3A2096%2FBOL_ENTERTAINMENT%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "HBO 2",
@@ -4792,14 +4834,14 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-10jpg-1751381447882.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixONE%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mix Bel Araby",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-8jpg-1751381422278.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixBelAraby%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Buypass TV",
@@ -4834,7 +4876,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-15jpg-1751381144523.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2Fhydertvcanada%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Peace TV Urdu",
@@ -4862,14 +4904,14 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250625/mycolive-Watch_green_entertainment_channel_online_freejpg-1750856023512.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-dvc-myco.io%3A2096%2FGREEN_ENTERTAINMENT%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "MUN TV",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-13jpg-1751381222642.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-dvc-myco.io%3A2096%2FMUN_TV%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mix ONE",
@@ -4897,7 +4939,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-1jpg-1751381074821.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-dvc-myco.io%3A2096%2FSAUDI_QURAN%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CGTN Discovering China",
@@ -39077,28 +39119,28 @@
     "name": "Sоnу SET HD",
     "logo": "https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-300x300.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу SAB HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Marathi",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Pal",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
@@ -39112,126 +39154,126 @@
     "name": "Sоnу Aath",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-AATH-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Yay",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу MAX HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу MAX",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу MAX 2",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу WAH",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу PIX HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу BBC Earth HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 1",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 2",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 3",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 4",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 5",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 1 HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2F%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2F%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 2 HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 3 HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "Sоnу Sports Ten 4 HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
     "name": "!Sоnу Sports Ten 5 HD",
     "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png",
     "group": "SONY IN",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fhdntl%3Dexp%3D1777321024~acl%3D%252f*~id%3D653ebf00-fab7-4290-bdfd-89ac652abb2a~data%3Dhdntl~hmac%3D4c3a1e5b3ddbd00bc66f996f53825f92c68616652e01b918df732e4cedc28665%2Fmaster_3500.m3u8",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fhdntl%3Dexp%3D1777386008~acl%3D%252f*~id%3D879df3ee-070f-47d7-b02b-c5ac96e47dc2~data%3Dhdntl~hmac%3Dca969fb9b3ad322f0e832bb454ad862a1b68a02af7c59cc30d6337b2afc6ffcf%2Fmaster_3500.m3u8",
     "status": "offline"
   },
   {
@@ -50461,5 +50503,327 @@
     "group": "JIO++2",
     "link": "https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd",
     "status": "offline"
+  },
+  {
+    "name": "Tensports",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1693208206324x432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Ftensports.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Samaa News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1633512222056d2-65d9a-saama-tv-low.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fsaamanews.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Bol Entertainment",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/16419858521.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fbolent.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Eurosport",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1669637605324x432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Feurosports.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Cartoon Network Urdu",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/70010-cartoon-network-in-urdu-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fcartoon.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "92 News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/3981a-65d9a-92-news-low.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2F92news.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Outdoor TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1589969868324%20x%20432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Foutdoornew.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "M-1 MMA",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1623143953M-1Thumbs--04.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fhls-mma-tv.cdnvideo.ru%2Fmma-tv%2Fmmatv.smil%2Fplaylist.m3u8%3Fzoid%3Dtapmad",
+    "status": "offline"
+  },
+  {
+    "name": "APlus",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/72534-a-plus-entertainment.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Faplus.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Discovery Kids",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/85fdc-324-x-432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fdiscoverykids.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Animal Planet",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/996e5-animal-planet-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fanimal.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Discover Pakistan",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1624891948324x432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn.live247stream.com%2Fdiscoverpakistan%2Ftapmad%2Fplaylist.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "24 News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/84a98-channel-24.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fchannel24.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Play Entertainment",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e0bf4-play-ent.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fplaymax.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Mehran",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/06b64-mehran-tv.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fmehran.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "ATV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d051f-atv.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fatv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Film World",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/b03ef-film-world.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Ffilmworld.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "GNN",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/820ad-gnn-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fjaagtv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Khyber Entertainment",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9e716-khyber-entertainment.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fkhyber.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "K21 TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/7d071-k21-news.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fk21.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Metro One",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/b736c-metro-one.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fmetro.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Dharti TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/5eb9a-dharti-tv.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fdhartitv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "TRT World",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9d634-trt-world.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftv-trtworld.medya.trt.com.tr%2Fmaster.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "BBC News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/a1661-65d9a-bbc-world-news.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fbbcnews.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "SEE TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d1e60-65d9a-see-tv-low.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fseetv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "KOH-E-NOOR",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/0a7b4-kohenoor.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fkohenoor.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "CNN",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e526b-cnn-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fcnn.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "KAY2",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/2ae68-kay-2.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fk2.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "City 42",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e8458-city-42.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fcity42.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Voice Of America",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/64758-voice-of-america.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fvoa.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Cartoon Network English",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d06a2-cf1e9-cartoon-network-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fcartoon.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Al Jazeera",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/80723-al-jazeera.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive-hls-web-aje.getaj.net%2FAJE%2Findex.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Discovery",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d3023-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fdiscovery.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Baby TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/0a156-baby-tv-4.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fbabytv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Makkah",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1649059727Artboard5-100.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fmakkah.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Madina",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1649059915Artboard5-100.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fmadina.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "DW TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/c3332-dw-tv.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdwamdstream102.akamaized.net%2Fhls%2Flive%2F2015525%2Fdwstream102%2Findex.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "Euro News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/e34de-euro-news.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Feuronews.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Motor Vision TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1611317202324x432.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg01329-otterainc-motorvisionnz-samsungnz%2Fplaylist.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "AWAZ TV",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/d0b57-awaz-tv.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fawaztv.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Vsh News",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/61c18-vsh-news.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fvsh.smil%2Fplaylist.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Khyber",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/9b2c5-khyber-new.jpg",
+    "group": "TAPMAD PK",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftapmadlive.akamaized.net%2Ftapmadold%2Fkhybernews.smil%2Fplaylist.m3u8%3F",
+    "status": "offline"
+  },
+  {
+    "name": "Goldmines",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpYtAGVw_2d0puz-IIcdnRFavmhCZvBO7fBvPdkmPRNHHYy4jbnT3XKV5hEGGrW3qHctHdypiTOJ8iIzvPgt3Kv0hKTHkmIZRYJ1yHDOc7gtIaVBgYCBdgocvr0lWyCnxW6as2CK68czO8NOyIvW9OFMfXw2exTQc3ZfPevVbsqwHy2y11gHs_dPt_qJD/s320/GOLDMINES.jpg",
+    "group": "Goldmins TV",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-2.pishow.tv%2Flive%2F1459%2Fmaster.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "Goldmines Bollywood",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831",
+    "group": "Goldmins TV",
+    "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F52%2F52_0.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "Goldmines Movies",
+    "logo": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
+    "group": "Goldmins TV",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-2.pishow.tv%2Flive%2F1461%2Fmaster.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "Goldmines Movies 2",
+    "logo": "https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",
+    "group": "Goldmins TV",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-2.pishow.tv%2Flive%2F1460%2Fmaster.m3u8",
+    "status": "online"
   }
 ]

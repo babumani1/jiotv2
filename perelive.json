@@ -5730,7 +5730,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/sanatan.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1554.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sanatan Vedic TV",
@@ -7067,7 +7067,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3059.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thanthi TV",
@@ -7081,7 +7081,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NTBD_Channel.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2687.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The Hind24 News",
