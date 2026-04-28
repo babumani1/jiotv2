@@ -39,7 +39,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/4_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F933.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "6 TV",
@@ -88,7 +88,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F587.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9x Jhakaas",
@@ -158,7 +158,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F612.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABP News India",
@@ -1684,7 +1684,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_38.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3133.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Swayam Prabha 39",
@@ -2132,7 +2132,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2031.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Fast1",
@@ -2174,7 +2174,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Flexibility_Yoga.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3250.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Flower TV",
@@ -2650,7 +2650,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F579.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "History TV18 HD Telugu",
@@ -3126,7 +3126,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Specials_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2230.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jiogames HD",
@@ -3168,7 +3168,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F783.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "KBC News",
@@ -3294,7 +3294,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3461.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kartavya TV",
@@ -4904,7 +4904,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Popli_Live.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3333.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Power Kids TV",
@@ -5226,7 +5226,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3443.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Radhekrishna TV",
@@ -5478,7 +5478,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F291.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "SMBC TV",
@@ -5982,7 +5982,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F608.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sidharth Bhakti",
@@ -6227,7 +6227,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Spondon.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2435.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sri Naga Sai Mandir",
@@ -6255,7 +6255,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1561.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Star Sports 2 Hindi",
@@ -6444,7 +6444,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F676.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sun TV HD",
@@ -6465,7 +6465,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3345.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Suriya TV",
@@ -6486,7 +6486,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F900.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Surya Movies",
@@ -6556,7 +6556,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F980.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Swayam Prabha 02",
@@ -6570,7 +6570,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F982.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Swayam Prabha 04",
@@ -6787,7 +6787,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1061.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TEST8 HD",
@@ -6822,7 +6822,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F479.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TLC HD Hindi",
@@ -7151,7 +7151,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Top_News_Marathi.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1972.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Total TV",
@@ -7655,7 +7655,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3319.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZOOM",
