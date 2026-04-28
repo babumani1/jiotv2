@@ -81,14 +81,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xTashan.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F732.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9XM",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F587.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "9x Jhakaas",
@@ -158,7 +158,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F612.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ABP News India",
@@ -1684,7 +1684,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_38.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3133.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "DD Swayam Prabha 39",
