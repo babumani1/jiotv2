@@ -60,7 +60,7 @@
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/D11/Manifest.mpd?name=Formula_1_17:30_(ELEVEN_SPORTS)&keyId=2e94219c1fc838eeaa36ece916d78211&key=fc85a15c05cf2429338896a8d6df9da8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Formula 1 17:30 (beIN SPORTS SD)",
@@ -214,7 +214,7 @@
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd?name=WWE_Raw_01:00_(Tap_Sport_LQ)&keyId=eabd2d95c89e42f2b0b0b40ce4179ea0&key=0e7e35a07e2c12822316c0dc4873903f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "WWE Smackdown 01:00 (SportzX Live)",
@@ -270,7 +270,7 @@
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd?name=WWE_NXT_01:00_(Tap_Sports)&keyId=eabd2d95c89e42f2b0b0b40ce4179ea0&key=0e7e35a07e2c12822316c0dc4873903f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "WWE 01:00 (TSN SPORTS)",
@@ -427,73 +427,52 @@
     "status": "online"
   },
   {
-    "name": "Boston Celtics 00:00 (TSN SPORTS FHD)",
+    "name": "Al-Riyadh vs Al-Qadsiah 17:00 (SD SERVER)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?name=Boston_Celtics_00:00_(TSN_SPORTS_FHD)&keyId=c4088f5f265f9de50cffd80bf89308b7&key=2c4d2239d96d532b4ec2050653611003",
+    "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F195.178.110.66%2Fhls%2Fyoooqqq.m3u8",
+    "status": "offline"
+  },
+  {
+    "name": "Al-Taawoun vs Al-Ittihad 17:10 (FOX SPORTS FHD)",
+    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
+    "group": "EMAX++ EVENTS",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?name=Al-Taawoun_vs_Al-Ittihad_17:10_(FOX_SPORTS_FHD)&keyId=09453ce820d65fbc675de3185f9e454c&key=98cff9600995fa381c76fdacf3c7edae",
     "status": "online"
   },
   {
-    "name": "Boston Celtics 00:00 (HD SERVER)",
+    "name": "Al-Taawoun vs Al-Ittihad 17:10 (FOX DEPORTES)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNBA1%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Atlanta Hawks 01:00 (TSN SPORTS FHD)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?name=Atlanta_Hawks_01:00_(TSN_SPORTS_FHD)&keyId=e853333da2c9196ea11374634231bc45&key=de2e2dbe818d78dfad07d6cd9a4c63d4",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?name=Al-Taawoun_vs_Al-Ittihad_17:10_(FOX_DEPORTES)&keyId=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
     "status": "online"
   },
   {
-    "name": "Atlanta Hawks 01:00 (HD SERVER)",
+    "name": "Al-Nassr vs Al-Ahli 19:00 (FOX SPORTS FHD)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNBA2%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Trail Blazers 02:30 (TSN SPORTS FHD)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?name=Trail_Blazers_02:30_(TSN_SPORTS_FHD)&keyId=c4088f5f265f9de50cffd80bf89308b7&key=2c4d2239d96d532b4ec2050653611003",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd?name=Al-Nassr_vs_Al-Ahli_19:00_(FOX_SPORTS_FHD)&keyId=09453ce820d65fbc675de3185f9e454c&key=98cff9600995fa381c76fdacf3c7edae",
     "status": "online"
   },
   {
-    "name": "Trail Blazers 02:30 (HD SERVER)",
+    "name": "Al-Nassr vs Al-Ahli 19:00 (FOX DEPORTES)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNBA3%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd?name=Al-Nassr_vs_Al-Ahli_19:00_(FOX_DEPORTES)&keyId=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
+    "status": "online"
   },
   {
-    "name": "Buffalo Sabres 00:30 (HD SERVER)",
+    "name": "Al-Nassr vs Al-Ahli 19:00 (SportDigital Fussball)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNHL1%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?name=Al-Nassr_vs_Al-Ahli_19:00_(SportDigital_Fussball)&keyId=0ad4080cdff8c60b1233b22087f0b340&key=285f129c5eca01dd08a5d5a14ad801c8",
+    "status": "online"
   },
   {
-    "name": "Dallas Stars 01:00 (HD SERVER)",
+    "name": "Atlético Madrid vs Arsenal 20:00 (TNT Sports 1)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNHL2%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Edmonton Oilers 03:00 (HD SERVER)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Finstreams.pro%2FUS%2FNHL3%2Ftracks-v1a1%2Fmono.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Atlético Madrid vs Arsenal 20:00 (SETANTA SPORTS)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://adjara-live-eu.akamaized.net/exp=1777488033~acl=%2f*~id=5eb3efd7-2dfc-4de4-b979-01c21f9e3985~data=hdntl,aXA9MTEyLjIwNS45My43MSZleHA9MTc3NzQwMTY2MiZlaWQ9OTUwNTQ2Jm9pZD0xMDImdHlwZT1WT0QmdWlkPUV6NEFlN3w0ODVmMzZkZi01YzY2LTRiYWQtOGU1OS01Yjg2MzNmMzY0NzkmY2lkPWRjZS5hZGphcmEmcHQ9bnVsbA~hmac=0767de48c0eaab4b14482c5a5ecd5ef15e03a2eaff31e85268bf9cb6a602fd26/dash/live/2001589/302088-320743/manifest-d.mpd?name=Atlético_Madrid_vs_Arsenal_20:00_(SETANTA_SPORTS)&keyId=2128008edf1c48f09f2b4c242b92313b&key=32452567799140999f8fca3d5f5b98e2",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?name=Atlético_Madrid_vs_Arsenal_20:00_(TNT_Sports_1)&keyId=294b5761cefc22d0c6312939e13d8278&key=52148f1042d238849f0a7813f1da8a7b",
     "status": "online"
   },
   {
@@ -553,38 +532,17 @@
     "status": "offline"
   },
   {
-    "name": "San Lorenzo vs Santos 23:00 (SportDigital Fussball)",
+    "name": "Los Angeles vs CD Toluca 03:30 (FOX SPORTS FHD)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?name=San_Lorenzo_vs_Santos_23:00_(SportDigital_Fussball)&keyId=0ad4080cdff8c60b1233b22087f0b340&key=285f129c5eca01dd08a5d5a14ad801c8",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?name=Los_Angeles_vs_CD_Toluca_03:30_(FOX_SPORTS_FHD)&keyId=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
     "status": "online"
   },
   {
-    "name": "Nashville SC vs Tigres UANL 01:30 (FOX SPORTS FHD)",
+    "name": "Sporting CP vs Tondela 20:15 (SportDigital Fussball)",
     "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
     "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd?name=Nashville_SC_vs_Tigres_UANL_01:30_(FOX_SPORTS_FHD)&keyId=5466ebd70704bdeb657f0abf3c5ca4ef&key=bdd79b72d8e48ed483aa623cc38a8a16",
-    "status": "online"
-  },
-  {
-    "name": "CA Lanús vs LDU 23:00 (beIN ENGLISH FHD)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?name=CA_Lanús_vs_LDU_23:00_(beIN_ENGLISH_FHD)&keyId=0b42be2664d7e811d04f3e504e0924c5&key=ae24090123b8c72ac5404dc152847cb8",
-    "status": "online"
-  },
-  {
-    "name": "Libertad vs Ind del Valle 23:00 (beIN ENGLISH FHD)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?name=Libertad_vs_Ind_del_Valle_23:00_(beIN_ENGLISH_FHD)&keyId=7995c724a13748ed970840a8ab5bb9b3&key=67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "status": "online"
-  },
-  {
-    "name": "Cruzeiro vs Boca Juniors 01:30 (beIN ENGLISH FHD)",
-    "logo": "https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png",
-    "group": "EMAX++ EVENTS",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?name=Cruzeiro_vs_Boca_Juniors_01:30_(beIN_ENGLISH_FHD)&keyId=7995c724a13748ed970840a8ab5bb9b3&key=67bdaf1e2175b9ff682fcdf0e2354b1e",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?name=Sporting_CP_vs_Tondela_20:15_(SportDigital_Fussball)&keyId=0ad4080cdff8c60b1233b22087f0b340&key=285f129c5eca01dd08a5d5a14ad801c8",
     "status": "online"
   },
   {
@@ -595,11 +553,11 @@
     "status": "online"
   },
   {
-    "name": "Nashville Sc Vs Tigres | CONCACAF Champions Cup 2026 (ENGLISH)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/142156_5954_NSH_TIG_FC-Web.png",
+    "name": "Bangladesh Vs New Zealand | New Zealand tour of Bangladesh 2026 (ENGLISH)",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
     "group": "FC BD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffancode-bd-srhady.vercel.app%2Fnashville_sc_vs_tigres_142156_english.m3u8",
-    "status": "offline"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffancode-bd-srhady.vercel.app%2Fbangladesh_vs_new_zealand_142070_english.m3u8",
+    "status": "online"
   },
   {
     "name": "ENG | Oman Vs Nepal",
@@ -609,10 +567,10 @@
     "status": "offline"
   },
   {
-    "name": "ENG | Nashville Sc Vs Tigres",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/142156_5954_NSH_TIG_FC-Web.png",
+    "name": "ENG | Bangladesh Vs New Zealand",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
     "group": "FC IN",
-    "link": "https://dai-fancode.pages.dev/mumbai/142156_english_hls_a6c9c76ef217111_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "link": "https://dai-fancode.pages.dev/mumbai/142070_english_hls_21924c1e895043_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
     "status": "offline"
   },
   {
@@ -1278,7 +1236,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/star-movies.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbuy.ottbangla.com%2F4k%2Fhoichoi24%2Fstream.m3u8%3Fid%3DStarMovies",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zee Cinema HD HD",
@@ -1292,7 +1250,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png",
     "group": "Otttt Bangla",
     "link": "https://buy.ottbangla.com/4k/amd/stream.php?id=COLORS-BANGLA-CINEMA",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zee Bangla Cinema HD",
@@ -1313,14 +1271,14 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png",
     "group": "Otttt Bangla",
     "link": "https://jio.aminmuaz636.workers.dev/live.php?id=1763",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Colors Cineplex Superhit HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png",
     "group": "Otttt Bangla",
     "link": "https://jio.aminmuaz636.workers.dev/live.php?id=1450",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zee Action HD",
@@ -1334,70 +1292,70 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fhughag.store%2Fworker%2Findex.php%3Fpath%3Dapi%2F3547925ef0%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Colors Cineplex HD HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png",
     "group": "Otttt Bangla",
     "link": "https://jio.aminmuaz636.workers.dev/live.php?id=1477",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sony MAX HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/sony-max.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fhughag.store%2Fworker%2Findex.php%3Fpath%3Dapi%2F9bcb965282%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sony Wah HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/sony-wah.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009253",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Colors Infinity HD HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png",
     "group": "Otttt Bangla",
     "link": "https://jio.aminmuaz636.workers.dev/live.php?id=1158",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "SRK TV HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/srk-tv.jpg",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsrkapp.ncare.live%2Fflixhls%2Fflixsrktv.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Biswa Bangla 24 HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/biswa-bangla-24.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fbiswabanglatv.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Alpona TV HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/alpona-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Falponatv.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Deshi TV HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/deshi-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fdeshitv.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Deshe Bideshe HD",
     "logo": "https://otapp.store/uploads/tv_image/sm/deshe-bideshe.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fdeshebideshe.stream%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Movie Plus HD",
@@ -1621,7 +1579,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/independent-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbuy.ottbangla.com%2F4k%2Fiscr%2Fstream.m3u8%3Fid%3Dindependent-tv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "News 24 HD",
@@ -1642,7 +1600,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/jamuna-tv.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbuy.ottbangla.com%2F4k%2Fiscr%2Fstream.m3u8%3Fid%3Djamuna-tv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ekattor TV HD",
@@ -1789,7 +1747,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/nat-geo-tv.png",
     "group": "Otttt Bangla",
     "link": "https://buy.ottbangla.com/4k/amd/stream.php?id=NAT-GEO-BANGLA",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Investigation Discovery HD",
@@ -1824,7 +1782,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F573.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Discovery Science HD",
@@ -1985,7 +1943,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",
     "group": "Otttt Bangla",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fhughag.store%2Fworker%2Findex.php%3Fpath%3Dapi%2Fb45f637d05%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Hungama TV HD",
@@ -2271,294 +2229,294 @@
     "name": "Star Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3DZlKUyVnFtV9vsGgGPKqoVw%26expires%3D1777426246",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3DxKZZGYEKCxkwhmZ6O4cfyQ%26expires%3D1777457972",
     "status": "offline"
   },
   {
     "name": "Star Sports 1 Hindi",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DZi5QAJXdxh4fmn1biD04UQ%26expires%3D1777426246",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DMuyvhA7PK_sCHQE-K55mBQ%26expires%3D1777457972",
     "status": "offline"
   },
   {
     "name": "PTV Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3DqyghNDtZgF04Fq9kpwdvpA%26expires%3D1777426246",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3Drl73_h_TcLl281Bvz9rHIA%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "Willow HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3DgyW7insQONVcL2yiU7TR2A%26expires%3D1777426246",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3DS4osF4lf_95LUOJm5diVmA%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "Willow HD 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3DG5Tdfk8VgaDh7vDoG4gtZA%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3Dce5DNpldRUnPyxOk-evmVQ%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "Ten Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DOwPQoXD6kTnho1NGYQ0LYw%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DMY6M9RoMUWzmyPjhw1F6Cg%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "A Sports HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3DmPS3Jv8eip6CJZVS3cPuwg%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3DXzE5wJlcP8iOTEhcQOQv0A%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "Sky Sports Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3DomeM6lUs5m886LV7BtqXgA%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3DX1UUp8WIEN-bc6L-gjTmjg%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "Sky Sports Main Event",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DURgdRk_JuHYyTvk6esyXFA%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DFYD-Rd3hBbfnoQIkJ3WOfw%26expires%3D1777457973",
     "status": "offline"
   },
   {
     "name": "TNT 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3DiH_CBxg9dBGMfUx32l6AkA%26expires%3D1777426247",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3DDh_MuN6JQ60inzEAd5wneQ%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "TNT 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3DyPEcfzB8IHWgF0gA8O9bMA%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3D3scFRIWq5WENAPXbbic5SQ%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "TNT 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3Dn9zhTNlk_ojiHEnueTjXAQ%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3DWzUzsFZZxORZ5r0oPI6kJg%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "TNT 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DqtAYUXuWtLGw5ZVZiNhB1g%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DzLPo05s3vJ3EP82IL5Wo3A%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3DoAnK1kJBZST6ivhNYpEXkg%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3Dm5espsi9hIyC1OOe1THkEQ%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DgPnNAzttFZNigirTpeg_zg%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DR-CUx4XiOFSDfCUkPApcNw%26expires%3D1777457974",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3D6DspR2HtCICTVQxV99vQGg%26expires%3D1777426248",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3DU8JDMMSm0-9fGJyE5D8ttA%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3DuUCeOxfSBRazuRc5-Ee65Q%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3DsKjbG4D42uzBw_RAcOeJHA%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 5",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3Di_rKVR-bzqRaw71ZJSA-Ww%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3DHlfK8DbkfMwckTc3lvN8qw%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport 6 Nz",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3Do_Jn-85UQYa5Z9GCjzkJaQ%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3DcGHsZl-74fCxWbw7zIlIrg%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 7",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DtFSGlAqkODExq41h1c9nYQ%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DaTwMkd6OcSekiGc6ur2HZw%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 8",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3DVQn3FU28w0gEcHNDkqnzEQ%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3DTARgqj9SSJR-clVK71--zw%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 9",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3Dpck3CnZ0ONcVp8EHE57n-Q%26expires%3D1777426249",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3DI8MVSzox7gwmEai7qE4dJw%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Cinema",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DbepRC0XyTsMzMdDAbNjLew%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3D58A3BWzBm_jq8aocnP_fwg%26expires%3D1777457975",
     "status": "offline"
   },
   {
     "name": "Sky Sports Action",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DnvmixzhJR4VdmjOdBRjXOQ%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DGH1mhrLOUnViyUmTtAId4g%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Sky Sports Golf",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3DQghhRGAz4FExLiyjbuP88g%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3D7ERuGgORsPIfl--oLHg8kg%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Sky Sports Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3Dkp2lVBRgtzNoX-MXijS5Eg%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3DJ8klPsbiAT925VefUveAWA%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Sky Sports Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3D-_uvzOpk2XTWDrrn04WKww%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3Dvmgh9hYQ74fz4GoYBLRi6Q%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Sky Sports Plus",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3D_6kvYSzntGz9elCde277aw%26expires%3D1777426250",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DU1gH1W7hSfyKn_4fkW5fNw%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Sky Sports F1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3DZrKwfGS5B4bz0n6zJw3LuQ%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3DSdA9zgbDGPQLlis-5-T_IA%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "LaLiGA",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3D7dnf3Cm2ylcNPq-auO9GJg%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3DNwKMWfJb2vSyeSli391u7A%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Premier Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3DkfW4A4HUwzCB2sHzmVJgCw%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3DUUuZmWPe-JCBTsgiz78H6A%26expires%3D1777457976",
     "status": "offline"
   },
   {
     "name": "Premier Sports 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3Ddeq4ISpQdL7HOAhqfiyO4w%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3DgumbbqT3vv6jOH5b9jh6ig%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Super Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DuRPk0woU2q9-OBl9iEO0mg%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DWe-xl55C-6Dm3bRzHzxDJw%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Super Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3Da66p7smSIUSnMqmAHYgfUg%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3Dm6EkZ-HqbodoRZfdHfeb0A%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Astro Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DEPpXrJmeepQzmrVXK9iJRg%26expires%3D1777426251",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DqNL1boyRfty9MJ3rem3pKQ%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "ESPN 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DX6efDw1-eeQvnsVRkg7m6w%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DxIH_8uM3ReCNV_xZtCIq6Q%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "ESPN 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DM9am3ntUoY2fLftwXjvkaw%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DnXXUYWQsPKcHPHFykA1cpg%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Sky Sports Arena",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3D_bNf4E92OjhlF-zOQTi0qA%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DphT8Izj6P1Q7Tz5TgN-6Lw%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Sky Sports Mix",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3DUELsyMlchFog6icMEwA8Eg%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3Dcd0uD7n4F25jAQfC8kbnlQ%26expires%3D1777457977",
     "status": "offline"
   },
   {
     "name": "Sky Sports Tennis",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3DyBWifbVzb1JZsuYpxue8pQ%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3D-hfJdgIi4pmL-UmbnbeG-A%26expires%3D1777457978",
     "status": "offline"
   },
   {
     "name": "Fox Cricket 501 HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3D5DZkXIwKp6960qswBMqk3Q%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DklBw1VsvfK8gq5mmVkeXFQ%26expires%3D1777457978",
     "status": "offline"
   },
   {
     "name": "Sony Sports3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3Dl3s7qc8Ke52bxPeXSWVcVA%26expires%3D1777426252",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fn100.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3DQLmYH8DXHARqJxBmO5c9_Q%26expires%3D1777457978",
     "status": "offline"
   },
   {
@@ -2594,7 +2552,7 @@
     "logo": "https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ftvsen3.b-cdn.net%2FqUud8Nxs%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "NTV",
@@ -3476,7 +3434,7 @@
     "logo": "https://s3.aynaott.com/storage/24f86d03093467c8b9fa0e17f72c4e06",
     "group": "BYNA FREE",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2Forigin5.mediacdn.ru%2Flive%2Fkidstv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "InTravel",
@@ -4379,7 +4337,7 @@
     "logo": "https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd?name=Sun_TV&keyId=6752015acf084572a08dfe21796f8b45&key=ff823ddbe5625c35d3e93f0ed4520115",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun TV HD",
@@ -4393,7 +4351,7 @@
     "logo": "https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd?name=Sun_Marathi&keyId=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31&key=30899fda5ca4dfb5a4535ce10c4d7341",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun Music HD",
@@ -4421,14 +4379,14 @@
     "logo": "https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd?name=Sun_Bangla&keyId=01f7b9f7bf7e425f86d6dfd478390e3f&key=5fde68100a7856d055038236ffc7c84a",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun News",
     "logo": "https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd?name=Sun_News&keyId=4df8f920386e4346ba6b7d7ae935d668&key=c5fcaa8df5663365d938a50987f71b84",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KTV",
@@ -4449,14 +4407,14 @@
     "logo": "https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd?name=Surya_HD&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya",
     "logo": "https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd?name=Surya&keyId=56e1f5b5b72e4e45a98b6f287c265ab9&key=6dee8663e63cc8f8dda8478b8b2f3b71",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Movies",
@@ -4484,7 +4442,7 @@
     "logo": "https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd?name=Udaya_HD&keyId=91b5f2d0205c4527b7aa3e41f35e1e7f&key=66ddb1a017753f966e20442ab2f91f18",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya",
@@ -4519,14 +4477,14 @@
     "logo": "https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd?name=Gemini_TV&keyId=2ec6fa5b77ff4223a376c2b98032fbf8&key=afe96f602fd6abedcd9c2c8cdf799afd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini HD",
     "logo": "https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg",
     "group": "SUN NXT",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd?name=Gemini_HD&keyId=880dc94460af4197bbbf43a176fb3a95&key=0beb7012ffd133360889d5d56e20de4d",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Movies HD",
@@ -4631,7 +4589,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20251105/mycolive-mix_1jpg-1762353499626.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixTV%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "HBO 3",
@@ -4736,14 +4694,14 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-10jpg-1751381447882.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixONE%2Fhls%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mix Bel Araby",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-8jpg-1751381422278.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixBelAraby%2Fhls%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Buypass TV",
@@ -4848,7 +4806,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20251013/mycolive-CHINACGTNTHUMBjpg-1760344429317.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FCGTN%2Fhls%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CGTN Documentary",
@@ -4946,7 +4904,7 @@
     "logo": "",
     "group": "REAL IP1",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa087%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "AAKAASH BANGLA",
@@ -4967,14 +4925,14 @@
     "logo": "",
     "group": "REAL IP1",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa07w%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ARYZindagi",
     "logo": "",
     "group": "REAL IP1",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa07u%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ATN Bangla",
@@ -5079,7 +5037,7 @@
     "logo": "",
     "group": "REAL IP1",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa088%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "BijoyTV",
@@ -5422,7 +5380,7 @@
     "logo": "",
     "group": "REAL IP1",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.229.254.25%3A7001%2Fplay%2Fa078%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "JB CABLES TV",
@@ -28144,7 +28102,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F92%2F92_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 93",
@@ -29089,7 +29047,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F263%2F263_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 264",
@@ -29558,7 +29516,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F341%2F341_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 342",
@@ -30069,7 +30027,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F575%2F575_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 576",
@@ -30111,7 +30069,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F583%2F583_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 584",
@@ -30335,7 +30293,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F629%2F629_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 630",
@@ -30629,7 +30587,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F676%2F676_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 678",
@@ -30643,7 +30601,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F679%2F679_0.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Channel 680",
@@ -30965,7 +30923,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1725.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "3.0 TV",
@@ -31126,7 +31084,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F494.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AMV",
@@ -31203,7 +31161,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F698.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aaryaa Bhakti",
@@ -31329,7 +31287,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Amar_Digital_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3297.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Amar Ujala",
@@ -31343,7 +31301,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F723.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Amritwani TV",
@@ -31448,7 +31406,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Anjan_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F919.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Apex Entertainment",
@@ -31525,14 +31483,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F180.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Asom Live 24",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asom_Live_24.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2022.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Assam Talks",
@@ -31616,7 +31574,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BHI.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2914.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "BHOOMI 24x7",
@@ -31686,7 +31644,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1453.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bangla Bhakti",
@@ -31728,7 +31686,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Dhara.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3236.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bhakti Sagar TV",
@@ -32519,7 +32477,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F204.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Swayam Prabha 23",
@@ -32848,7 +32806,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3445.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Discovery HD Telugu",
@@ -33058,7 +33016,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1900.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "FM News",
@@ -33086,7 +33044,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Fast1.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3354.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Fateh TV",
@@ -33114,7 +33072,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2326.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Flexibility Yoga",
@@ -33142,7 +33100,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1955.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "France 24",
@@ -33156,7 +33114,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2354.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "G18 News",
@@ -33233,7 +33191,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F952.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Garvi Gujarat",
@@ -33926,21 +33884,21 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/JUS_HINDI.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F960.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "JUS ONE HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/JUSOne.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F961.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "JUS PUNJABI HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/JUSPunjabi.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F959.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jai Maharashtra",
@@ -33968,7 +33926,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F768.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Janadesh News",
@@ -34472,7 +34430,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MNS_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3310.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MNX HD",
@@ -34661,7 +34619,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F844.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Media One TV",
@@ -34738,7 +34696,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1518.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Movie Music By Stingray",
@@ -34773,7 +34731,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F250.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "N5TV",
@@ -34871,7 +34829,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3343.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "NHK World Japan",
@@ -34934,7 +34892,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2253.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nambikkai",
@@ -35018,7 +34976,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/National_Tv_India.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3105.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Navsarjan Sanskruti News",
@@ -35081,7 +35039,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F501.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News 24 Express",
@@ -35116,7 +35074,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News80.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2233.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News 9",
@@ -35228,7 +35186,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_PB_HR_HM.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3152.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News State UK UP",
@@ -35529,7 +35487,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Om_Shanti.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F964.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Only Music",
@@ -35599,7 +35557,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F406.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "PM E Vidya 05",
@@ -35991,7 +35949,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1695.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Propex TV",
@@ -36054,7 +36012,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1545.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Punjabi Hits",
@@ -36068,7 +36026,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2325.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Punjabi Shorts",
@@ -36180,7 +36138,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1537.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Raftaar Media",
@@ -36271,7 +36229,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F707.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Rajya 24 News",
@@ -36432,7 +36390,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F851.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SRS Bhakti TV",
@@ -36467,7 +36425,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1850.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SVBC2",
@@ -36481,7 +36439,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1858.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SVBC4",
@@ -36523,7 +36481,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_Gold.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2917.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sadhna News MP CG",
@@ -36824,7 +36782,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2004.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shemaroo Bollywood",
@@ -36845,7 +36803,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1452.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shemaroo TV",
@@ -37426,7 +37384,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1662.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya HD",
@@ -37727,14 +37685,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Test03_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1059.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TEST5 HD",
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1061.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TEST8 HD",
@@ -38364,7 +38322,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1083.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vande Gujarat 6",
