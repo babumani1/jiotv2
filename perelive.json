@@ -88,7 +88,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F587.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9x Jhakaas",
@@ -585,7 +585,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asom_Live_24.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2022.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Assam Talks",
@@ -690,7 +690,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BHP_News_Gujarat.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3405.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "BRAVE TV",
@@ -5219,7 +5219,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raatdin_Bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2027.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Raatdin Tripura",
@@ -5926,7 +5926,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1454.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Shree Sanatan TV",
@@ -6927,7 +6927,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV45.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2954.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TV5 Monde",
@@ -7186,7 +7186,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F814.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tulja Bhavani",
@@ -7655,7 +7655,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3319.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ZOOM",
