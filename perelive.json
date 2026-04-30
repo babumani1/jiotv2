@@ -1852,14 +1852,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F573.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Discovery English",
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F242.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Discovery HD Bengali",
@@ -1915,7 +1915,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F575.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Discovery Kannada",
@@ -1992,7 +1992,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F576.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Discovery Turbo",
@@ -2111,7 +2111,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1900.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "FM News",
@@ -3490,7 +3490,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1925.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "MI TV",
@@ -3868,7 +3868,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F258.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "NDTV Marathi",
@@ -4750,7 +4750,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1170.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "PTC Punjabi",
@@ -4876,7 +4876,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F542.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Pogo Telugu",
@@ -5884,7 +5884,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3075.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Shemaroo Filmy Gaane",
@@ -6402,7 +6402,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F518.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sun Bangla",
@@ -7557,7 +7557,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Weight_Loss_Yoga.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3248.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Wellness",
