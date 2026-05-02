@@ -361,7 +361,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3146.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Alrighttv",
@@ -718,7 +718,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BVG.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3048.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "BVTV",
@@ -1775,7 +1775,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1223.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Daily Post PHH",
@@ -2419,7 +2419,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gospel_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3370.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Grace TV",
@@ -3413,7 +3413,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F886.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Lancs TV HD",
@@ -4407,7 +4407,7 @@
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F696.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News18 Punjab Haryana",
@@ -5058,7 +5058,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_First.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2957.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Public Movies",
@@ -5100,7 +5100,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1868.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Punjab School TV",
@@ -5128,7 +5128,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3471.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Purnima TV",
@@ -5219,7 +5219,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raatdin_Bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2027.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Raatdin Tripura",
