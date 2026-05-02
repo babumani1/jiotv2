@@ -235,7 +235,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3328.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aaj Ki Khabar",
@@ -249,7 +249,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F173.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aakash Aath",
@@ -354,7 +354,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Alankar_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F686.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "All Women's Sports Network",
@@ -1432,7 +1432,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F716.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Kisan",
@@ -1502,7 +1502,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F695.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Saptagiri",
@@ -3798,7 +3798,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/cmusic-cme004-dhaka.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3288.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Movies Now HD",
