@@ -95,7 +95,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F441.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "AB News",
@@ -7424,7 +7424,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1084.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vande Gujarat 7",
@@ -7515,7 +7515,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F734.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vistaar News",
