@@ -95,7 +95,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F441.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AB News",
@@ -781,7 +781,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Dhara.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3236.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bhakti Sagar TV",
@@ -3812,7 +3812,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2017.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Muscle Strength",
@@ -4603,7 +4603,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Oye_Music.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2936.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "P News",
@@ -6234,7 +6234,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Naga_Sai_Mandir.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3221.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sri Sankara",
@@ -6353,7 +6353,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ose-122ads-montreal.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3323.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Stingray Todays K-pop",
@@ -7424,7 +7424,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1084.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vande Gujarat 7",
@@ -7515,7 +7515,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F734.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vistaar News",
@@ -7648,14 +7648,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3322.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ZB Music",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3319.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ZOOM",
