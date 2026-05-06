@@ -4,42 +4,42 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F832.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "22scope News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2082.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "24hrs TV",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1725.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "3.0 TV",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/3_0_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2003.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "35mm",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1560.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "4 TV",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/4_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F933.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "6 TV",
@@ -53,91 +53,91 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1871.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9 Bharat Samachar",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1451.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "99 TV",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2932.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9X Jalwa",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F440.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9X Tashan",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xTashan.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F732.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9XM",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F587.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9x Jhakaas",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F441.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AB News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1550.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AB Star News",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/abstarnews.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1553.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABC Australia",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_Australia.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2782.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABC News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1964.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABN Andhra Jyothi",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F666.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABP Ananda",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F672.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABP Asmita",
@@ -347,7 +347,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3439.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Alankar",
@@ -732,7 +732,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1692.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Balle Balle TV",
@@ -851,7 +851,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Update.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3068.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bhojpuri Junction",
@@ -1432,7 +1432,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F716.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Kisan",
@@ -3735,7 +3735,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mega9TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3367.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Merchant Records",
@@ -4470,14 +4470,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Newz_Room_Gujarat.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3365.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nick Bangla",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1341.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nick HD",
@@ -4575,7 +4575,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F704.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Om Shanti",
@@ -5037,7 +5037,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F921.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Prime TV",
@@ -5219,7 +5219,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raatdin_Bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2027.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Raatdin Tripura",
@@ -5478,7 +5478,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F291.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SMBC TV",
@@ -6542,7 +6542,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3459.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Swatantra News",
