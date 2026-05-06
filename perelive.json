@@ -46,7 +46,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F670.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "7X Music",
@@ -2902,7 +2902,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F498.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Indian News",
@@ -2916,7 +2916,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1286.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Investigation Discovery English",
@@ -3959,7 +3959,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1855.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "NSC9 News",
@@ -4358,7 +4358,7 @@
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F717.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News18 Gujarati",
@@ -5856,7 +5856,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F606.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Shark Tank India S5",
@@ -6808,7 +6808,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1432.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TLC English",
