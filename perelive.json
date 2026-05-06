@@ -109,7 +109,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/abstarnews.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1553.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABC Australia",
@@ -256,7 +256,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F698.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aaryaa Bhakti",
@@ -858,7 +858,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2229.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Big TV",
@@ -872,7 +872,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1521.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bloomberg Originals",
@@ -1124,7 +1124,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F166.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chanakya News India Rajasthan",
@@ -2209,7 +2209,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2354.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "G18 News",
@@ -2279,7 +2279,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2077.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Garv Punjabi Gurbani",
@@ -3910,7 +3910,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3336.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "NH Bollygold",
@@ -4155,7 +4155,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24x7.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3042.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News 360",
@@ -4344,7 +4344,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1853.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News18 Assam NE",
@@ -4470,7 +4470,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Newz_Room_Gujarat.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3365.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nick Bangla",
@@ -4743,7 +4743,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1189.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "PTC News",
@@ -4757,7 +4757,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1171.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "PTC Punjabi Gold",
@@ -5282,7 +5282,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F748.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Raj News Kannada",
@@ -6521,7 +6521,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1185.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Swaralasika Sangeetalaya",
@@ -6717,7 +6717,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/tsatnipuna.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3302.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "T SAT Vidya",
@@ -6976,7 +6976,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F791.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tabbar Hits",
@@ -7368,7 +7368,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1091.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vande Gujarat 14",
@@ -7571,7 +7571,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2437.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Win TV",
