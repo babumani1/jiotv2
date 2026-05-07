@@ -347,7 +347,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3439.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Alankar",
@@ -2321,7 +2321,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F899.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Music HD",
@@ -2447,7 +2447,7 @@
     "logo": "",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3464.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gubbare",
@@ -3504,7 +3504,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1647.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MKN News",
@@ -3574,7 +3574,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F843.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Maha Movies",
@@ -4372,7 +4372,7 @@
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F694.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News18 Kannada",
@@ -7655,7 +7655,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3319.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ZOOM",
