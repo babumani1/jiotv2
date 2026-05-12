@@ -5478,7 +5478,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F291.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SMBC TV",
@@ -6136,7 +6136,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F483.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SONY Marathi SD",
@@ -6738,7 +6738,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1240.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TEST11 HD",
@@ -6773,7 +6773,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TEST2_HD.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F979.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TEST3 HD",
@@ -7095,7 +7095,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/unmute.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3253.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Times NOW",
