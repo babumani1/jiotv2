@@ -5975,7 +5975,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F828.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Shubhsandesh TV",
@@ -6885,7 +6885,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F956.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TV 5 News",
