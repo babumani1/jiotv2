@@ -109,7 +109,7 @@
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
     "group": "Entertainment",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd?name=And_TV_HD&keyId=67d18634ccb04875875c60fb8d9caaba&key=99a66471c09e4b8a8dc39a0de6803f75",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony SAB HD",
@@ -5842,7 +5842,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png",
     "group": "Odia",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd?name=Zee_Sarthak&keyId=ecad0b097b574078a4a1bde24bfdb2e5&key=568bb13d04db4b738864f6c849474cd5",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Argus News",
