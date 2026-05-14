@@ -4596,7 +4596,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F883.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Oye Music",
@@ -5114,7 +5114,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Hits.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2934.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Punjabi Melodies",
@@ -5324,7 +5324,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F707.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rajya 24 News",
@@ -7662,7 +7662,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F592.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ZEE 24 Ghanta",
