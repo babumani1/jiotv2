@@ -4176,7 +4176,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News9.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F656.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News Capital Gujarat",
@@ -5870,7 +5870,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1077.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shekinah TV",
@@ -6241,7 +6241,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F829.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sri Venkateshwar Bhakti",
@@ -6395,7 +6395,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
     "group": "JIO TV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3360.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sudarshan",
