@@ -1901,14 +1901,14 @@
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png",
     "group": "Tamil",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://login.bheem.tv/bpk-tv/22378/output/index.mpd?name=Chithiram&keyId=928e0f5213fc5a7ebeb0bd8cbd4d1442&key=22b778641744694ad3de2822ee018d38",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sirippoli",
     "logo": "https://tatalogo.pages.dev/611.png",
     "group": "Tamil",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://login.bheem.tv/bpk-tv/22379/output/index.mpd?name=Sirippoli&keyId=b0bef7a3d07f5b9c8b4b2de472da7718&key=3139f66c3e590441bec542fcf16dcaca",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jaya Max",
