@@ -46,7 +46,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Night ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705164.ts",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "(Asli 4K) M1-Bhojpuri",
@@ -60,7 +60,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705136.ts",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "(Asli 4K) M2-Hindi",
@@ -95,7 +95,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705140.ts",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "(Asli 4K) M2-Haryanvi",
@@ -109,7 +109,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705165.ts",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "(Asli 4K) M2-Punjabi",
@@ -1057,39 +1057,81 @@
     "status": "offline"
   },
   {
-    "name": "Day 4 - Round 2 - 27 May 2026 [ENG]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "name": "Philippe Chatrier - 27 May 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018486/1779799840000201_RG26_Bejlek_vs_Swiatek_landscape_thumb_SP.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2005444%2FRG_PC_Da2705%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779925551~acl%3D%2F*~id%3D88224803407690510882359365484017~hmac%3D7fefb516773febc0ef686e4373342deeb8ea2d70378eb51dd95e6591c849b025",
     "status": "offline"
   },
   {
-    "name": "Day 4 - Round 2 - 27 May 2026 [HIN]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FHIN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "name": "ENGLISH - Court Suzanne Lenglen",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142660_english.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "ENGLISH - Court Simonne Mathieu",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142659_english.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "ENGLISH - Court 14",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142658_english.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "ENGLISH - Top Seeds In Action",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142953_english.m3u8",
     "status": "offline"
   },
   {
-    "name": "Day 4 - Round 2 - 27 May 2026 [TAM]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FTAM%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
-    "status": "offline"
+    "name": "HINDI - Top Seeds In Action",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142953_hindi.m3u8",
+    "status": "online"
   },
   {
-    "name": "Day 4 - Round 2 - 27 May 2026 [TEL]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FTEL%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
-    "status": "offline"
+    "name": "TAMIL - Top Seeds In Action",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142953_tamil.m3u8",
+    "status": "online"
   },
   {
-    "name": "Day 4 - Round 2 - 27 May 2026 [KAN]",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FKAN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
-    "status": "offline"
+    "name": "TELUGU - Top Seeds In Action",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142953_telugu.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "KANNADA - Top Seeds In Action",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142953_kannada.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "ENGLISH - New Zealand Vs Ireland",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142980_english.m3u8",
+    "status": "online"
+  },
+  {
+    "name": "ENGLISH - Court Philippe Chatrier",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Ffcode.neyini4157.workers.dev%2F142661_english.m3u8",
+    "status": "online"
   },
   {
     "name": "NB News",
@@ -17266,7 +17308,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzgwOGM4YTEtMmE1Ny00MWQxLTlhMzEtYWY0MDY1ZjY0NWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvx4911.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "8 Vasantalu (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Drama ‧ 2h 15m Director Phanindra Narsetti| Writer Phanindra Narsetti| Stars Ananthika Sanilkumar ‧ Ravi Theja Duggirala ‧ Mettu Nishesh)",
@@ -17322,7 +17364,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjVkNzRkY2UtZTJiNi00MTMwLTk2YzYtNDFkZDg5NmUxMzViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADSx4874.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Madras Matinee (𝗜𝗠𝗗𝗯 8.9 2025 ‧ Drama ‧ 2h 15m Director Karthikeyan Mani Writer Karthikeyan Mani| Stars Kaali Venkat ‧ Sathyaraj ‧ Roshini Haripriyan)",
@@ -17399,7 +17441,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZDdjNGViMjEtZjZiYi00ZWY4LTk2MDQtYjA0YzViMGMxNjFjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADux4818.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thug Life (𝗜𝗠𝗗𝗯 4.3 2025 ‧ Action\\Drama\\Thriller ‧ 2h 45m Director Mani Ratnam| Writers Kamal Haasan ‧ Mani Ratnam| Stars Kamal Haasan ‧ Trisha Krishnan ‧ Ali Fazal)",
@@ -17462,14 +17504,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzhjZmVlMmQtNmY5NC00N2RjLTkxOWEtNTM2MjNmNzgzYjYxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADiR4786.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "#Single (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Romance ‧ 2h 9m Director Caarthick Raju| Writers Bhanu Bhogavarapu ‧ Caarthick Raju ‧ Nandu Savirigana| Stars VTV Ganesh ‧ Ivana ‧ Kalpalatha)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/-single-et00441505-1747219152.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdR4784.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Lal Salaam (𝗜𝗠𝗗𝗯 4.4 2024 ‧ Action\\Drama\\Sport ‧ 2h 30m Director Aishwarya Rajinikanth| Writer Aishwarya Rajinikanth| Stars Rajinikanth ‧ Dhanya Balakrishna ‧ K.S. Ravikumar)",
@@ -17483,7 +17525,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjY4OTVlYjQtNzhjOC00NWI4LWExMzMtZmI4MzYyZDQ0ZDkxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7h4780.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nizharkudai (𝗜𝗠𝗗𝗯 9.8 2025 ‧ Drama ‧ 2h 5m Director Shiva Arumugam| Writer Shiva Arumugam| Stars Devayan ‧ iIlavarasu ‧ Manoj Kumar)",
@@ -21095,7 +21137,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADNB4939.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S01 EP05 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -21116,7 +21158,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADOR4941.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S01 EP01 • Good Wife (𝗜𝗠𝗗𝗯 5.7  2025 ‧ Drama\\Crime ‧ Stars Mekha Rajan ‧ Amrutha Srinivasan ‧ Priyamani)",
@@ -21214,7 +21256,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Rana Naidu",
     "link": "https://bq32.short.gy/series/68517cd8da68b73b2dc43e83.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S02 EP03 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\\Action\\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)",
@@ -31084,7 +31126,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/Vibrant-A1-TV-logo-design-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F0fca457c%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MM TV Valliyur",
@@ -31231,7 +31273,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/Kanna-Tv-logo-with-dynamic-background-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fweb.applelive.in%2Fstream%2Fkktv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Thendral TV Chennai",
@@ -31266,7 +31308,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_35_39-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fview.rcserver.in%2Ftmp_hls26%2Fhellotamiltv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "R TV Tamil",
@@ -31532,7 +31574,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_31_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fweb.applelive.in%2Fbhagavathtv%2Fbhagavathtv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Amma TV",
@@ -31567,7 +31609,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fpcntv.wmsdigital.in%2Fhls%2Fgtv%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sooriyan TV Cinema",
@@ -31609,14 +31651,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-18-2026-07_44_33-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fraagamtv%2Fraagamtvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MTV Trichy",
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-02_13_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.iplive.xyz%2Fmtv%2Fmtvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sri Kanchi",
@@ -32176,7 +32218,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_31_54-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fnotvstream.in%2Fbrightsimrosetv%2Fbrightsimrosetv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "SJ Surya TV",
@@ -32267,7 +32309,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_39_49-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.sscloud7.in%2Flive%2Fsshd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jayam TV",
@@ -32505,7 +32547,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-3-2025-09_55_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fprimetv%2Fprimetv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "MP TV",
@@ -32582,7 +32624,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_26_22-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream6.livebox.co.in%2Fmanasutvhls%2Flive.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Om Sakthi TV",
@@ -32701,7 +32743,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.olidigital.in%2Ftimetv%2Ftimetv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Phoenix TV Tamil",
@@ -32799,7 +32841,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-05_20_15-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjeyamtv.livebox.co.in%2FJeyamTelevisionhls%2FJeyamTelevision.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "SMCV HD",
@@ -32925,7 +32967,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_13_43-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fsachintv%2Fsachintvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sachin TV Music",
@@ -33023,7 +33065,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_46_39-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fshalinitv%2Fshalinitv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "JCV",
@@ -33107,7 +33149,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_27_59-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Feagletv%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mathi TV",
@@ -33387,7 +33429,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_08_46-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fdarshanambhakthi%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SVBC Telugu",
@@ -33849,7 +33891,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-08_02_42-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FGarudaTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KNR Channel",
@@ -33877,7 +33919,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_13_48-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCN%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Public TV News",
@@ -33919,7 +33961,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-18-2025-06_04_58-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDs9music%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "City News Telugu",
@@ -33940,7 +33982,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_19_08-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvenus.streambridge.link%3A8047%2Ftelugu%2Ftgn%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "B Channel",
@@ -33996,7 +34038,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-08_55_21-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2Fchittoortvhd.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ACN TV",
@@ -34045,7 +34087,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_22_39-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FReshyaTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SVC HD",
@@ -34906,7 +34948,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_37_13-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2F96vd9q4kyxq7-hls-live.5centscdn.com%2Fcctvkkm%2F4870f9d3a6299578edcc3e6c954baeba.sdp%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CCTV Kunnamkulam",
