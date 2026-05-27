@@ -46,7 +46,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Night ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705164.ts",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "(Asli 4K) M1-Bhojpuri",
@@ -60,7 +60,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705136.ts",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "(Asli 4K) M2-Hindi",
@@ -95,7 +95,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705140.ts",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "(Asli 4K) M2-Haryanvi",
@@ -109,7 +109,7 @@
     "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "group": "TATA IPL |Afternoon ⚡",
     "link": "https://tinyurl.com/link-macha-official-collab-vt/705165.ts",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "(Asli 4K) M2-Punjabi",
@@ -1054,6 +1054,41 @@
     "logo": "https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105494%2FZEEUPUKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1779075393~exp%3D1779078393~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-News-UttarPradesh-Uttrakhand-SD%2Fmaster%2F*~id%3D66e753e1-e594-4291-8482-be43d3eeb749~data%3Dnon-ssai_66e753e1-e594-4291-8482-be43d3eeb749~hmac%3D48e3bfc96d574d62981cc96a4c934ebdc2b21a960ff3fb340a841e1010289969%26req_id%3Dnon-ssai_66e753e1-e594-4291-8482-be43d3eeb749",
+    "status": "offline"
+  },
+  {
+    "name": "Day 4 - Round 2 - 27 May 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "status": "offline"
+  },
+  {
+    "name": "Day 4 - Round 2 - 27 May 2026 [HIN]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FHIN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "status": "offline"
+  },
+  {
+    "name": "Day 4 - Round 2 - 27 May 2026 [TAM]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FTAM%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "status": "offline"
+  },
+  {
+    "name": "Day 4 - Round 2 - 27 May 2026 [TEL]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FTEL%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
+    "status": "offline"
+  },
+  {
+    "name": "Day 4 - Round 2 - 27 May 2026 [KAN]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2094589%2FRG_Multi2705%2FKAN%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1779912205~acl%3D%2F*~id%3D49186817566619450887043102955641~hmac%3D7e53ad04780533aba060ac3f4835d1b3b1bfd7e10d5b6a0a53083fc2d3a00989",
     "status": "offline"
   },
   {
@@ -17161,7 +17196,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/maargan-et00447313-1750168722.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXx4963.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kannappa (𝗜𝗠𝗗𝗯 6.1 2025 ‧ Action\\Drama\\Fantasy ‧ 3h 3m Director Mukesh Kumar Singh| Writer Vishnu Manchu| Stars Vishnu Manchu ‧ Mohanlal ‧ Prabhas)",
@@ -17210,7 +17245,7 @@
     "logo": "https://sund-images.sunnxt.com/161400/1000x1000_KhalipurseOfBillionaires_161400_d090a89b-53d8-4442-9e74-7ccbffcddf33.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdB4925.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manidhargal (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama\\Thriller ‧ 2h 6m Director Raam Indhra| Writer Raam Indhra| Stars Dasha ‧ Gunavanthan Guna ‧ M.K.Sambasivam)",
@@ -17231,7 +17266,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzgwOGM4YTEtMmE1Ny00MWQxLTlhMzEtYWY0MDY1ZjY0NWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvx4911.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "8 Vasantalu (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Drama ‧ 2h 15m Director Phanindra Narsetti| Writer Phanindra Narsetti| Stars Ananthika Sanilkumar ‧ Ravi Theja Duggirala ‧ Mettu Nishesh)",
@@ -17266,7 +17301,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWU5MzU1NTAtNjRhNS00NDJlLWE5ODUtNzM5ZjRlNzkyOWJhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADcx4892.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Moonwalk (𝗜𝗠𝗗𝗯 7.9 2025 ‧ Musical ‧ 1h 58m Director A.K. Vinod| Writers Sunil Gopalakrishnan ‧ Mathew Varghis ‧ A.K. Vinod| Stars AkhilSamVijay ‧ Anunath ‧ Appu Ashary)",
@@ -17287,7 +17322,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjVkNzRkY2UtZTJiNi00MTMwLTk2YzYtNDFkZDg5NmUxMzViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADSx4874.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madras Matinee (𝗜𝗠𝗗𝗯 8.9 2025 ‧ Drama ‧ 2h 15m Director Karthikeyan Mani Writer Karthikeyan Mani| Stars Kaali Venkat ‧ Sathyaraj ‧ Roshini Haripriyan)",
@@ -17301,7 +17336,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjI4NjZmMjQtMzA4OC00NzdlLTk5YjgtODQ3MzE4MzZhMGJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADBh4870.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Uppu Kappurambu (𝗜𝗠𝗗𝗯 0.0 2025 ‧ Comedy ‧ 2h 16m Director Ani. I.V. Sasi| Writer Vasanth Maringanti| Stars Keerthy Suresh ‧ Suhas ‧ Subhalekha Sudhakar)",
@@ -17343,14 +17378,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/kaliyugam-et00440401-1745818199.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADGh4824.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Prince and Family (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Comedy ‧ 2h 14m Director| Binto Stephen| Writer Sharis Mohammed| Stars Dileep ‧ Raniya Raanaa ‧ Johny Antony)",
     "logo": "https://i.ibb.co/d4B6cJc2/uh4nm2kqoqze1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADBx4822.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Yuddhakaanda Chapter 2 (𝗜𝗠𝗗𝗯 9.0 2025 ‧ Drama ‧ 1h 45m Director Pavan Bhat| Writers Pavan Bhat ‧ Krishna Ajai Rao| Stars Krishna Ajai Rao ‧ Archana Jois ‧ Prakash Belawadi)",
@@ -17413,21 +17448,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTBiN2NhNTEtOTg2MS00NjljLWE3ZGUtZDNlMzMyMjA4ODI1XkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADNR4790.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manada Kadalu (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Romance ‧ 2h 34m Director Yograj Bhat| Writer Yograj Bhat| Stars Sumukha ‧ Dattanna ‧ Rangayana Raghu)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjVmNzA3Y2MtOWQxZC00MzE1LTk5ZGYtMWI0YTU5MmNlNzMwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADbR4788.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jora Kaiya Thattunga (𝗜𝗠𝗗𝗯 9.0 2025 ‧ Drama ‧ 1h 49m Director Vineesh Millennium| Writer Vineesh Millennium| Stars Yogi Babu ‧ Shanthi Rao ‧ Hareesh Peradi)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYzhjZmVlMmQtNmY5NC00N2RjLTkxOWEtNTM2MjNmNzgzYjYxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADiR4786.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#Single (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Romance ‧ 2h 9m Director Caarthick Raju| Writers Bhanu Bhogavarapu ‧ Caarthick Raju ‧ Nandu Savirigana| Stars VTV Ganesh ‧ Ivana ‧ Kalpalatha)",
@@ -17441,14 +17476,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzhmYjMwNjYtMjI1NS00NmY2LTkyMWItODdhOTc5NWRkYmI5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADGC4782.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vadakkan (𝗜𝗠𝗗𝗯 7.7 2025 ‧ Fantasy\\Horror\\Thriller ‧ 1h 52m Director Sajeed A| Writers Sajeed A ‧ Unni R.| Stars Annlis Aaltonen ‧ Greeshma Alex ‧ Garggi Ananthan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjY4OTVlYjQtNzhjOC00NWI4LWExMzMtZmI4MzYyZDQ0ZDkxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7h4780.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nizharkudai (𝗜𝗠𝗗𝗯 9.8 2025 ‧ Drama ‧ 2h 5m Director Shiva Arumugam| Writer Shiva Arumugam| Stars Devayan ‧ iIlavarasu ‧ Manoj Kumar)",
@@ -17483,14 +17518,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmE5MDAwNjMtZTcyOC00NzE2LWE2YTEtODI4ZTdiYzNiN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADRh4768.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "HIT: The 3rd Case (𝗜𝗠𝗗𝗯 7.3 2025 ‧ Crime\\Thriller\\Action\\Serial Killer\\One-Person Aremy Action ‧ 2h 34m Director Sailesh Kolanu| Writer Sailesh Kolanu| Stars Nani ‧ Karthi ‧ Srinidhi Shetty)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNTI0Yzc1Y2EtNDg4MS00OWJmLWI4ODItMjFjMDQ4NjNjM2NhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADux4762.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sumo (𝗜𝗠𝗗𝗯 4.1 2025 ‧ Drama ‧ 1h 58m Director Hosimin| Stars Priya Anand ‧ Lizzie Antony ‧ Yogi Babu)",
@@ -17630,7 +17665,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmIxZjJjMTktOWFiMC00MjExLTllZGItZWRiNDc0MWI2OWEwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/681df66760ff7a0c440e20a2.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Odela 2 (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Drama\\Thriller\\Crime\\Adventure ‧ 2h 30m Director Ashok Teja| Writer Sampath Nandi| Stars Tamannaah Bhatia ‧ Hebah Patel ‧ Vasishta N. Simha)",
@@ -21039,7 +21074,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADLh4943.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S01 EP02 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -21053,7 +21088,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADMx4933.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S01 EP04 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -21081,7 +21116,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADOR4941.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP01 • Good Wife (𝗜𝗠𝗗𝗯 5.7  2025 ‧ Drama\\Crime ‧ Stars Mekha Rajan ‧ Amrutha Srinivasan ‧ Priyamani)",
@@ -21179,7 +21214,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Rana Naidu",
     "link": "https://bq32.short.gy/series/68517cd8da68b73b2dc43e83.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S02 EP03 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\\Action\\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)",
@@ -31196,7 +31231,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/Kanna-Tv-logo-with-dynamic-background-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fweb.applelive.in%2Fstream%2Fkktv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thendral TV Chennai",
@@ -31441,7 +31476,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-10_57_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapsgold-a1.tamilstream.in%2Fapsgold%2Fapsgold%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "APS TV",
@@ -31497,7 +31532,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_31_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fweb.applelive.in%2Fbhagavathtv%2Fbhagavathtv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Amma TV",
@@ -31518,7 +31553,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Mar-2-2026-11_28_14-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fannainew.livebox.co.in%2Fannailivehls%2Flive.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Annai Tamil",
@@ -31532,7 +31567,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fpcntv.wmsdigital.in%2Fhls%2Fgtv%2Fstream.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sooriyan TV Cinema",
@@ -31567,7 +31602,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-18-2026-07_49_27-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsingamcloud.in%2Ftharanitvtvl%2Ftharanitvtvl%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Raagam TV",
@@ -31630,7 +31665,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-01_50_10-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Fpcn%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ATN Media",
@@ -31777,7 +31812,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_17_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F67a779e9%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jawahar TV HD",
@@ -31805,14 +31840,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F9346e98d%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "7Star TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2Fed8bd4a7%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Anandam UTV",
@@ -32197,7 +32232,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Fjayamtv%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ganesh TV",
@@ -32211,7 +32246,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Dec-20-2025-10_50_12-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.applelive.in%2Fboystv%2Fboystv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "JRP TV HD",
@@ -32246,7 +32281,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_32_25-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Femperortv%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kovai TV",
@@ -32260,7 +32295,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_05_58-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fsanatv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sana Plus HD",
@@ -32470,7 +32505,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-3-2025-09_55_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fprimetv%2Fprimetv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MP TV",
@@ -32638,7 +32673,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_41_50-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F1ef919c6%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Riya TV",
@@ -32764,7 +32799,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-05_20_15-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fjeyamtv.livebox.co.in%2FJeyamTelevisionhls%2FJeyamTelevision.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SMCV HD",
@@ -32827,7 +32862,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Mar-2-2026-12_10_18-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.sscloud7.in%2Fisaihd%2Fisaihd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Darshan TV",
@@ -33051,7 +33086,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_33_53-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Furchagamtv%2Fstream.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kumaran TV",
@@ -33072,7 +33107,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_27_59-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.bmlive.net%2Fbms%2Feagletv%2Fstream.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mathi TV",
@@ -33142,7 +33177,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-28-2026-10_13_51-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fkarthick%2Fkarthicktvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jeevan TV &#8211; JBTV",
@@ -33177,7 +33212,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-06_45_44-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fveerali%2Fveeralitv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "7 Green 4K",
@@ -33296,7 +33331,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-2-2026-09_38_25-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FVRMMEDIA%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Win Flix HD",
@@ -33317,7 +33352,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-25-2026-01_24_33-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FJournalistToday%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Studio18 News Telugu",
@@ -33394,7 +33429,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_17_41-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBahujanaTV%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Deccan Today Telugu",
@@ -33646,7 +33681,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_08_46-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FVee9%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "J News Telugu",
@@ -33695,7 +33730,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_30_35-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FIBTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Neti Sakshyam",
@@ -33912,7 +33947,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_38_20-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fbhavani%2Fbhavani%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "RMK TV",
@@ -34017,7 +34052,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_04_22-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSVC%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Maa Cable",
@@ -34108,7 +34143,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_37_33-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMeeNews%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tirumal TV",
@@ -34143,7 +34178,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-05_15_09-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions-server10.in%2Fhls%2Fsanthoshamtv_110.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bhakthi TV",
@@ -34346,7 +34381,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_02_28-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Flmc%2Flmc.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Akshara News",
@@ -34409,7 +34444,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-07_23_04-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRKBhakthiTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "4Sides TV",
@@ -34549,7 +34584,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_40_51-PM-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmanatv.akamaized.net%2F120723%2Fsmil%3Amanatv2.smil%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "ABN Andhra Jyothi",
@@ -34647,7 +34682,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-07_51_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.logichost.in%2FNTV%2Flive%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Drisya",
@@ -34675,14 +34710,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_43_12-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fgowrivision%2Fgowrivision%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Newstar",
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Mar-4-2026-10_13_50-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.skystream.in%2Flive%2Fnewsstar2924%2Findex.m3u8%3Fhls_ctx%3Dix6cvu58",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Media Plus",
@@ -34871,7 +34906,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_37_13-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2F96vd9q4kyxq7-hls-live.5centscdn.com%2Fcctvkkm%2F4870f9d3a6299578edcc3e6c954baeba.sdp%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CCTV Kunnamkulam",
@@ -34983,7 +35018,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2024/11/ChatGPT-Image-Apr-10-2025-10_08_47-AM-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2F2-fss-2.streamhoster.com%2Fpl_120%2F206508-3261972-1%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Starnet Vadakkanchery",
