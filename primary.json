@@ -1093,7 +1093,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png",
     "group": "Malayalam",
     "link": "https://joplay.lrl45.workers.dev/556",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chutti TV",
@@ -4293,7 +4293,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Headlines_Tripura.png",
     "group": "Unknown",
     "link": "https://joplay.lrl45.workers.dev/1246",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Twenty Four News",
@@ -4653,7 +4653,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannadaHD.png",
     "group": "Kannada",
     "link": "https://joplay.lrl45.workers.dev/1362",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee Cinemalu HD",
@@ -6693,7 +6693,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Khabar.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/2773",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Power Kids TV",
