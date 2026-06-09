@@ -693,7 +693,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/482",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony MAX2",
@@ -2149,7 +2149,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",
     "group": "Odia",
     "link": "https://joplay.lrl45.workers.dev/722",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Amrita TV",
@@ -2981,7 +2981,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png",
     "group": "English",
     "link": "https://joplay.lrl45.workers.dev/885",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vedant Ras Swar Shree",
@@ -4925,7 +4925,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
     "group": "Punjabi",
     "link": "https://joplay.lrl45.workers.dev/1453",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shiksha TV",
@@ -8141,7 +8141,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Dhara.png",
     "group": "English",
     "link": "https://joplay.lrl45.workers.dev/3236",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Namma Bangalore",
