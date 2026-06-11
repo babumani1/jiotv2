@@ -725,7 +725,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAction.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/488",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CNBC TV18",
@@ -3125,7 +3125,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/916",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bharat Samachar",
@@ -4261,7 +4261,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png",
     "group": "English",
     "link": "https://joplay.lrl45.workers.dev/1240",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sonic Telugu",
