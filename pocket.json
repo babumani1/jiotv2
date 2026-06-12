@@ -403,7 +403,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png",
     "group": "Movies",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd?name=Zee_Bollywood&keyId=e61523260c614746b25b9a5523fe9a39&key=72ddbf37f76f49acbb8e140e7279e7a1",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zee Classic",
@@ -1012,7 +1012,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd?name=ZOOM&keyId=86edec9e3b7d4042a4d4a1ca14f847ee&key=9def4315f0004019a3705bcb3cf30ca3",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Desi Music Station",
@@ -6724,7 +6724,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd?name=9XM&keyId=29f970f3bdef4935b7b2b6ace0316266&key=8e7efefcf8c843a184977c6c7063487c",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "9X Jalwa",
@@ -6752,7 +6752,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd?name=Zing&keyId=f0fb14eebe474a6ab74c8301d55a7224&key=f9f8b2e30704458b8db844a285ce32be",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "News18 Gujarati",
