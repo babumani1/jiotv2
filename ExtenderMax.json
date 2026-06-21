@@ -14,31 +14,17 @@
     "status": "online"
   },
   {
-    "name": "ENG | Bangladesh Vs Australia",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-    "group": "FC IN",
-    "link": "https://dai-fancode.pages.dev/mumbai/142970_english_hls_7371b641c729339_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "status": "offline"
-  },
-  {
-    "name": "ENG | Hubli Tigers Vs Coastal Kings Mangaluru",
-    "logo": "https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png",
-    "group": "FC IN",
-    "link": "https://dai-fancode.pages.dev/mumbai/143417_english_hls_c6a40667ad24875_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "status": "offline"
-  },
-  {
-    "name": "KAN | Hubli Tigers Vs Coastal Kings Mangaluru",
-    "logo": "https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png",
-    "group": "FC IN",
-    "link": "https://dai-fancode.pages.dev/mumbai/143417_kannada_hls_ed0364c53371357_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "status": "offline"
-  },
-  {
-    "name": "ENG | Jabalpur Royal Lions Vs Gwalior Cheetahs",
+    "name": "ENG | Gwalior Cheetahs Vs Jabalpur Royal Lions",
     "logo": "https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png",
     "group": "FC IN",
     "link": "https://dai-fancode.pages.dev/mumbai/143095_english_hls_49216852c95430_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "status": "offline"
+  },
+  {
+    "name": "China\" tvg-logo=\"https://images.fancode.com/aig/match/v1780575318052/143317_CASACARDS_SPORTY_APP.png\" tvg-language=\"English\" group-title=\"FC IN\"",
+    "logo": "https://images.fancode.com/aig/match/v1780575318052/143317_CASACARDS_SPORTY_APP.png",
+    "group": "FC IN",
+    "link": "https://dai-fancode.pages.dev/mumbai/143317_english_hls_fdba4e105132059_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
     "status": "offline"
   },
   {
@@ -56,858 +42,872 @@
     "status": "offline"
   },
   {
+    "name": "ENG | Day 7   Doubles Finals",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+    "group": "FC IN",
+    "link": "https://dai-fancode.pages.dev/mumbai/143266_english_hls_ec2bfabb6848835_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "status": "offline"
+  },
+  {
+    "name": "ENG | Day 7   Finals",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg",
+    "group": "FC IN",
+    "link": "https://dai-fancode.pages.dev/mumbai/143251_english_hls_7da0af7fd366146_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "status": "offline"
+  },
+  {
+    "name": "ENG | Adac Gt Race 2   Dekra Lausitzring",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png",
+    "group": "FC IN",
+    "link": "https://dai-fancode.pages.dev/mumbai/143308_english_hls_fd4841fa5185944_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+    "status": "offline"
+  },
+  {
     "name": "TOFFEE Sports VIP",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsports_highlights%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsports_highlights%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "TOFFEE Movies VIP",
     "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_movie%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_movie%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "TOFFEE Dramas VIP",
     "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "CNN VIP",
     "logo": "https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcnn%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcnn%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Somoy TV",
     "logo": "https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsomoy_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsomoy_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Findependent_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Findependent_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdesh_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdesh_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fjamuna_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fjamuna_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fatn_news%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fatn_news%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fatn_bangla%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fatn_bangla%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fnexus_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fnexus_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fmovie_bangla%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fmovie_bangla%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fmohona_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fmohona_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Ananda TV",
     "logo": "https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanandatv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanandatv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Bijoy TV",
     "logo": "https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fbijoytv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fbijoytv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fglobal_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fglobal_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Channel S",
     "logo": "https://assets-prod.services.toffeelive.com//WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fchannel_s%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fchannel_s%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Bangla TV",
     "logo": "https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fbangla_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fbangla_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Asian TV",
     "logo": "https://assets-prod.services.toffeelive.com//MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fasian_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fasian_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fchannel_i%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fchannel_i%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fekhon_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fekhon_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/d032f456-c7e8-4fd4-928b-ea5359960ed7.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Frajdhani_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Frajdhani_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fislamic_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fislamic_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Ekattor TV",
     "logo": "https://assets-prod.services.toffeelive.com//PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fekattor_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fekattor_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FBDVSAUS-26%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FBDVSAUS-26%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/156bd8f3-5ea5-4059-bf0e-d3cec365d2ea.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/1c1a3fc4-d283-436a-9886-edac1744f5c3.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-2%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-2%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/9TTspp4Bb1O6C9k7yfhl/posters/c5428e06-3ef9-4ac3-a354-2322570ad0da.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-3%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-3%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/RzT1pp4Bb1O6C9k7RvnM/posters/c627b0ec-e1ea-4494-a639-3412bb930801.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-4%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-4%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/1__3pp4BObUt2AG6u0sF/posters/76c658d2-f729-490c-8219-099a80310c55.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-5%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-5%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
+    "status": "offline"
   },
   {
     "name": "Euro Sport HD",
     "logo": "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Feuro_sports_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Feuro_sports_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_400",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ficc_wtc_final%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ficc_wtc_final%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY SPORTS TEN 1 HD",
     "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_1_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_1_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY SPORTS TEN 2 HD",
     "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_2_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_2_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY SPORTS TEN 5 HD",
     "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_5_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_sports_5_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY TEN Cricket",
     "logo": "https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ften_cricket%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ften_cricket%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "BFL Live 1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6-ZPZ6UT3YhXilJF9fxtHzCqIt6mD71Dmg2_D-ZUsg&s=10",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-11%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-11%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
     "status": "offline"
   },
   {
     "name": "BFL Live 2",
     "logo": "https://assets-prod.services.toffeelive.com//MXnGgJkBcqxnFHJBILyR/posters/035a24dd-4d88-4fc2-99a1-275a5bc97bf5.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-12%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-12%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
     "status": "offline"
   },
   {
     "name": "BFL Live 3",
     "logo": "https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-13%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782122912~Starts%3D1782036512~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DzCGNFlfzjlHUdoJQqWntsRMd-AuMO_U0EQaj_klivDw_7Znu040miaZ4KkFRsm0hm7-P8iqb9KiC_FlbUjH5CQ",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2Fmatch-13%2Findex.m3u8%3Fedge-cache-token%3DExpires%3D1782129600~Starts%3D1782043200~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3Dx06_wSwQxRWE53lGUPZTFn6OJQdkMHnzNevl6JPWLgtXlN-8dB9iMH_Bm65F5OZXhGsJywDzav5g8xATkpGoDQ",
     "status": "offline"
   },
   {
     "name": "Cartoon Network HD",
     "logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcartoon_network_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcartoon_network_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Cartoon Network",
     "logo": "https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcartoon_network_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fcartoon_network_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Pogo",
     "logo": "https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fpogo_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fpogo_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Discovery Kids",
     "logo": "https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_kids%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_kids%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY YAY VIP",
     "logo": "https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyyay%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyyay%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Zee Bangla VIP",
     "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_400",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_anmol%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_anmol%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_400",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzing_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzing_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Hum TV",
     "logo": "https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_tv%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_tv%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Hum Masala",
     "logo": "https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_masala%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_masala%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Hum Sitarey",
     "logo": "https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_sitaray%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fhum_sitaray%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Sony Aat VIP",
     "logo": "https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyaath%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyaath%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY ENTERTAINMENT TELEVISION HD VIP",
     "logo": "https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyentertainmnt_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonyentertainmnt_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY ENTERTAINMENT TELEVISION",
     "logo": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_entertainment%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_entertainment%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "B4U Music VIP",
     "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fb4u_music%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fb4u_music%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY SAB HD VIP",
     "logo": "https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonysab_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonysab_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Zee TV HD",
     "logo": "https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_tv_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_tv_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY MAX HD VIP",
     "logo": "https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "q_75",
     "logo": "https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/-C7MX5UBv9knK3AHdKOi/posters/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla_cinema%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla_cinema%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_300",
     "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bollywood%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bollywood%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_400",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_action%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_action%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY MAX VIP",
     "logo": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY PIX HD VIP",
     "logo": "https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonypix_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonypix_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "w_400",
     "logo": "https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cafe_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cafe_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "B4U Movies VIP",
     "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fb4u_movies%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fb4u_movies%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY MAX 2 VIP",
     "logo": "https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonymax_2%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonymax_2%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Zee Bangla Cinema VIP",
     "logo": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla_cinema%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_bangla_cinema%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Zee Cinema HD",
     "logo": "https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cinema_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fzee_cinema_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "TLC HD",
     "logo": "https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftlc_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftlc_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "TLC",
     "logo": "https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftlc_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftlc_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Animal Planet",
     "logo": "https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Animal Planet HD",
     "logo": "https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fanimal_planet_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "SONY BBC EARTH HD VIP",
     "logo": "https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonybbc_earth_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsonybbc_earth_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Discovery HD",
     "logo": "https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Discovery",
     "logo": "https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_sd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_sd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Discovery Science",
     "logo": "https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_science%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_science%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Discovery Turbo",
     "logo": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_turbo%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovery_turbo%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Investigation Discovery HD",
     "logo": "https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovary_investigation_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fdiscovary_investigation_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "&TV HD",
     "logo": "https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fand_tv_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fand_tv_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "& Pictures HD",
     "logo": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
     "group": "FIT😁",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fajkerweather.app%2Fproxy%3Furl%3Dhttps%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fandpicture_hd%2Fplaylist.m3u8",
-    "status": "online"
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fandpicture_hd%2Fplaylist.m3u8",
+    "status": "offline"
   },
   {
     "name": "Star Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3D9r-CCJ2t7-DM5bhBUR7NqQ%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fstar1in.m3u8%3Fmd5%3DK0QCQi0VPTvqqyqtIndq0A%26expires%3D1782051617",
     "status": "offline"
   },
   {
     "name": "Star Sports 1 Hindi",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DQ0b5gl5kj1DrONtVBDb0OQ%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fstarhindi.m3u8%3Fmd5%3DgVFf7VsejFsqAohgvNxPZA%26expires%3D1782051617",
     "status": "offline"
   },
   {
     "name": "PTV Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3D1d6Nqo6PgEBVARUfZ3gwOQ%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3DY-DMGPCgv9lJftLJ6OsL8Q%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Willow HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3DRqOQNa_Z6vvr7lQCgILjpg%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fwillowusa.m3u8%3Fmd5%3D4el0KuINFSDGB3QrOFpkLA%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Willow HD 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3DN4-meewKtsjMkg2cB0Q3_A%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fwillowextra.m3u8%3Fmd5%3D78UsTfxCmcpcVMe6uBFpIg%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Ten Sports",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DaVMik32y1DlSWZYwvuZv_g%26expires%3D1782043214",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Ftenspk.m3u8%3Fmd5%3DJgoiWXSbeZfXl9E-Knul7g%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "A Sports HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3DxoOsW-HqHwtGdMwHYiLHsw%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fasportshd.m3u8%3Fmd5%3DoMJjtnweq3e3vvvx2GxrjA%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Sky Sports Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn1.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3DR0eZRJRfBzaiYv5h-upM2w%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fskyscric.m3u8%3Fmd5%3DtNaSIxMJKyK3RxQtUOo5Zg%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Sky Sports Main Event",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DO2kbR3mt0TdXA9tSg8sSjg%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DaAwc79107mkCNuL01l5juA%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "TNT 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3DLGT4bDF0osqhoPV-DsyLPA%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fbbtsp1.m3u8%3Fmd5%3Ds5tKPFU-7kX8sJuYEnn4RA%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "TNT 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3DQditVstn4utt7Fl9uLDrIQ%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fbbtsp2.m3u8%3Fmd5%3Df2CcptIA7AGcldpVtYMBHQ%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "TNT 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3DN3zQr0eJPdUtvu-_dkn8cQ%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fbbtsp3.m3u8%3Fmd5%3DuhdbW-Soc4LmAiR0WYMoFg%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "TNT 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DXktccGasFQsNs6nVti5ohw%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fbbtespn.m3u8%3Fmd5%3DhgSq6iQTmUtnxhHqbEh30g%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3Dz4CVsqByZbz47Bt7cnEViw%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn1.zohanayaan.com%3A1686%2Fhls%2Fsky1nz.m3u8%3Fmd5%3D6cH1XEkxKj9paH848_NIGQ%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DnM7DfeF38qolwQFvL25Usw%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fsky2nz.m3u8%3Fmd5%3DjaBjMWp91zEkyrkFCQOulA%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3DoKGTTPVg8Dew4do0_HzvTw%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fsky3nz.m3u8%3Fmd5%3DtUu9zDbBnnuyK6T5Ymz0_w%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 4",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3DJhA24Fe2E0ctwgp4ioGbhw%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn1.zohanayaan.com%3A1686%2Fhls%2Fsky4nz.m3u8%3Fmd5%3D05W1bfO5dnLvWxK6MckKvA%26expires%3D1782051619",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 5",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3Dp524vgOhgVVVKDxjQj5_qQ%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fsky5nz.m3u8%3Fmd5%3D3BjneCajBfVQcgqZgxPDxw%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sport 6 Nz",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3DPsuf4FeE3QiCySiRL_dXng%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fsky6nz.m3u8%3Fmd5%3Dgp004fcnHefP6Zw1KwA1wQ%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 7",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DmOudSdwZvm3273wAsfH0Ng%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fsky7nz.m3u8%3Fmd5%3DV1RYMw7P2aAJCRM4-QLu4A%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 8",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3DOpH2TNWHGK9TsCYsSejIXQ%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fsky8nz.m3u8%3Fmd5%3D4us64zXc0t-Bd0K6QTlWiw%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sport Nz 9",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3DnpIPRWsPcZztFZABvulLpw%26expires%3D1782043216",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fsky9nz.m3u8%3Fmd5%3Dy1VFpZBCeDbELUnoLWM0oQ%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Cinema",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DO2kbR3mt0TdXA9tSg8sSjg%26expires%3D1782043215",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fskysme.m3u8%3Fmd5%3DaAwc79107mkCNuL01l5juA%26expires%3D1782051618",
     "status": "offline"
   },
   {
     "name": "Sky Sports Action",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DUPpHWW142um1xEa1-oMC2A%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fskysact.m3u8%3Fmd5%3DPay3s54qax7MTMmp5a-XDg%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sports Golf",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn1.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3DoiDWs90_zCakFxu7zWuNIg%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fskysgol.m3u8%3Fmd5%3DdALnIMdEUfvFywCauZTCFA%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sports Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3DC3Uu-gMCBsvz8x-s8ltgxA%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fskysprem.m3u8%3Fmd5%3DkBrCAliL2azfTkC6BjzTQQ%26expires%3D1782051620",
     "status": "offline"
   },
   {
     "name": "Sky Sports Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3DdHP7QNUZhJW-RzWTM_uMEg%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fskysfott.m3u8%3Fmd5%3D7kararLbMqnajbGrxj5G1w%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Sky Sports Plus",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DtqT6tyWB8kWXcvsmFlK_Xw%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DHYMcjToDqQhHDqV9AxsWNw%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Sky Sports F1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3D7whdMnybEzkvc-wONdAHoA%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fskysfor1.m3u8%3Fmd5%3D8ksadHpsLmc0YQUMZqN0sg%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "LaLiGA",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3DNjMfA66AYKUB7mmgVFqEtA%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Flaligauk.m3u8%3Fmd5%3DEA-DImv2UTz6tc7exN8-Eg%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Premier Sports 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3DxBeqR1cPuEgCKXoxfaQKtA%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3DoZ9MgbcCJI32BJMHvqG_jw%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Premier Sports 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3D1N9aeK_6gEA09HGDmsVWUg%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3D1U7LkFkaH3wULYx4oiWZjw%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Super Football",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DSjS-IItBqTh5ddGpeBkTCA%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fsuperfotball.m3u8%3Fmd5%3DUF0Ab96J7xtXoGQn3J-2eA%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Super Premier League",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3DUT4wzXyS9r13awMsnwNaZA%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Fsuperpremier.m3u8%3Fmd5%3DxRx5WdmwhQbysKtcWBxAsA%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Astro Cricket",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3Dk2VSVbLcqkMQQ32nz7eWTQ%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DAeEBP3AIX6z_rrQb5Bq2AQ%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "ESPN 1",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DCOwMJyQTDncwzQlxNukaVg%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fespnusa.m3u8%3Fmd5%3DWngy0QyV5uAnuYWu9T-ySg%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "ESPN 2",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DE-GoOlxvplyC8tdJxC2Wzg%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fespn2.m3u8%3Fmd5%3DCZy7jBf9q-LE34ajsUsJ8A%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Sky Sports Arena",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DtqT6tyWB8kWXcvsmFlK_Xw%26expires%3D1782043217",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fskysare.m3u8%3Fmd5%3DHYMcjToDqQhHDqV9AxsWNw%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Sky Sports Mix",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3Di4X95NUbT43_RGgNemD-UA%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fskysmixx.m3u8%3Fmd5%3DLyGZVKOy0zVkcvvK42tC_Q%26expires%3D1782051622",
     "status": "offline"
   },
   {
     "name": "Sky Sports Tennis",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn8.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3D_h-_TsUX5RA_zJtDItLJtw%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Fskystennis.m3u8%3Fmd5%3DLt00GN534dMvkRks-tbPqg%26expires%3D1782051622",
     "status": "offline"
   },
   {
     "name": "Fox Cricket 501 HD",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn10.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3Dk2VSVbLcqkMQQ32nz7eWTQ%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn7.zohanayaan.com%3A1686%2Fhls%2Ffox501.m3u8%3Fmd5%3DAeEBP3AIX6z_rrQb5Bq2AQ%26expires%3D1782051621",
     "status": "offline"
   },
   {
     "name": "Sony Sports3",
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png",
     "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn4.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3D46466VGavMacDIIMWEmivw%26expires%3D1782043218",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn2.zohanayaan.com%3A1686%2Fhls%2Ften1hd.m3u8%3Fmd5%3D3KSeXkY_aiP0UeOvIJ50IA%26expires%3D1782051622",
     "status": "offline"
-  },
-  {
-    "name": "Welcome to PlayZ TV",
-    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",
-    "group": "CRICHD",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fplayztv.pages.dev%2Fpromo%2Fmaster.m3u8",
-    "status": "online"
   },
   {
     "name": "DD Sports",
@@ -1148,115 +1148,94 @@
     "status": "online"
   },
   {
-    "name": "Talent TV Cup | Sri Lanka A vs India A - Final - 21 Jun 2026",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019786/1781957347670552_Tri_Series_final_SL_A_vs_IND_A_landscape_thumb.jpg",
-    "group": "SONAY EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdai.google.com%2Fssai%2Fevent%2F610T6zw_RZizGMCL-IDSDQ%2Fmaster.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "New Zealand Tour of England 2026 | 2nd Test - Day 5 - 21 Jun 2026",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933871835681_ENGvsNZ_2nd_test_day5_watch_free_live_landscape_thumb.jpg",
-    "group": "SONAY EVENTS",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdai.google.com%2Fssai%2Fevent%2FEoLh9waTQSaoJqJMxe-Zlw%2Fmaster.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Bangladesh vs Australia | Australia Tour of Bangladesh 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816861971020x576.jpg",
-    "group": "TapMad Live",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2FserieAleague.akamaized.net%2Fhls%2Flive%2F2107107%2FPSLE_tapmad2026-Backup%2Fmaster.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "England vs New Zealand | New Zealand Tour of England 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg",
-    "group": "TapMad Live",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbpl24middleeast.akamaized.net%2Fhls%2Flive%2F2109311%2Ftapmad-258tjui%2Fmaster.m3u8",
-    "status": "offline"
-  },
-  {
-    "name": "Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg",
+    "name": "ES1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Slovenia%2C_Stage_5_UCI_Pro_Series.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F4%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124290-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-85c3f373ad9007f1f44f74a4b6046a64",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1419%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3De40321c9a068fa00a2ba420cbd7aeac7%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB [Server 2]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg",
+    "name": "Slovak Darts Open | Slovak Darts Open [Server 1]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F4%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3Db3bb187a3b3b0e977db53b1790139d34%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F114415%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134200-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-7e5651ea7de7289d8f30208570b8c625",
     "status": "offline"
   },
   {
-    "name": "Cronulla-Sutherland Sharks VS Sydney Roosters | NRL Rugby [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronulla-Sutherland_Sharks_VS_Sydney_Roosters_NRL_Rugby.jpg",
+    "name": "Slovak Darts Open | Slovak Darts Open [Server 2]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F151592%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3D4dcaab3175a3e4fef1ca5aa35977a56e%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F114415%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3Da1200899f8d033b71dad4371adfcf095%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "Women's Series 15 & 16 - Wigan | Women's Series [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's_Series_15_%26_16_-_Wigan_Women's_Series.jpg",
+    "name": "Cross-country Olympic: Lenzerheide | UCI Mountain Bike World Series [Server 1]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cross-country_Olympic_Lenzerheide_UCI_Mountain_Bike_World_Series.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F114414%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3D47601bdc1f9257d290bef819b17f7bc3%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1418%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3D4b3004c33efa2c88df0415582ef69959%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "Day 1: Bad Homburg | Bad Homburg Open [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg",
+    "name": "Japan VS Italy | Nations League [Server 1]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F6%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124303-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-5423e3a24247e35b760b7ea599abef3d",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134209-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-327a0f48f501e27a46483a42a3547022",
     "status": "offline"
   },
   {
-    "name": "Day 1: Bad Homburg | Bad Homburg Open [Server 2]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg",
+    "name": "Japan VS Italy | Nations League [Server 2]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F6%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3Da5659b28f2a0065be268128a7f699e92%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3D903e59fdc15b6675b2df7d80e619f7f8%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "YOKOHAMA DeNA BAYSTARS VS Hanshin Tigers | NPB [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg",
+    "name": "Francisco Cerundolo VS Tommy Paul - (Men's Singles) Final | HSBC Championships [Server 1]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_(Men's_Singles)_Final_HSBC_Championships.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F5%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124307-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-28bb882e92b5c43056f0eb0eabe60484",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134214-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-6cfa4e88e022201de68e2532d4d85ab5",
     "status": "offline"
   },
   {
-    "name": "YOKOHAMA DeNA BAYSTARS VS Hanshin Tigers | NPB [Server 2]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg",
+    "name": "Francisco Cerundolo VS Tommy Paul - (Men's Singles) Final | HSBC Championships [Server 2]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_(Men's_Singles)_Final_HSBC_Championships.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F5%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3Df822a67587cc2fe71c6cb684fff12e28%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3D6383592d60d53d70762319f9b2cdb29e%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "Lausitzring - Race 2 | Porsche Carrera Cup Italy [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lausitzring_-_Race_2_Porsche_Carrera_Cup_Italy.jpg",
+    "name": "Kyzyl-Zhar VS Kairat Almaty | Premier League [Server 1]",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124312-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-f158b42b718f86eee935e7cdd5102e1a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport10.live%2Fsla%2F1-6a170dfef5f1ba441fbc3acf%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3Db26fc6f227a20e1783696687fa0f9fdd%26x-time%3D1782047760",
     "status": "offline"
   },
   {
-    "name": "Lausitzring - Race 2 | Porsche Carrera Cup Italy [Server 2]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lausitzring_-_Race_2_Porsche_Carrera_Cup_Italy.jpg",
+    "name": "Kyzyl-Zhar VS Kairat Almaty | Premier League [Server 2]",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3D1ee0bf0963e2d21d3017c5eab3f32e68%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fsla%2F1-6a170dfef5f1ba441fbc3acf%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134220-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-29a33b4e04b5b2d06fe3ab949e5bdfda",
     "status": "offline"
   },
   {
-    "name": "Day 7: Berlin Open | Berlin Open [Server 1]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg",
+    "name": "Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 1]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124317-Kv4cPTAAP5YTi-fadf7a36556c71e455e7d77924223a986b9b4389-7ccf8f6f6e90bbfdf073ec880fd4d7ab",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F147445%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134225-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-581df9e7418deae2d74ded1bd4969221",
     "status": "offline"
   },
   {
-    "name": "Day 7: Berlin Open | Berlin Open [Server 2]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg",
+    "name": "Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 2]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg",
     "group": "BingLive",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Dfadf7a36556c71e455e7d77924223a986b9b4389%26x-sign%3Db506ffa9c2f3baade937f102bf87d973%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F147445%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3D97f9d994845d0629166a8647801a3a4e%26x-time%3D1782047820",
+    "status": "offline"
+  },
+  {
+    "name": "ES1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_5_UCI_World_Tour.jpg",
+    "group": "BingLive",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1419%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D97fcf678be3be5154d7811556357afd95fd1b6a4%26x-sign%3D62afc6fab96d7704419686142ee4280c%26x-time%3D1782047820",
     "status": "offline"
   },
   {
@@ -1390,7 +1369,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-10jpg-1751381447882.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixONE%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mix Bel Araby",
@@ -1411,14 +1390,14 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20251030/mycolive-Thumb_6jpg-1761822156288.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapi-ott.tidpix.com%2Floggingmediaurlpassthrough%2Fa.m3u8%3Fversion%3D12%26id%3D10%26partner%3Dgeneral_test",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Saudi Quran TV",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-1jpg-1751381074821.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-dvc-myco.io%3A2096%2FSAUDI_QURAN%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Madani Channel",
@@ -1474,14 +1453,14 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-10jpg-1751381447882.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixONE%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mix Bel Araby",
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20250701/mycolive-8jpg-1751381422278.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FMixBelAraby%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CGTN Arabic",
@@ -1502,7 +1481,7 @@
     "logo": "https://assets.myco.io/public/compressed/thumbnails/20251013/mycolive-CHINACGTNTHUMBjpg-1760344429317.webp",
     "group": "myCo LIVE",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fml-pull-hwc.myco.io%2FCGTN%2Fhls%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CGTN Documentary",
@@ -6297,7 +6276,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F248%2F248_0.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Channel 256",
@@ -7025,7 +7004,7 @@
     "logo": "",
     "group": "EKTV",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.175.73.12%3A8080%2Flive%2F630%2F630_0.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Channel 633",
@@ -7634,14 +7613,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F440.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9X Tashan",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xTashan.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F732.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "9XM",
@@ -7655,7 +7634,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F441.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AB News",
@@ -8159,7 +8138,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F1568.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Atrangii Fast",
@@ -8229,7 +8208,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BHI.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2914.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "BHOOMI 24x7",
@@ -10735,7 +10714,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3090.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "KCM",
@@ -11533,7 +11512,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3393.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "NTV",
@@ -11561,7 +11540,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_Bangalore.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3237.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nandighosha",
@@ -12982,7 +12961,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F3409.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Romedy Now",
@@ -14893,7 +14872,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png",
     "group": "JIO TV WW",
     "link": "https://proxy.lrl45.workers.dev/?url=http%3A%2F%2F103.180.212.191%3A3500%2Flive%2F2423.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vande Gujarat 1",
@@ -31224,7 +31203,7 @@
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/REPUBLIC TV.png",
     "group": "TPlay 2 (IND IP)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd?name=REPUBLIC_TV&keyId=https&key=//servertvhub.site/cache/keys.php?id=72",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABP Asmita",
@@ -35319,7 +35298,7 @@
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sadvidya2000x1125-transparent.png",
     "group": "TPlay 2 (IND IP)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8?name=Sadvidya&keyId=https&key=//servertvhub.site/cache/keys.php?id=1392",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "In24 Live News",
@@ -41314,87 +41293,80 @@
     "status": "online"
   },
   {
-    "name": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles - NPB [4]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg",
+    "name": "Day 3 - Afternoon Session - Slovak Darts Open [114415]",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F4%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124240-Kv4cPTAAP5YTi-7f99d7b92d8abbe8b1358ba5e3a96476f7208a03-0566aa0668c598ff2aadeb1d4b356d51",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F114415%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134128-Kv4cPTAAP5YTi-b8c0190f785299b55c17e581653e1014604ff746-bf6d6aa5cb4a88e49d9e52d2cdad6fb5",
     "status": "offline"
   },
   {
-    "name": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles - NPB [4]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg",
+    "name": "Day 3 - Afternoon Session - Slovak Darts Open [114415]",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F4%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3Dbdf39377c916f1c70a228c9034d58b5c%26x-time%3D1782037800",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F114415%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D6dd003c9d8cd08bee2e05acfcf326dbd%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Cronulla-Sutherland Sharks vs Sydney Roosters - NRL Rugby [151592]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronulla-Sutherland_Sharks_VS_Sydney_Roosters_NRL_Rugby.jpg",
+    "name": "ES1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Slovenia%2C_Stage_5_UCI_Pro_Series.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F151592%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3D7f442ccc178d3d354badb951b7925c2e%26x-time%3D1782037800",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1419%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D3f55253a45038ec193acd095de3948f9%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Day 1: Bad Homburg - Bad Homburg Open [6]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg",
+    "name": "Cross-country Olympic: Lenzerheide - UCI Mountain Bike World Series [1418]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cross-country_Olympic_Lenzerheide_UCI_Mountain_Bike_World_Series.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F6%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124252-Kv4cPTAAP5YTi-7f99d7b92d8abbe8b1358ba5e3a96476f7208a03-7c63487e77fdd180cd1e31669fa0e428",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1418%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D9b2984979981c3d6b8a6d066ab8954d2%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Day 1: Bad Homburg - Bad Homburg Open [6]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg",
+    "name": "Japan vs Italy - Unknown League [7]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F6%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3D593b84c8f6ac92b1bf202cbe7e1ff204%26x-time%3D1782037800",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134143-Kv4cPTAAP5YTi-b8c0190f785299b55c17e581653e1014604ff746-997a67df27e49af4c8ad35f89e69483a",
     "status": "offline"
   },
   {
-    "name": "Women's Series 15 & 16 - Wigan - Women's Series [114414]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s_Series_15_%26_16_-_Wigan_Women%27s_Series.jpg",
+    "name": "Japan vs Italy - Unknown League [7]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F114414%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3D1e17cd31cdaaf7950d38fd4909c3a8fc%26x-time%3D1782037800",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D0afffdb6a68a010cdf0b30d1b9a7489b%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Yokohama DeNA BayStars vs Hanshin Tigers - NPB [5]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg",
+    "name": "Francisco Cerundolo vs  Tommy Paul - (Men's Singles) Final - HSBC Championships [17]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_%28Men%27s_Singles%29_Final_HSBC_Championships.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F5%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124263-Kv4cPTAAP5YTi-7f99d7b92d8abbe8b1358ba5e3a96476f7208a03-0392380fed502b7ba6ba315c043a3e8a",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134148-Kv4cPTAAP5YTi-b8c0190f785299b55c17e581653e1014604ff746-357e0392bf152fc615a1f0d408921221",
     "status": "offline"
   },
   {
-    "name": "Yokohama DeNA BayStars vs Hanshin Tigers - NPB [5]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg",
+    "name": "Francisco Cerundolo vs  Tommy Paul - (Men's Singles) Final - HSBC Championships [17]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_%28Men%27s_Singles%29_Final_HSBC_Championships.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F5%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3D75cf12d2d1f1646d1428ad5a28536143%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D001fffabc37fad1deecd0ba340312e7e%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Lausitzring - Race 2 - Unknown League [7]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lausitzring_-_Race_2_Porsche_Carrera_Cup_Italy.jpg",
+    "name": "ES1",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_5_UCI_World_Tour.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124270-Kv4cPTAAP5YTi-7f99d7b92d8abbe8b1358ba5e3a96476f7208a03-db1d500107a0b78eb465eaf67176c485",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F1419%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3D3f55253a45038ec193acd095de3948f9%26x-time%3D1782047700",
     "status": "offline"
   },
   {
-    "name": "Lausitzring - Race 2 - Unknown League [7]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lausitzring_-_Race_2_Porsche_Carrera_Cup_Italy.jpg",
+    "name": "Taylor Fritz vs Frances Tiafoe - (Men's Singles) Final - Terra Wortmann Open [147445]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_%28Men%27s_Singles%29_Final_Terra_Wortmann_Open.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F7%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3D04e18e98f71974046f72835b9ce8434d%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F147445%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782134159-Kv4cPTAAP5YTi-b8c0190f785299b55c17e581653e1014604ff746-ad08896ed864862acc5bb2259c3c49d3",
     "status": "offline"
   },
   {
-    "name": "Day 7: Berlin Open - Unknown League [17]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg",
+    "name": "Taylor Fritz vs Frances Tiafoe - (Men's Singles) Final - Terra Wortmann Open [147445]",
+    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_%28Men%27s_Singles%29_Final_Terra_Wortmann_Open.jpg",
     "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-tc-livestream.rumsport10.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1782124276-Kv4cPTAAP5YTi-7f99d7b92d8abbe8b1358ba5e3a96476f7208a03-6e9c73083c57fe86661a430e56ace9c1",
-    "status": "offline"
-  },
-  {
-    "name": "Day 7: Berlin Open - Unknown League [17]",
-    "logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg",
-    "group": "AxesSports",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-livestream.rumsport7.live%2Fstream%2F17%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D7f99d7b92d8abbe8b1358ba5e3a96476f7208a03%26x-sign%3Dd342d1ca682aedb87e386c43d0503a9b%26x-time%3D1782037860",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F147445%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3Db8c0190f785299b55c17e581653e1014604ff746%26x-sign%3Db08f6773b0860ae0512ef16f39499614%26x-time%3D1782047700",
     "status": "offline"
   },
   {
@@ -41402,7 +41374,7 @@
     "logo": "https://media.zongmobiletv.com/file/channel_thumbs/set-entertainment.webp",
     "group": "ZONG PK",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fs1.ideationtec.live%2FSET_Ent%2FSET_Ent.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bol Entertainment HD",
@@ -41416,7 +41388,7 @@
     "logo": "https://media.zongmobiletv.com/file/channel_thumbs/YatXxwzp3ztHqyhxwmbOuULnvzmaSbTAHjqFFK5M.webp",
     "group": "ZONG PK",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fs2.ideationtec.live%2FAAJ_Entertainment%2FAAJ_Entertainment.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aan HD",
@@ -41696,6 +41668,34 @@
     "logo": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pf4di4ic4io13ymdqq1x",
     "group": "ICC+",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782060306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=b89c064ca38c4094de2007bac4084bfa5cbb903675201764971da3ddae63f207/manifest.mpd?name=English_|_WT20:_West_Indies_v_Sri_Lanka&keyId={\"keys\"&key=[{\"kty\"",
+    "status": "offline"
+  },
+  {
+    "name": "English | 4th T20I: Hong Kong",
+    "logo": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ubhiyf27ofz5qetzudxp",
+    "group": "ICC+",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1782071105~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=143c5b2dbcfd565bbae54882f15540451e941dcfea09478fde6585b00cb5ad33/manifest.mpd?name=English_|_4th_T20I:_Hong_Kong&keyId={\"keys\"&key=[{\"kty\"",
+    "status": "offline"
+  },
+  {
+    "name": "English | WT20: South Africa v India",
+    "logo": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ly74yydxmb8ybqjevxth",
+    "group": "ICC+",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782074706~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=fda764bcc6d6ed3d08a514b2c739389e003076ebe82fd12d8570541dbdae72f0/manifest.mpd?name=English_|_WT20:_South_Africa_v_India&keyId={\"keys\"&key=[{\"kty\"",
+    "status": "offline"
+  },
+  {
+    "name": "English | WT20: South Africa v India (HINDI)",
+    "logo": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xgncfyqinrpl94gkrzjc",
+    "group": "ICC+",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782074709~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=56354811a73674f01d615c723089737e0882bd90ee2af795061073fda8d19390/manifest.mpd?name=English_|_WT20:_South_Africa_v_India_(HINDI)&keyId={\"keys\"&key=[{\"kty\"",
+    "status": "offline"
+  },
+  {
+    "name": "English | WT20: South Africa v India (JAPANESE)",
+    "logo": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lbpjujt21hagaesbtwog",
+    "group": "ICC+",
+    "link": "https://dash.vodep39240327.workers.dev/?url=https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1782074713~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2712116f4b0f8dd6e3634191055a490f684e5e36bc314f5def2b7c339c1a63fa/manifest.mpd?name=English_|_WT20:_South_Africa_v_India_(JAPANESE)&keyId={\"keys\"&key=[{\"kty\"",
     "status": "offline"
   },
   {
@@ -134383,7 +134383,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOLLO0I0LI0IiiL1O1i1ii/manifest.mpd?name=PTC_Simran&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Hare Krsna Music",
@@ -134649,7 +134649,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOllO001LI0Iii0ILIi1ii/manifest.mpd?name=Zee_TV&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee Telugu HD",
@@ -134768,7 +134768,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/lOLLoOOLoOOLiiI1lOlllO/manifest.mpd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nat Geo Wild",
@@ -134817,7 +134817,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lO0IlOiLlOi1iiI1lOi100/manifest.mpd?name=SVBC2&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Santvani",
@@ -134915,7 +134915,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi1illoO1lliiI1LI0I00/manifest.mpd?name=Colors_Cineplex_HD&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Argus News",
@@ -135475,7 +135475,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oi0I0i0Ioi0Iii01lOi100/manifest.mpd?name=NEWS_24_MPCG&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Green Chillies",
@@ -135832,7 +135832,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIOL0io1lOi1ooIolOio/manifest.mpd?name=DD_National&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "HNN 24x7",
@@ -135874,14 +135874,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiIOoo01lOi1ooIoLIil/manifest.mpd?name=DD_Sports&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Merchant Records",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOL1o0ioOllooIoLIOLO0/manifest.mpd?name=Merchant_Records&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shemaroo Umang",
@@ -135902,14 +135902,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOIOO0iLoii1ooIoO1llii/manifest.mpd?name=TV27_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "22Scope News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi10lI0LIllooIoO1lloo/manifest.mpd?name=22Scope_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ET Now",
@@ -135923,7 +135923,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOLLLIOioii1ooL1LI0Ioi/manifest.mpd?name=India_24x7&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "U Bangla",
@@ -135937,7 +135937,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lO1iO0L0LIOLooL1O1ll00/manifest.mpd?name=Swatantra_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Globe TV",
@@ -136371,7 +136371,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Tamil.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOiLoiiLoiOLoo01LIi1lO/manifest.mpd?name=Star_Sports_2_Tamil&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KCM",
@@ -136385,14 +136385,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIllio01O1lloo01LIOLoo/manifest.mpd?name=Mahaa_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sanskar",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOLO0L0LIOLoo01O1il/manifest.mpd?name=Sanskar&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SET HD",
@@ -136420,7 +136420,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_Gold.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lO0ILI0LlOi1oololOi100/manifest.mpd?name=Sadhna_Gold&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "WPN World Punjabi News",
@@ -136455,7 +136455,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pudhari_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiiLlOI0oOi1oololO0I0l/manifest.mpd?name=Pudhari_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Oye Music",
@@ -136490,7 +136490,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeewan_Bhakti.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiOLl01ioii1ooloLIll00/manifest.mpd?name=Jeewan_Bhakti&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TV45",
@@ -136539,7 +136539,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOiLlOIooOOLlOIolOlloi/manifest.mpd?name=Dhoom_Music_Bangla&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "AMV",
@@ -136945,7 +136945,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_26.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi10i0ILIi1lOL1lOOLii/manifest.mpd?name=DD_Swayam_Prabha_26&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Swayam Prabha 27",
@@ -137120,7 +137120,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_PB_HR_HM.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LI1ilOL1lOi1lOL1LIi1oo/manifest.mpd?name=News_State_Punjab_Haryana_Himachal&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bloomberg Originals",
@@ -137253,7 +137253,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Malayalam.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi10lIooOOLlOL1O1llO0/manifest.mpd?name=News_Malayalam&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kolkata News",
@@ -137288,14 +137288,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Chanakya_News_Ind_Raj.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOIO1o0ioOi1lOL1O1ll0i/manifest.mpd?name=Chanakya_News_India_Rajasthan&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chanakya News National",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Chanakya_News_National.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOi10LLoLIlllOL1O1i1il/manifest.mpd?name=Chanakya_News_National&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S Bharat",
@@ -137309,7 +137309,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aone_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOllOiLooOOLlOL1O1i1oo/manifest.mpd?name=AOne_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Patnagar Network News",
@@ -137428,7 +137428,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Chanakya_News_UPUK.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOi1oiL1lO0IlOI0lO0I0l/manifest.mpd?name=Chanakya_News_UPUK&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bhakti Dhara",
@@ -137638,7 +137638,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahotsav_TV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIOLioI1oii1lOI0O1i10l/manifest.mpd?name=Mahotsav_TV&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News_Plus_24x7",
@@ -137694,7 +137694,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_Vedic_TV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi1OILooOOLlO0IlO0IO0/manifest.mpd?name=Sanatan_Vedic_TV&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "NE Bharat24",
@@ -137820,7 +137820,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DocuBay.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOi10lI0LIlllOI1lOlloo/manifest.mpd?name=DocuBay&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "BHP News Gujarati",
@@ -137890,7 +137890,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOi1LIOioOi1lOI1LIllO0/manifest.mpd?name=Discovery_HD_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Animal Planet HD Hindi",
@@ -137904,7 +137904,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOLOiOiLIi1lOI1LIi1lO/manifest.mpd?name=Discovery_Science_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TLC HD Hindi",
@@ -137953,7 +137953,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/JioHome.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOi10iiLoiOLlOI1LI0IlO/manifest.mpd?name=Jio_Home&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee Bangla Sonar",
@@ -137967,21 +137967,21 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOLoOOLoOOLlOiLlOio/manifest.mpd?name=Star_Sports_Hindi_1&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Vijay HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOiLlO01lOi1lOiLO1il/manifest.mpd?name=Star_Vijay_HD&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Suvarna HD",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_HD.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi11o0LlOOLlOL0lOil/manifest.mpd?name=Suvarna_HD&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Times NOW",
@@ -138009,7 +138009,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oi1ioO1ilOllO0IolOio/manifest.mpd?name=PM_e_Vidya_02&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Swayam Prabha 20",
@@ -138177,7 +138177,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIOL00L1oiOLO0iLlOil/manifest.mpd?name=Star_Sports_Select_HD1&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Star Sports Select HD2",
@@ -138191,7 +138191,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/O1llOOLoLIllO0iLLIil/manifest.mpd?name=Zee_24_Ghanta&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jaihind tv",
@@ -138261,7 +138261,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOi10i01LI0IO001LIIo/manifest.mpd?name=Zee_Bollywood&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee Action",
@@ -138366,14 +138366,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/oi0Il00LoOi10lIoLIil/manifest.mpd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "VIP News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOi1io0ILIll0lL1lOil/manifest.mpd?name=VIP_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mh One News",
@@ -138394,7 +138394,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/O1lllOL1lOi10lL1lOIo/manifest.mpd?name=India_News_Rajasthan&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "India News MP",
@@ -138485,21 +138485,21 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LI1iiiloO1ll0l0IlOIo/manifest.mpd?name=Raj_Pariwar&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Madhya Pradesh",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oii1LO0LO1ll0l0ILIio/manifest.mpd?name=DD_Madhya_Pradesh&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Rajasthan (Jaipur)",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOOLOi0LLIi10l0IO1il/manifest.mpd?name=DD_Rajasthan_(Jaipur)&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DD Bihar",
@@ -138541,14 +138541,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oi0IOi1ioOi10lo1LIil/manifest.mpd?name=Discovery_Kids_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Pogo Hindi",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiIOiiIooiOL0lo1O1O0/manifest.mpd?name=Pogo_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "GOOD TiMES",
@@ -138576,7 +138576,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOll0lo1oii10liLlOIo/manifest.mpd?name=Kaumudy_TV&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Abhiruchi",
@@ -138590,14 +138590,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHin.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOll00I0LIOL0liLLIio/manifest.mpd?name=Animal_Planet_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "D Tamil",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOiLOOOiLI0I0liLO1O0/manifest.mpd?name=D_Tamil&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Life",
@@ -138618,7 +138618,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/lOOL0LLolO0I0lL0lOio/manifest.mpd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Discovery Hindi",
@@ -138800,7 +138800,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18TamilNadu.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/O1IOii01LIlloiL1LIO0/manifest.mpd?name=News18_Tamil_nadu&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TV9 Gujarat",
@@ -138884,7 +138884,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOLLoiloLI0IoiI0O1O0/manifest.mpd?name=ETV_Telugu&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Telangana",
@@ -138947,7 +138947,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiOLOIOilOlloi0IO1O0/manifest.mpd?name=Ramdhenu&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ABP Asmita",
@@ -138996,7 +138996,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/O1LLlOo1lOlloio1lOil/manifest.mpd?name=Raj_News_Malayalam&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Raj News Kannada",
@@ -139066,7 +139066,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oi1i1o0ilO0IoiiLlOO0/manifest.mpd?name=Zee_Bihar_Jharkhand&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Manorama News",
@@ -139101,7 +139101,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOLLOLooi0IoiiLLIIo/manifest.mpd?name=T_News&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TV 5 News",
@@ -139227,7 +139227,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOLLl0LoO1lloiloLIIo/manifest.mpd?name=Sony_aath&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aakash Aath",
@@ -139570,7 +139570,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oO1i0lI1oiOL00L0LIO0/manifest.mpd?name=Vanitha&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bhakti TV",
@@ -139745,7 +139745,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oiOL0L0iLIllioL1LIil/manifest.mpd?name=Travelxp_Tamil&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sonic Hindi",
@@ -139892,7 +139892,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/oOOLl0OLoOOLioo1LIIo/manifest.mpd?name=Vendhar_TV&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Republic TV",
@@ -139920,7 +139920,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LI1ioOOLlOi1ioL0lOio/manifest.mpd?name=Sony_Yay_Hindi&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Eurosport HD",
@@ -139941,7 +139941,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/lOi1LI0ilO0IioL0O1O0/manifest.mpd?name=Hare_krsna&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Janta TV",
@@ -139983,14 +139983,14 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/O1llLOOLoOi1iololOO0/manifest.mpd?name=Sony_Ten_2_HD&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Only Music",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi1O0IoLIOL0iIolOIo/manifest.mpd?name=Only_Music&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sanjha TV",
@@ -141019,7 +141019,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://alex4528.site/jplus/LIi1ioI1oOi1iiiLLIOL0i/manifest.mpd?name=Sun_Bangla&keyId=https&key=//alex4528.site/jplus/license",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ANN News",
@@ -141047,7 +141047,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/oi0ILO0ioOlliiL0LI0I0l/manifest.mpd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "HooplaKidz TV",
@@ -141250,7 +141250,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ose-122ads-montreal.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/oiiLoiI0oi0IlO0IlOOLlO/manifest.mpd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Stingray Todays K-Pop",
@@ -141271,7 +141271,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/LI0IooI1oOi1lO0IlOOLio/manifest.mpd",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "NH BollyFlix",
@@ -141362,7 +141362,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
     "group": "JSTAR WW (Slow)",
     "link": "https://alex4528.site/jplus/LIOLLO0LoiOLlOI1lOi100/manifest.mpd",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "SONY YAY Kannada",
@@ -141663,7 +141663,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sony-wah.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009253",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Colors Infinity HD",
@@ -141684,7 +141684,7 @@
     "logo": "https://otapp.store/uploads/tv_image/biswa-bangla-24.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fbiswabanglatv.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Alpona TV",
@@ -141698,7 +141698,7 @@
     "logo": "https://otapp.store/uploads/tv_image/deshi-tv.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fdeshitv.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Deshe Bideshe",
@@ -141740,7 +141740,7 @@
     "logo": "https://otapp.store/uploads/tv_image/s-tv-bangla.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fchannels.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Deepto TV",
@@ -141775,7 +141775,7 @@
     "logo": "https://otapp.store/uploads/tv_image/movie-bangla.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbook4u.top%2Fxyz%2Fplayer.m3u8%3Fid%3Dedge3%2Fmovie-bangla",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ekhon TV",
@@ -141831,7 +141831,7 @@
     "logo": "https://otapp.store/uploads/tv_image/channel-9.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fchannel9hd.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gazi TV HD",
@@ -141859,7 +141859,7 @@
     "logo": "https://otapp.store/uploads/tv_image/my-tv.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fmytv-up-off.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Desh TV",
@@ -141999,7 +141999,7 @@
     "logo": "https://otapp.store/uploads/tv_image/al-jazeera.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbuy.ottbangla.com%2F4k%2Fiscr%2Fstream.m3u8%3Fid%3Dal-jazeera",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee 24 Ghanta",
@@ -142034,14 +142034,14 @@
     "logo": "https://otapp.store/uploads/tv_image/makkah-live-quran-tv.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fmakkahtv.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Madina Live Tv Sunnah TV",
     "logo": "https://otapp.store/uploads/tv_image/madina-live-tv-sunnah-tv.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp24.jagobd.com.bd%2Fc3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2%2Fmadina.stream%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sangeet Bhojpuri",
@@ -142265,14 +142265,14 @@
     "logo": "https://otapp.store/uploads/tv_image/sony-pal.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009273",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony SAB HD",
     "logo": "https://otapp.store/uploads/tv_image/sony-sab.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009248",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "IPL 2026",
@@ -142300,7 +142300,7 @@
     "logo": "https://otapp.store/uploads/tv_image/tata-ipl-2025.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbook4u.top%2Fxyz%2Fplayer.m3u8%3Fid%3Dedge2%2Fstar-sports-2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony Yay Bangla",
@@ -142419,14 +142419,14 @@
     "logo": "https://otapp.store/uploads/tv_image/aakash-aath.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbuy.ottbangla.com%2F4k%2Fiscr%2Fstream.m3u8%3Fid%3Dakash-aath",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony MAX HD",
     "logo": "https://otapp.store/uploads/tv_image/sony-max-hd.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009247",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Gold Romance",
@@ -142496,7 +142496,7 @@
     "logo": "https://otapp.store/uploads/tv_image/sony-marathi.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsony.dongobd247.workers.dev%2Fstream.m3u8%3Fid%3D1000009259",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "B4U Kadak",
@@ -142573,7 +142573,7 @@
     "logo": "https://otapp.store/uploads/tv_image/and-tv-hd.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbook4u.top%2Fxyz%2Fplayer.m3u8%3Fid%3Dedge3%2Ftv-hd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sony HD (SET HD)",
@@ -142608,7 +142608,7 @@
     "logo": "https://otapp.store/uploads/tv_image/t-sports-2.png",
     "group": "BDIX 1",
     "link": "http://book4u.top/royr/index.php?id=liveevent",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ten Sports",
@@ -142622,7 +142622,7 @@
     "logo": "https://otapp.store/uploads/tv_image/t-sports.webp",
     "group": "BDIX 1",
     "link": "http://book4u.top/royr/index.php?id=T-SPORTS",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Red Bull TV",
@@ -142671,7 +142671,7 @@
     "logo": "https://otapp.store/uploads/tv_image/star-sports-2-hd.png",
     "group": "BDIX 1",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbook4u.top%2Fxyz%2Fplayer.m3u8%3Fid%3Dedge2%2Fstar-sports-2",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Sports 1 HD",
@@ -143756,7 +143756,7 @@
     "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
     "group": "FIFA WC 2026 LIVE",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd?name=SPORZA_SPORTS&keyId=893bc63340876605f52886a42e0ccce5&key=d6c46d2d691056fbd091bf1f01b21a91",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TAPMAD - HD",
@@ -143882,27 +143882,6 @@
     "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
     "group": "Willow Events",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ty2hlbyyk3/out/v1/0e4990351b97426db382b30cb01cf645/cenc.mpd?name=1080_.jpeg\"_group-title=\"Willow_Events\"&keyId=8094deb4bf11428aa0d663b3168bc69d&key=da904540e06da7a77270d63422cb0f69",
-    "status": "online"
-  },
-  {
-    "name": "1080_.jpeg\" group-title=\"Willow Events\"",
-    "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91a3bb75-108e-4e96-9220-b02f3ca19638/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-    "group": "Willow Events",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd?name=1080_.jpeg\"_group-title=\"Willow_Events\"&keyId=1e5d713e767c1a6cffd1881387b207cd&key=1f97487e54111023d37c80d74cb3bb4c",
-    "status": "online"
-  },
-  {
-    "name": "1080_.jpeg\" group-title=\"Willow Events\"",
-    "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f0af3238-db36-4ad3-ac5b-dd7b4b5342e0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-    "group": "Willow Events",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd?name=1080_.jpeg\"_group-title=\"Willow_Events\"&keyId=3c5748ca4057e0164af63c902f7179a9&key=57226e66db80823fedc53e3aa7bc7c59",
-    "status": "online"
-  },
-  {
-    "name": "1080_.jpeg\" group-title=\"Willow Events\"",
-    "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d4746bf4-f478-4bfd-84b5-b29f7a8138a3/11/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-    "group": "Willow Events",
-    "link": "https://dash.vodep39240327.workers.dev/?url=https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l2h5bdvlpd/out/v1/5fbcd0ec9fe044598d6f36f844300079/cenc.mpd?name=1080_.jpeg\"_group-title=\"Willow_Events\"&keyId=b4496b9a9e83b9dc0dedba157712ad1c&key=189df9061b7c96db75bb8d60bdc18c73",
     "status": "online"
   }
 ]
