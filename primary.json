@@ -53,7 +53,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/156",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Travelxp HD",
@@ -77,7 +77,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png",
     "group": "Telugu",
     "link": "https://joplay.lrl45.workers.dev/166",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Zee TV HD",
@@ -93,7 +93,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/173",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aastha",
@@ -141,7 +141,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndPicturesHD.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/185",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CNBC Awaaz",
