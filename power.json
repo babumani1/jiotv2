@@ -4,14 +4,14 @@
     "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
     "group": "FIFA WC 2026",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/bw8hpnqprs/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd?name=FoxOne_FHD&keyId=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "FoxOne 4K",
     "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
     "group": "FIFA WC 2026",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/t7uu8qfape/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd?name=FoxOne_4K&keyId=1f68713028d439ec03be07f56c1d6213&key=20093db6455160fffed4c394def3193d",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TSN",
@@ -536,6 +536,384 @@
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Jio Cinema",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd?name=q_90&keyId=ffcedf61e9544d1da7db98277a290000&key=cea7c92c93f04c6daaf31e2fda5e6809",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105530%2FZeeTamilHDELE%2Findex.m3u8%3Fhdnts%3Dst%3D1782846220~exp%3D1782849220~acl%3D%2Fcmaf%2Flive%2F2105530%2FZeeTamilHDELE%2F*~id%3Da4921d6d-5222-40cf-9ba7-59cc5fb492b9~data%3Dnon-ssai_a4921d6d-5222-40cf-9ba7-59cc5fb492b9~hmac%3D9c4519a3ff88e53e793627a5725c97ec4ac4738cbba7a6b40907fa0feb89f0de%26req_id%3Dnon-ssai_a4921d6d-5222-40cf-9ba7-59cc5fb492b9",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105520%2FZeeMarathiHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846221~exp%3D1782849221~acl%3D%2Fcmaf%2Flive%2F2105520%2FZeeMarathiHDELE%2F*~id%3D1ab1c164-4913-4910-ab61-31aac9cbfb69~data%3Dnon-ssai_1ab1c164-4913-4910-ab61-31aac9cbfb69~hmac%3D3fd78ff8d39852db5b05012a64c9cda54a8ecdab60cbaab30a760621a5daf42c%26req_id%3Dnon-ssai_1ab1c164-4913-4910-ab61-31aac9cbfb69",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105545%2FZeeTeluguHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846222~exp%3D1782849222~acl%3D%2Fcmaf%2Flive%2F2105545%2FZeeTeluguHDELE%2F*~id%3D1aad6e5d-cb08-48cc-9fba-1997f5524285~data%3Dnon-ssai_1aad6e5d-cb08-48cc-9fba-1997f5524285~hmac%3D127346401d49cd02ec40e0e660f00158b041a6b00e0056c4faf356e5b9499993%26req_id%3Dnon-ssai_1aad6e5d-cb08-48cc-9fba-1997f5524285",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105544%2FZeeCinemaluHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846222~exp%3D1782849222~acl%3D%2Fcmaf%2Flive%2F2105544%2FZeeCinemaluHDELE%2F*~id%3D684652a9-29d5-4ef7-84aa-ec493fa91bd4~data%3Dnon-ssai_684652a9-29d5-4ef7-84aa-ec493fa91bd4~hmac%3D674cbe07be80eee9d94f2bc36ac93b50756d2f710abc4afee6c4ff87abcc3704%26req_id%3Dnon-ssai_684652a9-29d5-4ef7-84aa-ec493fa91bd4",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105554%2FZeeBanglaHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846223~exp%3D1782849223~acl%3D%2Fcmaf%2Flive%2F2105554%2FZeeBanglaHDELE%2F*~id%3D015e78fe-f3e1-400d-a6cc-b92c703f6bdb~data%3Dnon-ssai_015e78fe-f3e1-400d-a6cc-b92c703f6bdb~hmac%3D8eb99fc73f9a000504145bfc377c95ebacddaea53d472c3c7ab337f3c4f5acf8%26req_id%3Dnon-ssai_015e78fe-f3e1-400d-a6cc-b92c703f6bdb",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105524%2FZeeBanglaCinemaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846224~exp%3D1782849224~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bangla-Sonar-SD%2Fmaster%2F*~id%3D4342f24a-63fd-4665-9d3a-3fb7f8cded1e~data%3Dnon-ssai_4342f24a-63fd-4665-9d3a-3fb7f8cded1e~hmac%3D5e3f7f6e9fd95cdde6ca7e0eeed83965b584b37e9db0d57202eae60f68f9a2fd%26req_id%3Dnon-ssai_4342f24a-63fd-4665-9d3a-3fb7f8cded1e",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105531%2FZeeTVHDMSLELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846224~exp%3D1782849224~acl%3D%2Fcmaf%2Flive%2F2105531%2FZeeTVHDMSLELE%2F*~id%3D5ed7d47a-4896-4f7f-9931-abf18b5a00b6~data%3Dnon-ssai_5ed7d47a-4896-4f7f-9931-abf18b5a00b6~hmac%3D92ee89c3188bed9a1005483c7bdcfa6b591659ad3a03f60caecae2aa5078e6f2%26req_id%3Dnon-ssai_5ed7d47a-4896-4f7f-9931-abf18b5a00b6",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105540%2FZeeCinemaHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846225~exp%3D1782849225~acl%3D%2Fcmaf%2Flive%2F2105540%2FZeeCinemaHDELE%2F*~id%3Dfefacd58-b663-471f-8d48-4c40cdff8c0d~data%3Dnon-ssai_fefacd58-b663-471f-8d48-4c40cdff8c0d~hmac%3D404204e9c5bdc1335b407f3d4fb271bcf0744fa856ce999a63d4e0e47b7af542%26req_id%3Dnon-ssai_fefacd58-b663-471f-8d48-4c40cdff8c0d",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105179%2FZeeTeluguELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846226~exp%3D1782849226~acl%3D%2Fcmaf%2Flive%2F2105179%2FZeeTeluguELE%2F*~id%3D0b3242bf-a4bf-4289-8b40-89e334c2b07d~data%3Dnon-ssai_0b3242bf-a4bf-4289-8b40-89e334c2b07d~hmac%3De5576eb2163eb4b0e3fbcbdf1fa05f74d9864b594ba0a833311776fa756fde70%26req_id%3Dnon-ssai_0b3242bf-a4bf-4289-8b40-89e334c2b07d",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105548%2FZeeCinemalauELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846226~exp%3D1782849226~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Cinemalu-SD%2Fmaster%2F*~id%3D3ae09569-9d0c-4ba5-8454-3658038dd0b4~data%3Dnon-ssai_3ae09569-9d0c-4ba5-8454-3658038dd0b4~hmac%3D9b9fc87858070af1db817222653fdf39e90f826bbbdae4cf6a2d7246d3c17e37%26req_id%3Dnon-ssai_3ae09569-9d0c-4ba5-8454-3658038dd0b4",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105543%2FZeeMarathiELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846227~exp%3D1782849227~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Marathi-SD%2Fmaster%2F*~id%3Deb4f30b8-f705-429a-94b1-0f9916e13c94~data%3Dnon-ssai_eb4f30b8-f705-429a-94b1-0f9916e13c94~hmac%3D31fe66da854336b93b349c37df6e1dad5ae1933a85574a23b4855f4a128c919c%26req_id%3Dnon-ssai_eb4f30b8-f705-429a-94b1-0f9916e13c94",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105519%2FZeeTalkiesHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846228~exp%3D1782849228~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Talkies-HD%2Findex%2F*~id%3Db909893c-68eb-4b3e-aed3-4f3c3577c218~data%3Dnon-ssai_b909893c-68eb-4b3e-aed3-4f3c3577c218~hmac%3Dabdfb89756d9b120b461b613cac89af5d212ff2f7b7f36373dd3d8b272f1b36c%26req_id%3Dnon-ssai_b909893c-68eb-4b3e-aed3-4f3c3577c218",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Classic-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846228~exp%3D1782849228~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Classic-SD%2Fmaster%2F*~id%3D1894a070-f3e5-40c9-9609-8ea8756e6117~data%3Dnon-ssai_1894a070-f3e5-40c9-9609-8ea8756e6117~hmac%3D0a0ced8621e78af73705015e0154874fcfe4264be56094671bad3c84dbe8a5de%26req_id%3Dnon-ssai_1894a070-f3e5-40c9-9609-8ea8756e6117",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105174%2FANDPicturesHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846229~exp%3D1782849229~acl%3D%2Fcmaf%2Flive%2F2105174%2FANDPicturesHDELE%2F*~id%3Db67fcb77-2c2e-4601-b9be-759aeb8c7268~data%3Dnon-ssai_b67fcb77-2c2e-4601-b9be-759aeb8c7268~hmac%3D1f4bc27cf7e9e3c7cf30924983b9b9bd592ff292b6b58ca2047064b59f1377ea%26req_id%3Dnon-ssai_b67fcb77-2c2e-4601-b9be-759aeb8c7268",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bollywood-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846230~exp%3D1782849230~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bollywood-SD%2Fmaster%2F*~id%3D5bd657d7-0337-4ee5-81b1-ea09b8670868~data%3Dnon-ssai_5bd657d7-0337-4ee5-81b1-ea09b8670868~hmac%3Dd2639a07fac9f649f63ee67b4efc418d88ebb3eb10691421f8ad0790c8c412b7%26req_id%3Dnon-ssai_5bd657d7-0337-4ee5-81b1-ea09b8670868",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Thirai-HD%2Findex%2Findex.m3u8%3Fhdnts%3Dst%3D1782846230~exp%3D1782849230~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Thirai-HD%2Findex%2F*~id%3Db57c6021-cfa1-4c02-b5ea-34779e08d6db~data%3Dnon-ssai_b57c6021-cfa1-4c02-b5ea-34779e08d6db~hmac%3Df6a1be576b7140d28cc21caed08808c1802cb5e723b27c0eed6dcf0fbe766046%26req_id%3Dnon-ssai_b57c6021-cfa1-4c02-b5ea-34779e08d6db",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105537%2FZeeTamilELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846231~exp%3D1782849231~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Tamil-SD%2Fmaster%2F*~id%3D65011f04-5715-4a76-9463-17c7065e8aa3~data%3Dnon-ssai_65011f04-5715-4a76-9463-17c7065e8aa3~hmac%3Dcf39738b413df7085fbc12b56cba3c63b8c90f86b0521b7e5c4d9f248f701afb%26req_id%3Dnon-ssai_65011f04-5715-4a76-9463-17c7065e8aa3",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105555%2FZee-Kannada-HD%2Findex.m3u8%3Fhdnts%3Dst%3D1782846232~exp%3D1782849232~acl%3D%2Fcmaf%2Flive%2F2105555%2FZeeKannadaHDELE%2F*~id%3D33c40a07-d7ab-49bb-8e16-280228c089c5~data%3Dnon-ssai_33c40a07-d7ab-49bb-8e16-280228c089c5~hmac%3Db34bc34ffc49a735f2c048135d5b6315fa8bc29e840de63450e4b03400d9b6be%26req_id%3Dnon-ssai_33c40a07-d7ab-49bb-8e16-280228c089c5",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Power-HD%2Findex-connected%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846233~exp%3D1782849233~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Power-HD%2Findex%2F*~id%3D724b66f7-53b1-4fe5-8e87-7df1cdf23501~data%3Dnon-ssai_724b66f7-53b1-4fe5-8e87-7df1cdf23501~hmac%3D8e3dbaffb712c0a57b251bee775464990b2eb06d6cfc7d91bfad60438ec2c3a5%26req_id%3Dnon-ssai_724b66f7-53b1-4fe5-8e87-7df1cdf23501",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105504%2FAndTVHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846234~exp%3D1782849234~acl%3D%2Fcmaf%2Flive%2F2105504%2FAndTVHDELE%2F*~id%3De462fcaa-dab1-474c-b64b-a548858482e9~data%3Dnon-ssai_e462fcaa-dab1-474c-b64b-a548858482e9~hmac%3D66c9ed04c0067645c83520885debf54c1a1aa9f35bf7a3782fb1ab24353cf5ba%26req_id%3Dnon-ssai_e462fcaa-dab1-474c-b64b-a548858482e9",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105529%2FZee-Keralam-HD%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846235~exp%3D1782849235~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Keralam-HD%2Findex%2F*~id%3D4b9c5def-ac7c-42ee-9a43-eae7850a906f~data%3Dnon-ssai_4b9c5def-ac7c-42ee-9a43-eae7850a906f~hmac%3Df4124615d8f5636faf75b6a5253fe089e7df5b0ba1869d80bb597052117f7e71%26req_id%3Dnon-ssai_4b9c5def-ac7c-42ee-9a43-eae7850a906f",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FAnd-Xplor-HD%2Findex-connected%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846235~exp%3D1782849235~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FAnd-Xplor-HD%2Findex%2F*~id%3D4c1748fb-2cfd-40aa-85a9-3edbe096f192~data%3Dnon-ssai_4c1748fb-2cfd-40aa-85a9-3edbe096f192~hmac%3Da3c1ad610bdfe2753f397420572214e61b17170f5150887c9dbb1fe4f5d876d3%26req_id%3Dnon-ssai_4c1748fb-2cfd-40aa-85a9-3edbe096f192",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105536%2FZeeTVELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846237~exp%3D1782849237~acl%3D%2Fcmaf%2Flive%2F2105536%2FZeeTVELE%2F*~id%3De0853910-bab8-48f0-98cf-492ddb50e0b6~data%3Dnon-ssai_e0853910-bab8-48f0-98cf-492ddb50e0b6~hmac%3Dc4a80cbf5675ba5f45b91264f10370fd5571bd1ee263443a02f02bf686452b8a%26req_id%3Dnon-ssai_e0853910-bab8-48f0-98cf-492ddb50e0b6",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846237~exp%3D1782849237~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-SD%2Fmaster%2F*~id%3D215492e9-c881-4d84-b821-e3113aa985df~data%3Dnon-ssai_215492e9-c881-4d84-b821-e3113aa985df~hmac%3D1dc22a83db8ae54288a91af96e2427a8a8d28d11fd689b5eaefce027a2b6eb8e%26req_id%3Dnon-ssai_215492e9-c881-4d84-b821-e3113aa985df",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383466/list/1920x1080listfd49e00fc50544278290170f04bc63c0.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105177%2FZeeKannadaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846238~exp%3D1782849238~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Kannada-SD%2Fmaster%2F*~id%3D9455df5e-05c3-460b-b08b-e7d1893add82~data%3Dnon-ssai_9455df5e-05c3-460b-b08b-e7d1893add82~hmac%3D601f05294d3dc96a97558851594f582426461291886ad5d56a0e23e9b69305d2%26req_id%3Dnon-ssai_9455df5e-05c3-460b-b08b-e7d1893add82",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105260%2FZeeBanglaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846239~exp%3D1782849239~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bangla-SD%2Fmaster%2F*~id%3D890f9843-cb29-45cf-8d18-908e5c0118ce~data%3Dnon-ssai_890f9843-cb29-45cf-8d18-908e5c0118ce~hmac%3D055246bd7d78f0f9f7e0d0150ec79fcf236ccca62dd712f23d3637757f03c76b%26req_id%3Dnon-ssai_890f9843-cb29-45cf-8d18-908e5c0118ce",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105533%2FZeeYuvaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846239~exp%3D1782849239~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Yuva-SD%2Fmaster%2F*~id%3Dfe06004a-c06a-4d90-be28-b14e74c9d925~data%3Dnon-ssai_fe06004a-c06a-4d90-be28-b14e74c9d925~hmac%3Dd5e159902d1f03f3f680a0899ad38daba8ebf24cd7c639ba95a9b42686055e4a%26req_id%3Dnon-ssai_fe06004a-c06a-4d90-be28-b14e74c9d925",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list/1920x1080listed5a7eb2119c49b9b08a90831662c7ed.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105541%2FZeeSarthakELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846240~exp%3D1782849240~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Sarthak-SD%2Fmaster%2F*~id%3D3ce87fa4-80da-424f-a41c-5f8f2460533d~data%3Dnon-ssai_3ce87fa4-80da-424f-a41c-5f8f2460533d~hmac%3D3d5a7a3d8af7ca990c42b9b5c643f7309a38525368c1933538a7739ce076664f%26req_id%3Dnon-ssai_3ce87fa4-80da-424f-a41c-5f8f2460533d",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FBig-Magic-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846241~exp%3D1782849241~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FBig-Magic-SD%2Fmaster%2F*~id%3D872d8b97-c942-431d-bd46-92ac881329f1~data%3Dnon-ssai_872d8b97-c942-431d-bd46-92ac881329f1~hmac%3D642380c3255eb8db6b10082695e894ef65732648a76d7c8560aeec4439f92aa0%26req_id%3Dnon-ssai_872d8b97-c942-431d-bd46-92ac881329f1",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-215/list/1920x1080list480fac72c9754914bae975f1553ad4cb.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105170%2FZeePunjabiELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846242~exp%3D1782849242~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Punjabi-SD%2Fmaster%2F*~id%3D44852351-19ab-4e68-92a5-abc949a9df02~data%3Dnon-ssai_44852351-19ab-4e68-92a5-abc949a9df02~hmac%3D73a461e0b5217cc9094425edfac23f83654e4a32dfffcfb58ccc96bdbb4afdf1%26req_id%3Dnon-ssai_44852351-19ab-4e68-92a5-abc949a9df02",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105552%2FZeeCinemaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846242~exp%3D1782849242~acl%3D%2Fcmaf%2Flive%2F2105552%2FZeeCinemaELE%2F*~id%3Dac22539d-ce17-4b0c-8d1c-9443b02bca08~data%3Dnon-ssai_ac22539d-ce17-4b0c-8d1c-9443b02bca08~hmac%3D015f7b4ba2a35324dabc0161e3bdbb26c36e30b884e2d41eaa878c1ee3206730%26req_id%3Dnon-ssai_ac22539d-ce17-4b0c-8d1c-9443b02bca08",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Action-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846243~exp%3D1782849243~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Action-SD%2Fmaster%2F*~id%3Da51ff37d-cb96-4c76-894b-85cbcb9c3dbd~data%3Dnon-ssai_a51ff37d-cb96-4c76-894b-85cbcb9c3dbd~hmac%3D84177c8c4d6eadc345e41ae2dac481059e7470e883b26c4c391b46e9b682dee2%26req_id%3Dnon-ssai_a51ff37d-cb96-4c76-894b-85cbcb9c3dbd",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-Cinema-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846244~exp%3D1782849244~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-Cinema-SD%2Fmaster%2F*~id%3D95400d26-96de-4d10-adeb-cfea15c26245~data%3Dnon-ssai_95400d26-96de-4d10-adeb-cfea15c26245~hmac%3Dd2642187415e014309cb67040c91eb682b9bb96d6c5030bea6d085e26346aec5%26req_id%3Dnon-ssai_95400d26-96de-4d10-adeb-cfea15c26245",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Ganga-Zee-Anmol-Cinema-2-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846244~exp%3D1782849244~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Ganga-Zee-Anmol-Cinema-2-SD%2Fmaster%2F*~id%3D0eed2cf2-dfe6-4444-9344-6976313d1f80~data%3Dnon-ssai_0eed2cf2-dfe6-4444-9344-6976313d1f80~hmac%3Dc1fc05396ed9d3847adb27c7f799792d1b32d44d667dd10d2d66e8572731337f%26req_id%3Dnon-ssai_0eed2cf2-dfe6-4444-9344-6976313d1f80",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105538%2FZeeTalkiesELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846245~exp%3D1782849245~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Talkies-SD%2Fmaster%2F*~id%3D3bb1a7c5-cd8c-4646-9ec2-99cfb1471747~data%3Dnon-ssai_3bb1a7c5-cd8c-4646-9ec2-99cfb1471747~hmac%3Dbe738f6dc00b0d9158761fdc45d579c08a2514648ac9b2a862a45a446bf6447f%26req_id%3Dnon-ssai_3bb1a7c5-cd8c-4646-9ec2-99cfb1471747",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZing-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846246~exp%3D1782849246~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZing-SD%2Fmaster%2F*~id%3D4b56e7b5-176d-467f-8f4e-1a58cbe6fd0a~data%3Dnon-ssai_4b56e7b5-176d-467f-8f4e-1a58cbe6fd0a~hmac%3Da38f3cb3bb86071ee834697c62a91ef5d3ea8e9028c261660d77f66f473aec68%26req_id%3Dnon-ssai_4b56e7b5-176d-467f-8f4e-1a58cbe6fd0a",
+    "status": "online"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105528%2FANDPicturesELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846246~exp%3D1782849246~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FAND-PICTURES-SD%2Fmaster%2F*~id%3D126798da-51a8-4ce2-8e47-619ca0b80caa~data%3Dnon-ssai_126798da-51a8-4ce2-8e47-619ca0b80caa~hmac%3D908c97a231d02cbcf663223e5793d6d7ff6ca78111e28fd06fdc5690a41cba31%26req_id%3Dnon-ssai_126798da-51a8-4ce2-8e47-619ca0b80caa",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105522%2FZeeBiskopeELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846247~exp%3D1782849247~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Biskope-SD%2Fmaster%2F*~id%3D444c07ea-f970-4c0b-8f79-c0a3734eef2f~data%3Dnon-ssai_444c07ea-f970-4c0b-8f79-c0a3734eef2f~hmac%3D5f8afc5f75e66224ddb325a05a2730482ea35aadc8117378f28661d79afaaf54%26req_id%3Dnon-ssai_444c07ea-f970-4c0b-8f79-c0a3734eef2f",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105503%2FAAJTAKHDNEWSELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846248~exp%3D1782849248~acl%3D%2Fcmaf%2Flive%2F2105503%2FAAJTAKHDNEWSELE%2F*~id%3Da17f1f31-30cd-40e4-94ec-85a25c587ea6~data%3Dnon-ssai_a17f1f31-30cd-40e4-94ec-85a25c587ea6~hmac%3D60ff6e39af572c04c75cec4629c99836dfc0fcd4d89af04cff02f461da29b389%26req_id%3Dnon-ssai_a17f1f31-30cd-40e4-94ec-85a25c587ea6",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111481%2FTV9_Bharatvarsh%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846249~exp%3D1782849249~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-BHARATVARSH-HD%2Findex%2F*~id%3D6a8a8f83-b868-41e5-b826-8a3b7daf14c6~data%3Dnon-ssai_6a8a8f83-b868-41e5-b826-8a3b7daf14c6~hmac%3D9a43844357eae32498cc66ebeada5d74d9dc2301293cc16ee72c9193a26ca94e%26req_id%3Dnon-ssai_6a8a8f83-b868-41e5-b826-8a3b7daf14c6",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105510%2FZEENEWSELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846249~exp%3D1782849249~acl%3D%2Fcmaf%2Flive%2F2105510%2FZEENEWSELE%2F*~id%3D79bcaf1b-e290-4903-972c-487f0baacb93~data%3Dnon-ssai_79bcaf1b-e290-4903-972c-487f0baacb93~hmac%3Ddff923845acf5839a02134669812fbb5ff8ed3598bf4d2ff6d58dbeae3d8acee%26req_id%3Dnon-ssai_79bcaf1b-e290-4903-972c-487f0baacb93",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105509%2FZEEBUSINESSELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846250~exp%3D1782849250~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Business-News-SD%2Fmaster%2F*~id%3Dfa19f3e7-2bb3-44b8-adeb-6303d3f6d545~data%3Dnon-ssai_fa19f3e7-2bb3-44b8-adeb-6303d3f6d545~hmac%3Dc67929d0a2013163ee2a313eca8f1f00f0179db599c97d73e35ba645c0760da1%26req_id%3Dnon-ssai_fa19f3e7-2bb3-44b8-adeb-6303d3f6d545",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105498%2FZEE24TAASNEWSNEWELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846251~exp%3D1782849251~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24Taas-News-SD%2Fmaster%2F*~id%3D25a3a0b7-7b42-4581-a8d9-620229ab7e2e~data%3Dnon-ssai_25a3a0b7-7b42-4581-a8d9-620229ab7e2e~hmac%3D62441054b89d01acc5db12bd09f7cf8ca06ab63836080eb2bc1999ae246d3f1e%26req_id%3Dnon-ssai_25a3a0b7-7b42-4581-a8d9-620229ab7e2e",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111476%2FTV9_MARATHI%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846251~exp%3D1782849251~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-MARATHI-HD%2Findex%2F*~id%3D582ec8c1-b90a-4323-b084-a2cf74a396a4~data%3Dnon-ssai_582ec8c1-b90a-4323-b084-a2cf74a396a4~hmac%3Df1f6a55effd4a448551505191edb270dafabac532c0b5be8c568454b84bbb7dc%26req_id%3Dnon-ssai_582ec8c1-b90a-4323-b084-a2cf74a396a4",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111477%2FTV9_KANNADA%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846252~exp%3D1782849252~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-KANNADA-HD%2Findex%2F*~id%3Df9fa6e46-1b95-450f-b346-19bfaaced595~data%3Dnon-ssai_f9fa6e46-1b95-450f-b346-19bfaaced595~hmac%3D4124820e1f7a42c792c752e6d27a8e62c8aafedfdd99adb691c0b1201565e46e%26req_id%3Dnon-ssai_f9fa6e46-1b95-450f-b346-19bfaaced595",
+    "status": "offline"
+  },
+  {
+    "name": "h_396",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105511%2FZEE24GHANTAELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846253~exp%3D1782849253~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24Ghanta-News-SD%2Fmaster%2F*~id%3Db3b3de46-7cea-4ac8-9f9b-e36d5978a35b~data%3Dnon-ssai_b3b3de46-7cea-4ac8-9f9b-e36d5978a35b~hmac%3D09f49d5edff1b1a03c9263be41b6fe4e3cb6782d650bb6d586f850901fc64929%26req_id%3Dnon-ssai_b3b3de46-7cea-4ac8-9f9b-e36d5978a35b",
+    "status": "offline"
+  },
+  {
+    "name": "Good News Today",
+    "logo": "https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105499%2FGOODNEWSTODAYHDNEWSELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1782846253~exp%3D1782849253~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FGood-News-Today-HD%2Findex%2F*~id%3D9e780271-3240-4289-a017-50667e2528c7~data%3Dnon-ssai_9e780271-3240-4289-a017-50667e2528c7~hmac%3D2aa6cf5c4bacd0dd220d03fd20322c7f52183ebb1c4c587dcfb86e295127d3bc%26req_id%3Dnon-ssai_9e780271-3240-4289-a017-50667e2528c7",
+    "status": "offline"
+  },
+  {
+    "name": "Zee Punjab Haryana Himachal Pradesh",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105493%2FZEEPUHRHIELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846254~exp%3D1782849254~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Punjab-Haryana-Himachal-Pradesh-SD%2Fmaster%2F*~id%3Dddc64c1a-48bb-4557-bbd1-419af96a2bca~data%3Dnon-ssai_ddc64c1a-48bb-4557-bbd1-419af96a2bca~hmac%3D1a3dbd1d57f1c9f7b4473b4e9ed9dfbd67cf025fcecc2116ff2ead23356be9e5%26req_id%3Dnon-ssai_ddc64c1a-48bb-4557-bbd1-419af96a2bca",
+    "status": "offline"
+  },
+  {
+    "name": "Zee 24 Kalak",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105497%2FZEE24KALAKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846255~exp%3D1782849255~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24-Kalak-SD%2Fmaster%2F*~id%3D88e34ce3-e202-43b4-974d-00836c77a8d4~data%3Dnon-ssai_88e34ce3-e202-43b4-974d-00836c77a8d4~hmac%3D20886ac98b66340fb7cd9eb90cf519d0a6fd83d272116589ba7e6a4b859a5639%26req_id%3Dnon-ssai_88e34ce3-e202-43b4-974d-00836c77a8d4",
+    "status": "offline"
+  },
+  {
+    "name": "Zee Bharat",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105262%2FZEEBHARATNEWSNEWELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846255~exp%3D1782849255~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bharat-News-SD%2Fmaster%2F*~id%3D615ca58b-e913-4825-9a67-6f73d612f2bf~data%3Dnon-ssai_615ca58b-e913-4825-9a67-6f73d612f2bf~hmac%3Db29bddbf82e0d9ba0ee01683ceb499a0db580a3ce055d0bec1807f2319576590%26req_id%3Dnon-ssai_615ca58b-e913-4825-9a67-6f73d612f2bf",
+    "status": "offline"
+  },
+  {
+    "name": "Zee Bihar Jharkhand",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105492%2FZEEBHJKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846256~exp%3D1782849256~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bihar-Jharkhand-SD%2Fmaster%2F*~id%3D72a4d325-4c2a-49ca-8f6f-fa33ee4613db~data%3Dnon-ssai_72a4d325-4c2a-49ca-8f6f-fa33ee4613db~hmac%3D7559513e9ec20d41bf03ea2ad2b5c05fa784732d2686097b06976b8a2331b8eb%26req_id%3Dnon-ssai_72a4d325-4c2a-49ca-8f6f-fa33ee4613db",
+    "status": "offline"
+  },
+  {
+    "name": "Zee Rajasthan News",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105496%2FZEERAJASTHANELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846257~exp%3D1782849257~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Rajasthan-News-SD%2Fmaster%2F*~id%3D708b1cad-4435-4bef-ba93-0d21174e058f~data%3Dnon-ssai_708b1cad-4435-4bef-ba93-0d21174e058f~hmac%3D275f91afbdbf5ee3d3ff3ec206fccb1de7e3b0b68c0d81db9cfc9ba776f10713%26req_id%3Dnon-ssai_708b1cad-4435-4bef-ba93-0d21174e058f",
+    "status": "offline"
+  },
+  {
+    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105495%2FZEEMPCGELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846257~exp%3D1782849257~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Madhya-Pradesh-Chhattisgarh-SD%2Fmaster%2F*~id%3Dae4f2b6e-a5f3-456d-ae1e-c65e8fa8ba2f~data%3Dnon-ssai_ae4f2b6e-a5f3-456d-ae1e-c65e8fa8ba2f~hmac%3D2b8916da7fc23c159a51078f72950aa6a36ef336ee4b67cfaa97a88418325215%26req_id%3Dnon-ssai_ae4f2b6e-a5f3-456d-ae1e-c65e8fa8ba2f",
+    "status": "offline"
+  },
+  {
+    "name": "Zee News Uttar Pradesh Uttrakhand",
+    "logo": "https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105494%2FZEEUPUKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1782846258~exp%3D1782849258~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-News-UttarPradesh-Uttrakhand-SD%2Fmaster%2F*~id%3D12a47571-803f-4cc4-8945-4309d46b7cdc~data%3Dnon-ssai_12a47571-803f-4cc4-8945-4309d46b7cdc~hmac%3D1c86ad305bba17dc75564a79ea23ac58513843e9b743e76380e28e15d89a7171%26req_id%3Dnon-ssai_12a47571-803f-4cc4-8945-4309d46b7cdc",
     "status": "offline"
   },
   {
@@ -12723,7 +13101,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjcyM2UxZDgtYjFmZS00NTIzLWE2NzEtZDFhOThkZDQwYTBmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/67d403995ae30f478b65dcd6.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sankrathiki Vasthunam (𝗜𝗠𝗗𝗯 6.4 2025 ‧ Action\\Comefy ‧ 2h 40m Director Anil Ravipudi| Writers S Krishna ‧ G. Adi Narayana ‧ Anil Ravipudi| Stars Aishwarya Rajesh ‧ Meenaakshi Chaudhary ‧ Venkatesh Daggubati)",
@@ -13311,7 +13689,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjA0ZmIyNzgtOWRmZS00MzhhLWIyNTMtYzg5MTFlMjI0NjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/670d1f18d600568d06697a6f.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#AAY (𝗜𝗠𝗗𝗯 6.5 2024 ‧ Comedy ‧ 2h 22m Director Kanchipally Anji Babu |Writer Kanchipally Anji Babu |Stars Ankith Koyya ‧ Narne Nithiin ‧ Srivani Tripuraneni)",
@@ -16867,7 +17245,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BM2IwZmY0ZGEtZTUzNi00YWQ3LWJjYzQtMDk1OTk1ODA5ZmZmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD8x4996.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Guts (𝗜𝗠𝗗𝗯 7.8 2025 ‧ Crime ‧ 2h 11m Director Rangaraj| Writer Rangaraj| Stars Rangaraj ‧ Birla Bose ‧ Sai Dheena)",
@@ -16909,7 +17287,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/maargan-et00447313-1750168722.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXx4963.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kannappa (𝗜𝗠𝗗𝗯 6.1 2025 ‧ Action\\Drama\\Fantasy ‧ 3h 3m Director Mukesh Kumar Singh| Writer Vishnu Manchu| Stars Vishnu Manchu ‧ Mohanlal ‧ Prabhas)",
@@ -16944,7 +17322,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/kuberaa-et00390532-1750660979.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADxx4929.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Racharikam (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Romance ‧ 2h 15m Director Suresh Lankalapalli| Writer Suresh Lankalapalli| Stars Mahaboob Basha ‧ Vijay Ram Raju ‧ Apsara Rani)",
@@ -16958,35 +17336,35 @@
     "logo": "https://sund-images.sunnxt.com/161400/1000x1000_KhalipurseOfBillionaires_161400_d090a89b-53d8-4442-9e74-7ccbffcddf33.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdB4925.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manidhargal (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama\\Thriller ‧ 2h 6m Director Raam Indhra| Writer Raam Indhra| Stars Dasha ‧ Gunavanthan Guna ‧ M.K.Sambasivam)",
     "logo": "https://m.media-amazon.com/images/M/MV5BY2FlNjQzMGQtZTQyOS00Yjc5LTk3ODMtMzQwOTU1YmM0YmYyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADCx4923.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Anpodu Kanmani (𝗜𝗠𝗗𝗯 5.3 2025 ‧ Family ‧ 2h Director Liju Thomaz| Writer Aneesh Koduvally| Stars Arjun Ashokan ‧ Anagha Narayanan ‧ Johny Antony)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZTc5MjcyMjMtYzc4NS00ODU5LWE4YWQtOWQ1MTJmYTU5ZGQ2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADgB4918.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aap Jaisa Koi (𝗜𝗠𝗗𝗯 5.9 2025 ‧ Drama\\Romance ‧ 1h 54m Director Vivek Soni| Writers Radhika Anand ‧ Jehan Handa| Stars Madhavan ‧ Fatima Sana Shaikh ‧ Sachin Kavetham)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYzgwOGM4YTEtMmE1Ny00MWQxLTlhMzEtYWY0MDY1ZjY0NWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvx4911.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "8 Vasantalu (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Drama ‧ 2h 15m Director Phanindra Narsetti| Writer Phanindra Narsetti| Stars Ananthika Sanilkumar ‧ Ravi Theja Duggirala ‧ Mettu Nishesh)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZDA2YTQyY2YtNGNiMC00MTUwLWI4NDEtZmE3M2JlZmM0NGZmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD-x4909.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Chennai City Gangsters (𝗜𝗠𝗗𝗯 5.7 2025 ‧ Drama\\Comedy ‧ 2h 8m Directors Arun Keshav ‧ Vikram Rajeshwar| Writers Arun Keshav ‧ Vikram Rajeshwar| Stars Anandraj ‧ Shihan Hussaini ‧ Ilavarasu)",
@@ -17014,7 +17392,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWU5MzU1NTAtNjRhNS00NDJlLWE5ODUtNzM5ZjRlNzkyOWJhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADcx4892.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Moonwalk (𝗜𝗠𝗗𝗯 7.9 2025 ‧ Musical ‧ 1h 58m Director A.K. Vinod| Writers Sunil Gopalakrishnan ‧ Mathew Varghis ‧ A.K. Vinod| Stars AkhilSamVijay ‧ Anunath ‧ Appu Ashary)",
@@ -17035,7 +17413,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjVkNzRkY2UtZTJiNi00MTMwLTk2YzYtNDFkZDg5NmUxMzViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADSx4874.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madras Matinee (𝗜𝗠𝗗𝗯 8.9 2025 ‧ Drama ‧ 2h 15m Director Karthikeyan Mani Writer Karthikeyan Mani| Stars Kaali Venkat ‧ Sathyaraj ‧ Roshini Haripriyan)",
@@ -17049,7 +17427,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjI4NjZmMjQtMzA4OC00NzdlLTk5YjgtODQ3MzE4MzZhMGJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADBh4870.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Uppu Kappurambu (𝗜𝗠𝗗𝗯 0.0 2025 ‧ Comedy ‧ 2h 16m Director Ani. I.V. Sasi| Writer Vasanth Maringanti| Stars Keerthy Suresh ‧ Suhas ‧ Subhalekha Sudhakar)",
@@ -17063,7 +17441,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTU4ZDhlZjEtOTY2Ni00N2M1LWFhMTUtNGRlNmU5N2YxN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOi4857.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ambi (𝗜𝗠𝗗𝗯 5.2 2025 ‧ Drama ‧ 2h 7m Director Bosser J Elvin| Writers Mimicry Bhaskar ‧ Bosser ‧ Bosser J Elvin| Stars Aarti ‧ Imman Annachi ‧ Kovai Babu)",
@@ -17091,28 +17469,28 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/kaliyugam-et00440401-1745818199.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADGh4824.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Prince and Family (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Comedy ‧ 2h 14m Director| Binto Stephen| Writer Sharis Mohammed| Stars Dileep ‧ Raniya Raanaa ‧ Johny Antony)",
     "logo": "https://i.ibb.co/d4B6cJc2/uh4nm2kqoqze1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADBx4822.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Yuddhakaanda Chapter 2 (𝗜𝗠𝗗𝗯 9.0 2025 ‧ Drama ‧ 1h 45m Director Pavan Bhat| Writers Pavan Bhat ‧ Krishna Ajai Rao| Stars Krishna Ajai Rao ‧ Archana Jois ‧ Prakash Belawadi)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZTkwMzgzMjAtMDc2OS00YjY2LTkyYWYtNmVlMGJhOWY5ZWNkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD_h4820.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jinn - The Pet (𝗜𝗠𝗗𝗯 8.0 2025 ‧ Drama ‧ 2h 14m Director T.R. Bala| Writer T.R. Bala| Stars Mugen Rao ‧ Bhavya Trikha ‧ Bala Saravanan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZDdjNGViMjEtZjZiYi00ZWY4LTk2MDQtYjA0YzViMGMxNjFjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADux4818.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Thug Life (𝗜𝗠𝗗𝗯 4.3 2025 ‧ Action\\Drama\\Thriller ‧ 2h 45m Director Mani Ratnam| Writers Kamal Haasan ‧ Mani Ratnam| Stars Kamal Haasan ‧ Trisha Krishnan ‧ Ali Fazal)",
@@ -17126,7 +17504,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/blind-spot-et00444619-1746420151.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/684c14716019a0a964492da4.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Subham (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Comedy\\Horror ‧ 2h 5m Director Praveen Kandregula| Writer Vasanth Maringanti| Stars Vamshidhar Goud ‧ Shalini Kondepudi ‧ Shriya Kontham)",
@@ -17140,7 +17518,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzNkMGU4YzYtNTY1MC00MmIzLWI0ZjctMzhlMzYwZjQ3MjZjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVh4800.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ace (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Heist\\Action\\Comedy\\Crime\\Romance ‧ 2h 37min Director P. Aarumugakumar| Writers P. Aarumugakumar| Stars Husari Aqil ‧ B.S. Avinash ‧ Yogi Babu)",
@@ -17161,42 +17539,42 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTBiN2NhNTEtOTg2MS00NjljLWE3ZGUtZDNlMzMyMjA4ODI1XkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADNR4790.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manada Kadalu (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Romance ‧ 2h 34m Director Yograj Bhat| Writer Yograj Bhat| Stars Sumukha ‧ Dattanna ‧ Rangayana Raghu)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjVmNzA3Y2MtOWQxZC00MzE1LTk5ZGYtMWI0YTU5MmNlNzMwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADbR4788.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jora Kaiya Thattunga (𝗜𝗠𝗗𝗯 9.0 2025 ‧ Drama ‧ 1h 49m Director Vineesh Millennium| Writer Vineesh Millennium| Stars Yogi Babu ‧ Shanthi Rao ‧ Hareesh Peradi)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYzhjZmVlMmQtNmY5NC00N2RjLTkxOWEtNTM2MjNmNzgzYjYxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADiR4786.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#Single (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Romance ‧ 2h 9m Director Caarthick Raju| Writers Bhanu Bhogavarapu ‧ Caarthick Raju ‧ Nandu Savirigana| Stars VTV Ganesh ‧ Ivana ‧ Kalpalatha)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/-single-et00441505-1747219152.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdR4784.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Lal Salaam (𝗜𝗠𝗗𝗯 4.4 2024 ‧ Action\\Drama\\Sport ‧ 2h 30m Director Aishwarya Rajinikanth| Writer Aishwarya Rajinikanth| Stars Rajinikanth ‧ Dhanya Balakrishna ‧ K.S. Ravikumar)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMzhmYjMwNjYtMjI1NS00NmY2LTkyMWItODdhOTc5NWRkYmI5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADGC4782.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vadakkan (𝗜𝗠𝗗𝗯 7.7 2025 ‧ Fantasy\\Horror\\Thriller ‧ 1h 52m Director Sajeed A| Writers Sajeed A ‧ Unni R.| Stars Annlis Aaltonen ‧ Greeshma Alex ‧ Garggi Ananthan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjY4OTVlYjQtNzhjOC00NWI4LWExMzMtZmI4MzYyZDQ0ZDkxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7h4780.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nizharkudai (𝗜𝗠𝗗𝗯 9.8 2025 ‧ Drama ‧ 2h 5m Director Shiva Arumugam| Writer Shiva Arumugam| Stars Devayan ‧ iIlavarasu ‧ Manoj Kumar)",
@@ -17217,28 +17595,28 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNmE5MjE5ZmMtOTMzMi00OWE3LWFlN2YtMjhiNDI3NmYzYzIzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADbS4772.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Maaman (𝗜𝗠𝗗𝗯 6.7 2025 ‧ Action\\Comedy\\Family\\Drama ‧ 2h 30m Director Prasanth Pandiyaraj| Writers Prasanth Pandiyaraj ‧ Soori| Stars Soori ‧ Aishwarya Lekshmi ‧ Swasika Vijay)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZjQ5MzBkM2YtOGRkNS00ODA0LWI5ZTMtY2MxNjE2MmRmYzI5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADWR4770.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "DD Next Level (𝗜𝗠𝗗𝗯 5.3 2025 ‧ Comedy\\Drama ‧ 2h 30m Director S. Prem Anand| Writer S. Prem Anand| Stars Santhanam ‧ Gautham Vasudev Menon ‧ Redin Kingsley)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMmE5MDAwNjMtZTcyOC00NzE2LWE2YTEtODI4ZTdiYzNiN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADRh4768.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "HIT: The 3rd Case (𝗜𝗠𝗗𝗯 7.3 2025 ‧ Crime\\Thriller\\Action\\Serial Killer\\One-Person Aremy Action ‧ 2h 34m Director Sailesh Kolanu| Writer Sailesh Kolanu| Stars Nani ‧ Karthi ‧ Srinidhi Shetty)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNTI0Yzc1Y2EtNDg4MS00OWJmLWI4ODItMjFjMDQ4NjNjM2NhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADux4762.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sumo (𝗜𝗠𝗗𝗯 4.1 2025 ‧ Drama ‧ 1h 58m Director Hosimin| Stars Priya Anand ‧ Lizzie Antony ‧ Yogi Babu)",
@@ -17266,7 +17644,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/bayamariya-brammai-et00401991-1718778001.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADsR4756.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rakshana (𝗜𝗠𝗗𝗯 5.5 2024 ‧ Crime\\Mystery\\Thriller ‧ 2h 19m Director Prandeep Thakore| Writer Thayanidhy Sivakumar| Stars Vinod Bala ‧ Rajeev Kanakala ‧ Maanas Nagulapalli)",
@@ -17378,7 +17756,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmIxZjJjMTktOWFiMC00MjExLTllZGItZWRiNDc0MWI2OWEwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/681df66760ff7a0c440e20a2.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Odela 2 (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Drama\\Thriller\\Crime\\Adventure ‧ 2h 30m Director Ashok Teja| Writer Sampath Nandi| Stars Tamannaah Bhatia ‧ Hebah Patel ‧ Vasishta N. Simha)",
@@ -17420,7 +17798,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjBkZmI5NWUtOGQxZS00MzgxLThkOGEtZmMwZDY0ZGM2OWUyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/6812d3faf5f877f8e79ca51b.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tharunam (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Romance\\Thriller ‧ 2h 16m Director Arvindh Srinivasan| Writer Arvindh Srinivasan| Stars Raj Ayyappa ‧ Geetha Kailasam ‧ Bala Saravanan)",
@@ -17805,7 +18183,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjcyM2UxZDgtYjFmZS00NTIzLWE2NzEtZDFhOThkZDQwYTBmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/67d403995ae30f478b65dcd6.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sankrathiki Vasthunam (𝗜𝗠𝗗𝗯 6.4 2025 ‧ Action\\Comefy ‧ 2h 40m Director Anil Ravipudi| Writers S Krishna ‧ G. Adi Narayana ‧ Anil Ravipudi| Stars Aishwarya Rajesh ‧ Meenaakshi Chaudhary ‧ Venkatesh Daggubati)",
@@ -17889,7 +18267,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BY2MxN2QxZjYtZWE0My00MTI1LWIyMGQtZDU4MjI0NDAxN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/679cc4a4645a5969fa29d406.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madha Gaja Raja (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Action\\Comedy ‧ 2h 26m Director Sundar C.| Writers Sundar C. ‧ Venkat Raghavan| Stars Vishal ‧ Anjali ‧ Varalaxmi Sarathkumar)",
@@ -18029,7 +18407,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYWE4M2MxMDItNDljNy00NTczLWE4NjctZWRhZDQ1YzlkZDQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/677684fb470cbbc4b256b605.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Viduthalai Part 2 (𝗜𝗠𝗗𝗯 8.7 2024 ‧ Action\\Crime\\Drama\\Thriller ‧ 2h 50m Director Vetrimaaran| Writer Vetrimaaran| Stars Vijay Sethupathi ‧ Manju Warrier ‧ Soori)",
@@ -18050,7 +18428,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTc0NDA5NTAtYWJiZC00YTI4LWIwODMtYzhlYzEwMTcwMTI2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/676eb351b8af7294f726c405.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Pushpa: The Rule - Part 2 (𝗜𝗠𝗗𝗯 6.6 2024 ‧ Action\\Drama\\Thriller\\Crime ‧ 3h 21m Director Sukumar| Writers A.R. Prabhav ‧ Sukumar ‧ Srikanth Vissa| Stars Allu Arjun ‧ Rashmika Mandanna ‧ Fahadh Faasil)",
@@ -18085,7 +18463,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/zebra-et00412304-1732179511.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/67617444714399c9ddcd3ca5.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sorgavaasal (𝗜𝗠𝗗𝗯 7.0 2024 ‧ Drama\\Thriler\\Crime\\Action\\Psychological Thriller ‧ 2h 15m Director Sidharth Vishwanath| Writers Tamizh Prabha ‧ Ashwin Ravichandran ‧ Sidharth Vishwanath| Stars RJ Balaji ‧ K. Selvaraghavan ‧ Hakkim Shah)",
@@ -18099,7 +18477,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzkxMWRkMDgtZWMzNi00NDZjLThlZDAtZDQwMDc3ODkxZGY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/675aeb576a779a914589c382.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jolly O Gymkhana (𝗜𝗠𝗗𝗯 8.8 2024 ‧ Comedy ‧ 2h 9m Director Sakthi Chidambaram| Writer Sakthi Chidambaram| Stars Yaashika Aanand ‧ Abhirami ‧ Yogi Babu)",
@@ -18225,7 +18603,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTkyMDZhOWItMmRkZC00OWQwLTk2ZmQtNDNmMzJjNWEyMzE2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/67387cf3bc9fc5c6e0d83bc4.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Amaran (𝗜𝗠𝗗𝗯 8.6 2024 ‧ Action\\Drama\\War\\Biography\\Epic Action ‧ 2h 47m Director Rajkumar Periasamy| Writer Rajkumar Periasamy| Stars Sivakarthikeyan ‧ Sai Pallavi ‧ Bhuvan Arora)",
@@ -18393,7 +18771,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjA0ZmIyNzgtOWRmZS00MzhhLWIyNTMtYzg5MTFlMjI0NjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/670d1f18d600568d06697a6f.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#AAY (𝗜𝗠𝗗𝗯 6.5 2024 ‧ Comedy ‧ 2h 22m Director Kanchipally Anji Babu |Writer Kanchipally Anji Babu |Stars Ankith Koyya ‧ Narne Nithiin ‧ Srivani Tripuraneni)",
@@ -20801,7 +21179,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADMx4933.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP04 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -20822,7 +21200,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADOB4937.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP07 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -20920,7 +21298,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Rana Naidu",
     "link": "https://bq32.short.gy/series/AgADdx4813.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S02 EP02 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\\Action\\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)",
@@ -21599,7 +21977,7 @@
     "logo": "https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd?name=Sun_TV&keyId=6752015acf084572a08dfe21796f8b45&key=ff823ddbe5625c35d3e93f0ed4520115",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun TV HD",
@@ -21620,7 +21998,7 @@
     "logo": "https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd?name=Sun_Marathi&keyId=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31&key=30899fda5ca4dfb5a4535ce10c4d7341",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun Music HD",
@@ -21648,14 +22026,14 @@
     "logo": "https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd?name=Sun_Bangla&keyId=01f7b9f7bf7e425f86d6dfd478390e3f&key=5fde68100a7856d055038236ffc7c84a",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sun News",
     "logo": "https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd?name=Sun_News&keyId=4df8f920386e4346ba6b7d7ae935d668&key=c5fcaa8df5663365d938a50987f71b84",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KTV",
@@ -21676,14 +22054,14 @@
     "logo": "https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd?name=Surya_HD&keyId=eae838ccd75d4a1fbff6fd7dd1c97780&key=8259ce0c112725a4d2c94d154207425f",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya",
     "logo": "https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd?name=Surya&keyId=56e1f5b5b72e4e45a98b6f287c265ab9&key=6dee8663e63cc8f8dda8478b8b2f3b71",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Surya Movies",
@@ -21711,7 +22089,7 @@
     "logo": "https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd?name=Udaya_HD&keyId=91b5f2d0205c4527b7aa3e41f35e1e7f&key=66ddb1a017753f966e20442ab2f91f18",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Udaya",
@@ -21746,14 +22124,14 @@
     "logo": "https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd?name=Gemini_TV&keyId=2ec6fa5b77ff4223a376c2b98032fbf8&key=afe96f602fd6abedcd9c2c8cdf799afd",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini HD",
     "logo": "https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd?name=Gemini_HD&keyId=880dc94460af4197bbbf43a176fb3a95&key=0beb7012ffd133360889d5d56e20de4d",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gemini Movies HD",
@@ -30944,14 +31322,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/Kanna-Tv-logo-with-dynamic-background-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fweb.applelive.in%2Fstream%2Fkktv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thendral TV Chennai",
     "logo": "https://tulnit.com/wp-content/uploads/2026/04/Dynamic-Tamil-TV-logo-design-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.ashokadigital.net%2Fthendraltv%2Fthendraltv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Media",
@@ -30986,7 +31364,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-28-2026-11_02_30-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Frtv%2Frtvstream%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "G Max TV",
@@ -31021,7 +31399,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-25-2026-01_45_57-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fsmartsri%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bhagyam TV",
@@ -31091,7 +31469,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-12-2026-11_50_35-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Faccount11.livebox.co.in%2Fvidyaltvhls%2Flive.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MM TV",
@@ -31189,7 +31567,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-10_57_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapsgold-a1.tamilstream.in%2Fapsgold%2Fapsgold%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "APS TV",
@@ -31252,14 +31630,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_28_28-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fannainew.livebox.co.in%2Fammatvhls%2Flive.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "7Star Television",
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_27_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fannainew.livebox.co.in%2F7startvhls%2Flivestream.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Annai TV",
@@ -31364,7 +31742,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-01_59_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fkrntv%2Fkrntvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Me 24 Tamil",
@@ -31420,7 +31798,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-24-2025-09_18_39-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fview.rcserver.in%2Ftmp_hls13%2Fudhayamhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "RTV HD",
@@ -31448,7 +31826,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-10_35_40-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F85b741d1%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shalini TV",
@@ -31525,14 +31903,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_17_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F67a779e9%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jawahar TV HD",
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_13_17-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F6a01fb97%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Amman TV",
@@ -31553,14 +31931,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2F9346e98d%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "7Star TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_55-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fapp.ashokadigital.net%2Fapp%2Fed8bd4a7%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Anandam UTV",
@@ -31952,7 +32330,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_54_00-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.thendralcloud.in%2Fganeshtvlive%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Boys TV",
@@ -31966,7 +32344,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_46_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fjrptv%2Fjrphd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Malar TV",
@@ -31987,7 +32365,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_34_59-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fjayamtv%2Fjayamtvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Emperor  TV",
@@ -32442,7 +32820,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/NILATV-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.olidigital.in%2Fnilatv%2Fnilatv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "WE Baduga TV",
@@ -32715,7 +33093,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-11-2025-09_26_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fmaruthitv%2Fmaruthitvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aadhavan TV",
@@ -32729,7 +33107,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_59_49-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fthreestartv%2Fthreestarhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shalini TV",
@@ -32764,7 +33142,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_41_37-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fplay.applelive.in%2Fstv%2Fstv.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "KCTN TV",
@@ -32890,7 +33268,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-28-2026-10_13_51-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fkarthick%2Fkarthicktvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jeevan TV &#8211; JBTV",
@@ -32904,7 +33282,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-11-2025-09_18_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fakilamtv%2Fakilamtvhd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rio TV",
@@ -32925,14 +33303,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-06_45_44-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fveerali%2Fveeralitv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "7 Green 4K",
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_22_25-PM-2-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Faccount33.livebox.co.in%2F7GREEN4Khls%2Flive.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Queens TV",
@@ -32988,7 +33366,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-12-2025-01_54_23-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fvtv%2Fvtv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "VCTN TV",
@@ -33310,7 +33688,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_08_39-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDNBNEWS%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "BV9 News Telugu",
@@ -33352,7 +33730,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_48_36-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FA1TV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TG24 TV",
@@ -33373,7 +33751,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_24_47-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FE69News%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TV6 Telugu",
@@ -33555,7 +33933,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-06_12_01-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSDTV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Garuda TV",
@@ -33576,7 +33954,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Jan-9-2026-09_54_44-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.kpsnetwork.in%2Fkps%2Fkps%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "JKC",
@@ -33716,7 +34094,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-09_36_31-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Facn%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "VCN HD",
@@ -33877,7 +34255,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_26_18-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.streamwell.in%2Fhls%2Fzoyhd.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sai TV Telugu",
@@ -33933,21 +34311,21 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_53_16-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-szivnms4rlah6.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-szivnms4rlah6%2FWWBI%2FAmagi%2FETV_Music_IN%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Comedy",
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_04_36-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-wie8j8y69d2uy.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-wie8j8y69d2uy%2FWWBI%2FAmagi%2FETV_Comedy_IN%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Josh",
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_57_32-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-uyh1ow5zouoio.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-uyh1ow5zouoio%2FWWBI%2FAmagi%2FETV_Josh_IN%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Life",
@@ -33968,7 +34346,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_00_48-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-3448kp65yhc5w.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-3448kp65yhc5w%2FWWBI%2FAmagi%2FETV_News_IN%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ETV Telangana",
@@ -34017,7 +34395,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-08_36_48-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2Fsrkcity.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ayush TV",
@@ -34045,14 +34423,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-25-2025-08_35_05-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FS9News%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "GNT TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_24_07-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fsrkent%2Fsrkent%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "SLN News",
@@ -34087,7 +34465,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_06_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Faplocaltv%2Faplocaltv.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KS TV",
@@ -34563,7 +34941,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_26_11-PM-1.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fplay.applelive.in%2Fgtv%2Fgtv.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Citi Channel",
