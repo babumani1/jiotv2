@@ -25,7 +25,7 @@
     "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
     "group": "FIFA WC 2026",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?name=WC_English&keyId=2c338a117d434ce4bbe3569231af90f1&key=a9633d901ee8a3f4f58ac314b5c5f4fb",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Fox English 4K",
@@ -46,7 +46,7 @@
     "logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
     "group": "FIFA WC 2026",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Franapkbd.site%2FJOIN%40RANAPK33%2Fplay.m3u8%3Fid%3D373312",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "ENGLISH 4K HDR AdsFree",
@@ -791,388 +791,10 @@
     "status": "offline"
   },
   {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105530%2FZeeTamilHDELE%2Findex.m3u8%3Fhdnts%3Dst%3D1783515616~exp%3D1783518616~acl%3D%2Fcmaf%2Flive%2F2105530%2FZeeTamilHDELE%2F*~id%3D0e0b0bc1-07a3-49be-9af5-a608aa4df3f5~data%3Dnon-ssai_0e0b0bc1-07a3-49be-9af5-a608aa4df3f5~hmac%3D0d8a1edb7d9b49e0c8b2114845f7ba3cc8826d7712aedbb0f34fe1133c80521f%26req_id%3Dnon-ssai_0e0b0bc1-07a3-49be-9af5-a608aa4df3f5",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105520%2FZeeMarathiHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515617~exp%3D1783518617~acl%3D%2Fcmaf%2Flive%2F2105520%2FZeeMarathiHDELE%2F*~id%3Dca10d614-7e8f-442d-978f-ad49d72fa284~data%3Dnon-ssai_ca10d614-7e8f-442d-978f-ad49d72fa284~hmac%3De1793222723dd89628ce74139a956a090b902b7c759c69d88aaea8ba39cd6dc4%26req_id%3Dnon-ssai_ca10d614-7e8f-442d-978f-ad49d72fa284",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105545%2FZeeTeluguHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515618~exp%3D1783518618~acl%3D%2Fcmaf%2Flive%2F2105545%2FZeeTeluguHDELE%2F*~id%3Dc69e00dc-1e80-43ac-a9c2-1248d2351276~data%3Dnon-ssai_c69e00dc-1e80-43ac-a9c2-1248d2351276~hmac%3D3e83d1b0d64a0d43f7a2f5f045b883031d7bac67416a6d3b4dd7a3366dd2fb18%26req_id%3Dnon-ssai_c69e00dc-1e80-43ac-a9c2-1248d2351276",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105544%2FZeeCinemaluHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515618~exp%3D1783518618~acl%3D%2Fcmaf%2Flive%2F2105544%2FZeeCinemaluHDELE%2F*~id%3Dacca6bf4-97cc-4de2-8e6c-777ac2fdb3e5~data%3Dnon-ssai_acca6bf4-97cc-4de2-8e6c-777ac2fdb3e5~hmac%3D3ebe9786582c386b4ef672463fe29fc5823e0aab9d2dfd20460d64f04bdebd25%26req_id%3Dnon-ssai_acca6bf4-97cc-4de2-8e6c-777ac2fdb3e5",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105554%2FZeeBanglaHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515619~exp%3D1783518619~acl%3D%2Fcmaf%2Flive%2F2105554%2FZeeBanglaHDELE%2F*~id%3Db6b6e6c4-94f4-490b-9dfe-9e05444695fc~data%3Dnon-ssai_b6b6e6c4-94f4-490b-9dfe-9e05444695fc~hmac%3D4adf2c338f4b04293509b6307f22cea623135e13d90e2904b6a50610df9d889a%26req_id%3Dnon-ssai_b6b6e6c4-94f4-490b-9dfe-9e05444695fc",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105524%2FZeeBanglaCinemaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515620~exp%3D1783518620~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bangla-Sonar-SD%2Fmaster%2F*~id%3D1ca12c65-21b8-41ea-8b7a-df0073f07ba0~data%3Dnon-ssai_1ca12c65-21b8-41ea-8b7a-df0073f07ba0~hmac%3D5837fc64835a755657632bf3ad91141911f830aa1526213939eb3ec6b1f55a32%26req_id%3Dnon-ssai_1ca12c65-21b8-41ea-8b7a-df0073f07ba0",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105531%2FZeeTVHDMSLELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515620~exp%3D1783518620~acl%3D%2Fcmaf%2Flive%2F2105531%2FZeeTVHDMSLELE%2F*~id%3D0eff3453-84f6-4d70-a2bc-785d0c139d05~data%3Dnon-ssai_0eff3453-84f6-4d70-a2bc-785d0c139d05~hmac%3D5ca330a96aa85bd2240cd84f56e58b2ecf474d308d7efd34a10ebd12ffad0bdf%26req_id%3Dnon-ssai_0eff3453-84f6-4d70-a2bc-785d0c139d05",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105540%2FZeeCinemaHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515621~exp%3D1783518621~acl%3D%2Fcmaf%2Flive%2F2105540%2FZeeCinemaHDELE%2F*~id%3Dbb1e292f-a23c-4df0-87e0-1bf1aa9c3a98~data%3Dnon-ssai_bb1e292f-a23c-4df0-87e0-1bf1aa9c3a98~hmac%3D04b03cbed184a539e24c8a5af408fcc6b903c898d9671cd4794bb58989d7a9f9%26req_id%3Dnon-ssai_bb1e292f-a23c-4df0-87e0-1bf1aa9c3a98",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105179%2FZeeTeluguELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515621~exp%3D1783518621~acl%3D%2Fcmaf%2Flive%2F2105179%2FZeeTeluguELE%2F*~id%3Dd400563d-4b2e-4fc2-9c3a-9132f14df0f0~data%3Dnon-ssai_d400563d-4b2e-4fc2-9c3a-9132f14df0f0~hmac%3D29f94e45dc9e4502eb437338e15d371b4cd6b007dd016467b038e3592aaaa5c5%26req_id%3Dnon-ssai_d400563d-4b2e-4fc2-9c3a-9132f14df0f0",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105548%2FZeeCinemalauELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515622~exp%3D1783518622~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Cinemalu-SD%2Fmaster%2F*~id%3Dfb92b197-1e36-4410-b3d3-86771a03ccea~data%3Dnon-ssai_fb92b197-1e36-4410-b3d3-86771a03ccea~hmac%3De24292d6a4790af67f235fef8b12e31fc05408a1d1dada9c5dba16ec3cb8898b%26req_id%3Dnon-ssai_fb92b197-1e36-4410-b3d3-86771a03ccea",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105543%2FZeeMarathiELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515623~exp%3D1783518623~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Marathi-SD%2Fmaster%2F*~id%3Dc372da75-6171-4dc0-924a-167f7182ebbd~data%3Dnon-ssai_c372da75-6171-4dc0-924a-167f7182ebbd~hmac%3D23b8db897b0eccf2c12e1fdf9b285282c12f3c3e16eb7a7abd3e7986c5405826%26req_id%3Dnon-ssai_c372da75-6171-4dc0-924a-167f7182ebbd",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105519%2FZeeTalkiesHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515624~exp%3D1783518624~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Talkies-HD%2Findex%2F*~id%3D7ecfe60e-3bfb-4ed7-b508-6877c0584c03~data%3Dnon-ssai_7ecfe60e-3bfb-4ed7-b508-6877c0584c03~hmac%3D7370b6862940ca18c902d8663654fd33ff99dd29a6919746dd1165b7ec859bf2%26req_id%3Dnon-ssai_7ecfe60e-3bfb-4ed7-b508-6877c0584c03",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Classic-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515624~exp%3D1783518624~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Classic-SD%2Fmaster%2F*~id%3Db04b1ef3-d38f-4f87-8bcc-083279957de4~data%3Dnon-ssai_b04b1ef3-d38f-4f87-8bcc-083279957de4~hmac%3D21005f47a0a1fde5f5217f76c310c9b316d9c64238096de7a3d0f262835f7e0e%26req_id%3Dnon-ssai_b04b1ef3-d38f-4f87-8bcc-083279957de4",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1920x1080listead02d49416241ce89c60432d7b879a6.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105174%2FANDPicturesHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515625~exp%3D1783518625~acl%3D%2Fcmaf%2Flive%2F2105174%2FANDPicturesHDELE%2F*~id%3D7c7b479d-bbca-450b-995c-be14e5787827~data%3Dnon-ssai_7c7b479d-bbca-450b-995c-be14e5787827~hmac%3D301e9439dd05d953ac588acc6c9011dbde6c4598bce506a28c0ffe392aecd45b%26req_id%3Dnon-ssai_7c7b479d-bbca-450b-995c-be14e5787827",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/list/1920x1080list993a532d3c6040d78b2e69a2862f4e28.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bollywood-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515625~exp%3D1783518625~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bollywood-SD%2Fmaster%2F*~id%3D91568a35-c773-4fbd-b388-897423670dfd~data%3Dnon-ssai_91568a35-c773-4fbd-b388-897423670dfd~hmac%3D17e6820ae0750d08ea752b32b5408356ed1f7d548a596134e37746b29ea1042e%26req_id%3Dnon-ssai_91568a35-c773-4fbd-b388-897423670dfd",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Thirai-HD%2Findex%2Findex.m3u8%3Fhdnts%3Dst%3D1783515626~exp%3D1783518626~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Thirai-HD%2Findex%2F*~id%3Dd7e4bb23-9ecb-45f9-b1ab-7e72d81fb2d9~data%3Dnon-ssai_d7e4bb23-9ecb-45f9-b1ab-7e72d81fb2d9~hmac%3D8e87f34a0b26246b79d747d23e28d95c095d00c741d684a7e48035153a645a0a%26req_id%3Dnon-ssai_d7e4bb23-9ecb-45f9-b1ab-7e72d81fb2d9",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105537%2FZeeTamilELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515627~exp%3D1783518627~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Tamil-SD%2Fmaster%2F*~id%3D4e4964af-1536-411c-a050-231816b49f0b~data%3Dnon-ssai_4e4964af-1536-411c-a050-231816b49f0b~hmac%3Df7b27f3f28edbc8b023502874c08b0f8d9aefb5b0d8f501e72e1722910eb6acd%26req_id%3Dnon-ssai_4e4964af-1536-411c-a050-231816b49f0b",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105555%2FZee-Kannada-HD%2Findex.m3u8%3Fhdnts%3Dst%3D1783515628~exp%3D1783518628~acl%3D%2Fcmaf%2Flive%2F2105555%2FZeeKannadaHDELE%2F*~id%3D7a0b1246-cfec-44c0-b3a5-b1f6a020cbae~data%3Dnon-ssai_7a0b1246-cfec-44c0-b3a5-b1f6a020cbae~hmac%3De2254e64ec12ebb195c533b2fdb6878f8728b2fa2525d997b850f2634e002556%26req_id%3Dnon-ssai_7a0b1246-cfec-44c0-b3a5-b1f6a020cbae",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Power-HD%2Findex-connected%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515629~exp%3D1783518629~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Power-HD%2Findex%2F*~id%3D5b91172e-5676-437c-ae66-e883726229c4~data%3Dnon-ssai_5b91172e-5676-437c-ae66-e883726229c4~hmac%3Dd87fc98fa013bea467f11a5f4e0688cd6a5d7c23e8f304a918c9997438c24835%26req_id%3Dnon-ssai_5b91172e-5676-437c-ae66-e883726229c4",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105504%2FAndTVHDELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515629~exp%3D1783518629~acl%3D%2Fcmaf%2Flive%2F2105504%2FAndTVHDELE%2F*~id%3Dfc92320a-bb79-4624-8b34-0c96a1912a0d~data%3Dnon-ssai_fc92320a-bb79-4624-8b34-0c96a1912a0d~hmac%3D7c8e945da49e84208718bb81ba86cb1bad52a51c6a67223c3ecd10b04081c727%26req_id%3Dnon-ssai_fc92320a-bb79-4624-8b34-0c96a1912a0d",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105529%2FZee-Keralam-HD%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515630~exp%3D1783518630~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Keralam-HD%2Findex%2F*~id%3D77713fea-f69a-4bf7-8b42-4707835f6b7d~data%3Dnon-ssai_77713fea-f69a-4bf7-8b42-4707835f6b7d~hmac%3D3ffc3373d6c21eee3126f1b3d641f94ccf4452488060ba13c6a1017ed4f76c4c%26req_id%3Dnon-ssai_77713fea-f69a-4bf7-8b42-4707835f6b7d",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FAnd-Xplor-HD%2Findex-connected%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515631~exp%3D1783518631~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FAnd-Xplor-HD%2Findex%2F*~id%3D8475268e-65dd-91b8-8c15-6a73cccfd238~data%3Dnon-ssai_8475268e-65dd-91b8-8c15-6a73cccfd238~hmac%3Dae2461bdb8cc2e358010664065923e009171553c36370bb277c75f589c282d57%26req_id%3Dnon-ssai_8475268e-65dd-91b8-8c15-6a73cccfd238",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105536%2FZeeTVELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515632~exp%3D1783518632~acl%3D%2Fcmaf%2Flive%2F2105536%2FZeeTVELE%2F*~id%3D044b11cb-671a-4550-8648-a51cc1c5dad7~data%3Dnon-ssai_044b11cb-671a-4550-8648-a51cc1c5dad7~hmac%3D693312fa5d7c31937ffee13e634d35ac93c8bc12e4d78b81c1a2b110820b997c%26req_id%3Dnon-ssai_044b11cb-671a-4550-8648-a51cc1c5dad7",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515633~exp%3D1783518633~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-SD%2Fmaster%2F*~id%3D7482442e-ccd0-41f9-a143-ea0ebe18c5cb~data%3Dnon-ssai_7482442e-ccd0-41f9-a143-ea0ebe18c5cb~hmac%3Dc75d9f2d606a17aed1179bf17a403e75adfc4ea1a3712dfd903e0349babcacc0%26req_id%3Dnon-ssai_7482442e-ccd0-41f9-a143-ea0ebe18c5cb",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383466/list/1920x1080listfd49e00fc50544278290170f04bc63c0.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105177%2FZeeKannadaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515633~exp%3D1783518633~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Kannada-SD%2Fmaster%2F*~id%3Dafc44f10-bdd4-4e90-bc17-7f992745d345~data%3Dnon-ssai_afc44f10-bdd4-4e90-bc17-7f992745d345~hmac%3Db5ffe5c5aa537d708bd87ef1dfa1e949fca77663783c894ebc3170af3ce970da%26req_id%3Dnon-ssai_afc44f10-bdd4-4e90-bc17-7f992745d345",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105260%2FZeeBanglaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515634~exp%3D1783518634~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bangla-SD%2Fmaster%2F*~id%3Dc1c68a70-64a1-482b-a895-9c003410756a~data%3Dnon-ssai_c1c68a70-64a1-482b-a895-9c003410756a~hmac%3Dd67d8fc089f0491969dafe8e63bad1bccb43864b9323ce555aeafcc0a0cac982%26req_id%3Dnon-ssai_c1c68a70-64a1-482b-a895-9c003410756a",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105533%2FZeeYuvaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515635~exp%3D1783518635~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Yuva-SD%2Fmaster%2F*~id%3D575391cd-8c57-4060-8214-1a521f0d0212~data%3Dnon-ssai_575391cd-8c57-4060-8214-1a521f0d0212~hmac%3D09479c22cd3b275e06c5491613ef789c5cb2eb7c226e81de1feabafa0194a990%26req_id%3Dnon-ssai_575391cd-8c57-4060-8214-1a521f0d0212",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list/1920x1080listed5a7eb2119c49b9b08a90831662c7ed.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105541%2FZeeSarthakELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515635~exp%3D1783518635~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Sarthak-SD%2Fmaster%2F*~id%3D1a6d2638-55b6-466f-b5f5-62ef8c935e54~data%3Dnon-ssai_1a6d2638-55b6-466f-b5f5-62ef8c935e54~hmac%3D336c16e0fa6af4e18dc76e20de30d2b2f7146d09120dca93b72dbf2e4bcbec6a%26req_id%3Dnon-ssai_1a6d2638-55b6-466f-b5f5-62ef8c935e54",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FBig-Magic-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515636~exp%3D1783518636~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FBig-Magic-SD%2Fmaster%2F*~id%3D27592899-e622-4a02-9782-d3b20d7f4829~data%3Dnon-ssai_27592899-e622-4a02-9782-d3b20d7f4829~hmac%3D63ed8365de3efb88aa8793e8c9bd7b781051c4f7ae3760d2ff0996da705ab866%26req_id%3Dnon-ssai_27592899-e622-4a02-9782-d3b20d7f4829",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-215/list/1920x1080list480fac72c9754914bae975f1553ad4cb.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105170%2FZeePunjabiELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515637~exp%3D1783518637~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Punjabi-SD%2Fmaster%2F*~id%3Ddbd5287d-32a5-4289-a45e-205ea4827fa9~data%3Dnon-ssai_dbd5287d-32a5-4289-a45e-205ea4827fa9~hmac%3D043920b565aa62ec7cd54adaee81eacc7a55d2c22fdce67b0a0c72886dbc715e%26req_id%3Dnon-ssai_dbd5287d-32a5-4289-a45e-205ea4827fa9",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105552%2FZeeCinemaELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515638~exp%3D1783518638~acl%3D%2Fcmaf%2Flive%2F2105552%2FZeeCinemaELE%2F*~id%3D5b302789-a689-4220-ad8b-c7de3aa89116~data%3Dnon-ssai_5b302789-a689-4220-ad8b-c7de3aa89116~hmac%3De793df36b809052289d0f15efa0c4cd6b1a094f38df14a2dd7b95daf2793dc28%26req_id%3Dnon-ssai_5b302789-a689-4220-ad8b-c7de3aa89116",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list/1920x1080list109ad06dd3c2485a97dbaddc85d22130.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Action-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515639~exp%3D1783518639~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Action-SD%2Fmaster%2F*~id%3Dc8ab4477-f0df-4dc4-8b95-dad4c77ec89f~data%3Dnon-ssai_c8ab4477-f0df-4dc4-8b95-dad4c77ec89f~hmac%3D842b2b9cf83681fee4cfc35dfa498a5685fb7b2f98fe671acb17fed5abc5151f%26req_id%3Dnon-ssai_c8ab4477-f0df-4dc4-8b95-dad4c77ec89f",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1920x1080listfa46ad9c89684d268b5c141e7987de38.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-Cinema-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515640~exp%3D1783518640~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Anmol-Cinema-SD%2Fmaster%2F*~id%3D99fe3c7e-8619-4cee-aa2b-12c0fbcf52fc~data%3Dnon-ssai_99fe3c7e-8619-4cee-aa2b-12c0fbcf52fc~hmac%3D526deb8f603b644922b8a91f349944ad092f3ea2ad381456c3def22364dc98a6%26req_id%3Dnon-ssai_99fe3c7e-8619-4cee-aa2b-12c0fbcf52fc",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Ganga-Zee-Anmol-Cinema-2-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515641~exp%3D1783518641~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Ganga-Zee-Anmol-Cinema-2-SD%2Fmaster%2F*~id%3D14ebdad7-180e-4066-9095-9d2adc65bbb1~data%3Dnon-ssai_14ebdad7-180e-4066-9095-9d2adc65bbb1~hmac%3D4100e833a9c7a236fe3ad35ff021b1b2e6499fb7bdf46c5bad0cdaa785af0fd8%26req_id%3Dnon-ssai_14ebdad7-180e-4066-9095-9d2adc65bbb1",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105538%2FZeeTalkiesELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515642~exp%3D1783518642~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Talkies-SD%2Fmaster%2F*~id%3D45dd8558-6bc7-4d31-91c7-59c37e3d21ec~data%3Dnon-ssai_45dd8558-6bc7-4d31-91c7-59c37e3d21ec~hmac%3D6e4e7e6fb6a213f2499af9cdb111e5eda09b3044fa7d56ba2c4de929a6881459%26req_id%3Dnon-ssai_45dd8558-6bc7-4d31-91c7-59c37e3d21ec",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5live-cf.zee5.com%2Fout%2Fv1%2FZEE5_Live_Channels%2FZing-SD%2Fmaster%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515642~exp%3D1783518642~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZing-SD%2Fmaster%2F*~id%3Da5f25bf7-9361-42d3-b127-b19b4d659cb3~data%3Dnon-ssai_a5f25bf7-9361-42d3-b127-b19b4d659cb3~hmac%3D2b313fa4436445dfe425619dbc1abf01c9147ea129472f1b4277b3470b4cb75b%26req_id%3Dnon-ssai_a5f25bf7-9361-42d3-b127-b19b4d659cb3",
-    "status": "online"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105528%2FANDPicturesELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515643~exp%3D1783518643~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FAND-PICTURES-SD%2Fmaster%2F*~id%3D30343a0a-fa22-49da-900f-fec0a30c8405~data%3Dnon-ssai_30343a0a-fa22-49da-900f-fec0a30c8405~hmac%3D158d8ab484e787bdbb870001de46e2b31065bb12304e35cb7ce3c6c54f1dc51c%26req_id%3Dnon-ssai_30343a0a-fa22-49da-900f-fec0a30c8405",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105522%2FZeeBiskopeELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515644~exp%3D1783518644~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Biskope-SD%2Fmaster%2F*~id%3Dc33c0712-1158-4757-81bb-86af8d36b2bf~data%3Dnon-ssai_c33c0712-1158-4757-81bb-86af8d36b2bf~hmac%3Dcfbdedd66bf5f6255fe00f76b97fda36d90a6065e76d1450e507c770b49e8a69%26req_id%3Dnon-ssai_c33c0712-1158-4757-81bb-86af8d36b2bf",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105503%2FAAJTAKHDNEWSELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515644~exp%3D1783518644~acl%3D%2Fcmaf%2Flive%2F2105503%2FAAJTAKHDNEWSELE%2F*~id%3D8e9dcfff-4e8a-4ad3-8e23-62785afbe50e~data%3Dnon-ssai_8e9dcfff-4e8a-4ad3-8e23-62785afbe50e~hmac%3D2eaffe70bfce4337ca998e3e8c6ae2554282cf78d92da335749d9d89f60d8735%26req_id%3Dnon-ssai_8e9dcfff-4e8a-4ad3-8e23-62785afbe50e",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111481%2FTV9_Bharatvarsh%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515645~exp%3D1783518645~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-BHARATVARSH-HD%2Findex%2F*~id%3Dfefb03d6-8aed-403c-bf8b-01e8955af6d0~data%3Dnon-ssai_fefb03d6-8aed-403c-bf8b-01e8955af6d0~hmac%3Dcf154eaf01a810914300bc6a2fa3d6a30162f40b89b97d01122fc6b3a6205d09%26req_id%3Dnon-ssai_fefb03d6-8aed-403c-bf8b-01e8955af6d0",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105510%2FZEENEWSELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515646~exp%3D1783518646~acl%3D%2Fcmaf%2Flive%2F2105510%2FZEENEWSELE%2F*~id%3D8456a493-fbbe-4576-8a34-432c9a747041~data%3Dnon-ssai_8456a493-fbbe-4576-8a34-432c9a747041~hmac%3Dcde11a2253a878a78121278676182eaee03253fe80a850fe7aa583b4a9d54e71%26req_id%3Dnon-ssai_8456a493-fbbe-4576-8a34-432c9a747041",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105509%2FZEEBUSINESSELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515646~exp%3D1783518646~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Business-News-SD%2Fmaster%2F*~id%3Dda3566a9-c37e-46e5-9c87-a648ea2ef38d~data%3Dnon-ssai_da3566a9-c37e-46e5-9c87-a648ea2ef38d~hmac%3Dcda0f38c983e52c7526a857aeeed975199d1ac0ad13dd48bec15096f259b3923%26req_id%3Dnon-ssai_da3566a9-c37e-46e5-9c87-a648ea2ef38d",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105498%2FZEE24TAASNEWSNEWELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515647~exp%3D1783518647~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24Taas-News-SD%2Fmaster%2F*~id%3D3d561e10-8224-4b54-a6e8-01aad6549610~data%3Dnon-ssai_3d561e10-8224-4b54-a6e8-01aad6549610~hmac%3D479311dc267433b81ccad077a5adade0d182489cbfac7798db867bcc0e95caa5%26req_id%3Dnon-ssai_3d561e10-8224-4b54-a6e8-01aad6549610",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111476%2FTV9_MARATHI%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515648~exp%3D1783518648~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-MARATHI-HD%2Findex%2F*~id%3Ded818a68-31c5-4564-a695-1158297d7f2f~data%3Dnon-ssai_ed818a68-31c5-4564-a695-1158297d7f2f~hmac%3Ddb20f4f2030117e2631c6f6b7cff6c0cbd0a8cc867da3a0672ba1094a33cb3ea%26req_id%3Dnon-ssai_ed818a68-31c5-4564-a695-1158297d7f2f",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2111477%2FTV9_KANNADA%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515648~exp%3D1783518648~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FTV9-KANNADA-HD%2Findex%2F*~id%3Dcd44a424-0f36-41d9-a65d-fe815b77fd6a~data%3Dnon-ssai_cd44a424-0f36-41d9-a65d-fe815b77fd6a~hmac%3Defddc0cff5b896cf5f692326980d5da0028aa23b4662bca82bf2fc3336a353ed%26req_id%3Dnon-ssai_cd44a424-0f36-41d9-a65d-fe815b77fd6a",
-    "status": "offline"
-  },
-  {
-    "name": "h_396",
-    "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105511%2FZEE24GHANTAELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515649~exp%3D1783518649~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24Ghanta-News-SD%2Fmaster%2F*~id%3Dfdbb51ba-7f04-4c40-8632-a785785b0f1f~data%3Dnon-ssai_fdbb51ba-7f04-4c40-8632-a785785b0f1f~hmac%3D60bb5375905065ec2cc380f3a74ee1f2c567ff6a229b6ba2fdb37b680d4c9073%26req_id%3Dnon-ssai_fdbb51ba-7f04-4c40-8632-a785785b0f1f",
-    "status": "offline"
-  },
-  {
-    "name": "Good News Today",
-    "logo": "https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105499%2FGOODNEWSTODAYHDNEWSELE%2Findex-connected.m3u8%3Fhdnts%3Dst%3D1783515650~exp%3D1783518650~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FGood-News-Today-HD%2Findex%2F*~id%3Da348bd01-d02a-4169-aec4-3d1e024e1a26~data%3Dnon-ssai_a348bd01-d02a-4169-aec4-3d1e024e1a26~hmac%3D18fbc619ffec8d50f620b7d1b2a31d3af8218db85dcfbafc91d5984f911ace30%26req_id%3Dnon-ssai_a348bd01-d02a-4169-aec4-3d1e024e1a26",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Punjab Haryana Himachal Pradesh",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105493%2FZEEPUHRHIELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515650~exp%3D1783518650~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Punjab-Haryana-Himachal-Pradesh-SD%2Fmaster%2F*~id%3D095db812-e020-47b0-a16d-a7722b05b5c0~data%3Dnon-ssai_095db812-e020-47b0-a16d-a7722b05b5c0~hmac%3D277e3237c288b028c62fab8c2413ba157db036c38d8006ee2140e895d998a4df%26req_id%3Dnon-ssai_095db812-e020-47b0-a16d-a7722b05b5c0",
-    "status": "offline"
-  },
-  {
-    "name": "Zee 24 Kalak",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105497%2FZEE24KALAKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515651~exp%3D1783518651~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-24-Kalak-SD%2Fmaster%2F*~id%3Db787f7ba-d76c-40ec-9d21-4a81b5173e8f~data%3Dnon-ssai_b787f7ba-d76c-40ec-9d21-4a81b5173e8f~hmac%3De865facfe646c5d9fcfc1961f8b9100f6dc11e1c494d1f33d7e199c9116f76bc%26req_id%3Dnon-ssai_b787f7ba-d76c-40ec-9d21-4a81b5173e8f",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Bharat",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105262%2FZEEBHARATNEWSNEWELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515652~exp%3D1783518652~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bharat-News-SD%2Fmaster%2F*~id%3D334783da-25a7-41ae-9e71-b95c1e23bf50~data%3Dnon-ssai_334783da-25a7-41ae-9e71-b95c1e23bf50~hmac%3D3ecf0a0032e1d1cca4ef9929d8a483da29d7fdc7806b409270522ed0df727fd6%26req_id%3Dnon-ssai_334783da-25a7-41ae-9e71-b95c1e23bf50",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Bihar Jharkhand",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105492%2FZEEBHJKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515653~exp%3D1783518653~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Bihar-Jharkhand-SD%2Fmaster%2F*~id%3Da4bcbe16-9c40-468e-93a0-6d7a2d27dfec~data%3Dnon-ssai_a4bcbe16-9c40-468e-93a0-6d7a2d27dfec~hmac%3Db46f78f7934477c1300e5705d5564a8bb290d59685299d92e9ccb43c4f2c058f%26req_id%3Dnon-ssai_a4bcbe16-9c40-468e-93a0-6d7a2d27dfec",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Rajasthan News",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105496%2FZEERAJASTHANELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515653~exp%3D1783518653~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Rajasthan-News-SD%2Fmaster%2F*~id%3D845b7e70-9c05-4934-ba26-4056e2cdcd8d~data%3Dnon-ssai_845b7e70-9c05-4934-ba26-4056e2cdcd8d~hmac%3D14fb857c46efcfbda13476c4622046a359078e40eed8166399c3b80ba16a29f0%26req_id%3Dnon-ssai_845b7e70-9c05-4934-ba26-4056e2cdcd8d",
-    "status": "offline"
-  },
-  {
-    "name": "Zee Madhya Pradesh Chhattisgarh",
-    "logo": "https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105495%2FZEEMPCGELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515654~exp%3D1783518654~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-Madhya-Pradesh-Chhattisgarh-SD%2Fmaster%2F*~id%3D25b0dd5d-c63b-4e83-8cd4-4f7c5145247b~data%3Dnon-ssai_25b0dd5d-c63b-4e83-8cd4-4f7c5145247b~hmac%3De53e02e5cd9ff55326a7061924f094be3183220dea81535a39a928689a02e78c%26req_id%3Dnon-ssai_25b0dd5d-c63b-4e83-8cd4-4f7c5145247b",
-    "status": "offline"
-  },
-  {
-    "name": "Zee News Uttar Pradesh Uttrakhand",
-    "logo": "https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg",
-    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | Zee5",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fz5ak-cmaflive.zee5.com%2Fcmaf%2Flive%2F2105494%2FZEEUPUKELE%2Fmaster.m3u8%3Fhdnts%3Dst%3D1783515655~exp%3D1783518655~acl%3D%2Fout%2Fv1%2FZEE5_Live_Channels%2FZee-News-UttarPradesh-Uttrakhand-SD%2Fmaster%2F*~id%3Deb48fccc-25a9-4a6f-ad94-011f3354feb0~data%3Dnon-ssai_eb48fccc-25a9-4a6f-ad94-011f3354feb0~hmac%3D59b2d62b2f468ba544c4880e4bd6a19cf884c879830902c1f786d3d300b219a5%26req_id%3Dnon-ssai_eb48fccc-25a9-4a6f-ad94-011f3354feb0",
-    "status": "offline"
-  },
-  {
     "name": "Surrey Women vs Warwickshire Women - 8 Jul 2026 [ENG]",
     "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020254/1782915398413720_VitalityBlast26_Womens_Surrey_vs_Warwickshire_landscape_thumb.jpg",
     "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
-    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F20000291%2FVB_Surre0807%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1783561153~acl%3D%2F*~id%3D34946910618514887665010036081570~hmac%3D2cf190a889b6c56ab9a2a481594feb792ef4f44716074d0a937b1cb4b0425fed",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F20000291%2FVB_Surre0807%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1783569042~acl%3D%2F*~id%3D78373943791834500442790803834812~hmac%3D9818e522943001b31274590f563b5de2c148937bd09518aeb043634502c8cf17",
     "status": "offline"
   },
   {
@@ -9867,28 +9489,28 @@
     "logo": "https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E267524-9E30-4271-A357-28E776F65D25/0-16x9.jpg?width=1920&updatedTime=undefined&dt=MobileWeb",
     "group": "SaReGaMaPa Lil Champs",
     "link": "http://file-to-link-stevebotz-01.koyeb.app/AgADMh219946",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "EP57 • 06 Jun 2026 • S5 (2026 ‧ seasons 5  Reality)",
     "logo": "https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E267524-9E30-4271-A357-28E776F65D25/0-16x9.jpg?width=1920&updatedTime=undefined&dt=MobileWeb",
     "group": "SaReGaMaPa Lil Champs",
     "link": "http://file-to-link-stevebotz-01.koyeb.app/AgAD4x217819",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "EP56 • 31 May 2026 • S5 (2026 ‧ seasons 5  Reality)",
     "logo": "https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E267524-9E30-4271-A357-28E776F65D25/0-16x9.jpg?width=1920&updatedTime=undefined&dt=MobileWeb",
     "group": "SaReGaMaPa Lil Champs",
     "link": "http://file-to-link-stevebotz-01.koyeb.app/AgAD7i216143",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "EP55 • 30 May 2026 • S5 (2026 ‧ seasons 5  Reality)",
     "logo": "https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E267524-9E30-4271-A357-28E776F65D25/0-16x9.jpg?width=1920&updatedTime=undefined&dt=MobileWeb",
     "group": "SaReGaMaPa Lil Champs",
     "link": "http://file-to-link-stevebotz-01.koyeb.app/AgAD5C216159",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "fl_relative",
@@ -10385,7 +10007,7 @@
     "logo": "https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/aaa.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Blast (𝗜𝗠𝗗𝗕 7.7 2026 ‧ Action\\Drama\\Martial Arts ‧ 2h 22m Director Subash K. Raj| Writer Subash K. Raj| Stars Arjun Sarja ‧ Preity Mukhundhan ‧ Abhirami)",
@@ -10413,7 +10035,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTc0NjhhNWYtZThjNS00NThmLTgxODEtNzdhMWJhMjk0NTliXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgAD3Q6385.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Drishyam 3 (𝗜𝗠𝗗𝗕 7.0 2026 ‧ Crime\\Drama\\Family\\Thriller ‧ 2h 37m Director Jeethu Joseph| Writer Jeethu Joseph |Stars Mohanlal ‧ Asha Sharath ‧ Dinesh Prabhakar)",
@@ -10434,7 +10056,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTUwZDkyZmMtMDdlYy00MmZmLTg0NzMtZWYzMzA2ODg0MDE1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADbB6377.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Karuppu (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Action Epic\\Legal Drama\\One-Person Army Action\\Supernatural Fantasy\\Action\\Comedy\\Drama\\Fantasy ‧ 2h 30m Director RJ Balaji| Writers RJ Balaji ‧ T S Gopi Krishnan ‧ Karan Aravind Kumar| Stars Suriya ‧ RJ Balaji ‧ Sshivada)",
@@ -10455,21 +10077,21 @@
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/4919eb2e5baa81d5a571a909820c139bf66f929292212ad8bd97229b3202f8e0.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgAD6x6361.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "KD: The Devil (𝗜𝗠𝗗𝗕 7.1 2026 ‧ Action\\Crime\\Drama\\Thriller ‧ 2h 20m Directors Manjunath BS ‧ Prem ‧ Ravi Saranga| Writers Vijay Eshwar ‧ Kraanti Kumar ‧ Prem| Stars Dhruva Sarja ‧ Sanjay Dutt ‧ Shilpa Shetty Kundra)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjY4ZWQxMzYtYTVjYi00ZWJkLWI2MjktYzQ0MGQ4YTZlNmEzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADFB6359.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "29 (𝗜𝗠𝗗𝗕 7.4 2026 ‧ Coming-of-Age\\Comedy\\Drama\\Romance ‧ 2h 30m Director Rathna Kumar| Writer Rathna Kumar| Stars Vidhu ‧ Preethi Asrani ‧ Leona Lishoy)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZjc3ZWNhMzMtZDc0Ny00NDEwLWExY2YtZWNkM2RmMzI0MTI1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgADWy6357.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sattendru Maarudhu Vaanilai (𝗜𝗠𝗗𝗕 4.7 2026 ‧ Comedy\\Drama\\Thriller\\Romance ‧ 2h Director Babu Vijay| Stars Jai ‧ Meenakshi Govindarajan ‧ Yogi Babu)",
@@ -10511,7 +10133,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYmNhOGJkZTctNGMyOC00YzBjLWIzNjYtNjI1MDU3MzZkZjQzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADnB6339.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nawab Cafe (𝗜𝗠𝗗𝗕 5.3 2026 ‧ Action ‧ 2h 17m Director Pramod Harsha| Writers Pramod Harsha ‧ Imran Siddique| Stars Shiva Kandukuri ‧ Rajeev Kanakala ‧ Teju Ashwini)",
@@ -10539,7 +10161,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/mr-and-mrs-bachelor-et00446914-1747819092.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD4R6331.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Jetlee (𝗜𝗠𝗗𝗕 5.5 2026 ‧ Action\\Comedy\\Thriller ‧ 2h 15m Director Ritesh Rana| Writers Jeyendhra Aerrola ‧ Ritesh Rana| Stars Satya ‧ Rhea Singha ‧ Vennela Kishore)",
@@ -10567,7 +10189,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzFhZTQxN2UtNGNhNC00YTNiLTljZDQtZGFmNjYyZjlkOGIyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADaR6323.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Madhuvidhu (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Comedy\\Drama\\Family\\Romance ‧ 2h 5m Director Vishnu Aravind| Writers Bibin Mohan ‧ Jai Vishnu| Stars Sharafudheen ‧ Jagadish ‧ Kalyani Panicker)",
@@ -10588,14 +10210,14 @@
     "logo": "https://sund-images.sunnxt.com/251834/500x750_SathiLeelavathiTamil_251834_99e0f227-7a6a-4f81-8f99-19e5eaf28936.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADTB6317.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Dhurandhar: The Revenge (𝗜𝗠𝗗𝗕 8.3 2026 ‧ Action Epic\\Gangster\\Political Drama\\Political Thriller\\Spy\\Action\\Crime\\Thriller ‧ 3h 55m Director Aditya Dhar| Writer Aditya Dhar| Stars Ranveer Singh ‧ Akshaye Khanna ‧ Sanjay Dutt)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADwC6313.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Thimmarajupalli TV (𝗜𝗠𝗗𝗕 4.4 2026 ‧ Comedy\\Drama\\Mystery ‧ 2h 4m Director V. Muniraju| Writer V. Muniraju| Stars Anshuman ‧ Chittibabu ‧ Veda Jallandar)",
@@ -10637,7 +10259,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNGUxZmVmODAtNTEzOC00Yjg2LTg1ZTctMDJmNTBlYjE3ZjI0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADOh6222.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vaazha II: Biopic of a Billion Bros (𝗜𝗠𝗗𝗕 8.3 2026 ‧ Buddy Comedy\\Coming-of-Age\\Comedy\\Drama ‧ 2h 40m Director Savin S.A.| Writers Vipin Das ‧ Nashid Mohamed Famy ‧ Rohit GR| Stars Hashir ‧ Alan bin Siraj ‧ Ajin Joy)",
@@ -10679,14 +10301,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDFjODg1NDgtZGZlYS00OTg5LTgzMzctNTNiYjNiZmVlODg4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADrh6210.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "LIK: Love Insurance Kompany (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Dystopian Sic-Fi\\Feel-Good Romance\\Romantic Comedy\\Comedy\\Romance\\Sci-Fi ‧ 2h 30m Director Vignesh Shivan| Writers Pradeep Ranganathan ‧ Vignesh Shivan| Stars Pradeep Ranganathan ‧ S.J. Suryah ‧ Krithi Shetty)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMzRlYTA5YmItZmEwOS00YjcxLWJlODUtNjQwN2QzYWFjNDFkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADJx6186.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Cup (𝗜𝗠𝗗𝗕 4.9 2024 ‧ Drama\\Family\\Sport ‧ 2h 26m Director Sanju V Samuel| Writers Denson Durom ‧ Akhilesh Latha Raj ‧ Sanju V Samuel| Stars Mathew Thomas ‧ Karthik Vishnu ‧ Basil Joseph)",
@@ -10700,14 +10322,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMDRjM2I3MGMtM2NhNS00YzJhLTlkNWYtYjEwYzg1YmIyOTVhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD5B6206.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The Kerala Story 2 Goes Beyond (𝗜𝗠𝗗𝗕 5.6 2026 ‧ Drama\\Thriller ‧ 2h 11m Director Kamakhya Narayan Singh| Writers Amarnath Jha ‧ Vipul Amrutlal Shah| Stars Ulka Gupta ‧ Aishwarya Ojha ‧ Aditi Bhatia)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNmRhYmJkMTgtNWFlNy00N2QyLWFiODgtOGE2NjgxMzAxZDI4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADXS6204.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aadu 3 (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Action\\Comedy\\Fantasy\\Adventure ‧ 2h 48m Director Midhun Manuel Thomas| Writer Midhun Manuel Thomas| Stars Jayasurya ‧ Vijay Babu ‧ Sunny Wayne)",
@@ -10721,7 +10343,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzg3M2MwODQtZTlmMC00MWVlLWFhODEtOGM4Yzc2MDNkMWIxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD8i6200.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manithan Deivamagalam (𝗜𝗠𝗗𝗕 7.5 2026 ‧ Action\\Drama\\Family ‧ 2h 5m Director Dennis Manjunath| Writer Dennis Manjunath| Stars K. Selvaraghavan ‧ Mime Gopi ‧ Y.G. Mahendran)",
@@ -10735,7 +10357,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BODBlMTkxOWYtZGUxOC00MDkyLWI2NWMtYmM5MDE4NmJkNGM1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADXy6196.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TN 2026 (𝗜𝗠𝗗𝗕 3.9 2026 ‧ Political Drama\\Satire\\Showbiz Drama\\Comedy\\Drama ‧ 2h 5m Director Umapathy Ramaiah| Writer Thambi Ramaiah| Stars Sreeja Ravi ‧ Ilavarasu ‧ Thalaivasal Vijay)",
@@ -10749,7 +10371,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BN2ZlZGRlYWItOWE1YS00Mjg2LWJiNDktMWJmN2VlYmUyM2M0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD_B6192.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Prathichaya (𝗜𝗠𝗗𝗕 5.7 2026 ‧ Drama\\Thriller ‧ 2h 37m Director B. Unnikrishnan| Writer B. Unnikrishnan| Stars Nivin Pauly ‧ Sharafudheen ‧ Balachandra Menon)",
@@ -10798,21 +10420,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNWEwZTZjOWYtMWVhYi00ZjljLWFhYTItNzZhMWI4YzlmZGIxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADtR6155.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kaa: The Forest (𝗜𝗠𝗗𝗕 8.3 2026 ‧ Adventure\\Thriller ‧ 1h 52m Director Nanjil| Writer Nanjil| Stars Andrea Jeremiah ‧ Salim Ghouse ‧ Daffe Naveen)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZGY5NmYyOTktNWQwNS00NzgyLWI5ZGUtYzQyY2JiODQwYWJiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADGg6153.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Second Case of Seetharam (𝗜𝗠𝗗𝗕 8.6 2026 ‧ Crime\\Thriller ‧ 2h Director Deviprasad Shetty| Writers Bhavani Shankar Anekallu ‧ Deviprasad Shetty| Stars Usha Bhandary ‧ Gopalkrishna Deshpande ‧ Vijay Raghavendra)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADJA6151.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Suyodhana (𝗜𝗠𝗗𝗕 9.6 2026 ‧ Drama\\Mystery\\Thriller ‧ 2h 10m Director Y.S. Madav Reddy| Writers Srinu Dharmarajula ‧ Srinu Kambala| Stars Priya Darshi ‧ Drishika Chander ‧ Sai Kumar)",
@@ -10861,7 +10483,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/s-saraswathi-et00490066-1772625020.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADUi6137.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kadhal Kadhai Sollava (𝗜𝗠𝗗𝗕 5.0 2026  ‧ Drama  ‧ 2h 3m Director Sanil Kalathil| Writers Sanil Kalathil  ‧ Kanmani Rajamohamed| Stars Vijay Sethupathi  ‧ Jayaram  ‧ Nakhul)",
@@ -10882,7 +10504,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTM3ZmYyZTItYTdkOS00NzIwLWJmOGYtMmUxMDVmZjVmNjdkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADlw6131.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Repu Udayam 10 Gantalaku (𝗜𝗠𝗗𝗕 5.7 2026 ‧ Thriller  ‧ 1h 53m Director Chandu Muddu| Stars Chaitanya Rao ‧ Hebah Patel ‧ Abhinav Gomatam)",
@@ -10896,7 +10518,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZGY0OGZjMjAtNzY3Mi00MTU4LWIyMTEtZDE5NzY2MDFlNzY4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADYA6127.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mrithyunjay (𝗜𝗠𝗗𝗕 6.4 2026 ‧ Thriller ‧ 2h 2m Directors Ch Suresh Babu ‧ Hussain Sha Kiran ‧ Sudhakar Tirumalasetti| Writers AnuragReddy ‧ Vasant Kumar Jurru ‧ Hussain Sha Kiran| Stars Sree Vishnu ‧ Reba Monica John ‧ Sudharshan)",
@@ -10959,7 +10581,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmYzOTM1MmQtMGQyOC00N2I0LTkwZmEtOWU4MTI0M2U2ZDJmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADOi6009.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Fourth Floor (𝗜𝗠𝗗𝗕 8.8 2026 ‧ Horror\\Mystery\\Thriller ‧ 2h 14m Director L.R. Sundarapandi| Writer L.R. Sundarapandi| Stars Deepshika ‧ Thalaivasal Vijay ‧ Adithya Kathir)",
@@ -11001,7 +10623,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmI3YmM0ZWYtY2RiOS00YmU5LTgyMDEtMTMwMTZkNzlkOWMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADMB5983.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Pennum Porattum (𝗜𝗠𝗗𝗕 8.2 2026  ‧ Drama  ‧ 2h Director Rajesh Madhavan| Writer Ravi Sankar| Stars Subash Chandran  ‧ Rajesh Madhavan  ‧ Raina Radhakrishnan)",
@@ -11036,21 +10658,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BN2QwNzg5YTgtN2QwNy00ZTZkLTg2YjItZTk2NmY1Y2M4NmE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADcx5973.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bhartha Mahasayulaku Wignyapthi (𝗜𝗠𝗗𝗕 7.4 2026  ‧ Comedy  ‧ 2h 22m Director Thirumala Kishore| Writer Thirumala Kishore| Stars Ravi Teja  ‧ Edin Rose  ‧ Ashika Ranganath)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/bhartha-mahasayulaku-wignyapthi-et00472594-1768195821.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADVB5971.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Karuppu Pulsar (𝗜𝗠𝗗𝗕 4.1 2026  ‧ Drama  ‧ 1h 54m Director Murali Krish| Writer Murali Krish| Stars Dinesh  ‧ Kalaiyarasan  ‧ Mansoor Ali Khan)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/karuppu-pulsar-et00483696-1769590918.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADNx5969.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Lockdown (𝗜𝗠𝗗𝗕 4.6 2026  ‧ Thriller  ‧ 2h Director A.R. Jeeva| Writer A.R. Jeeva| Stars Anupama Parameswaran  ‧ Revathi  ‧ Abhirami)",
@@ -11078,21 +10700,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDgyZWIxNDgtNzI1MS00YzU4LTk3ZTEtZDIyMDdiZDU4NzNjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD7h5950.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Subedaar (𝗜𝗠𝗗𝗕 6.2 2026  ‧ Action\\Drama  ‧ 2h 25m Director Suresh Triveni| Writers Prajwal Chandrashekar  ‧ Suresh Triveni| Stars Khushbu Sundar  ‧ Saurabh Shukla  ‧ Aditya Rawal)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzc1NjQ0Y2YtMTNiYS00YzM3LWI3ZTMtMDQwOTgxNmQ2YmE5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADVR5958.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Dark Shades of a Secret (𝗜𝗠𝗗𝗕 3.8 2023  ‧ Drama  ‧ 1h 33m Director Vidya Mukundan| Writer Vidya Mukundan| Stars Ravi Das  ‧ Sebin Ganapathiplackal  ‧ Vidya Mukundan)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/dark-shades-of-a-secret-et00360698-1692339582.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADBQ5956.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Messenger (𝗜𝗠𝗗𝗕 8.8 2025  ‧ Drama  ‧ 1h 46m Director Ramesh Elangamani| Writer Ramesh Elangamani| Stars Manisha Jashnani  ‧ Sriram Karthick  ‧ R. Kothandan)",
@@ -11113,7 +10735,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZGQxMThlNWEtZGE2My00OTVmLTljYjAtZTc2NWRkYzhhNTAxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADXB5924.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gandhi Talks (𝗜𝗠𝗗𝗕 6.6 2026 ‧ Comedy\\Drama\\Hindi ‧ 2h 10m Director Kishor Pandurang Belekar | Writers Kishor Pandurang Belekar | Stars Vijay Sethupathi ‧ Aditi Rao Hydari ‧ Mahesh Manjrekar)",
@@ -11127,14 +10749,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZDJlZDlmNTgtMDA0MS00ZWZlLWJkN2EtOWQzZWEyYTA0ZTVkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADnS5888.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ondimuniyum Nallapaadanum (𝗜𝗠𝗗𝗕 8.7 2025 ‧ Tamil\\Drama ‧ 2h 1m Director Sugavanam | Writers Sugavanam | Stars Karthikesan ‧ Murugan ‧ Parotta Murugesan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNTU0ZDIxZGYtMDI1YS00ZDhiLWI4NDUtY2FmMTkxYjY2OTc2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAEHA5901.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Lucky the Superstar (𝗜𝗠𝗗𝗕 6.1 2026 ‧ Tamil\\Drama ‧ 2h 2m Director Udhayabanu Maheshwaran | Writers G. Naren Kumar ‧ Udhayabanu Maheshwaran ‧ Sabhapathy Shanmugam | Stars G.V. Prakash Kumar ‧ Anaswara Rajan ‧ Meghna Sumesh)",
@@ -11176,7 +10798,7 @@
     "logo": "https://assets.voxcinemas.com/posters/P_HO00008735.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADNx5868.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kombuseevi (𝗜𝗠𝗗𝗕 8.4 2025 ‧ Tamil\\Drama ‧ 2h 19m Director Ponram | Writers Ponram | Stars Anaira Gupta ‧ George Maryan ‧ Munishkanth)",
@@ -11463,7 +11085,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZWZmZWI2ZWYtY2ViZS00OTU0LWIwMTUtOGVkYjFmZDc3MWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADhQ5690.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Central (𝗜𝗠𝗗𝗯 7.1 2025 ‧ Drama ‧ 2h 2m Director Bharathi Sivalingam| Writer Bharathi Sivalingam| Stars J. Vignesh ‧ Perarasu ‧ Soneshwari)",
@@ -11477,7 +11099,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/salliyargal-et00479342-1767089711.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADcR5686.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Eko (𝗜𝗠𝗗𝗯 8.0 2025 ‧ Mystery ‧ 2h 5m Director Dinjith Ayyathan| Writer Bahul Ramesh| Stars Sandeep PradeepBiana MominSaurabh Sachdeva)",
@@ -11498,7 +11120,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTI4YWEyYjQtZDg0Ni00NWE0LWFkMzUtZWY2N2MzN2UxOGVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD5g5680.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Yellow (𝗜𝗠𝗗𝗯 6.7 2025 ‧ Drama ‧ 2h 16m Director Hari Mahadevan| Writer Hari Mahadevan| Stars Delhi Ganesh ‧ Aswin Jayaprakash ‧ Namita Krishnamurthy)",
@@ -11519,7 +11141,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTYwMDYzMTEtOWMxZS00NmI1LThlN2YtOWQwNDM1NGQwMmI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADDh5674.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Andhra King Taluka (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Drama ‧ 2h 43m Director Mahesh Babu P.| Writers Anurag Kautoori ‧ Mahesh Babu P.| Stars Ram Pothineni ‧ Bhagyashri Borse ‧ Upendra)",
@@ -11582,7 +11204,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTdkYjk5NDktMDMyZS00ZGQ5LWI0MTctM2Y1ZjU0MzBmZjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADgB5585.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Premante (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Comedy\\Romance ‧ 2h 17m Director Navaneeth Sriram| Writers Raj Kumar Kusuma ‧ Navaneeth Sriram ‧ Karthik Thupurani| Stars Anandhi ‧ Priyadarshi Pulikonda ‧ Vennela Kishore)",
@@ -11603,7 +11225,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzU0MjM4YzYtNzVkMS00OWI2LWJlNGMtZTlkYTBlMDY2M2Q1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADJw5559.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Theeyavar Kulaigal Nadunga (𝗜𝗠𝗗𝗯 5.4 2025 ‧ Thriller ‧ 2h 7m Director Dinesh Lakshmanan| Writers Dinesh Lakshmanan ‧ Navaneethan Sunderrajan| Stars Anika Radhakrishnan ‧ Arjun Sarja ‧ Aishwarya Rajesh)",
@@ -11617,7 +11239,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/aaromaley-et00468371-1762256128.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADlh5557.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Brat (𝗜𝗠𝗗𝗯 7.5 2025 ‧ Drama ‧ 2h 35m Director Shashank| Writers Ravi Chakravarthy ‧ Yadunandan| Stars Giriraj B.M. ‧ Payal Chengappa ‧ Ramesh Indhira)",
@@ -11631,7 +11253,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMWViNDRlMjctZTlkNy00ZmI2LTkzN2UtZWE2YzIzMjUwMGViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD8h5541.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Robinhood (𝗜𝗠𝗗𝗯 4.5 2025 ‧ Action\\Comedy\\Crime ‧ 2h 30m Director Venky Kudumula| Writer Venky Kudumul| Stars Sreeleela ‧ Ketika Sharma ‧ Nithiin)",
@@ -11673,7 +11295,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNWJkZjNjMDMtMmU0Ni00OWQ0LTkxOTgtYjM1MzBmYjdkYzI5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADiA5553.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The Pet Detective (𝗜𝗠𝗗𝗯 6.7 2025 ‧ Slapstick\\Adventure\\Comedy\\Thriller ‧ 2h 10m Director Praneesh Vijayan| Writers Praneesh Vijayan ‧ Jai Vishnu| Stars Sharafudheen ‧ Anupama Parameswaran ‧ Vinay Forrt)",
@@ -11701,7 +11323,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzllNjE0ZWQtMGM0MS00ZWVkLTk1MDQtMmMyNDI1M2YzODQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADsw5551.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Happy Birthday Luci (𝗜𝗠𝗗𝗯 8.4 2024 ‧ Crime\\Horror ‧ 1h 39m Director S.M. Mohammed Azarudeen| Writer S.M. Mohammed Azarudeen| Stars Dolly Aishwarya ‧ R. Harivijay ‧ Amos Jack)",
@@ -11743,14 +11365,14 @@
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/89a502c4eaef956f6571cb8b5c4ec6ee31d7c073bda1660d065db5d2e48f75ed.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADvh5410.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Arjun Chakravarthy (𝗜𝗠𝗗𝗯 7.1 2025 ‧ Biography\\Drama\\Romance\\Sport ‧ 2h 21m Director Vikrant Rudra| Writers Rawindra Pulle ‧ Vikrant Rudra| Stars Vijaya Rama Raju ‧ Sija Rose ‧ Dayanand Reddy)",
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/1445ca0c1bb4b45d398ea58758c661d4f99512c1c73b68575cf36cfb0148a573.png",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADFx5490.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Diesel (𝗜𝗠𝗗𝗯 5.3 2025 ‧ Action\\Drama ‧ 2h 24m Director Shanmugam Muthusamy| Writer Shanmugam Muthusamy| Stars Athulya Ravi ‧ Harish Kalyan ‧ Sai Kumar)",
@@ -11806,7 +11428,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/bhaje-vaayu-vegam-et00398357-1715855219.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADYw5360.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bachelor Prasad (𝗜𝗠𝗗𝗯 9.2 2025 ‧ Drama ‧ 1h 58m Director Abhilash Reddy Gopidi| Writers Abhilash Reddy Gopidi ‧ Akhil Varma ‧ Y.N.Lohit| Stars Sapthagiri ‧ Annapurnamma ‧ Mahaboob Basha)",
@@ -11862,7 +11484,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BY2EyMzY3MWItMTEzYS00OGYxLTg0ZGItNGY4MzVkYWIwOGQzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvR5344.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thandakaaranyam (𝗜𝗠𝗗𝗯 7.4 2025 ‧ Drama ‧ 2h 9m Director Athiyan Athirai| Writer Athiyan Athirai| Stars Aruldoss ‧ Dinesh ‧ Kalaiyarasan)",
@@ -11967,7 +11589,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzc4MDM4NGMtYzczMC00ZGJjLTg4NmMtYWMwMjhlNzI0NDM4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXS5304.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mirage (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Drama ‧ 2h 30m Director Jeethu Joseph| Writers Srinivas Abrol ‧ Jeethu Joseph ‧ Aparna R. Tarakad| Stars Asif Ali ‧ Aparna Balamurali ‧ Hannah Reji Koshy)",
@@ -11995,14 +11617,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/thayyal-machine-et00455765-1753768516.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADjB5296.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aabhyanthara Kuttavaali (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Drama ‧ 2h 5m director Sethunath Pathmakumar| Author Sethunath Pathmakumar| Stars Asif Ali ‧ Harisree Ashokan ‧ Usha Chandra Babu)",
     "logo": "https://m.media-amazon.com/images/M/MV5BODdlM2ZlYWQtYTZiYy00ZjYxLThiMjUtNWRlYTAwNTcyYjk0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXx5290.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thanal (𝗜𝗠𝗗𝗯 5.7 2025 ‧ Action\\Drama\\Thriller ‧ 2h 6m Director Ravindra Madhava| Writer Ravindra Madhava| Stars Bhaarath ‧ Bharani ‧ Lakshmi Priyaa Chandramouli)",
@@ -12030,14 +11652,14 @@
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/dedb5b1adf6202e452f93fe6f31739bcc9cc71170b81628310611b482627c514.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADph5256.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Uruttu Uruttu (𝗜𝗠𝗗𝗯 5.0 2025 ‧ Drama ‧ 1h 51m Director Baskar Sadhasivam| Stars Gajesh Nagesh ‧ Motta Rajendran ‧ Rithvika Shreya)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZGIzYTIwN2UtNGQ1Ny00MmU2LTkyNzYtOTIyZTgwNGU1MWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADCB5254.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mirai (𝗜𝗠𝗗𝗯 8.1 2025 ‧ Action\\Sci-Fi\\Thriller ‧ 2h 49m Directors Anil Anand ‧ Karthik Gattamneni| Writers Karthik Gattamneni ‧ Manibabu Karanam| Stars Teja Sajja ‧ Manoj Kumar Manchu ‧ Ritika Nayak)",
@@ -12184,7 +11806,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZWUzM2Q4NDEtZjA1OC00YmUyLWEzZjAtOWJmNGU3ZGQzMTUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADZB5147.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madharaasi (𝗜𝗠𝗗𝗯 7.9 2025 ‧ Thriller\\Romance\\Action\\One-Person Army Action\\Psychological Thriller ‧ 2h 40m Director A.R. Murugadoss| Writer A.R. Murugadoss| Stars Rukmini Vasanth ‧ Vidyut Jammwal ‧ Sivakarthikeyan)",
@@ -12247,7 +11869,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzI5Y2IxY2QtODI0My00ZDFiLWE4NTktYjRlMDU2MjEwNWUwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADhB.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bun Butter Jam (𝗜𝗠𝗗𝗯 6.1 2025 ‧ Comedy\\Drama\\Romance ‧ 2h 27m Director Raghav Mirdath| Writers Raghav Mirdath ‧ Sam Suresh| Stars Raju Jeyamohan ‧ Aadya Prasad ‧ Bhavya Trikha)",
@@ -12303,28 +11925,28 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZDUxNzFhZGItZGIwNS00MGI2LWE2NTctYWEzMGY3MWVkMTdhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADFS5060.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Soothravakyam (𝗜𝗠𝗗𝗯 8.3 2025 ‧ Drama ‧ 1h 48m Director Eugien Jos Chirammel| Writers Rejin S. Babu ‧ Eugien Jos Chirammel| Stars Shine Tom Chacko ‧ Deepak Parambol ‧ Vincy Aloshious)",
     "logo": "https://m.media-amazon.com/images/M/MV5BOWY0NzRmN2EtZTBiMS00YTIzLTg1MDMtMTg4YjI3MjZhYTU0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADsB5057.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Hari Hara Veera Mallu Part 1 (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Action Epic\\One-Person Army Action\\Period Drama\\Action\\Adventure\\Drama ‧ 2h 30m Directors Radha Krishna Jagarlamudi ‧ Jyothi Krishna| Writers Sai Madhav Burra ‧ Radha Krishna Jagarlamudi ‧ Abhimanyu Srivastava| Stars Pawan Kalyan ‧ Nidhhi Agerwal ‧ Bobby Deol)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/hari-hara-veera-mallu--part-1-sword-vs-spirit-et00308207-1751530343.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADKB5055.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sthanarthi Sreekuttan (𝗜𝗠𝗗𝗯 7.0 2024 ‧ Comedy\\Buddy Comedy ‧ 2h 15m Director Vinesh Viswanath| Writers Kailash S Bhavan ‧ Murali Krishnan ‧ Anand Manmadhan| Stars Aju Varghese ‧ Johny Antony ‧ Saiju Kurup)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/sthanarthi-sreekkuttan-et00418745-1730954704.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOB5053.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Love Marriage (𝗜𝗠𝗗𝗯 6.6 2025 ‧ Romance ‧ 2h 6m Director Shanmuga Priyan| Writer Shanmuga Priyan| Stars Aruldoss ‧ Sushmitha Bhat ‧ Meenakshi Dinesh)",
@@ -12338,7 +11960,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZTk1M2Y2M2EtYjQ2Mi00YTYwLThkZjgtYWQ2ZDJkZDY5MTdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOB5049.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "J.S.K - Janaki V v/s State of Kerala (𝗜𝗠𝗗𝗯 6.3 2025 ‧ Action\\Drama\\Thriller ‧ 2h 34m Director Pravin Narayanan| Writer Pravin Narayanan| Stars Suresh Gopi ‧ Anupama Parameswaran ‧ Divya Pillai)",
@@ -12359,21 +11981,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDU0YmQ2OWItOTNlYi00YjRjLTg5OTctNzM3ZTEzOWNiMzhkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADAh5045.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Yaadhum Ariyaan (𝗜𝗠𝗗𝗯 9.1 2025 ‧ Thriller ‧ 1h 36m Director M.Gopi| Writer M.Gopi| Stars Uriyadi Anandaraj ‧ Anandpandi ‧ Anandraj)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzdiOTg3MjItYzViNy00M2I0LWJmNWMtYzNlOTRkMjljYTQ0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADxi5025.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nadikar (𝗜𝗠𝗗𝗯 5.3 2024 ‧ Comedy ‧ 2h 22m Director Jean Paul Lal| Writer Suvin S. Somasekharan| Stars Tovino Thomas ‧ Soubin Shahir ‧ Divya Pillai)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMmY4NDRiZDMtODZmYS00MTdmLWIwYTYtZmUzODgxOWMzMjNkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADQR5023.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Oho Enthan Baby (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama ‧ 2h 10m Director Krishnakumar Ramakumar| Writers Mukesh Manjunath ‧ Sharada Subramanian| Stars Sujatha Babu ‧ Geetha Kailasam ‧ Karunakaran)",
@@ -12401,7 +12023,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BY2RjZGZlZTktZmZjOC00ZjZhLTgzYTYtM2UxZmQ0MjU3NzgwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVB5006.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Paranthu Po (𝗜𝗠𝗗𝗯 8.7 2025 ‧ Comedy ‧ 2h 20m Director Ram| Writer Ram| Stars Shiva ‧ Grace Antony ‧ Anjali)",
@@ -12492,7 +12114,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGVkNDBhOTAtOTdmYi00MGEyLTg2ZDktYTdhYzIzNDUyZDAzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD2x4969.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kuberaa (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Drama\\Theriller\\Crime\\Action\\Political Thriller ‧ 3h 1m Director Sekhar Kammula| Writers Sekhar Kammula ‧ Chaithanya Pingali| Stars Dhanush ‧ Rashmika Mandanna ‧ Bagavathi Perumal)",
@@ -12506,7 +12128,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/racharikam-et00428409-1736413072.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvB4927.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Khali Purse of Billionaires (𝗜𝗠𝗗𝗯 2.8 2023 ‧ Comedy ‧ 2h 3m Director Maxwell Jose| Stars Dhyan Sreenivasan ‧ Aju Varghese ‧ Tanvi Ram)",
@@ -12597,7 +12219,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZmNmYzBlNjQtMTk0Zi00ODY3LTkxYTYtNTliY2QzZjUwNDU2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD_B4872.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Rajaputhiran (𝗜𝗠𝗗𝗯 7.2 2025 ‧ Drama ‧ 2h 20m Director Mahaa Kandhan| Writer Mahaa Kandhan| Stars Imman Annachi ‧ Mansoor Ali Khan ‧ Komal Kumar)",
@@ -12625,7 +12247,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDU0NjE4ZWYtOWJjMC00NmFiLTlkNTItNjYwZDQ2NGIyY2Y2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7x4848.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Azadi (𝗜𝗠𝗗𝗯 7.5 2025 ‧ Action ‧ 2h 9m Director Joe George| Writer Sagar Hari| Stars Lal ‧ Sreenath Bhasi ‧ Vani Viswanath)",
@@ -12639,7 +12261,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZWNhYzgwMjUtM2E3NC00ODg4LTg3YjQtZDQyZDg5NmQ4YzZhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADPx4830.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kaliyugam 2064 (𝗜𝗠𝗗𝗯 8.2 2025 ‧ Thriller\\Conspiracy Thriller ‧ 1h 51m Director Pramodh Sundar| Writers Aathreya ‧ Karthik Gunasekaran ‧ Karkavi| Stars Harry ‧ Master Ronith ‧ Asmal)",
@@ -12702,14 +12324,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzVmYWY1MTEtNzE5Ni00ZTBmLWE5Y2QtMTQ5OTdjOWViY2U5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADZB4798.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Alappuzha Gymkhana (𝗜𝗠𝗗𝗯 7.2 2025 ‧ Martial Arts\\Action\\Comedy\\Drama ‧ 2h 19m Director Khalid Rahman| Writers Khalid Rahman ‧ Ratheesh Ravi ‧ Sreeni Saseendran| Stars Naslen ‧ Lukman Avaran ‧ Shine Tom Chacko)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYzE3ODQyZmItMmQ1NC00NjA1LTllMGEtYTRmNTFhZmY2NTM3XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD0x4795.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Padakkalam (𝗜𝗠𝗗𝗯 7.7 2025 ‧ Comedy ‧ 2h 4m Director Manu Swaraj| Writers Nithin C Babu ‧ Manu Swaraj| Stars Arun Ajikumar ‧ Niranjana Anoop ‧ Saaf Bros)",
@@ -12807,7 +12429,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzQ0NGExZGItMzljOS00ZDkzLWIyNjEtMmUwNWZhMGUzYzJiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADRh4760.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sarangapani Jathakam (𝗜𝗠𝗗𝗯 5.4 2025 ‧ Comedy\\Drama ‧ 2h 20m Director Mohana Krishna Indraganti| Writer Mohana Krishna Indraganti| Stars Srinivas Avasarala ‧ Avinashvarma ‧ Tanikella Bharani)",
@@ -12835,7 +12457,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzU0OTRmMDYtZDEyZS00MTE0LWJmZjgtNDY5M2E3NzI1MDM5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADwx4702.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tourist Family (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Comedy\\Drama ‧ 2h 30m Director Abishan Jeevinth| Writer Abishan Jeevinth| Stars Yogi Babu ‧ M.S. Bhaskar ‧ Kamalesh)",
@@ -12877,14 +12499,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/nesippaya-et00428294-1736329564.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADKR4673.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gangers (𝗜𝗠𝗗𝗯 6.0 2025 ‧ Parody\\Action\\Comedy\\Adventure ‧ 2h 38m Director Sundar C.| Writers Sundar C. ‧ Venkat Raghavan| Stars Sundar C. ‧ Vadivelu ‧ Aruldoss)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNWY5MDgzN2MtNjYyMi00ZGVhLWEzMTUtZjRlM2NmYjc1NTllXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgAD0R4669.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Chaurya Paatham (𝗜𝗠𝗗𝗯 6.7 2025 ‧ Drama ‧ 2h 4m Director Nikhil Gollamari| Writer Karthik Gattamneni| Stars Indhra Ram ‧ Rajeev Kanakala ‧ Payal Radhakrishna)",
@@ -12898,7 +12520,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYThjMTUxMjctMzQ2OS00MzI4LTkyOWQtYjQ5NDg2ZTJhNDViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADqx4690.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vaamana (𝗜𝗠𝗗𝗯 2.8 2025Action2h 14m Director Shankar Raman S.| Writer Shankar Raman S.| Stars Sampath Raj ‧ Achyuth Kumar ‧ Adithya Menon)",
@@ -12912,7 +12534,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZTdmZWMzZDUtNjkxZC00MmQzLTg2NGQtYjU0NDVmMmQ2MWQ5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADXx4658.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Am Ah (𝗜𝗠𝗗𝗯 6.4 2025 ‧ Drama ‧ 1h 55m Director Thomas K. Sebastian| Writer Kaviprasad Gopinath| Stars Dileesh Pothan ‧ Devadarshini Chetan ‧ Maala Parvathi)",
@@ -13129,7 +12751,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMWUwYmU0ZmQtOTUxNi00ODM5LTljODEtMWI4ZjhhZGVmZDE1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADow4484.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Dinasari (𝗜𝗠𝗗𝗯 8.1 2025 ‧ Drama ‧ 2h 30m Director G. Sankar| Stars Premgi Amaren ‧ M.S. Bhaskar ‧ Chaams)",
@@ -13150,7 +12772,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjA4ZmEwNWEtNWJjNy00YTg1LTliZjktNmJhZjkzMDM1OGY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADYx4478.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mr House Keeping (𝗜𝗠𝗗𝗯 6.6 2025 ‧ Comedy ‧ 2h 30m Director Arun Ravichandran| Writer Arun Ravichandran| Stars Losliya Mariyanesan ‧ Hari Bhaskar ‧ Ilavarasu)",
@@ -13178,14 +12800,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/nilavuku-enmel-ennadi-kobam-et00433192-1739530276.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADEh4392.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Officer on Duty (𝗜𝗠𝗗𝗯 7.6 2025 ‧ Thriller ‧ 2h 14m Director Jithu Asharef| Writer Shahi Kabir| Stars Kunchacko Boban ‧ Priyamani ‧ Jagadish)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMmI3NDNkZjEtMTZkMi00ZGRmLWJjZGMtZTM4NTMzMGVlMmVjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADxx4389.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ring Ring (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Comedy\\Drama ‧ 2h 2m Director S. Sakthivel| Writer S. Sakthivel| Stars Sakshi Agarwal ‧ Arjunan ‧ Daniel Annie Pope)",
@@ -13206,14 +12828,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/kappu-bilupina-naduve-et00378140-1701689826.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADEx4379.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sabdham (𝗜𝗠𝗗𝗯 6.1 2025 ‧ Horror\\Thriller ‧ 2h 28m Director Arivazhagan Venkatachalam| Writer Arivazhagan Venkatachalam| Stars Simran ‧ Aadhi ‧ Laila)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYTBhYjc3NmMtMWNjZi00MWQ0LWExN2ItYjI1MzE2ZjFkZDIwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgAD7R4372.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ponman (𝗜𝗠𝗗𝗯 7.8 2025 ‧ Comedy\\Drama ‧ 2h 5m Director Jotish Shankar| Writers G.R. Indugopan ‧ Justin Mathew| Stars Basil Joseph ‧ Sajin Gopu ‧ Lijo Mol Jose)",
@@ -13381,7 +13003,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYmNmMjk4MjktZDc3Ni00NmVlLTkxNWYtZmFkNTdmYzI4MDRjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/67b8511629bb1394ea144ae8.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Dhoom Dhaam (𝗜𝗠𝗗𝗯 6.4 2025 ‧ Action\\Comedy\\Romance ‧ 1h 48m Director Rishab Seth| Writers Aarsh Vora ‧ Aditya Dhar ‧ Rishab Seth| Stars Pratik Gandhi ‧ Yami Gautam ‧ Pavitra Sarkar)",
@@ -13703,7 +13325,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/6747e694c31ab5c76d88c8ff.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Deepavali Bonus (𝗜𝗠𝗗𝗯 9.7 2024 ‧ Drama ‧ 2h 41m Director Jeyabal J| Writer Jeyabal J| Stars Vikranth ‧ Riythvika Panneerselvam ‧ Venkatraman Balaji)",
@@ -16314,7 +15936,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzg2NGNjZWMtYzY2Yy00OGM4LTgwM2EtMjkzYTI2ZmViNjNmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADYx5838.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Parasakthi (𝗜𝗠𝗗𝗕 6.2 2026 ‧ Tamil\\Action\\Drama\\History\\Epic\\Period Drama\\Political Drama ‧ 2h 41m Director Sudha Kongara | Writers Ganeshaa ‧ Madhan Karky ‧ Shan Karuppusamy | Stars Sivakarthikeyan ‧ Ravi Mohan ‧ Atharvaa Murali)",
@@ -16328,7 +15950,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWIwMTVjMjItZDEzNS00NGVhLWJmZGQtNGU1ODNmNWQ3ZWZiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADqh5816.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Shahkot (𝗜𝗠𝗗𝗕 7.7 2024 ‧ Thriller\\Punjabi ‧ 1h 55m Director Rajiv Dhingra | Writers Rajiv Dhingra ‧ Davinder Virk | Stars Raj Babbar ‧ Bharat Bharial ‧ Jimmy James Burke)",
@@ -16342,7 +15964,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzA1YjI5YWQtNTJhYS00MTNiLWFmZDktNjNjNGZkNWYyN2ZlXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADSi5812.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "The RajaSaab (𝗜𝗠𝗗𝗕 3.6 2026 ‧ Action\\Comedy\\Fantasy\\Fantasy Epic\\Supernatural Horror\\Horror\\Romance\\Thriller\\Telugu ‧ 3h 10m Director Maruthi Dasari | Writers Maruthi Dasari | Stars Prabhas ‧ Sanjay Dutt ‧ Nidhhi Agerwal)",
@@ -16370,7 +15992,7 @@
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/647/1769707550647-v",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADpR5787.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Patang (𝗜𝗠𝗗𝗕 7.2 2025 ‧ Comedy\\Sport\\Telugu ‧ 2h 42m Director Praneeth Prattipati | Writers Praneeth Prattipati | Stars S.P. Charan ‧ Keshav Deepak ‧ S.S. Kaanchi)",
@@ -16384,7 +16006,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTA4ZWJmMWQtMjk0OS00ZmY2LThhNmYtYzU2YjY2ZDc3ZmYwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADSh5772.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Gurram Paapi Reddy (𝗜𝗠𝗗𝗕 6.6 2025 ‧ Comedy\\Crime\\Telugu ‧ 2h 40m Director Murali Manohar Reddy | Writers Poorna Pragna | Stars Faria Abdullah ‧ Naresh Agastya ‧ Rajiv Kumar Aneja)",
@@ -16398,7 +16020,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADGC5783.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Champion (𝗜𝗠𝗗𝗕 6.4 2025 ‧ Drama\\Sport\\Telugu ‧ 2h 45m Director Pradeep Advaitham | Writers Pradeep Advaitham ‧ Rutham Samar | Stars Roshann Meka ‧ Anaswara Rajan ‧ Kalyan Chakravarthy Nandamuri)",
@@ -16426,7 +16048,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTY3ZWM2NTgtN2ZiNC00OTQwLThhMjYtMzZiNWQ3MWQ4MGI2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADUB5752.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tere Ishk Mein (𝗜𝗠𝗗𝗕 7.0 2025 ‧ Action\\Drama\\Musical\\Romance\\Hindi ‧ 2h 47m Director Aanand L. Rai | Writers Himanshu Sharma ‧ Neeraj Yadav | Stars Kriti Sanon ‧ Vaidika Senjaliya ‧ Dhanush)",
@@ -16440,21 +16062,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZjUwODNkODAtZWQyMC00YjdiLThhNmItZTFhMWY5NzlmMzRiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADOA5737.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Retta Thala (𝗜𝗠𝗗𝗕 4.4 2025 ‧ Tamil\\Action\\Thriller ‧ 1h 53m Director Krish Thirukumaran | Writers Krish Thirukumaran | Stars Arun Vijay ‧ Tanya S Ravichandran ‧ John Vijay)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYWZjZDMwZDUtYjJkMS00MDJmLWEyZTktMDRkYjYyNGM0YmJlXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADxh5735.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bank of Bhagyalakshmi (𝗜𝗠𝗗𝗕 5.4 2025 ‧ Drama\\Kannada ‧ 2h 32m Director Abhishek M | Writers Abhishek M | Stars Uday Achar ‧ Brinda Acharya ‧ Usha Bhandary)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNjlhODg1NjctOTA4Zi00NzkyLTliMTYtZGEyNjU5MGM4ZWM2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADvx5748.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Randaam Yaamam (𝗜𝗠𝗗𝗕 4.2 2025 ‧ Drama\\Malayalam ‧ 2h 20m Director Nemom Pushparaj | Writers Gopal .R ‧ M.A. Prasanth | Stars Swasika Vijay ‧ Dhruvan ‧ Goutham)",
@@ -16503,7 +16125,7 @@
     "logo": "https://i.ibb.co/jZBBbPL9/615590997-18049699145692246-3373921651739334253-n.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgAD6w5709.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sight &amp; Sound in Love (𝗜𝗠𝗗𝗕 N/A 2025 ‧ Tamil\\Musical ‧ N/A Director Sandosh Kesavan | Writers Khargtini Vijay | Stars Dev JBC ‧ Navinkumar Kannadasan ‧ Rupini Krishnan)",
@@ -16538,7 +16160,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTI3MmVkNmUtOWMxNC00NTZiLThmMzQtZDE4NzlkNGRkNDJiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADnS5692.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Angammal (𝗜𝗠𝗗𝗯 8.8 2024 ‧ Drama ‧ 1h 57m Director Vipin Radhakrishnan| Writers Sudhahar Das ‧ Perumal Murugan ‧ Vipin Radhakrishn|Stars Geetha Kailasam ‧ Saran Shakthi ‧ Vinod Anand)",
@@ -16566,7 +16188,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYWZmMGFmZWItYzM5Ny00N2FjLWI5OWItMzBjZTE5MTgxMmZkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADwB5684.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Drive (𝗜𝗠𝗗𝗯 4.3 2025 ‧ Thriller\\Drama ‧ 1h 45m Director Jenuse Mohamed| Writer Nagaa Sai| Stars Sriram Reddy Polasane ‧ Aadhi ‧ Anish Kuruvilla)",
@@ -16594,7 +16216,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjgzYmNiYTUtOWI1Ni00NGVjLWE1NmYtZDNjMGRiYWFjYmQ2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADNA5676.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vritta (𝗜𝗠𝗗𝗯 6.9 2025 ‧ Thriller ‧ 1h 52m Director Likith Kumar| Writers Yogesh Gowda ‧ Raghu Niduvalli ‧ Shankar Raman S.| Stars Chaithra J. Achar ‧ Master Anurag ‧ Maahir Mohiuddin)",
@@ -16615,7 +16237,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMWQyN2Y5ODQtMWViNC00ZGM4LTg4ZmMtNmQ5YTNmMzM4MDlkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADKA5670.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Maadan Kodai Vizha (𝗜𝗠𝗗𝗯 8.1 2025 ‧ Drama ‧ 2h 7m Director R. Thangapandi| Writer R. Thangapandi| Stars Sheeba Christy ‧ Gokul Gowtham ‧ Paulraj Mariappan)",
@@ -16636,7 +16258,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/santhana-prapthirasthu-et00436197-1762930790.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADcB5593.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vaanaran (𝗜𝗠𝗗𝗯 0.0 2025 ‧ Drama ‧ 1h 32m Director Sriram Padmanabhan| Writer Sriram Padmanabhan| Stars Bijesh Nagesh ‧ Aadeshbala ‧ A. Akshya)",
@@ -16664,7 +16286,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTdkYjk5NDktMDMyZS00ZGQ5LWI0MTctM2Y1ZjU0MzBmZjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADgB5585.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Premante (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Comedy\\Romance ‧ 2h 17m Director Navaneeth Sriram| Writers Raj Kumar Kusuma ‧ Navaneeth Sriram ‧ Karthik Thupurani| Stars Anandhi ‧ Priyadarshi Pulikonda ‧ Vennela Kishore)",
@@ -16678,7 +16300,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZTQ2ZWJlYzQtZDg4My00ZmNmLTg3ZjYtMGEzOGU3YzU5MmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADAR5581.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kinaru (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Drama ‧ 1h 48mDirector Harikumaran| Writer Harikumaran| Stars Senathipathi Dharma ‧ Sri Hariharan ‧ Manojkannan)",
@@ -16692,7 +16314,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNGMyNDAzZTAtNzE1ZC00Nzg0LTliM2YtYmU5NDMxMzlkZmRiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADLQ5522.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aaromaley (𝗜𝗠𝗗𝗯 7.5 2025 ‧ Buddy Comedy\\Feel-Good Romance\\Romance Comedy\\Comedy\\Drama ‧ 2h 8m Director Sarang Thiagu| Writers Ashameera Aiyappan ‧ Kishen Das ‧ Bipin R.| Stars Kishen Das ‧ Harshath Khan ‧ Silambarasan TR)",
@@ -16706,7 +16328,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BODlmMGRiNzMtY2NmMS00YWQwLWFiYWMtNjFiODIxMTRjNGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADyg5555.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "12A Railway Colony (𝗜𝗠𝗗𝗯 5.5 2025 ‧ Drama ‧ 2h 5m Director Nani Kasaragadda| Writers Midhun Shankar Reddy ‧ Anil Viswanath| Stars Kamakshi Bhaskarla ‧ Allari Naresh ‧ Madhumani)",
@@ -16727,7 +16349,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNmQxZDYyNmQtM2YzNC00Y2FhLWI3NzItZmI4YzA1NTg4MWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADIA5511.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "The Girlfriend (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Drama\\Romance ‧ 2h 18m Director Rahul Ravindran| Writer Rahul Ravindran| Stars Rashmika Mandanna ‧ Anu Emmanuel ‧ Dheekshith Shetty)",
@@ -16741,7 +16363,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTM4NWM3YWMtMzk1MS00NTM4LWE3YTItZGYwNWNhMWQ3MzZlXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADNh5539.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Gajaana (𝗜𝗠𝗗𝗯 3.8 2025 ‧ Adventure\\Fantasy ‧ 1h 48m Director Prabhadish Samz Writer Prabhadish Samz| Stars Yogi Babu ‧ Vedhika ‧ Inigo Prabhakaran)",
@@ -16762,7 +16384,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BN2JjODFmOWItMzAwNC00NTI1LTgwMmMtMDg3M2FmYmQxMjY2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADhQ5484.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mass Jathara (𝗜𝗠𝗗𝗯 4.5 2025 ‧ Action ‧ 2h 30m Director Bhanu Bhogavarapu| Writers Bhanu Bhogavarapu ‧ Nandu Savirigana| Stars Ravi Teja ‧ Sreeleela ‧ Naveen Chandra)",
@@ -16790,7 +16412,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjVjMzVmMDktYTkyNC00MzMwLWI2MjQtNWQwZGE5NWQwNzA1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADaA5549.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Murugesan +2 (𝗜𝗠𝗗𝗯 4.9 2025 ‧ Comedy ‧ 1h 56m Director M. Ramesh Baarathi| Writer M. Ramesh Baarathi| Stars Thambi Ramaiah ‧ S K. Gaayathri)",
@@ -16818,7 +16440,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjE0YjM2YjItYjFmNS00YzdhLWI3ZjItNjQ5MTc4MjRmM2JhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "http://tentkotta.short.gy/AgADXQ5415.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Daksha: The Deadly Conspiracy (𝗜𝗠𝗗𝗯 3.8 2025 ‧ Thriller\\Drama ‧ 1h 42m Director Vamsee Krishna Malla| Writer Diamond Ratna Babu| Stars Aranganathan ‧ Mohan Babu ‧ Viswant Duddumpudi)",
@@ -16846,14 +16468,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTM5ZjdjMTMtMmY1ZS00NzAyLWI3OTYtNmM2MzQxM2JhNGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7S5383.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vikkatakavi (𝗜𝗠𝗗𝗯 7.2 2024 ‧ Drama\\Thriller ‧ 2h 38m Stars Megha Akash ‧ Naresh Agastya ‧ Shiju)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/ZEEFIVE/SERIES/672c6cda404fa02b8fa4ae75/images/rsz630x945withlogo656a5afd46654021a19c791b47fbf86cb5abeef52a2b42edbdc7395df10aad2f.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADmx5385.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Avihitham (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Drama ‧ 1h 45m director Senna Hegde| Author Senna Hegde ‧ Ambareesh Kalathera| Stars Vineeth Chakyar ‧ Ammini Chandralayam ‧ Aneesh Chemmarathi)",
@@ -16867,7 +16489,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZWFiMzEzZTQtZjFiZC00YjhjLTk3Y2QtYzA2MjE4MmRiNzdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD1R5533.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Telusu Kada (𝗜𝗠𝗗𝗯 5.9 2025 ‧ Drama ‧ 2h 40m Director Neeraja Kona| Writers Neeraja Kona ‧ Bharadwaj Munimanikyam| Stars Raashi Khanna ‧ Srinidhi Shetty ‧ Sidhu Jonnalagadda)",
@@ -16888,14 +16510,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/bhaje-vaayu-vegam-et00398357-1715855219.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADYw5360.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bachelor Prasad (𝗜𝗠𝗗𝗯 9.2 2025 ‧ Drama ‧ 1h 58m Director Abhilash Reddy Gopidi| Writers Abhilash Reddy Gopidi ‧ Akhil Varma ‧ Y.N.Lohit| Stars Sapthagiri ‧ Annapurnamma ‧ Mahaboob Basha)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZDg1MDY0ZTItOTY0ZC00YmViLWIyMTYtN2ZmNGEyMmI5MTY3XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7B5364.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kiss (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Feel-Good Romance\\Romantic Comedy\\Comedy\\Fantasy\\Romance ‧ 2h 28m Directors Sathish Krishnan ‧ PA Shanmugam| Writers Sathish Krishnan ‧ Mugil ‧ R Savari Muthu| Stars Kavin ‧ Preethi Asrani ‧ Rj Vijay)",
@@ -16916,14 +16538,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYWViNzBkOTYtYTgzZS00MjZmLTllNzctNGRjM2NlOWE4ODQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADyx5358.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kambi Katna Kathai (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Drama ‧ 2h 19m Director Rajanadhan Periyasamy| Writers Tha. Muruganatham ‧ Rajanadhan Periyasamy| Stars Chaams ‧ Karate Karthi ‧ Muruganandam)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZTIzOWRjZGMtMzU4ZS00YjU0LWJiNzgtZTg3MWMxNzA5MjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADyh5349.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bad Girl (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Drama\\Romance ‧ 1h 52m Director Varsha Bharath| Writer Varsha Bharath| Stars Anjali Sivaraman ‧ Shanti Priya ‧ Hridhu Haroon)",
@@ -16951,7 +16573,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/thandakaaranyam-et00445048-1746604959.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADeh5342.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kantara: A Legend - Chapter 1 (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Action Epic\\Epic\\Period Drama\\Action\\Thriller ‧ 2h 45m Director Rishab Shetty| Writers Rishab Shetty ‧ Anirudh Mahesh ‧ Shanil Guru| Stars Rishab Shetty ‧ Jayaram ‧ Rukmini Vasanth)",
@@ -16993,14 +16615,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmQzN2VjNmYtZGRlMC00NjQ5LThjY2QtZGJjNDI1Y2VlN2U0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADUC5322.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Junior(𝗜𝗠𝗗𝗯 8.4 2025 ‧Drama ‧ 34m Director Radhakrishna Reddy| Writers Radhakrishna Reddy ‧ Kalyan Chakravarthy Tripuraneni| Stars Kireeti Reddy ‧ Genelia Deshmukh ‧ Sreeleela)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzM4MzU5ZGUtMWNmOS00MGYwLTk0MWItZTE4NzMzNzQyNGYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADPh5320.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Accused (𝗜𝗠𝗗𝗯 9.1 2025 ‧ Drama ‧ 2h 14m Director Prabhu Srinivas| Stars Udhaya ‧ Ajmal Ameer ‧ Yogi Babu)",
@@ -17014,7 +16636,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BN2Q2ZjdiYjgtNmFjYi00ZWFlLWIwYTQtNTIwMGMzMmExZjMwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADZx5314.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Shakthi Thirumagan (𝗜𝗠𝗗𝗯 7.4 2025 ‧ Action\\Drama\\Thriller ‧ 2h 38m Director Arun Prabhu Purushothaman| Writer Arun Prabhu Purushothaman| Stars Vinod Anand ‧ Vijay Antony ‧ Kannan Arunachalam)",
@@ -17035,21 +16657,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzY1NWUwOTYtMGIwMy00NmZhLThlYjYtOGQ1MmJjNTg1NDQ1XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADmx5308.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Dear Jeeva (𝗜𝗠𝗗𝗯 0.0 2025 ‧ Drama ‧ 1h 34m Director Prakash V Baskar| Writer Prakash V Baskar| Stars Trichy Saravana Kumar ‧ Manisha Jashnani ‧ Vikram Raja)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzVkZTYwYTQtOTkxNS00ODRmLWIwNmEtZDM3OGYxNTQzN2VlXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdS5306.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Maya Puthagam (𝗜𝗠𝗗𝗯 5.8 2024 ‧ Fantasy ‧ 2h 2m Director Rama Jayaprakash| Writer Rama Jayaprakash| Stars Srikanth ‧ Abarnathi ‧ Ashok Kumar Balakrishnan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYzc4MDM4NGMtYzczMC00ZGJjLTg4NmMtYWMwMjhlNzI0NDM4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXS5304.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mirage (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Drama ‧ 2h 30m Director Jeethu Joseph| Writers Srinivas Abrol ‧ Jeethu Joseph ‧ Aparna R. Tarakad| Stars Asif Ali ‧ Aparna Balamurali ‧ Hannah Reji Koshy)",
@@ -17063,14 +16685,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGJkNmNhMWMtMzNmYS00N2EzLTlhNjgtM2IyNTk2YzI5MTJmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADYh5300.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mudhal Pakkam (𝗜𝗠𝗗𝗯 5.9 2025 ‧ Drama ‧ 2h 4m Director Anish Ashraf| Writer Anish Ashraf| Stars Thambi Ramaiah ‧ Redin Kingsley ‧ Magesh Das)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/muthal-pakkam-et00455369-1753438414.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADWR5298.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thayyal Machine (𝗜𝗠𝗗𝗯 7.7 2024 ‧ Horror ‧ 1h 31m Director C.S. Vinayan| Writer Rakesh Krishnan G.| Stars Kichu Tellus ‧ Gayathri Suresh ‧ Prem Nair)",
@@ -17098,7 +16720,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzRhZmIxZDAtNGZiNi00Njc5LTljNjctOWYyMWY0N2Y3Y2ZjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADlx5268.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The Conjuring: Last Rites (𝗜𝗠𝗗𝗯 6.3 2025 ‧ Supernatural Horror\\Horror\\Mystery\\Thriller ‧ 2h 15m Director Michael Chaves| Writers Ian Goldberg ‧ Richard Naing ‧ David Leslie Johnson-McGoldrick| Stars Patrick Wilson ‧ Vera Farmiga ‧ Mia Tomlinson)",
@@ -17140,7 +16762,7 @@
     "logo": "https://m.media-amazon.com/images/S/pv-target-images/ddf1650b7ca5aacc5846ad46b4952631bd313e9be1ba49f02c595c3886a072e3.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7B5243.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "War 2 (𝗜𝗠𝗗𝗯 5.8 2025 ‧ Hindi\\Action Epic\\Globetrotting Adventure\\Spy\\Action\\Adventure\\Thriller ‧ 2h 50m Director Ayan Mukerji| Writers Aditya Chopra ‧ Shridhar Raghavan ‧ Abbas Tyrewala| Stars Hrithik Roshan ‧ N.T. Rama Rao Jr. ‧ Kiara Advani)",
@@ -17154,28 +16776,28 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTg3MDc2NWYtNjNhZS00ZmY2LTkxMWEtOTYwMjE3NTU4OGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVh5236.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Thiruk Kural (𝗜𝗠𝗗𝗯 5.5 2025 ‧ Biography ‧ 2h 18m Director A. Balakrishnan| Writer A. Balakrishnan| Stars Kalaicholan ‧ Kottachi ‧ Dhana Lakshmi)",
     "logo": "https://m.media-amazon.com/images/M/MV5BOTgwOGI3ODktMDc4MS00YjExLWJhOTktMDg0MjE5YThhODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADbi5234.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Janaka Aithe Ganaka (𝗜𝗠𝗗𝗯 8.5 2024 ‧ Drama ‧ 2h 18m Director Sandeep Reddy Bandla| Writer Sandeep Reddy Bandla| Stars Suhas ‧ Sangeerthana Vipin ‧ Vennela Kishore)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZmM4MmJjZjUtYTg2OS00MTRiLTg4YjYtYmE2NzFkMzVjZWI0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADgx5226.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gandhi Kannadi (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Action\\Drama\\Family ‧ 2h 9m Director Sherief| Writer Sherief| Stars Kpy Bala ‧ Amudhavaanan ‧ Aradhya)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNDBjZGQxYzktNjc1My00YmEwLWJkZjgtM2UxMmZhZDk5NmJjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADax.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Inspector Zende (𝗜𝗠𝗗𝗯 5.7 2025 ‧ Comedy\\Crime ‧ 1h 52mDirector Chinmay Mandlekar| Writer Chinmay Mandlekar| Stars Manoj Bajpayee ‧ Jim Sarbh ‧ Sachin Khedekar)",
@@ -17203,7 +16825,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTdiNWIwMzQtODk1My00OGVmLWE2YWEtNWJhNjdhMmIzOTU3XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOR5180.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Phoenix (𝗜𝗠𝗗𝗯 4.8 2025 ‧ Drama ‧ 1h 58m Director Anal Arasu| Writer Anal Arasu| Stars Devadarshini Chetan ‧ Dileepan ‧ Dilipan)",
@@ -17217,7 +16839,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTZkNWRjMDctY2FiZC00ZWFlLTk0NTgtYWYxODdiMDRlNGQ4XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVB5174.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Hriddayapoorvam (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Drama\\Romance ‧ 2h 32m director Sathyan Anthikad| Author Sonu TP ‧ Akhil Sathyan| Star Mohanlal ‧ Malavika Mohanan ‧ Basil Joseph)",
@@ -17238,7 +16860,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjAxMTRkMjItYmY4My00ZTYyLWE1N2ItMDRkYTIwN2UyMDk5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADPB5204.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Bakasura Restaurant (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Comedy ‧ 2h 38m Director SJ Shiva| Writers Sai Dhamari ‧ SJ Shiva| Stars Praveen ‧ Harsha Chemudu ‧ Ramya)",
@@ -17273,14 +16895,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZGJlNmY3NzctZDYwMC00NTE0LWJmZTMtMzllNmRmYzJmZDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADMg5134.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Vembu (𝗜𝗠𝗗𝗯 8.8 2025 ‧ Drama ‧ 2h 2m    Director Justin Prabu| Writer Justin Prabu| Stars Hari Krishnan ‧ Sheela Rajkumar)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZDQ3YmQxNzItNDc3Mi00NzJjLWI2YjktNmQ3YTUwODI3MGNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD0h5200.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Paradha (𝗜𝗠𝗗𝗯 5.9 2025 ‧ Drama ‧ 2h 25m Director Praveen Kandregula| Writers Poojitha Sreekanti ‧ Krishna Prathyusha ‧ Prahaas Boppudi| Stars Anupama Parameswaran ‧ Darshana Rajendran ‧ Sangeetha)",
@@ -17294,7 +16916,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTQxYjI5ZTYtNWJmMy00Mjk4LTk0NTYtNmRjOGFlYTM5YzVkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD9x5119.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Meesha (𝗜𝗠𝗗𝗯 7.3 2025 ‧ Drama ‧ 2h 11m Director Emcy Joseph| Writer Emcy Joseph| Stars Hasli Amaan ‧ Jeo Baby ‧ Shine Tom Chacko)",
@@ -17315,7 +16937,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/coolie-et00395817-1755153511.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADNB.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Enai Sudum Pani (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Crime\\Thriller ‧ 2h Director Ram Sevaa| Writer Ram Sevaa| Stars Nataraj Sundarraj ‧ Bhagyaraj ‧ Upasana RC)",
@@ -17336,14 +16958,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTJmM2RlYmUtMzVhMC00NmJiLWFiMmQtZjViMGQ4MTFjZWNiXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADgh.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The 100 (𝗜𝗠𝗗𝗯 7.6 2025 ‧ Action ‧ 2h 15m Director Raghav Omkar Sasidhar| Writers Sudheer Varma P. ‧ Raghav Omkar Sasidhar| Stars Anand ‧ Balakrishna ‧ Dhanya Balakrishna)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZTNiNWY0YWEtMjg1NS00MmI0LTkzMTEtMWJiMDNhMTRlNTdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADPR5090.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mission: Impossible - The Final Reckoning (𝗜𝗠𝗗𝗯 7.3 2025 ‧ Action Epic\\Adventure Epic\\Spy\\Action\\Thriller ‧ 2h 49m Director Christopher McQuarrie| Writers Bruce Geller ‧ Christopher McQuarrie ‧ Erik Jendresen| Stars Tom Cruise ‧ Hayley Atwell ‧ Ving Rhames)",
@@ -17371,7 +16993,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMDczOWE3N2QtMmE1Ni00Yjk4LWI4Y2YtM2YwMmY0YTczY2M0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD_B5075.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Maareesan (𝗜𝗠𝗗𝗯 7.9 2025 ‧ Comedy\\Drama\\Thriller ‧ 2h 30m Director Sudheesh Sankar| Writers Krishna Moorthy ‧ V Krishna Moorthy| Stars Fahadh Faasil ‧ Vadivelu ‧ Sithara)",
@@ -17413,14 +17035,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZDE1NTExNDctZGY5Mi00NTM2LWFmYzUtOTk0YTdkZTI3M2M5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADZi5051.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Akkenam (𝗜𝗠𝗗𝗯 6.0 2025 ‧ Drama ‧ 2h 11m Director Uday K| Writers Saravana Kumar ‧ Uday K| Stars Keerthi Pandian ‧ Arun Pandian ‧ Ramesh Thilak)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZTk1M2Y2M2EtYjQ2Mi00YTYwLThkZjgtYWQ2ZDJkZDY5MTdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOB5049.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "J.S.K - Janaki V v/s State of Kerala (𝗜𝗠𝗗𝗯 6.3 2025 ‧ Action\\Drama\\Thriller ‧ 2h 34m Director Pravin Narayanan| Writer Pravin Narayanan| Stars Suresh Gopi ‧ Anupama Parameswaran ‧ Divya Pillai)",
@@ -17455,7 +17077,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmY4NDRiZDMtODZmYS00MTdmLWIwYTYtZmUzODgxOWMzMjNkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADQR5023.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Oho Enthan Baby (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama ‧ 2h 10m Director Krishnakumar Ramakumar| Writers Mukesh Manjunath ‧ Sharada Subramanian| Stars Sujatha Babu ‧ Geetha Kailasam ‧ Karunakaran)",
@@ -17469,21 +17091,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTEzMDUxMjgtNjI1Mi00MzQ5LWJlZTQtYjA4MjZlNWY5MmU5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADmR5013.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Edattam (𝗜𝗠𝗗𝗯 9.6 2025 ‧ Drama ‧ 1h 46m Director Esan| Writer Gajabathi| Stars Anukrishna ‧ Sree Kumar ‧ Powerstar Srinivasan)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMjFjMzYwMWItNzU5ZS00OGVhLWFmMDQtMTVkZjk3Yjc1YzAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADYx5008.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Show Time (𝗜𝗠𝗗𝗯 5.1 2025 ‧ Drama ‧ 1h 46m Director Madhan Dakshinamurthy| Writer Srinivas Gavireddy| Stars Kamakshi Bhaskarla ‧ Naveen Chandra ‧ V.K. Naresh)",
     "logo": "https://m.media-amazon.com/images/M/MV5BY2RjZGZlZTktZmZjOC00ZjZhLTgzYTYtM2UxZmQ0MjU3NzgwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVB5006.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Paranthu Po (𝗜𝗠𝗗𝗯 8.7 2025 ‧ Comedy ‧ 2h 20m Director Ram| Writer Ram| Stars Shiva ‧ Grace Antony ‧ Anjali)",
@@ -17511,7 +17133,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDY3MjNlMjEtZDQ0Yi00YWVhLWFlNTQtOTdhYjc3MzI5N2VkXkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD9x4994.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sitaare Zameen Par (𝗜𝗠𝗗𝗯 7.1 2025 ‧ Basketball/Comedy/Drama/Sport ‧ 2h 35m Director R.S. Prasanna| Writer Divy Nidhi Sharma| Stars Aamir Khan ‧ Genelia Deshmukh ‧ Aroush Datta)",
@@ -17560,21 +17182,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BM2E5NzIyNjAtNjM5NS00ZmIzLTlkYzItODYzZTZkZGQzN2U0XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADBB4973.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Mrs & Mr (𝗜𝗠𝗗𝗯 2.7 2025 ‧ Draman ‧ 2h 21m Director Vanitha Vijayakumar| Writer Vanitha Vijayakumar| Stars Aarthin ‧ Ganeshkarn ‧ Damodharan K.)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZjUxOTFiOWYtM2U5Ni00MTM1LWE0YzctNjVjNTc3YjIwYTljXkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADoR4971.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "DNA (𝗜𝗠𝗗𝗯 7.0 2025n ‧ Draman ‧ 2h 20m Director Nelson Venkatesan| Writers Nelson Venkatesan ‧ Athisha Vino| Stars Nimisha Sajayan ‧ Atharvaa Murali ‧ Ramesh Thilak)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMGVkNDBhOTAtOTdmYi00MGEyLTg2ZDktYTdhYzIzNDUyZDAzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD2x4969.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kuberaa (𝗜𝗠𝗗𝗯 7.0 2025 ‧ Drama\\Theriller\\Crime\\Action\\Political Thriller ‧ 3h 1m Director Sekhar Kammula| Writers Sekhar Kammula ‧ Chaithanya Pingali| Stars Dhanush ‧ Rashmika Mandanna ‧ Bagavathi Perumal)",
@@ -17588,14 +17210,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/racharikam-et00428409-1736413072.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADvB4927.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Khali Purse of Billionaires (𝗜𝗠𝗗𝗯 2.8 2023 ‧ Comedy ‧ 2h 3m Director Maxwell Jose| Stars Dhyan Sreenivasan ‧ Aju Varghese ‧ Tanvi Ram)",
     "logo": "https://sund-images.sunnxt.com/161400/1000x1000_KhalipurseOfBillionaires_161400_d090a89b-53d8-4442-9e74-7ccbffcddf33.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADdB4925.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Manidhargal (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Drama\\Thriller ‧ 2h 6m Director Raam Indhra| Writer Raam Indhra| Stars Dasha ‧ Gunavanthan Guna ‧ M.K.Sambasivam)",
@@ -17623,7 +17245,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZDA2YTQyY2YtNGNiMC00MTUwLWI4NDEtZmE3M2JlZmM0NGZmXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD-x4909.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chennai City Gangsters (𝗜𝗠𝗗𝗯 5.7 2025 ‧ Drama\\Comedy ‧ 2h 8m Directors Arun Keshav ‧ Vikram Rajeshwar| Writers Arun Keshav ‧ Vikram Rajeshwar| Stars Anandraj ‧ Shihan Hussaini ‧ Ilavarasu)",
@@ -17637,7 +17259,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/narivetta-et00443661-1747841383.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADex4905.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "FireFly (𝗜𝗠𝗗𝗯 7.4 2025 ‧ Drama ‧ 2h 13m Director Vamshi Krishna| Writers Vamshi Krishna ‧ Raghu Niduvalli| Stars Rachana Inder ‧ Vamshi Krishna ‧ Achyuth Kumar)",
@@ -17651,28 +17273,28 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWU5MzU1NTAtNjRhNS00NDJlLWE5ODUtNzM5ZjRlNzkyOWJhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADcx4892.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Moonwalk (𝗜𝗠𝗗𝗯 7.9 2025 ‧ Musical ‧ 1h 58m Director A.K. Vinod| Writers Sunil Gopalakrishnan ‧ Mathew Varghis ‧ A.K. Vinod| Stars AkhilSamVijay ‧ Anunath ‧ Appu Ashary)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/moonwalk-et00445586-1748844270.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADlR4890.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Karate Kid: Legends (𝗜𝗠𝗗𝗯 6.6 2025 ‧ Coming-Of-Age\\Drama\\Family\\Sport\\Teen Drama\\Action\\Martial Arts ‧ 1h 34min Director Jonathan Entwistle| Writers Rob Lieber ‧ Robert Mark Kamen| Stars Jackie Chan ‧ Ben Wang ‧ Joshua Jackson)",
     "logo": "https://m.media-amazon.com/images/M/MV5BY2YyOTg2MTUtZmY2Ny00ZTkzLWEzZDktMGNjOTMwZTM1ZDEzXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADDx4888.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Paramasivan Fathima (𝗜𝗠𝗗𝗯 7.6 2025 ‧ Drama ‧ 2h 23m Directors Esakki Karvannan ‧ Muthuramalingam ‧ Sakthi Selvaraj| Writer Esakki Karvannan| Stars Aruldoss ‧ Athira ‧ M.S. Bhaskar)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNjVkNzRkY2UtZTJiNi00MTMwLTk2YzYtNDFkZDg5NmUxMzViXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADSx4874.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madras Matinee (𝗜𝗠𝗗𝗯 8.9 2025 ‧ Drama ‧ 2h 15m Director Karthikeyan Mani Writer Karthikeyan Mani| Stars Kaali Venkat ‧ Sathyaraj ‧ Roshini Haripriyan)",
@@ -17693,21 +17315,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWU2ZGM2MjQtYjY0Ny00NzBjLThkNWQtZmM5YTk2NzI3Mzc2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADcx4868.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mazaka (𝗜𝗠𝗗𝗯 5.1 2025 ‧ Comedy ‧ 2h 8m Director Trinadha Rao Nakkina| Writers Prasanna Kumar Bezawada ‧ Sai Krishna| Stars Sundeep Kishan ‧ Ritu Varma ‧ Murli Sharma)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMTU4ZDhlZjEtOTY2Ni00N2M1LWFhMTUtNGRlNmU5N2YxN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADOi4857.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ambi (𝗜𝗠𝗗𝗯 5.2 2025 ‧ Drama ‧ 2h 7m Director Bosser J Elvin| Writers Mimicry Bhaskar ‧ Bosser ‧ Bosser J Elvin| Stars Aarti ‧ Imman Annachi ‧ Kovai Babu)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNDU0NjE4ZWYtOWJjMC00NmFiLTlkNTItNjYwZDQ2NGIyY2Y2XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7x4848.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Azadi (𝗜𝗠𝗗𝗯 7.5 2025 ‧ Action ‧ 2h 9m Director Joe George| Writer Sagar Hari| Stars Lal ‧ Sreenath Bhasi ‧ Vani Viswanath)",
@@ -17721,7 +17343,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZWNhYzgwMjUtM2E3NC00ODg4LTg3YjQtZDQyZDg5NmQ4YzZhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADPx4830.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Kaliyugam 2064 (𝗜𝗠𝗗𝗯 8.2 2025 ‧ Thriller\\Conspiracy Thriller ‧ 1h 51m Director Pramodh Sundar| Writers Aathreya ‧ Karthik Gunasekaran ‧ Karkavi| Stars Harry ‧ Master Ronith ‧ Asmal)",
@@ -17756,14 +17378,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMTRlMjkwZjQtMGIwOC00OWFmLTk5OWMtMmY1NWYxOGVkYjFkXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/685383ada8ca7d9b10f21c10.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Blind Spot (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Crime\\Mystery ‧ 1h 31m Director Rakesh Varma| Writer Rakesh Varma| Stars Naveen Chandra ‧ Rashi Singh ‧ Ali Reza)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/blind-spot-et00444619-1746420151.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/684c14716019a0a964492da4.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Subham (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Comedy\\Horror ‧ 2h 5m Director Praveen Kandregula| Writer Vasanth Maringanti| Stars Vamshidhar Goud ‧ Shalini Kondepudi ‧ Shriya Kontham)",
@@ -17777,7 +17399,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzNkMGU4YzYtNTY1MC00MmIzLWI0ZjctMzhlMzYwZjQ3MjZjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVh4800.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ace (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Heist\\Action\\Comedy\\Crime\\Romance ‧ 2h 37min Director P. Aarumugakumar| Writers P. Aarumugakumar| Stars Husari Aqil ‧ B.S. Avinash ‧ Yogi Babu)",
@@ -17791,14 +17413,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzE3ODQyZmItMmQ1NC00NjA1LTllMGEtYTRmNTFhZmY2NTM3XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD0x4795.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Padakkalam (𝗜𝗠𝗗𝗯 7.7 2025 ‧ Comedy ‧ 2h 4m Director Manu Swaraj| Writers Nithin C Babu ‧ Manu Swaraj| Stars Arun Ajikumar ‧ Niranjana Anoop ‧ Saaf Bros)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYTBiN2NhNTEtOTg2MS00NjljLWE3ZGUtZDNlMzMyMjA4ODI1XkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADNR4790.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manada Kadalu (𝗜𝗠𝗗𝗯 8.5 2025 ‧ Romance ‧ 2h 34m Director Yograj Bhat| Writer Yograj Bhat| Stars Sumukha ‧ Dattanna ‧ Rangayana Raghu)",
@@ -17812,7 +17434,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzhjZmVlMmQtNmY5NC00N2RjLTkxOWEtNTM2MjNmNzgzYjYxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADiR4786.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#Single (𝗜𝗠𝗗𝗯 6.8 2025 ‧ Romance ‧ 2h 9m Director Caarthick Raju| Writers Bhanu Bhogavarapu ‧ Caarthick Raju ‧ Nandu Savirigana| Stars VTV Ganesh ‧ Ivana ‧ Kalpalatha)",
@@ -17833,14 +17455,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjY4OTVlYjQtNzhjOC00NWI4LWExMzMtZmI4MzYyZDQ0ZDkxXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgAD7h4780.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nizharkudai (𝗜𝗠𝗗𝗯 9.8 2025 ‧ Drama ‧ 2h 5m Director Shiva Arumugam| Writer Shiva Arumugam| Stars Devayan ‧ iIlavarasu ‧ Manoj Kumar)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNzFkMjM2ZmItNzYzYi00YjRmLTgwMjItZDRlYTQwNDg2MTMwXkEyXkFqcGc@._V1.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADVC4776.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thudarum (𝗜𝗠𝗗𝗯 8.1 2025 ‧ Drama ‧ 2h 43m Director Tharun Moorthy| Writers Tharun Moorthy ‧ K.R. Sunil| Stars Mohanlal ‧ Shobana ‧ Bharathiraja)",
@@ -17896,14 +17518,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMmEyYzY4NGYtMDU0Ny00YTExLWE4MGMtMmM4OGRhMDc5NjNjXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADXR4758.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bayamariya Brammai (𝗜𝗠𝗗𝗯 7.6 2024 ‧ Crime\\Drama ‧ 1h 28m Director Rahul Kabali| Writer Rahul Kabali| Stars AK ‧ Divya Ganesh ‧ Harish)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/bayamariya-brammai-et00401991-1718778001.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/AgADsR4756.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Rakshana (𝗜𝗠𝗗𝗯 5.5 2024 ‧ Crime\\Mystery\\Thriller ‧ 2h 19m Director Prandeep Thakore| Writer Thayanidhy Sivakumar| Stars Vinod Bala ‧ Rajeev Kanakala ‧ Maanas Nagulapalli)",
@@ -17917,7 +17539,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzU0OTRmMDYtZDEyZS00MTE0LWJmZjgtNDY5M2E3NzI1MDM5XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADwx4702.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tourist Family (𝗜𝗠𝗗𝗯 8.6 2025 ‧ Comedy\\Drama ‧ 2h 30m Director Abishan Jeevinth| Writer Abishan Jeevinth| Stars Yogi Babu ‧ M.S. Bhaskar ‧ Kamalesh)",
@@ -17931,14 +17553,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNDcyYTg2N2EtMWM1MC00YzdjLWE1MWMtZDc3MzA2MDExMjM3XkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADph4700.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Manamey (𝗜𝗠𝗗𝗯 5.3 2024 ‧ Comedy ‧ 2h 35m Director Sriram Adittya| Writers Sriram Adittya ‧ Carthyk-Arjun ‧ Venkat D. Pati| Stars Vikram Aditya ‧ Adith Arun ‧ Tanikella Bharani)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/manamey-et00391258-1717671295.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADyh4698.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ka.Mu - Ka.Pi (𝗜𝗠𝗗𝗯 8.0 2025 ‧ Drama ‧ 1h 30m Director Pushpanathan Arumugam| Writer Pushpanathan Arumugam| Stars Niranjan ‧ Priyadharshini ‧ Vignesh Ravi)",
@@ -17952,14 +17574,14 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/the-door-et00439075-1742797607.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADXR4694.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nesippaya (𝗜𝗠𝗗𝗯 7.3 2025 ‧ Romance ‧ 2h 24m Director Vishnuvardhan| Writers Sekar Neelan ‧ Vishnuvardhan| Stars Kalki Koechlin ‧ Aditi Shankar ‧ R. Sarathkumar)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/nesippaya-et00428294-1736329564.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADKR4673.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Gangers (𝗜𝗠𝗗𝗯 6.0 2025 ‧ Parody\\Action\\Comedy\\Adventure ‧ 2h 38m Director Sundar C.| Writers Sundar C. ‧ Venkat Raghavan| Stars Sundar C. ‧ Vadivelu ‧ Aruldoss)",
@@ -18057,7 +17679,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjBkZmI5NWUtOGQxZS00MzgxLThkOGEtZmMwZDY0ZGM2OWUyXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/6812d3faf5f877f8e79ca51b.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Tharunam (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Romance\\Thriller ‧ 2h 16m Director Arvindh Srinivasan| Writer Arvindh Srinivasan| Stars Raj Ayyappa ‧ Geetha Kailasam ‧ Bala Saravanan)",
@@ -18218,7 +17840,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTU3YTNlMGUtMmFkYy00M2FmLWI1NzctMGY5MWY3NzU3ODk1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADER4482.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "L2: Empuraan (𝗜𝗠𝗗𝗯 6.5 2025 ‧ Action\\Action Epic\\Crime\\Thriller ‧ 2h 59m Director Prithviraj Sukumaran| Writer Murali Gopy| Stars Mohanlal ‧ Prithviraj Sukumaran ‧ Rick Yune)",
@@ -18239,7 +17861,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMjMxYzVlMDktNTRmZi00NzJlLWIwNjYtNjJhZjBjMmNkMjk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADUR4476.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kingston (𝗜𝗠𝗗𝗯 4.4 2025 ‧ Drama ‧ 2h 19m Director Kamal Prakash| Writers Kamal Prakash ‧ Dhivek S Sekar| Stars Divya Bharathi ‧ G.V. Prakash Kumar ‧ Arunachaleshwaran)",
@@ -18281,7 +17903,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNmQ1MmZiZWYtMDUxZS00YjRhLWE4ZmItNWFkMWJmYzgwNjQwXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/movie/AgADDR4364.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kappu Bilupina Naduve (𝗜𝗠𝗗𝗯 8.9 2024 ‧ Drama ‧ 2h 16m Director Vasanth Vishnu| Writer Vasanth Vishnu| Stars Vaijanath Biradar ‧ Vidhyashree Gowda ‧ Sharath Lohitashwa)",
@@ -18526,7 +18148,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BY2MxN2QxZjYtZWE0My00MTI1LWIyMGQtZDU4MjI0NDAxN2RhXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/679cc4a4645a5969fa29d406.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Madha Gaja Raja (𝗜𝗠𝗗𝗯 6.2 2025 ‧ Action\\Comedy ‧ 2h 26m Director Sundar C.| Writers Sundar C. ‧ Venkat Raghavan| Stars Vishal ‧ Anjali ‧ Varalaxmi Sarathkumar)",
@@ -18757,7 +18379,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTcyYjczMjUtNjdjZS00ZjAwLTkzMzEtYjhkNDhiZmE1M2RlXkEyXkFqcGc@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/6752f67e56d92efd7494e4e0.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sir (𝗜𝗠𝗗𝗯 8.7 2024 ‧ Thriller ‧ 2h 12m Director Bose Venkat| Writers Suguna Diwakar ‧ Bose Venkat| Stars Vimal ‧ Saravanan ‧ Siraj S)",
@@ -19030,7 +18652,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYjA0ZmIyNzgtOWRmZS00MzhhLWIyNTMtYzg5MTFlMjI0NjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/670d1f18d600568d06697a6f.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "#AAY (𝗜𝗠𝗗𝗯 6.5 2024 ‧ Comedy ‧ 2h 22m Director Kanchipally Anji Babu |Writer Kanchipally Anji Babu |Stars Ankith Koyya ‧ Narne Nithiin ‧ Srivani Tripuraneni)",
@@ -21459,7 +21081,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMGQ4YTBiNTctM2MzYi00ZmM2LWJkYTUtMDg0ZWJiZjdmMjllXkEyXkFqcGc@._V1.jpg",
     "group": "Web series 🍿 | Sattamum Needhiyum",
     "link": "https://bq32.short.gy/AgADOB4937.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S01 EP07 • Sattamum Needhiyum (𝗜𝗠𝗗𝗯 8.4  2025 ‧ Drama\\Thriller ‧ Stars Saravanan ‧ Namritha Mv ‧ Aroul D. Shankar)",
@@ -21557,7 +21179,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Rana Naidu",
     "link": "https://bq32.short.gy/series/AgADdx4813.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "S02 EP02 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\\Action\\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)",
@@ -32001,7 +31623,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-17-2026-01_59_14-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fkrntv%2Fkrntvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Me 24 Tamil",
@@ -32470,7 +32092,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-10_18_02-PM-1.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fplay.applelive.in%2Fjctv%2Fjctv.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kumari Kathir TV",
@@ -32533,7 +32155,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_30_06-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fnellaitv%2Fsuriyatv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thillai TV",
@@ -32589,7 +32211,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_54_00-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.thendralcloud.in%2Fganeshtvlive%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Boys TV",
@@ -32855,7 +32477,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-3-2025-09_55_35-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.applelive.in%2Fprimetv%2Fprimetv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "MP TV",
@@ -33212,7 +32834,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Mar-2-2026-12_10_18-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.sscloud7.in%2Fisaihd%2Fisaihd%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Darshan TV",
@@ -33331,7 +32953,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_46_18-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fmtv%2Fmenhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Aadvik TV",
@@ -33492,7 +33114,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_14_44-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fanbutv%2Fanbutvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Nellai TV",
@@ -33527,7 +33149,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-28-2026-10_13_51-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fkarthick%2Fkarthicktvhd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jeevan TV &#8211; JBTV",
@@ -33814,7 +33436,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-11-2026-10_42_46-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv%2Fplaylist%2Famg01911-mangomassmedia-mangotv-xiaomiin%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Studio Yuva",
@@ -33905,7 +33527,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_17_00-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMastiMusic%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "BCT Movies",
@@ -34367,7 +33989,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_25_57-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBathukammaTV%2Fvideo.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tirumala HD",
@@ -34766,7 +34388,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-10_03_38-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Fcabletandur%2Fcabletandur.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Mahaa Bhakti",
@@ -35032,7 +34654,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-07_51_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.logichost.in%2FNTV%2Flive%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Drisya",
@@ -35081,7 +34703,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-22-2025-07_54_37-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.skystream.in%2Flive%2Ftcn8909%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "K7 Keralam",
@@ -35123,7 +34745,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-06_39_45-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.skystream.in%2Flive%2Fnewvision2924%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "City Channel Kasargod",
@@ -35347,7 +34969,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-8-2026-04_18_52-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.logichost.in%2Fkannurvision%2Flive%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "VCV Vadakkanchery",
@@ -35459,7 +35081,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_32_56-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.onecloudlive.in%2Fnvision%2Fnvisionmusic%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Koickal News",
