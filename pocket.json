@@ -550,14 +550,14 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png",
     "group": "English",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?name=Movies_Now_HD&keyId=40f019b86241d23ef075633fd7f1e927&key=058dec845bd340178a388edd104a015e",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MN+ HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png",
     "group": "English",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?name=MN+_HD&keyId=40f019b86241d23ef075633fd7f1e927&key=058dec845bd340178a388edd104a015e",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MNX HD",
@@ -571,7 +571,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",
     "group": "English",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?name=Romedy_Now&keyId=40f019b86241d23ef075633fd7f1e927&key=058dec845bd340178a388edd104a015e",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Star Sports 1 HD",
