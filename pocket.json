@@ -1012,7 +1012,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd?name=ZOOM&keyId=86edec9e3b7d4042a4d4a1ca14f847ee&key=9def4315f0004019a3705bcb3cf30ca3",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Desi Music Station",
@@ -6752,7 +6752,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd?name=Zing&keyId=f0fb14eebe474a6ab74c8301d55a7224&key=f9f8b2e30704458b8db844a285ce32be",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "News18 Gujarati",
