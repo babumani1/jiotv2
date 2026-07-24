@@ -1661,7 +1661,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png",
     "group": "Gujarati",
     "link": "https://joplay.lrl45.workers.dev/643",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "NTV",
@@ -1685,7 +1685,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",
     "group": "Malayalam",
     "link": "https://joplay.lrl45.workers.dev/648",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Raj News Malayalam",
@@ -1733,7 +1733,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News18PunjabHaryana.png",
     "group": "News",
     "link": "https://joplay.lrl45.workers.dev/655",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "News 9",
