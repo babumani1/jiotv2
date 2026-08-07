@@ -125,7 +125,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
     "group": "Movies",
     "link": "https://joplay.lrl45.workers.dev/182",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "B4U Music",
@@ -4157,7 +4157,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png",
     "group": "English",
     "link": "https://joplay.lrl45.workers.dev/1192",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Hare Krsna Music",
