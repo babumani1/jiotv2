@@ -1274,6 +1274,34 @@
     "status": "offline"
   },
   {
+    "name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2037139%2FGolf_DPW1610%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1792182693~acl%3D%2F*~id%3D80809557348682417208658580135215~hmac%3D03a8bcd02c915bb47261f23c063dd95918628257eb7b990e9f3ae89718f11184",
+    "status": "offline"
+  },
+  {
+    "name": "SJM Macao Open - Day 2 - 16 Oct 2026 [ENG]",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2120299%2FGolf_SJM1610%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1792182693~acl%3D%2F*~id%3D80809557348682417208658580135215~hmac%3D03a8bcd02c915bb47261f23c063dd95918628257eb7b990e9f3ae89718f11184",
+    "status": "offline"
+  },
+  {
+    "name": "ENGLISH - TSV Malmsheim vs Koln CC",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fin-mc-flive.fancode.com%2Fmumbai%2F4250221_english_hls_71c004ccba91429_1ta-di_h264%2F1080p.m3u8%3Fhdntl%3DExpires%3D1792224976~_GO%3DGenerated~acl%3D%2Fmumbai%2F4250221_english_hls_71c004ccba91429_1ta-di_h264%2F*~SessionID%3Dfc-app_sportsguruand_watcho_3fd71288-1d84-4d~Signature%3DAZJsJWZEolWBROjK56E6SxESEEdvbo63QKbQei4x3vbvfKfuG241V-yhiibTkUr-XNVYrBWkB4R5zd2DpBDaKmQ6u_4K",
+    "status": "offline"
+  },
+  {
+    "name": "ENGLISH - World Feed",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+    "group": "⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",
+    "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fin-mc-flive.fancode.com%2Fmumbai%2F4248845_english_hls_929e386bb09848_1ta-di_h264%2F1080p.m3u8%3Fhdntl%3DExpires%3D1792218917~_GO%3DGenerated~acl%3D%2Fmumbai%2F4248845_english_hls_929e386bb09848_1ta-di_h264%2F*~SessionID%3Dfc-app_sportsguruand_watcho_8d0bb8e5-0ef4-42~Signature%3DAZJsJWYx0E1ybIJt7hWXPC9Io5q7VXiYDUvx_Dr-ZG8V8xFUAcExuqZarSBMeZkkEQv21ZzBE-HNAApoDzpvPbtFp-0I",
+    "status": "offline"
+  },
+  {
     "name": "NB News",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png",
     "group": "JIO ⭕|Assamese",
@@ -10833,7 +10861,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/engal-thangam-et00503241-1781511008.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://tentkotta.short.gy/AgAEGw6507.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Ek Din (𝗜𝗠𝗗𝗕 5.9 2026 ‧ Drama\\Romance ‧ 2h 5m Director Sunil Pandey| Writers Sneha Desai ‧ Spandan Mishra| Stars Sai Pallavi ‧ Junaid Khan ‧ Ojaswi Bhattarai)",
@@ -16776,7 +16804,7 @@
     "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx6Uw7zzleGAtK-heQSKs4oAX-4iPYAkdtSrEMecRFpjeIOcry",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f4ab96fd97485be239c.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Are You Ok Baby? (2023 ‧ Crime\\Drama\\Family ‧ 1h 53m Director Lakshmy Ramakrishnan| Writer Lakshmy Ramakrishnan| Stars Samuthirakani ‧ Abhirami ‧ Mullai Arasi)",
@@ -20976,7 +21004,7 @@
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/2854/1712840152854-v",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/6653fb1cb96fd97485be20f2.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Gaami (2024 ‧ Adventure\\Drama\\Thriller ‧ 2h 27m Director Vidyadhar Kagita| Writers Vidyadhar Kagita ‧ Pratyush Vatyam| Stars Vishwak Sen ‧ Abhinaya ‧ Rajiv Kumar Aneja)",
@@ -21004,7 +21032,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZmI0MjNlNzktZTM0Mi00YjZjLWI1ZDItZDI1ODZlZTJlMTIzXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/6653fb1cb96fd97485be20ec.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Munthirikkaadu (2023 ‧ Action ‧ 2h 38m Director Mu.Kalanchiyam| Writer Imaiyam| Stars Subhapriya Malar ‧ Pugal Mahendran ‧ Seeman)",
@@ -21116,7 +21144,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNWYxMWFmNmUtYzgzNy00NWYzLThlZDktN2I1ODAyMDhkMWI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY1080_CR13,0,720,1080_AL_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66541d41b96fd97485be21cc.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Vithaikkaran (2024 ‧ Drama\\Comedy ‧ 2h 8m Director Venki| Writer Venki| Stars John Vijay ‧ Sathish ‧ Anandraj)",
@@ -21130,21 +21158,21 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/abraham-ozler-et00382570-1704373027.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66541d41b96fd97485be21c7.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Parivarthanai (2023 ‧ Drama ‧ 1h 47m Directed by  S. Manibharathi |Starring Smeha ‧ Surjith ‧ Divya Sridhar)",
     "logo": "https://i.postimg.cc/9Mn6hVQZ/Fo6-OTufa-AAAjf9-Q-md.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665426acb96fd97485be2206.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "0",
     "logo": "https://m.media-amazon.com/images/M/MV5BNTNiZDUwYmYtNTY5ZC00ZTRlLWJhODAtOThmMjM2MTUwNWVhXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL10_UY1080_CR18,0,720,1080_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66541d41b96fd97485be21cd.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bramayugam (2024 ‧ Horror/Thriller ‧ 2h 19m Director Rahul Sadasivan| Writers Rahul Sadasivan ‧ T.D. Ramakrishnan| Stars Mammootty ‧ Arjun Ashokan ‧ Sidharth Bharathan)",
@@ -21165,7 +21193,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/mission-chapter-1-et00382276-1710326350.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66542917b96fd97485be2214.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "To Kill a Tiger (2022 ‧ Documentary ‧ 2h 8m Director Nisha Pahuja| Writer Nisha Pahuja)",
@@ -21256,14 +21284,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTg3ZGVhODgtMzM5ZS00NDIxLWExNzUtNGFmMjRkNGE0MjVhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66544146b96fd97485be2258.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Queen Aamy Neermathalam Poothakaalam (2019 ‧ Romance\\Drama ‧ 2h 25m Director A.R. Amal Kannan| Writers A.R. Amal Kannan ‧ Anaz Nazeer Khan| Stars Dona Maria Anthraper ‧ Arun Chandran ‧ Sphadikam George)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMTJmYjY2MDAtODhkNS00NzcwLWIyNzMtYTYxMDBmNjQzYWJiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66544145b96fd97485be2253.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Enaku Endey Kidaiyaathu (2023 ‧ Drama ‧ 1h 44m Director Vikram Ramesh| Writer Vikram Ramesh| Stars Vikram Ramesh ‧ Karthik Venkatraman ‧ Shivakumar Raju)",
@@ -21277,14 +21305,14 @@
     "logo": "https://i.postimg.cc/WzQf85KG/maxresdefault.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66544145b96fd97485be224f.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Blue Star (2024 ‧ Comedy\\Drama\\Sport ‧ 2h 46m Director S. Jayakumar| Writers S. Jayakumar ‧ Tamizh Prabha| Stars Ashok Selvan ‧ Keerthi Pandian ‧ Dhivya Dhuraisamy)",
     "logo": "https://m.media-amazon.com/images/M/MV5BYjJmYzRjOTktNTljYy00MjRiLWI2NmUtN2Y1YzkyNjdjZDBjXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66544145b96fd97485be2252.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Hitler (2021 ‧ Action\\Crime ‧ 1h 48m Director Kinnal Raj| Writer Kinnal Raj| Stars Balarajwadi ‧ Vijay Chendoor ‧ Arjun Itagi)",
@@ -21305,7 +21333,7 @@
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/therkathi-veeran-et00345846-1669954448.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665452dab96fd97485be22c0.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Local Sarakku (2024 ‧ Comedy ‧ 2h 13m Director S.P. Rajkumar| Writer S.P. Rajkumar| Stars Imman Annachi ‧ Yogi Babu ‧ Charms)",
@@ -21396,35 +21424,35 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BZjVhMjVjZDctYTk2Yy00MDUyLTg2OGUtNWExMGE4MmYyNjRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY1080_CR18,0,720,1080_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665457dab96fd97485be22f5.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Irumban (2023 ‧ Drama ‧ 2h 12m Director Keera| Writer Keera| Stars Junior MGR ‧ Aishwarya Dutta ‧ Yogi Babu)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/irumban-et00354474-1678690656.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665457dab96fd97485be22f3.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Aayiram Porkasugal (2023 ‧ Comedy\\Romance ‧ 2h 5m Director Ravi Murukaya| Stars Vidharth ‧ George Maryan ‧ Saravanan)",
     "logo": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/aayiram-porkaasukal-et00380496-1703079788.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665457dab96fd97485be22f6.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Queen Elizabeth (2023 ‧ Comedy\\Drama\\Family ‧ 1h 59m Director M. Padmakumar| Writer Arjun T. Sathyan| Stars Shweta Menon ‧ V.K. Prakash ‧ Jude Anthany Joseph)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNmIxMjk1ZGYtMzUyZi00MDdlLWJiYmEtOGE5NjIzN2U0MGM2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665457dab96fd97485be22f0.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Har Har Mahadev (2022 ‧ Action\\Drama\\War ‧ 2h 41m Director Abhijeet Shirish Deshpande| Writers Prajakt Deshmukh ‧ Abhijeet Shirish Deshpande| Stars Sharad Kelkar ‧ Subodh Bhave ‧ Yogesh Jadhav)",
     "logo": "https://m.media-amazon.com/images/M/MV5BZmFkNDRlNTEtNzU3Yy00OGE4LTk3OGQtZTkxMTAwNDExZjM5XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665457d9b96fd97485be22ee.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Atharva (2023 ‧ Crime\\Drama\\Thriller ‧ 1h 56m Director Mahesh Reddy| Writer Mahesh Reddy| Stars Karthik Raju ‧ Simran Choudhary ‧ Arvind Krishna)",
@@ -21445,7 +21473,7 @@
     "logo": "https://cdn.gulte.com/wp-content/uploads/2024/02/Guntur-Kaaram.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66545d6ab96fd97485be2322.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Captain Miller (2024 ‧ Action\\Adventure\\Drama ‧ 2h 37m Director Arun Matheswaran| Writers Arunraja Kamaraj ‧ Madhan Karky ‧ Arun Matheswaran| Stars Dhanush ‧ John Kokken ‧ Antony)",
@@ -21480,7 +21508,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOWJmZmI1YjAtMjc1Yi00MmI4LTgzMzctZjdhMTQyYThhMDU0XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66545d6ab96fd97485be2321.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Raja Vikramarka (2021 ‧ Action\\Drama ‧ 2h 18m Director Sri Saripalli| Writer Sri Saripalli| Stars Kartikeya Gummakonda ‧ Tanya S Ravichandran ‧ Sudhakar Komakula)",
@@ -21536,7 +21564,7 @@
     "logo": "https://images.moviebuff.com/e9964a95-e3e2-48f4-ad31-d75ecdaaf8af?w=1000",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66546220b96fd97485be233a.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Joe (2023 ‧ Drama\\Action ‧ 2h 27m Director Hariharan Ram| Writer Hariharan Ram| Stars Malavika Manoj ‧ Praveena ‧ Bhavya Trikha)",
@@ -21550,21 +21578,21 @@
     "logo": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/354d419a4e461cc77cb5ae1c607166ee809dba9ade25a9cb378ad27be2f7392f._RI_TTW_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66546221b96fd97485be2342.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Sevappi (2024 ‧ Drama\\Heartfelt\\Emotional ‧ 1h 53m Director M S Raaja| Writer M S Raaja| Stars Sebastin Antony ‧ Shravan Athvethan ‧ Mimmo)",
     "logo": "https://pbs.twimg.com/media/GCreS-GWcAAq_Zl.jpg:large",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66546221b96fd97485be2340.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Conjuring Kannappan (2023 ‧ Horror\\Comedy ‧ 2h 20m Director Selvin Raj Xavier| Writer Selvin Raj Xavier| Stars Anandraj ‧ Elli Avrram ‧ Regina Cassandra)",
     "logo": "https://static.moviecrow.com/gallery/20240101/223789-Conjuring20Kannappan20Sathish20OTT20Netflix.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665471feb96fd97485be2367.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kaathal - The Core (2023 ‧ Crime\\Drama ‧ 1h 54m Director Jeo Baby| Writers Paulson Skaria ‧ Adarsh Sukumaran| Stars Mammootty ‧ Jyotika ‧ Anagha Akku)",
@@ -21578,14 +21606,14 @@
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/74/ea/3574ea74-aa23-5e51-8c35-83bffa775a8e/8903431963260_cover.jpg/900x900bf-60.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665471feb96fd97485be2364.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Parking (2023 ‧ Drama|Thriller ‧ 2h 7m Director Ramkumar Balakrishnan| Writer Ramkumar Balakrishnan| Stars Harish Kalyan ‧ M.S. Bhaskar ‧ Indhuja Ravichandran)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Parking_2023_film_theatrical_release_poster.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665471feb96fd97485be235e.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Annapoorani: The Goddess of Food (2023 ‧ Drama|Thriller ‧ 2h 26m Director Nilesh Krishnaa| Writer Nilesh Krishnaa| Stars Nayanthara ‧ Sathyara ‧ jK.S. Ravikumar)",
@@ -21620,7 +21648,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BMDQ5MGY5NzEtZDYwMS00MDdhLTk4YTYtZDAwMmUyN2Q0MjkxXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/665471feb96fd97485be2362.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Ghost (Action| Thriller 2023 ‧ 2h 12m Director Srini| Writers Prasanna VM ‧ Srini ‧ Maasthi Upparahalli| Stars Shivarajkumar ‧ H.G. Dattatreya ‧ Jayaram)",
@@ -21655,7 +21683,7 @@
     "logo": "https://pbs.twimg.com/media/GAw2hAYbcAA7w5B?format=jpg&name=small",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2391.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jigarthanda Double X (Drama| Comedy | Action| 2023 ‧ 2h 52m Director Karthik Subbaraj| Writer Karthik Subbaraj| Stars Raghava Lawrence ‧ S.J. Suryah ‧ Shine Tom Chacko)",
@@ -21683,28 +21711,28 @@
     "logo": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-720,h-1080/et00000834-jmbhrphyvh-portrait.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f4ab96fd97485be23aa.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Dhoomam (Thriller | Action 2023 ‧ 2h 22m Director Pawan Kumar| Writer Pawan Kumar| Stars Fahadh Faasil ‧ Aparna Balamurali ‧ Joy Mathew)",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/c7/51/24c751a4-83aa-dd0e-2c6d-c333ed7fe9d8/8904337299934.jpg/3840x2160bb.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f4ab96fd97485be23a9.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "q_1080",
     "logo": "https://img1.hotstarext.com/image/upload/f_auto,q_1080,w_1080/sources/r1/cms/prod/5510/1625510-v-d98dbe2793e4?ssl=1",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2385.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "q_1080",
     "logo": "https://img10.hotstar.com/image/upload/f_auto,q_1080,w_1080/sources/r1/cms/prod/9320/1629320-v-cc402a515178?ssl=1",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2382.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Bhagavanth Kesari (2023 ‧ 2h 10m Director Anil Ravipudi| Writer Anil Ravipudi| Stars Nandamuri Balakrishna ‧ Arjun Rampal ‧ Kajal Aggarwal)",
@@ -21718,14 +21746,14 @@
     "logo": "https://images.slivcdn.com/videoasset_images/sathiya_sothanai_set2_tamil_21nov_new_movie_portrait_thumb.jpg?w=3840&q=high&fr=webp",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be238a.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chaaver (2023 ‧ 2h 8m Director Tinu Pappachan| Writer Joy Mathew| Stars Sangeetha ‧ Antony Varghese ‧ Kunchacko Boban)",
     "logo": "https://images.slivcdn.com/videoasset_images/chaveer_tamil_portrait_thumb_newmovie.jpg?w=3840&q=high&fr=webp",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2389.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Love Today (2022 ‧ 2h 34m Director Pradeep Ranganathan| Writer Pradeep Ranganathan| Stars Pradeep Ranganathan ‧ Ivana ‧ Yogi Babu)",
@@ -21760,7 +21788,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNTMxZTQ1ZmEtOWM3Ny00MGQzLTgyMjgtZGMzNDM0YjVhZjMzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg?ssl=1",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2387.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Tiger Nageswara Rao (2023 ‧ 2h 52m Director Vamsee| Writers VamseeSrikanth Vissa| Stars Ravi Tej ‧ aAnupam Kher ‧ Gayatri Bhardwaj)",
@@ -21795,7 +21823,7 @@
     "logo": "https://picsxtra.com/images/2023/09/22/MV5BYjU0ZmIwMTEtZmU1NS00ZDk0LWIyNTUtOTYwYjM4NDcwNzlkXkEyXkFqcGdeQXVyNjgxNzE1MDk._V1_.md.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2393.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "The Road  (2023 ‧ 2h 23m DirectorArun Vaseegaran| Writer Arun Vaseegaran| Stars Trisha Krishnan ‧ Shabeer Kallarakkal ‧ Miya George)",
@@ -21816,7 +21844,7 @@
     "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmbBOnpU5l1y1yVy3iZBtxWyRYsXPYNTMML7MpCQU_WzZ_yQBZ",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2394.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Jawan (2023 ‧ Action\\Thriller ‧ 2h 49m Director Atlee| Writers Sumit Arora ‧ Atlee ‧ Ramanagirivasan| Stars Shah Rukh Khan ‧ Nayanthara ‧ Vijay Sethupathi)",
@@ -21830,21 +21858,21 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOTZkMGU2NjktNWZlMi00YzliLWI1NmQtZjc4MTdkNzQyODAzXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2396.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Leo (2023 ‧ 2h 44m Director Lokesh Kanagaraj| Writers Lokesh Kanagaraj ‧ Rathna Kumar ‧ Deeraj Vaidy| Stars Joseph Vijay ‧ Trisha Krishnan ‧ Sanjay Dutt)",
     "logo": "https://m.media-amazon.com/images/M/MV5BMDk0ZmVmMTktOGNiNS00Yzg5LWIzZTAtNjUxZWZhZDljY2Y0XkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_FMjpg_UX1000_.jpg?ssl=1",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2380.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Paramporul (2023 ‧ Action\\Thriller ‧ 2h 26m Director C. Aravind Raj| Writer C. Aravind Raj| Stars Vincent Ashokan ‧ Balakrishnan ‧ Bava Chelladurai)",
     "logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6_XrMHFddBbQ2LAJ-B82jvZNB-Dlweg35EFVOcM3NEke0SHi",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2395.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Rangoli (2023 ‧ Drama\\Family ‧ 2h 10m Director Vaali Mohan Das| Writer Vaali Mohan Das| Stars Hamaresh ‧ Aadukalam Murugadoss ‧ Prarthana Sandeep)",
@@ -21865,7 +21893,7 @@
     "logo": "https://static.toiimg.com/photo/103833065.cms",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f4ab96fd97485be23a5.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chandramukhi 2 (2023 ‧ Comedy\\Drama\\Horror ‧ 2h 52m Directors P. Vasu ‧ Mahendran| Writer P. Vasu| Stars Raghava Lawrence ‧ Kangana Ranaut ‧ Aathmika)",
@@ -21900,7 +21928,7 @@
     "logo": "https://pbs.twimg.com/media/F-5Kjj3WEAAtgqM.jpg:large",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f4ab96fd97485be23a2.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "h-3840/et00375740-gujagnnuaw-portrait.jpg?ssl=1\"",
@@ -21935,7 +21963,7 @@
     "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlokbABPaVFEDm_2mDx3nbODx0ilHsLtpomtiDQrQw5OOKLPPu",
     "group": "VT 🎬| Tamil Movies",
     "link": "https://bq32.short.gy/66547f49b96fd97485be2398.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Por Thozhil (2023 ‧ Action\\Crime\\Thriller ‧ 2h 27m Directors Vignesh Raja ‧ T. Senthil Paramasivam| Writers Alfred Prakash ‧ Vignesh Raja| Stars R. Sarathkumar ‧ Ashok Selvan ‧ Nikhila Vimal)",
@@ -22096,7 +22124,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYTQ1NDRlOTgtZTFlMS00YWQyLWJiOTYtNzE4ZmVkYTU5OWJkXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Kerala Crime Files",
     "link": "https://bq32.short.gy/685955be9dd0ec70f10b2329.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S02 EP03 • Kerala Crime Files (𝗜𝗠𝗗𝗯 7.2  2025 ‧ Drama\\Thriller\\Crime ‧ Stars Rooth P John ‧ Devaki Rajendran ‧ Sreejith Mahadevan)",
@@ -22159,7 +22187,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Rana Naidu",
     "link": "https://bq32.short.gy/series/68517cd8da68b73b2dc43e80.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "S02 EP06 • Rana Naidu (𝗜𝗠𝗗𝗯 7.0  2025 ‧ Drama\\Action\\Crime ‧ Creator Karan Anshuman| Stars Venkatesh Daggubati ‧ Rana Daggubati ‧ Surveen Chawla)",
@@ -22285,7 +22313,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BYzJlN2JkZjktOWE2OS00Mjk3LWE4MTAtMTcyMjMxNTdmMWFiXkEyXkFqcGc@._V1_.jpg",
     "group": "Web series 🍿 | Suzhal - The Vortex2",
     "link": "https://bq32.short.gy/series/67d563bbfa61d8d3f72ccb16.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Suzhal - The Vortex2 • EP05",
@@ -22376,7 +22404,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BODk2YTEwMzItMTBiNC00N2Q1LTgxNjctOGFhM2VmM2QyNDFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "group": "Web series 🍿 | Manorathangal",
     "link": "https://bq32.short.gy/series/66bdf44a6ec0dbb628b91046.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Chutney Sambar • S03 EP01-06 (𝗜𝗠𝗗𝗯 8.8  2024 ‧ Drama ‧ 3h 55m Stars Yogi Babu ‧ Vani Bhojan ‧ Krish Hassan)",
@@ -22404,7 +22432,7 @@
     "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcwZGgbATgH5vEXwoWttaIXcylLu7xnr47JY6aeFXDg6vG6LR7",
     "group": "Web series 🍿 | Indian Police Force",
     "link": "https://bq32.short.gy/series/665534392f2da74d33c934f9.mkv",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Killer Soup • S01 EP1-8 (2024 ‧ Comedy\\Drama\\Thriller ‧ 6h 46m Creators Abhishek Chaubey ‧ Unaiza Merchant ‧ Harshad Nalawade| Stars Manoj Bajpayee ‧ Konkona Sen Sharma ‧ Nassar)",
@@ -22516,7 +22544,7 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNzRjMjJhYmYtZjI2Yi00NTNjLWE5ZDgtN2M2ODgzMWY4MTA5XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_FMjpg_UX1000_.jpg",
     "group": "Web series 🍿 | Scam 2003",
     "link": "https://bq32.short.gy/series/665abcd28c755ad0d55669aa.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Scam 2003 - The Telgi Story • S01 EP6-10 (2024 ‧ Drama\\Crime\\biography ‧ 1h 37m Stars Gagandev Riar ‧ Kiran Karmarkar ‧ Iravati Harshe)",
@@ -22530,14 +22558,14 @@
     "logo": "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_.jpg",
     "group": "Web series 🍿 | Scam 1992: The Harshad Mehta Story",
     "link": "https://bq32.short.gy/series/665ac0368c755ad0d55669b6.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Scam 1992: The Harshad Mehta Story • S01 EP6-10 (2024 ‧ Drama\\Crime\\biography ‧ 4h 27m Stars Pratik Gandhi ‧ Shreya Dhanwanthary ‧ Hemant Kher)",
     "logo": "https://m.media-amazon.com/images/M/MV5BNjgxZTMxNmQtZGFkZS00NDUyLTllMzYtOTE0ZjdlMjM1ZWU0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_.jpg",
     "group": "Web series 🍿 | Scam 1992: The Harshad Mehta Story",
     "link": "https://bq32.short.gy/series/665abff58c755ad0d55669b5.mkv",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thalaimai Seyalagam • S01 EP1-8 (2024 ‧ Thriller| Stars  Kavitha Bharathi ‧ Santhana Bharathi ‧ Kishore Kumar G.)",
@@ -32169,7 +32197,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.notvstream.in%2Fstarmedia%2Fstarmedia%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Kallai TV",
@@ -32288,7 +32316,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-13-2026-08_58_44-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fctn%2Fmagalir%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Arasu TV",
@@ -32302,7 +32330,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-12-2026-11_50_35-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Faccount11.livebox.co.in%2Fvidyaltvhls%2Flive.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "MM TV",
@@ -32834,7 +32862,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fview.rcserver.in%2Ftmp_hls10%2Fjayamtvkarur%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "CTN Channel",
@@ -32911,7 +32939,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_12_59-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fview.rcserver.in%2Ftmp_hls8%2Fudhayamtv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Like TV",
@@ -33506,7 +33534,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_26_22-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream6.livebox.co.in%2Fmanasutvhls%2Flive.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Om Sakthi TV",
@@ -33576,7 +33604,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-09_00_39-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.skystream.in%2Flive%2Fntntv%2Findex.m3u8%3Fhls_ctx%3D1314owa2",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "PR TV",
@@ -33590,7 +33618,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-2-2025-08_29_50-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.d6-pro.com%2FDtv%2Flive%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thalapathy TV",
@@ -33646,14 +33674,14 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-23-2025-06_47_54-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-Infinittyott%2FInfinittyott%2Fplaylist.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Nila TV",
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/NILATV-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.olidigital.in%2Fnilatv%2Fnilatv%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "WE Baduga TV",
@@ -33786,7 +33814,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Mar-2-2026-12_10_18-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.sscloud7.in%2Fisaihd%2Fisaihd%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Darshan TV",
@@ -33912,7 +33940,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_09_01-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fsachintv%2Faadviktv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Thirumagal TV",
@@ -33947,7 +33975,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_46_39-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Tamil",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fipcloud.live%2Fshalinitv%2Fshalinitv%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "JCV",
@@ -34360,7 +34388,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_15_55-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDeccanToday%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Saregama Telugu",
@@ -34563,7 +34591,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_48_36-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FA1TV%2Findex.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "TG24 TV",
@@ -34892,7 +34920,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_07_17-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRapidMedia%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "CVR Health",
@@ -35242,7 +35270,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_41_25-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstreaming.livebox.co.in%2Fvedhikahls%2Flive.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "V Power News",
@@ -35312,7 +35340,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Feb-18-2026-11_51_09-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Telugu",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FAksharaNews%2Findex.m3u8",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "TV 8 News",
@@ -35606,7 +35634,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Jan-7-2026-07_51_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstream.logichost.in%2FNTV%2Flive%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Drisya",
@@ -35844,7 +35872,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Jan-7-2026-07_55_31-AM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.skystream.in%2Flive%2Fnewmedia2924%2Findex.m3u8%3Fhls_ctx%3D4483yu96",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "South Vision",
@@ -35900,7 +35928,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Jan-8-2026-04_12_16-PM-1-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive-anandtv.anandmedia.net%2Fanandtvapp%2Fanandtv%2Findex.m3u8%3Ftoken%3DD693400",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Darshana TV",
@@ -36012,7 +36040,7 @@
     "logo": "https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-09_56_38-AM-185x278.png",
     "group": "VT 📺 | Local Channel Malayalam",
     "link": "https://proxy.lrl45.workers.dev/?url=https%3A%2F%2F7mbd4ogkr3gx-hls-live.wmncdn.net%2Fharvestusa%2Fd57ffba6564caea2fee3f4085f19a098.sdp%2Fplaylist.m3u8",
-    "status": "online"
+    "status": "offline"
   },
   {
     "name": "Pulari TV",
