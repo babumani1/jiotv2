@@ -109,7 +109,7 @@
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
     "group": "Entertainment",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd?name=And_TV_HD&keyId=67d18634ccb04875875c60fb8d9caaba&key=99a66471c09e4b8a8dc39a0de6803f75",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Sony SAB HD",
@@ -403,7 +403,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png",
     "group": "Movies",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd?name=Zee_Bollywood&keyId=e61523260c614746b25b9a5523fe9a39&key=72ddbf37f76f49acbb8e140e7279e7a1",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zee Classic",
@@ -1012,7 +1012,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd?name=ZOOM&keyId=86edec9e3b7d4042a4d4a1ca14f847ee&key=9def4315f0004019a3705bcb3cf30ca3",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Desi Music Station",
@@ -5842,7 +5842,7 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png",
     "group": "Odia",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd?name=Zee_Sarthak&keyId=ecad0b097b574078a4a1bde24bfdb2e5&key=568bb13d04db4b738864f6c849474cd5",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Argus News",
@@ -6724,35 +6724,35 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd?name=9XM&keyId=29f970f3bdef4935b7b2b6ace0316266&key=8e7efefcf8c843a184977c6c7063487c",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "9X Jalwa",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd?name=9X_Jalwa&keyId=0538cf4c5ed546a9956aadab2fdf3366&key=b0af534e1a5f459f9c751a0cb9d12d4c",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "9X Tashan",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/main.mpd?name=9X_Tashan&keyId=5774f9c8093547ac8796445049163c00&key=2716fd8f71974ffa82e68e198c8d91d6",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "9X Jhakkas",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/main.mpd?name=9X_Jhakkas&keyId=5911de35875644f4a48ee9d426be297f&key=4316b9b0a9814b4381425e1b01886dc5",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "Zing",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
     "group": "Music",
     "link": "https://dash.vodep39240327.workers.dev/?url=https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd?name=Zing&keyId=f0fb14eebe474a6ab74c8301d55a7224&key=f9f8b2e30704458b8db844a285ce32be",
-    "status": "offline"
+    "status": "online"
   },
   {
     "name": "News18 Gujarati",
